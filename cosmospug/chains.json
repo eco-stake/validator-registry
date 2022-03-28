@@ -1,0 +1,14 @@
+{
+  "name": "CosmosPug",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1g2k6a7akrmm9jwa0n8eg2vfe70j2u5l4myw8lt",
+      "restake": {
+        "address": "cerberus17xs4md6flec0klct07874ntqppg78ane2dm4f3",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

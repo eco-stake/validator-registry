@@ -1,0 +1,23 @@
+{
+  "name": "Tedcrypto",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1qxw4fjged2xve8ez7nu779tm8ejw92rv0vcuqr",
+      "restake": {
+        "address": "bitsong1fx6eahccn5n9m6zwz0p4ynff0asnllvtyvxvd5",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1c4pewt03f0fnwrf4vcgawzl6pllm3l9kfffu7l",
+      "restake": {
+        "address": "cerberus1jsmtq9z9qpeda0pyff9w8u66mkxrtzser8cjew",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

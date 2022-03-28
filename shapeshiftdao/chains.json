@@ -1,0 +1,32 @@
+{
+  "name": "ShapeShift DAO",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper199mlc7fr6ll5t54w7tts7f4s0cvnqgc59nmuxf",
+      "restake": {
+        "address": "cosmos19pqrxrl6n0g0mky4y79hlfzchprmsp5jn8emv6",
+        "run_time": "19:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1xf9zpq5kpxks49cg606tzd8qstaykxgt2vs0d5",
+      "restake": {
+        "address": "osmo19pqrxrl6n0g0mky4y79hlfzchprmsp5jmu2t6g",
+        "run_time": "19:31",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1gvt9l5tshr0fp8ksl2tuem584z69eyvt9m8yh6",
+      "restake": {
+        "address": "umee19pqrxrl6n0g0mky4y79hlfzchprmsp5jp3yygg",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sunshine Validation #solarpower",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1vmkt6ysppk8m4rhlq78tpqyh429lhlsah4mn3y",
+      "restake": {
+        "address": "osmo1syc66updwkat9nhmfplzzvflh5789phc3z4kgk",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "01node",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq",
+      "restake": {
+        "address": "cosmos1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5f0a762",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper17mggn4znyeyg25wd7498qxl7r2jhgue8swpngk",
+      "restake": {
+        "address": "juno1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5la79ak",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper17mggn4znyeyg25wd7498qxl7r2jhgue8td054x",
+      "restake": {
+        "address": "osmo1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5p5wwvc",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

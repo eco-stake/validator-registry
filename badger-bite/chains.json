@@ -1,0 +1,14 @@
+{
+  "name": "Badger Bite",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1evv5y2ake002n9l27t5qhqcwhgwd6up2m2yhcy",
+      "restake": {
+        "address": "cerberus1m8d834ykcy3dgrdve4xhxky3u3c2tl9dwln0sv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

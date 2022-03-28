@@ -1,0 +1,14 @@
+{
+  "name": "Nodes.Guru",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1l4xvfq5uj7624m73nn8j4mgra7xq4cpf08q2xj",
+      "restake": {
+        "address": "umee1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktj26xms",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

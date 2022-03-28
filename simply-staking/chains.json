@@ -1,0 +1,41 @@
+{
+  "name": "Simply Staking",
+  "chains": [
+    {
+      "name": "dig",
+      "address": "digvaloper1uc8nz85axexc9svkxjy0ccm28cc0uctvs33ewg",
+      "restake": {
+        "address": "dig1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9870d5w",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper14vaak0zdjtnvh92hw9ypwxj76093yrgzmuguar",
+      "restake": {
+        "address": "gravity1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9m657na",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1n5cpxhwm5rpgellky5njz67sx8sp0t6ejyxevq",
+      "restake": {
+        "address": "ki1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9w8hfjp",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1pdse5rr5njkkka6qeu5m8u704h6z67w5r700vn",
+      "restake": {
+        "address": "persistence1atgss2zpwl9m8fmm32gzrkjtqw3tdawguqw6tk",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Bro_n_Bro",
+  "chains": [
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1ydc5fy9fjdygvgw36u49yj39fr67pd9m5qexm8",
+      "restake": {
+        "address": "bostrom1grfk7t0k42yxpwqhr7kt4te7j73m2a3vpkfrlp",
+        "run_time": "19:37",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper149vyxd36kxpg46rralaw6eejv4d9daqc3nv642",
+      "restake": {
+        "address": "emoney1grfk7t0k42yxpwqhr7kt4te7j73m2a3vdx8ykm",
+        "run_time": "19:37",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1ce4vh0e5kanlgc7z0rhcemvd8erjnfzcyfecl7",
+      "restake": {
+        "address": "evmos1grfk7t0k42yxpwqhr7kt4te7j73m2a3vqyv7mw",
+        "run_time": "19:37",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1vyd4k5j636erx5y5kdqghdu3rfjtwc48vdc7r6",
+      "restake": {
+        "address": "gravity1grfk7t0k42yxpwqhr7kt4te7j73m2a3vx40gyw",
+        "run_time": "19:37",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1quqxfrxkycr0uzt4yk0d57tcq3zk7srm7sm6r8",
+      "restake": {
+        "address": "juno1grfk7t0k42yxpwqhr7kt4te7j73m2a3v5h7tx6",
+        "run_time": "19:37",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper13tk45jkxgf7w0nxquup3suwaz2tx483xe832ge",
+      "restake": {
+        "address": "osmo1grfk7t0k42yxpwqhr7kt4te7j73m2a3v27wqh5",
+        "run_time": "19:37",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1y58hfnm90r4efhlydx0gavz57lvm7k6uulkg3h",
+      "restake": {
+        "address": "stars1grfk7t0k42yxpwqhr7kt4te7j73m2a3vke2d2h",
+        "run_time": "19:37",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Stakin",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper10nsytn9zmtfnhk37hqfe2h9v599ld3h5zs9fqj",
+      "restake": {
+        "address": "umee1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d45v3nc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

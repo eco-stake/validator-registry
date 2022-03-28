@@ -1,0 +1,14 @@
+{
+  "name": "Validatus",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper19v94c3z7ckarwsum76kaagma0wqsqhh54xucdk",
+      "restake": {
+        "address": "osmo1yuukehecl8czrd28q0tmxpvwce9lzt23pj35zp",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

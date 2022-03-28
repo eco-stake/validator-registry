@@ -1,0 +1,59 @@
+{
+  "name": "Imperator.co",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1enhj36w6clcm5fjnp87jnffnkthfux2uj88l6h",
+      "restake": {
+        "address": "akash1eml7agwd5x084ennlg6apvskufzrlvnrmthsvr",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1vvwtk805lxehwle9l4yudmq6mn0g32px9xtkhc",
+      "restake": {
+        "address": "cosmos1eml7agwd5x084ennlg6apvskufzrlvnrks6h4e",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper17n3w6v5q3n0tws4xv8upd9ul4qqes0nlg7q0xd",
+      "restake": {
+        "address": "juno1eml7agwd5x084ennlg6apvskufzrlvnrqzevj9",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1nnl9ygsp04rhkuh3yrr98cnvke586mxlhpfe3w",
+      "restake": {
+        "address": "lum1eml7agwd5x084ennlg6apvskufzrlvnrr687qd",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1t8qckan2yrygq7kl9apwhzfalwzgc2429p8f0s",
+      "restake": {
+        "address": "osmo1eml7agwd5x084ennlg6apvskufzrlvnr7tf8rt",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1y3cxrze7kmktj93atd42g9rffyg823g0qjqelc",
+      "restake": {
+        "address": "stars1eml7agwd5x084ennlg6apvskufzrlvnrzvd27g",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

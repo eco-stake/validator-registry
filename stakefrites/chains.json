@@ -1,0 +1,50 @@
+{
+  "name": "Stake Frites",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlsqkfuf",
+      "restake": {
+        "address": "akash1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6zrr52c",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1zl4vt84hya03e8hu7dx4q4cvn2ts2xdrrnnufr",
+      "restake": {
+        "address": "cerberus1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6nlw6xf",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1zl4vt84hya03e8hu7dx4q4cvn2ts2xdr685p5g",
+      "restake": {
+        "address": "chihuahua1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6vdrajq",
+        "run_time": "22:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1pz3mcahcrglf3md4lggax5r95gvmppc6x5w7hw",
+      "restake": {
+        "address": "evmos17va68yw35aleakz62jwqn24s22fd3k545mclkl",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlmxj56z",
+      "restake": {
+        "address": "sif1weeu5yuj8n23hd87wsdxqqgfmzzz9zt629p9uf",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

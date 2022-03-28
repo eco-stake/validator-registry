@@ -1,0 +1,14 @@
+{
+  "name": " CyberDuck",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1j5dmnpyk4hghkph33c5fz9nqw2tkj43u2lmw0w",
+      "restake": {
+        "address": "cerberus1fat08u2m6a4nqqqh55agp82gx4r6hzwwh0705f",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 25000000
+      }
+    }
+  ]
+}

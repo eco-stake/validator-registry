@@ -1,0 +1,59 @@
+{
+  "name": "Swiss Staking",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1y0us8xvsvfvqkk9c6nt5cfyu5au5tww2ztve7q",
+      "restake": {
+        "address": "cosmos1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvup2ky0",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1vw76ju5rwt9us7kz8tg42t6yfmq2jftydu74u6",
+      "restake": {
+        "address": "evmos14q8vu02v3npvnrxkt7te05tx6ral53rx4hh80f",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1z5nxs28a8krdhv6z6jw7gs5k6qr43xycr8wc6k",
+      "restake": {
+        "address": "gravity1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvc3cwp8",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1y0us8xvsvfvqkk9c6nt5cfyu5au5tww2wsdcwk",
+      "restake": {
+        "address": "juno1rjvyczwh5akp2ylg06dr4s2vlx0jmdwv2nfdrn",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1y0us8xvsvfvqkk9c6nt5cfyu5au5tww24nrlnx",
+      "restake": {
+        "address": "osmo1rjvyczwh5akp2ylg06dr4s2vlx0jmdwv56exja",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper19yy0u0ttam2p9k874vsh2u4tt7e6cmq8h2w9nv",
+      "restake": {
+        "address": "umee1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvwhhfqa",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

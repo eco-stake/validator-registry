@@ -1,0 +1,23 @@
+{
+  "name": "NodeStake.top",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper19f0w9svr905fhefusyx4z8sf83j6et0gfa2l5e",
+      "restake": {
+        "address": "cerberus1etsdevgm5ps240lrw9mg3p2j32tj96ktjc9g8x",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper19f0w9svr905fhefusyx4z8sf83j6et0g3rjhkl",
+      "restake": {
+        "address": "cheqd1etsdevgm5ps240lrw9mg3p2j32tj96ktqafpeu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "MMS",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1rhddecqpwfjdkwmu6lmfzekh936kcu6wxs7jxa",
+      "restake": {
+        "address": "evmos19mgc0j2m7pfzuc9lthqa6r24laxk094d3a979q",
+        "run_time": "every 3 hours",
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper17w25mz7gvf8f84fevy3akzhaugjewp4dd8f5rj",
+      "restake": {
+        "address": "darc1vkayq65xn0tguetzm6r2ejal7zmlwgemf8ncwq",
+        "run_time": "every 3 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
+      "restake": {
+        "address": "umee1m2g72wffh3l65sjlpxvsgmns3y7z58dyurdzyd",
+        "run_time": "every 3 hours",
+        "minimum_reward": 50000
+      }
+    }
+  ]
+}

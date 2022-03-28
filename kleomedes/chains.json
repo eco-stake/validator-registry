@@ -1,0 +1,50 @@
+{
+  "name": "Kleomedes",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1u7m9kwj8tvwjaxympp3r8xq7d0pf5la994x7u8",
+      "restake": {
+        "address": "cerberus1r8egcurpwxftegr07gjv9gwffw4fk009hq0rdg",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1tzk3kzjy7fj4w37hm5v48c2t8vvgukzcqgkz8k",
+      "restake": {
+        "address": "chihuahua1r8egcurpwxftegr07gjv9gwffw4fk009gjzyep",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1np3qcmwdju3rtc4a5mavfyflum5gqsljy2vucp",
+      "restake": {
+        "address": "desmos1v80dwktqstytcnz5esa0hxxam3d83q4xfedj4d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1x8u2ypdr35802tjyjqyxan8x85fzxe6sk0qmh8",
+      "restake": {
+        "address": "juno1r8egcurpwxftegr07gjv9gwffw4fk009a4v3ll",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper16xvwljz2vqpsdzuskdlqt25e8gxmlpnfq3dcxh",
+      "restake": {
+        "address": "lum1r8egcurpwxftegr07gjv9gwffw4fk0097djrdh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1001
+      }
+    }
+  ]
+}

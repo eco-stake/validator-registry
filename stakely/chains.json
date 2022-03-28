@@ -1,0 +1,122 @@
+{
+  "name": "Stakely.io",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1mxhgvj2c93xahahx9d9fc7rwwtufqza5cn6uhn",
+      "restake": {
+        "address": "agoric1hl0jgxre5z0nkyjj07c5vfdy44yk44attzqnlt",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1gsq4dsxvgsswkgrsftz0k905rzjc0n2hv26xgj",
+      "restake": {
+        "address": "bcna1hl0jgxre5z0nkyjj07c5vfdy44yk44atr0jd80",
+        "run_time": "22:30",
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper16yupepagywvlk7uhpfchtwa0stu5f8cyhh54f2",
+      "restake": {
+        "address": "cosmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atelzv0a",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1tkev46yqrjzrjzrqtty30ex68eja2zcltyq2vj",
+      "restake": {
+        "address": "cro1hl0jgxre5z0nkyjj07c5vfdy44yk44atpy24nv",
+        "run_time": "22:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1s5gnmccngltteh6ugtsz7fdrykc294tnw2e7pz",
+      "restake": {
+        "address": "desmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atd80uc9",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper19fxanpnjlggzuur3m3x0puk5ez7j9lrttexwsw",
+      "restake": {
+        "address": "evmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atm7nz44",
+        "run_time": "22:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1hx9yj7qgnp8zhkrqfanvz74mcsg9d8eyskvsxg",
+      "restake": {
+        "address": "juno1hl0jgxre5z0nkyjj07c5vfdy44yk44at0dphgp",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1zs59ua4l0h6a2hnh08v8qn76f6qh7uxc22vey5",
+      "restake": {
+        "address": "lum1hl0jgxre5z0nkyjj07c5vfdy44yk44atv4l96f",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1z5xyynz9ewuf044uaweswldut34z34z3cwpt7y",
+      "restake": {
+        "address": "osmo1hl0jgxre5z0nkyjj07c5vfdy44yk44at3y3ue0",
+        "run_time": "22:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1kzhxmgp8z05zrj90nd8h5qx9pm949an5y7nwsz",
+      "restake": {
+        "address": "regen1hl0jgxre5z0nkyjj07c5vfdy44yk44atxafsee",
+        "run_time": "22:30",
+        "minimum_reward": 2000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1vzkdmu0sa8gaj686jh5all7hpmmsp8x87vyz8z",
+      "restake": {
+        "address": "secret1hl0jgxre5z0nkyjj07c5vfdy44yk44atm6k9jp",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1r9ssdmc2xm3kv2y5m35mhrvnqms4pjw27umt2l",
+      "restake": {
+        "address": "sif1hl0jgxre5z0nkyjj07c5vfdy44yk44atuzd6qk",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper108lmrztvc3pc3w774shgvpry4d3lf79k2ummna",
+      "restake": {
+        "address": "terra1hl0jgxre5z0nkyjj07c5vfdy44yk44atlmcvda",
+        "run_time": "22:30",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

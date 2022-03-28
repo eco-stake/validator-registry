@@ -1,0 +1,14 @@
+{
+  "name": "ericet",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper198ljzq359ygqauxargj7je28sxlnj0tj2h7m73",
+      "restake": {
+        "address": "cerberus1sfh2p794yrfte06h2ue3qg30ekdrf84e5za2s5",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

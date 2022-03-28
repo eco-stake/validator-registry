@@ -1,0 +1,14 @@
+{
+  "name": "Astra.Voyage",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1uvl2g9nd8qttjjyxjs30x7fj878d3wt4lt4juq",
+      "restake": {
+        "address": "cerberus1e7tcnlaen39yafqxcj5zhnd0m8r8xlzyq92vrv",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

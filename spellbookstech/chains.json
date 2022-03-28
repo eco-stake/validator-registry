@@ -1,0 +1,14 @@
+{
+  "name": "spellbooks.tech 📖",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper15ms93f3m2h8rmzfkngxh06mklujrxprpl84pyr",
+      "restake": {
+        "address": "cerberus1ajvn5l50lvuy5ej5sqhwthve26au0qs56gfa0r",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

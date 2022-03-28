@@ -1,0 +1,41 @@
+{
+  "name": "Golden Ratio Staking",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk",
+      "restake": {
+        "address": "cerberus106n92ygqknaw5wcgl2e9v0duxxux6ntt2cf87q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1glk94taeyhfpje4zaz8dsfxmn4yr3g8kkzv4x5",
+      "restake": {
+        "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper10y7ucn6jhjtakwchgpw32y0tgaku6yn255z7gm",
+      "restake": {
+        "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
+      "restake": {
+        "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "silent",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper13pdq3ee636ak6tytg5htyf0jcp20vfuxekeaeq",
+      "restake": {
+        "address": "cerberus1r3g7japkptsvt3gv52gvuudprtcue762m5ssan",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1xqum4wt30f3aqw8mmv823ty3x7gpmmde9zfndf",
+      "restake": {
+        "address": "stars1r3g7japkptsvt3gv52gvuudprtcue762n08yrf",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

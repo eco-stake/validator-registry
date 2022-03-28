@@ -1,0 +1,47 @@
+{
+  "name": "kingnodes",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdqj3xsc",
+      "restake": {
+        "address": "chihuahua1xs023g3yj2mavwn3cjclgsh8mlk0kgsj9trcv8",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1x5y65hgngh77sxta6s2vpjnfjep3ltllyhf2hs",
+      "restake": {
+        "address": "evmos16e67hq4eqgnfw6pxu8v33mz259z5r30d9v2uq2",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdelfp7r",
+      "restake": {
+        "address": "juno1xs023g3yj2mavwn3cjclgsh8mlk0kgsjsvdd2e",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qd0jluj0",
+      "restake": {
+        "address": "stars1xs023g3yj2mavwn3cjclgsh8mlk0kgsjjzetx5",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

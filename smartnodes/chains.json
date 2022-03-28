@@ -1,0 +1,14 @@
+{
+  "name": "SmartNodes",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1dh25k2zuf0tgz8dsp3v0utw0xch2ljxu3lnsct",
+      "restake": {
+        "address": "cerberus12yeq3h92ew3e00tt2kma5q0t7tmangvy9ydsxn",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

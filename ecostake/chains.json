@@ -1,0 +1,86 @@
+{
+  "name": "ECO Stake 🌱",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1xgnd8aach3vawsl38snpydkng2nv8a4kqgs8hf",
+      "restake": {
+        "address": "akash1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczud2r2v",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1tat2cy3f9djtq9z7ly262sqngcarvaktr0w78f",
+      "restake": {
+        "address": "cerberus1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczd38dxa",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
+      "restake": {
+        "address": "chihuahua1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczjr22j5",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper17f70yjkvmvld379904jaddx9h0f74n32pjtmp6",
+      "restake": {
+        "address": "comdex1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczke9x2p",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper136avwnuvvy94dqmtnaue2nfvjes8xr37h9rzay",
+      "restake": {
+        "address": "dig1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczfzw03d",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1u5v0m74mql5nzfx2yh43s2tke4mvzghr6m2n5t",
+      "restake": {
+        "address": "osmo1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczed559y",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1c4y3j05qx652rnxm5mg4yesqdkmhz2f6dl7hhk",
+      "restake": {
+        "address": "regen1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczw5vc9j",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

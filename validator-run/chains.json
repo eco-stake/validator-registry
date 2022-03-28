@@ -1,0 +1,59 @@
+{
+  "name": "Validator.run | 100% Slash Protected",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1t5rvn85jhmul9rxn3qryhrd99fqcddkz5357rz",
+      "restake": {
+        "address": "bcna1zks5qjck40m827v2m83la5r3y6lkudw8ljw4t5",
+        "run_time": "08:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1sx0gd08yfjl76knllyqs7vgc8mvcqg88uhspvd",
+      "restake": {
+        "address": "desmos1yqx9sggaw3evt6pwxajf8lh0q7lxlp3yfyd6x4",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1xf869399xq4pnxsllzvnwdcra8ly3huj5cnwh5",
+      "restake": {
+        "address": "gravity1zks5qjck40m827v2m83la5r3y6lkudw8pjvvxw",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1fj75m0v53ezdd8mlknzgdg4l3hvwh0h20sg4a8",
+      "restake": {
+        "address": "juno1zks5qjck40m827v2m83la5r3y6lkudw8nsa0y6",
+        "run_time": "08:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1g239l2skjnz3dszek5s5npquza5gvypdrv6w88",
+      "restake": {
+        "address": "lum1zks5qjck40m827v2m83la5r3y6lkudw8sgrakj",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1vnxgn4uwtr0ug8z3u07c26chxn5a95lggwxtzv",
+      "restake": {
+        "address": "regen1zks5qjck40m827v2m83la5r3y6lkudw86q4g4z",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

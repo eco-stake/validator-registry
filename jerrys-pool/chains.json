@@ -1,0 +1,14 @@
+{
+  "name": "Jerry's Pool",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9",
+      "restake": {
+        "address": "cro1lj3qga40dc0w2pacfrd2s6puk43ua2vczlv690",
+        "run_time": "16:30",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

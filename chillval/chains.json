@@ -1,0 +1,32 @@
+{
+  "name": "Chill Validation",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper10ypajp3q5zu5yxfud3ayd95th0k7467k3s5vh7",
+      "restake": {
+        "address": "cerberus13yfd74cezsrjcmhvmh6wkfwfuj7fds5eenhn64",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1mzqqrctm0hvkghf66jruxjtggd5j447dmugz0j",
+      "restake": {
+        "address": "juno1l7je4yr3ffs6d8v6ck49fmueqqndvgpw79c8jp",
+        "run_time": "14:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1trkdt99yc4je55759s8z4fctrluxf9pmla7k80",
+      "restake": {
+        "address": "lum1327kewr0m28edp6ee022myyxzvlf3g5exxpvr7",
+        "run_time": "14:30",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
