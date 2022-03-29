@@ -158,7 +158,7 @@
       "name": "rizon",
       "address": "rizonvaloper12mvr3xdrgsaasfc4xdtcvwdeqegv97mkp08ntc",
       "restake": {
-        "botAddress": "rizon1v9vae554q55xa4pcfdm0p3kv8nxn50jke3mrp3",
+        "address": "rizon1v9vae554q55xa4pcfdm0p3kv8nxn50jke3mrp3",
         "runTime": "23:00",
         "minimumReward": 100000
       }
