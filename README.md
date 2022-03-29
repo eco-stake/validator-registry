@@ -56,7 +56,19 @@ Chain information and REStake attributes for your validators.
 }
 ```
 
-### Contributing
+## JSON API 
+
+The Validator Registry is available via a JSON API at [validators.cosmos.directory](https://validators.cosmos.directory). The structure of this API might change in the near future until we reach a major version number.
+
+Example endpoints:
+
+- [validators.cosmos.directory](https://validators.cosmos.directory)
+- [validators.cosmos.directory/ecostake](https://validators.cosmos.directory/ecostake)
+- [validators.cosmos.directory/ecostake/profile](https://validators.cosmos.directory/ecostake/profile)
+- [validators.cosmos.directory/ecostake/chains](https://validators.cosmos.directory/ecostake/chains)
+- [validators.cosmos.directory/chains/osmosis](https://validators.cosmos.directory/chains/osmosis)
+
+## Contributing
 
 Make any changes you want to your operation. Submit a PR and it will be merged as soon as possible - REStake automatically updates from this repository so this will speed up the process a lot. 
 
