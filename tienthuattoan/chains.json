@@ -1,0 +1,14 @@
+{
+  "name": "0% fee - TienThuatToan Capital",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1zy4xcyx25eg9qha503eqjjgz043l5zy96p83dh",
+      "restake": {
+        "address": "lum15hfak84jamn59229c7r6umg2purgd9cysa8rw7",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
