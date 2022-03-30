@@ -2,6 +2,15 @@
   "name": "NodeStake.top",
   "chains": [
     {
+      "name": "agoric",
+      "address": "agoricvaloper1nkhsz0uk0d8qd4p7unrwej0j3ne8acpk9dd3sg",
+      "restake": {
+        "address": "agoric13z4fh79uexcc49na679p37xst9592m9arp3lpd",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "cerberus",
       "address": "cerberusvaloper19f0w9svr905fhefusyx4z8sf83j6et0gfa2l5e",
       "restake": {
