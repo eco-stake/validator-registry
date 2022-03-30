@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "rizon",
+      "address": "rizonvaloper19f0w9svr905fhefusyx4z8sf83j6et0gsj7p4y",
+      "restake": {
+        "address": "rizon1etsdevgm5ps240lrw9mg3p2j32tj96ktdzes74",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1xaxg47uw046uw8vgpp3da367ctw9aguqjuyyyx",
       "restake": {
