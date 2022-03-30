@@ -1,0 +1,14 @@
+{
+  "name": “TC Network”,
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1380ee97fmsr9kfdmy80g6ptxj3k90g04tecq89",
+      "restake": {
+        "address": "cerberus19a9vcvzc8ld33psnq8dm0h4lh5v8seuwn4fjd8",
+        "run_time": "every 1 hour”,
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
