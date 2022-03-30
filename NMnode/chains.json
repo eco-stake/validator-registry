@@ -1,0 +1,14 @@
+{
+  "name": "NMnode",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ujkquuvvpdyyq8qk0xn6j8y98uel5rf6nwvukr",
+      "restake": {
+        "address": "sif1k6gc7fs8m45vadweda593jrt86stlhjcdheur2",
+        "run_time": "Every 24 hours | 21:00 UTC+2",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
