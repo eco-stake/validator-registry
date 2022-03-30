@@ -11,6 +11,24 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1xaxg47uw046uw8vgpp3da367ctw9aguqjuyyyx",
+      "restake": {
+        "address": "0xa1A4d1cf4b7b482409303cfA8dA1F5249933FE15",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper19f0w9svr905fhefusyx4z8sf83j6et0g4sth5s",
+      "restake": {
+        "address": "gravity1etsdevgm5ps240lrw9mg3p2j32tj96kt20heh9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "cerberus",
       "address": "cerberusvaloper19f0w9svr905fhefusyx4z8sf83j6et0gfa2l5e",
       "restake": {
