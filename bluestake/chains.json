@@ -108,6 +108,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper122awkm2a0ap8ku7cvd0n57z03a4mc6ca89dzay",
+      "restake": {
+        "address": "rizon1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh4u86xg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper1yz88gx2pkqqfrnwslleve43uq0r95al5guvrdq",
+      "restake": {
+        "address": "star1m5hgzum68rjf4c7zhezgkj8hlnmr0kghhm4zau",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
