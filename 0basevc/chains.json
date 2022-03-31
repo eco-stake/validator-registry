@@ -93,18 +93,18 @@
     },
     {
       "name": "regen",
-      "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd",
+      "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys",
       "restake": {
-        "address": "rizon1jrjdqzxchlt09gj6qvn4ds8suxh9aqwy57xjzv",
+        "address": "regen1jrjdqzxchlt09gj6qvn4ds8suxh9aqwygp3lcs",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
     {
       "name": "rizon",
-      "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys",
+      "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd",
       "restake": {
-        "address": "regen1jrjdqzxchlt09gj6qvn4ds8suxh9aqwygp3lcs",
+        "address": "rizon1jrjdqzxchlt09gj6qvn4ds8suxh9aqwy57xjzv",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
