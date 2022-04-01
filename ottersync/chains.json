@@ -3,7 +3,7 @@
   "chains": [
     {
       "name": "gravitybridge",
-      "address": "gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6",
+      "address": "gravityvaloper187skn7mt3phlfqc2ydp8dafyuvwgrzjtr5hzj3",
       "restake": {
         "address": "gravity1p0mr7h222e7ljkcmuje8gz0ayv43u50q9phdjv",
         "run_time": "every 1 hour",
@@ -27,6 +27,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
-    }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1z64tw2g5cr07kr2k2vz6tc8547jwh5lpczswtf",
+      "restake": {
+        "address": "ixo1p0mr7h222e7ljkcmuje8gz0ayv43u50q7ym8nh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }  
   ]
 }
