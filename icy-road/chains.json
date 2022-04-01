@@ -1,0 +1,14 @@
+{
+  "name": "Icy Road",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1kw6sagm3cnycse85y0dzp3zvwg4p8z5fkg4507",
+      "restake": {
+        "address": "cro1e2zh95nh7cqv3xtut4pscyk4cslefpvts6a6nz",
+        "run_time": "20:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
