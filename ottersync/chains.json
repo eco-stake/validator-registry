@@ -1,0 +1,32 @@
+{
+  "name": "  OtterSync",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6",
+      "restake": {
+        "address": "gravity1p0mr7h222e7ljkcmuje8gz0ayv43u50q9phdjv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1fwru9at8hsu7hmhu0zypdn3863xvdcg80nm5dv",
+      "restake": {
+        "address": "kava1pmmp36ekdnmrf6rye2ptnwcustlh0lcgw2wgze",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg",
+      "restake": {
+        "address": "sif1p0mr7h222e7ljkcmuje8gz0ayv43u50qyv2rc0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
