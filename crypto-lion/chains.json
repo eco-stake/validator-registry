@@ -1,0 +1,17 @@
+{
+  "name": "Crypto Lion 🦁",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl17xjefmgzd9k2k065289nktklj706zhk4nr7495",
+      "restake": {
+        "address": "cro1092tsp6cv5c4ggyau52qsag8a82e9qpelcp8rc",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
