@@ -6,7 +6,7 @@
       "address": "gravityvaloper187skn7mt3phlfqc2ydp8dafyuvwgrzjtr5hzj3",
       "restake": {
         "address": "gravity1p0mr7h222e7ljkcmuje8gz0ayv43u50q9phdjv",
-        "run_time": "every 1 hour",
+        "run_time": "00:00",
         "minimum_reward": 5000000
       }
     },
@@ -15,7 +15,7 @@
       "address": "kavavaloper1fwru9at8hsu7hmhu0zypdn3863xvdcg80nm5dv",
       "restake": {
         "address": "kava1pmmp36ekdnmrf6rye2ptnwcustlh0lcgw2wgze",
-        "run_time": "every 1 hour",
+        "run_time": "00:00",
         "minimum_reward": 1000000
       }
     },
@@ -24,7 +24,7 @@
       "address": "sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg",
       "restake": {
         "address": "sif1p0mr7h222e7ljkcmuje8gz0ayv43u50qyv2rc0",
-        "run_time": "every 1 hour",
+        "run_time": "00:00",
         "minimum_reward": 10000000
       }
     },
@@ -33,7 +33,7 @@
       "address": "ixovaloper1z64tw2g5cr07kr2k2vz6tc8547jwh5lpczswtf",
       "restake": {
         "address": "ixo1p0mr7h222e7ljkcmuje8gz0ayv43u50q7ym8nh",
-        "run_time": "every 1 hour",
+        "run_time": "00:00",
         "minimum_reward": 100000
       }
     }  
