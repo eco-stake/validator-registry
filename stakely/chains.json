@@ -25,7 +25,7 @@
       "restake": {
         "address": "cosmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atelzv0a",
         "run_time": "22:30",
-        "minimum_reward": 100000
+        "minimum_reward": 50000
       }
     },
     {
@@ -61,7 +61,7 @@
       "restake": {
         "address": "juno1hl0jgxre5z0nkyjj07c5vfdy44yk44at0dphgp",
         "run_time": "22:30",
-        "minimum_reward": 100000
+        "minimum_reward": 50000
       }
     },
     {
@@ -88,7 +88,7 @@
       "restake": {
         "address": "regen1hl0jgxre5z0nkyjj07c5vfdy44yk44atxafsee",
         "run_time": "22:30",
-        "minimum_reward": 2000000
+        "minimum_reward": 1000000
       }
     },
     {
