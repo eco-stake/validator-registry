@@ -27,6 +27,18 @@
         "run_time": "every 6 hours",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1jghdavdegcujzg96l08ghx086u0dwyjctw28d2",
+      "restake": {
+        "address": "juno19pqrxrl6n0g0mky4y79hlfzchprmsp5j946qtx",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
     }
   ]
 }
