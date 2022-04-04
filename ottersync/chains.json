@@ -20,6 +20,24 @@
       }
     },
     {
+      "name": "bitcanna",
+      "address": "bcnavaloper10nt8tmdrggrx9sypqqdpqq9ndg6eezs58zxa7q",
+      "restake": {
+        "address": "bcna1p0mr7h222e7ljkcmuje8gz0ayv43u50qmp45lk",
+        "run_time": "00:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1l4jcvzaluyjlutyd9fuuw55zvmh25wq9ycluky",
+      "restake": {
+        "address": "desmos1stf2wzvs2t7lqnp8rqp32ypw0tfhm5keq0f2g4",
+        "run_time": "00:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg",
       "restake": {
