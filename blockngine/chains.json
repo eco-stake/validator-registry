@@ -77,7 +77,7 @@
       "name": "sentinel",
       "address": "sentvaloper138dhtmfslt0ls4ec0jumj8tyajry4dfuv27jay",
       "restake": {
-        "address": "sent194ytn50yhh67rdha8akhs7c6zulnz4n2jvl6gv",
+        "address": "sent10ys69560pqr6zmqam80g8s0smtjw6p3ua4twmh",
         "run_time": "every 15 minutes",
         "minimum_reward": 1000
       }
@@ -96,7 +96,7 @@
       "address": "terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz",
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
