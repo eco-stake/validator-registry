@@ -53,7 +53,8 @@
         "address": "stars1eml7agwd5x084ennlg6apvskufzrlvnrzvd27g",
         "run_time": "21:00",
         "minimum_reward": 1000
-      },
+      }
+	},
     {
       "name": "umee",
       "address": "umeevaloper1kvh5n7skften3fv2ry6yc5jkpaz0rwzrkyzeft",
