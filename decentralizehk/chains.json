@@ -54,6 +54,15 @@
         "run_time": "22:00",
         "minimum_reward": 50000
       }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper19hsqcy8w8m3jxjcjdjmas4tnfpkrnm80ptywhu",
+      "restake": {
+        "address": "bostrom197yc3g8drkf8fyv6fr4ynddy2n22kauuug3ztc",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
