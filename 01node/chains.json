@@ -20,6 +20,51 @@
       }
     },
     {
+      "name": "agoric",
+      "address": "agoricvaloper148xd583ya4pjs3g7wj2h2eatsy294azk452k6v",
+      "restake": {
+        "address": "agoric1ujxzm8ddjdw84nh04l0kw56pz6qeskcfwkympk",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1etueaqe9teaamq40pln9xrncwgfns8mtdfr02c",
+      "restake": {
+        "address": "persistence1rfxghvewrk6s033gx7vratdly58ky65q9m6lna",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1xk5hddxck0tevelchlvcq93waqd07antxvksph",
+      "restake": {
+        "address": "regen1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5kdkzvw",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "secret",
+      "address": "secretvaloper1larnhgur2ts7hlhphmtk65c3qz6dt52y79szst",
+      "restake": {
+        "address": "secret1hj42vw04kg37e8nwjdxcnnzehlm6mjqy4040p5",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94",
+      "restake": {
+        "address": "terra160n2evkw8qsf95vhvtk397fy6k3z7cg9yp50s2",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper17mggn4znyeyg25wd7498qxl7r2jhgue8td054x",
       "restake": {
