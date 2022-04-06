@@ -16,7 +16,7 @@
       "restake": {
         "address": "chihuahua1r8egcurpwxftegr07gjv9gwffw4fk009gjzyep",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -26,6 +26,15 @@
         "address": "desmos1v80dwktqstytcnz5esa0hxxam3d83q4xfedj4d",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1euqdrhevxg6gdzaphs7d3uulagxehex3fev6m3",
+      "restake": {
+        "address": "fetch1r8egcurpwxftegr07gjv9gwffw4fk009c6xw65",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
       }
     },
     {
