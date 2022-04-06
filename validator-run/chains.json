@@ -47,6 +47,24 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper10ua938xs4raxxckagk57kj9ntk8p0drsufj9ql",
+      "restake": {
+        "address": "fetch10ua938xs4raxxckagk57kj9ntk8p0drseddxnc",
+        "run_time": "08:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper17rqfu4p46yh4fs0mx44ps00w2k6sn40qlkhk85",
+      "restake": {
+        "address": "ki17rqfu4p46yh4fs0mx44ps00w2k6sn40qt3ety2",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "regen",
       "address": "regenvaloper1vnxgn4uwtr0ug8z3u07c26chxn5a95lggwxtzv",
       "restake": {
