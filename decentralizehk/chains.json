@@ -72,6 +72,15 @@
         "run_time": "22:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper14zea53kzyz3vdgc99jxgltkmdesnjj86zhlcsc",
+      "restake": {
+        "address": "desmos197yc3g8drkf8fyv6fr4ynddy2n22kauutrgpz8",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
