@@ -15,7 +15,10 @@
       "address": "sentvaloper10y0044zsacejntznk6eatvz7mcekqv357fhl7q",
       "restake": {
         "address": "sent1n3m6rj0w9lgzg7leppnaru2xguraxhqc7uvx0f",
-        "run_time": "21:00",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
       }
     },
