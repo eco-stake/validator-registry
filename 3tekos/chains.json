@@ -38,10 +38,19 @@
       }
     },
     {
-      "name": "lum",
+      "name": "lumnetwork",
       "address": "lumvaloper1mjxsv6j9e2srh36ncsuj5yhlxa0vu97a95mvw6",
       "restake": {
         "address": "lum1hcgxjhvv43g9z6dc58g428jgc8hdlmf7p99uhk",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1uvv5cm4e4xswlt5ca0q7sussd7gxtd2ys4spa6",
+      "restake": {
+        "address": "decentr1hcgxjhvv43g9z6dc58g428jgc8hdlmf7lp7pr2",
         "run_time": "12:00",
         "minimum_reward": 10000
       }
