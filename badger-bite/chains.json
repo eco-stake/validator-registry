@@ -18,6 +18,15 @@
        "run_time": "every 15 minutes",
        "minimum_reward": 1000
      }
+   },
+    {
+     "name": "decentr",
+     "address": "decentrvaloper1tk7wrqqwz5tlqw7sg4kdtultm3t6ucuf6p43m6",
+     "restake": {
+       "address": "decentr1rffg5ctm87snd4d8q2zk3rv9pk32md4pyn3gp3",
+       "run_time": "every 15 minutes",
+       "minimum_reward": 1000
+     }
    }
   ]
 }
