@@ -23,7 +23,7 @@ Overall name for your operation and [keybase.io](https://keybase.io/) identity. 
 }
 ```
 
-### chain.json
+### chains.json
 
 Chain information and REStake attributes for your validators.
 
