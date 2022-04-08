@@ -15,7 +15,7 @@
       "address": "cheqdvaloper1qsp3a2qd6km9g0hczsac8279wcwmzmvzgvre8w",
       "restake": {
         "address": "cheqd1e44rluarkdw56dy2turnwjtvtg4wqvs0ufeyu5",
-        "run_time": "21:00",
+        "run_time": "17:00",
         "minimum_reward": 1000
       }
     },
@@ -42,7 +42,7 @@
       "address": "desmosvaloper1lf3fg79gf2qf6ept7ec22kjd8s6gj3swr2ca0v",
       "restake": {
         "address": "desmos1e44rluarkdw56dy2turnwjtvtg4wqvs0xnc5qa",
-        "run_time": "21:00",
+        "run_time": "20:00",
         "minimum_reward": 10000
       }
     },
@@ -78,7 +78,7 @@
       "address": "lumvaloper1txgtzgdj90mqddhyu5gcpkkdeu9g2fu22d85d7",
       "restake": {
         "address": "lum1e44rluarkdw56dy2turnwjtvtg4wqvs08pgdz3",
-        "run_time": "21:00",
+        "run_time": "18:00",
         "minimum_reward": 1000
       }
     },
@@ -87,7 +87,7 @@
       "address": "osmovaloper1md9f5524vtmrn64lyv2pdfn7cnkjkklf44vtjz",
       "restake": {
         "address": "osmo1e44rluarkdw56dy2turnwjtvtg4wqvs06sx5ph",
-        "run_time": "21:00",
+        "run_time": "19:00",
         "minimum_reward": 1000
       }
     },
@@ -105,7 +105,7 @@
       "address": "sentvaloper1tjgec0ssfrlldmut69xsp8vzljugg0g306aae2",
       "restake": {
         "address": "sent1e44rluarkdw56dy2turnwjtvtg4wqvs0fsran2",
-        "run_time": "21:00",
+        "run_time": "16:00",
         "minimum_reward": 1000
       }
     }
