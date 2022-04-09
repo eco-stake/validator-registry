@@ -17,7 +17,7 @@
  "address": "osmovaloper16yg44hae44lcdexmmk7wpaphny0ahmqfvstt28",
  "restake": {
 "address": "osmo16yg44hae44lcdexmmk7wpaphny0ahmqfk8rgaq",
-"run_time": "daily",
+"run_time": "every day",
 "minimum_reward": 10000
  }
   },
@@ -28,7 +28,7 @@
  "restake": {
 "address": "sent1rffg5ctm87snd4d8q2zk3rv9pk32md4p5xp9yk",
 "run_time": "every 15 minutes",
-"minimum_reward": 1000
+"minimum_reward": 1000000
  }
   },
 
@@ -38,7 +38,7 @@
  "restake": {
 "address": "decentr1rffg5ctm87snd4d8q2zk3rv9pk32md4pyn3gp3",
 "run_time": "every 15 minutes",
-"minimum_reward": 1000
+"minimum_reward": 100000
  }
   }
 
