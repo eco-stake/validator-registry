@@ -2,6 +2,18 @@
   "name": "Crypto Lion 🦁",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sf66t8",
+      "restake": {
+        "address": "cosmos1mwysqcvvhjcntajus2vuezgc5su7kha46dn8x2",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cryptoorgchain",
       "address": "crocncl17xjefmgzd9k2k065289nktklj706zhk4nr7495",
       "restake": {
