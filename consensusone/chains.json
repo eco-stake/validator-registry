@@ -128,6 +128,18 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1ldu6ew0cff400qmn0trkad38gx250zny45q9au",
+      "restake": {
+        "address": "osmo15xa7vst3jca9qjkngmlysrdfur8gsex96xs9v3",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1esnwgt6g6x2d3m37pw9lkgsxgzenc36n3a4n0f",
       "restake": {
