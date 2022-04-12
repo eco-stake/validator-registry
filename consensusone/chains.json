@@ -30,7 +30,7 @@
       "address": "cerberusvaloper1ga0xxzst2hjyjtfqnffz2mapn8vk8ufysqsn30",
       "restake": {
         "address": "cerberus15xa7vst3jca9qjkngmlysrdfur8gsex9w6ru0g",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     },
@@ -59,7 +59,7 @@
       "name": "cosmoshub",
       "address": "cosmosvaloper1dm6n0u6l7vwn7nyy87gzmfjryg5jsg9kzn6kng",
       "restake": {
-        "address": "cosmos17e8mu055mm2zxeq5cz3lm3e8lsvzvyfrzdggsn",
+        "address": "cosmos15xa7vst3jca9qjkngmlysrdfur8gsex9jar46r",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
