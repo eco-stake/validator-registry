@@ -56,6 +56,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1dm6n0u6l7vwn7nyy87gzmfjryg5jsg9kzn6kng",
+      "restake": {
+        "address": "cosmos17e8mu055mm2zxeq5cz3lm3e8lsvzvyfrzdggsn",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper18yazgsq8yvn2f8c734fmnu2ssfrzpw7l8tqckm",
       "restake": {
