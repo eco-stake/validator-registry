@@ -43,7 +43,7 @@
       "restake": {
         "address": "cosmos1e44rluarkdw56dy2turnwjtvtg4wqvs0jt4yh9",
         "run_time": "21:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000
       }
     },
     {
