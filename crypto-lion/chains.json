@@ -26,6 +26,18 @@
       }
     },
     {
+      "name": "kichain",
+      "address": "kivaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sh3aq7",
+      "restake": {
+        "address": "ki1mwysqcvvhjcntajus2vuezgc5su7kha4tqzgz7",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4rycgky",
       "restake": {
