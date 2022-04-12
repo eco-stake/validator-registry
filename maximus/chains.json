@@ -5,8 +5,8 @@
       "name": "cerberus",
       "address": "cerberusvaloper1yuesquc0m29n3z50ny239gd5gwa0qt6w4zhwy0",
       "restake": {
-        "address": "cerberus1etzs97fxsf6hw8jmuxf3wv6uw6e96rrm8y3uve",
-        "run_time": "every 1 hour",
+        "address": "cerberus1w447dc34hcyvr96gpujj9w8sr9rzydmsy37dy0",
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
     }

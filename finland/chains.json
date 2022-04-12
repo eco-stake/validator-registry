@@ -1,0 +1,14 @@
+{
+  "name": "🌲 Finland | 0% fee",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1xkavscemvn45mva83q0zhpv0lgpnwzfs57j5yc",
+      "restake": {
+        "address": "cro1fjehug09flkh25q7u35gt05z074hal8vtl8t4c",
+        "run_time": "17:30",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
