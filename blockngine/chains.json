@@ -29,6 +29,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gxgyhqagmvyg8sgwgpa79scrwqp4wn4hw4e3cl",
+      "restake": {
+        "address": "cosmos194ytn50yhh67rdha8akhs7c6zulnz4n2fhfrvr",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "emoney",
       "address": "emoneyvaloper1z0cwp2wezmaehlhzdmqpx55vhxupuk52d7ucjy",
       "restake": {
@@ -88,7 +97,7 @@
       "restake": {
         "address": "sent10ys69560pqr6zmqam80g8s0smtjw6p3ua4twmh",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {

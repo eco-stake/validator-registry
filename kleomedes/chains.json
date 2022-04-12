@@ -20,6 +20,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1sgcfa5z7dmhekhf79m040natu37unyuek54tp7",
+      "restake": {
+        "address": "cosmos1r8egcurpwxftegr07gjv9gwffw4fk009t802cr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1np3qcmwdju3rtc4a5mavfyflum5gqsljy2vucp",
       "restake": {
@@ -53,6 +62,15 @@
         "address": "lum1r8egcurpwxftegr07gjv9gwffw4fk0097djrdh",
         "run_time": "every 1 hour",
         "minimum_reward": 1001
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1mmzazkl47l9e7aqrygp5kks9n30gcc730qlmwe",
+      "restake": {
+        "address": "osmo1r8egcurpwxftegr07gjv9gwffw4fk009ruu6w3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]
