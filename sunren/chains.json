@@ -8,6 +8,7 @@
         "address": "sif1yxrxewndap7pkf75ucua7jgvg8e54kvm735c76",
         "run_time": "every 1 hour",
         "minimum_reward": 1000
+      }
       },
     {
       "name": "kava",
@@ -16,6 +17,7 @@
         "address": "kava1r2ea4069j7rfemtt2k6ej5glctg9qe3y2vehn7",
         "run_time": "every 1 hour",
         "minimum_reward": 1000
+      }
       },
   ]
 }
