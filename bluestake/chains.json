@@ -126,6 +126,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper12xx74t5sx3vgyew7es9h8e9py4ttts6zcg3vxk",
+      "restake": {
+        "address": "cosmos1m5hgzum68rjf4c7zhezgkj8hlnmr0kghkpmt2s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1ek7jzycywst6uxact9l4r8wq5pnt5xcdduj5x9",
+      "restake": {
+        "address": "osmo1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh76gmuz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
