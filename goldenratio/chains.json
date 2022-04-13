@@ -15,8 +15,8 @@
       "address": "chihuahuavaloper1glk94taeyhfpje4zaz8dsfxmn4yr3g8kkzv4x5",
       "restake": {
         "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
-        "run_time": "21:00",
-        "minimum_reward": 1000
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     },
     {
@@ -25,7 +25,7 @@
       "restake": {
         "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -33,8 +33,44 @@
       "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
       "restake": {
         "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
-        "run_time": "21:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1nuhls0wyf8slhmuasha5pz0u89jrf9nnugq8ak",
+      "restake": {
+        "address": "cosmos106n92ygqknaw5wcgl2e9v0duxxux6nttklfwtt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper133stfdlg2mzg3hstp3vclzcj9ywftk6ewenpj0",
+      "restake": {
+        "address": "dig106n92ygqknaw5wcgl2e9v0duxxux6nttwtq9fs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 200000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1mzputg3yvlwx3zq5dms8p0cjujtut4xmpx9hgd",
+      "restake": {
+        "address": "bcna106n92ygqknaw5wcgl2e9v0duxxux6nttv0e0re",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "e-money",
+      "address": "emoneyvaloper1ftsexjra3zdwfmtvu3pqk5vndjtrq4hf5ptaxn",
+      "restake": {
+        "address": "emoney106n92ygqknaw5wcgl2e9v0duxxux6ntteun6uk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]
