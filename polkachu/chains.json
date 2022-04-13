@@ -101,6 +101,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4phpkatp",
+      "restake": {
+        "address": "osmo1xrrfek3qpz4ja8ccrjklfy064asyqq9kmf9lza",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pfj2j90",
       "restake": {
