@@ -1,0 +1,14 @@
+{
+  "name": "ITA Stakers",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1juczud9nep06t0khghvm643hf9usw45r3jxhxn",
+      "restake": {
+        "address": "osmo1ljahtlzw6zy7fea6yywavuvvlq96vec9m7gr5h",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
