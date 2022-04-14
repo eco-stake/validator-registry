@@ -60,8 +60,8 @@
       "address": "umeevaloper1ukk6qutqe24hmmwqkumluprms9fu7kannz5gl7",
       "restake": {
         "address": "umee15hfak84jamn59229c7r6umg2purgd9cyhp84lc",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
       }
     }	
   ]
