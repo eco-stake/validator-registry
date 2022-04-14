@@ -7,7 +7,16 @@
       "restake": {
         "address": "osmo1syc66updwkat9nhmfplzzvflh5789phc3z4kgk",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 20000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1cv6hnl6sq4srccnzveqe8ggc2tepvvx45vwcwz",
+      "restake": {
+        "address": "cosmos1syc66updwkat9nhmfplzzvflh5789phceexx7y",
+        "run_time": "21:00",
+        "minimum_reward": 10000
       }
     }
   ]
