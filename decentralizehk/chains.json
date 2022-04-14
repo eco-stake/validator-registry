@@ -90,6 +90,15 @@
         "run_time": "22:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1jernznfnvw5ve925gmazjaf7ftxuzz5syj4l9l",
+      "restake": {
+        "address": "cheqd197yc3g8drkf8fyv6fr4ynddy2n22kauu3ef37w",
+        "run_time": "22:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
