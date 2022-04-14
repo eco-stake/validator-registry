@@ -7,7 +7,7 @@
       "restake": {
         "address": "osmo1syc66updwkat9nhmfplzzvflh5789phc3z4kgk",
         "run_time": "21:00",
-        "minimum_reward": 20000
+        "minimum_reward": 50000
       }
     },
     {
