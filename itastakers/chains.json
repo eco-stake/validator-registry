@@ -18,6 +18,24 @@
         "run_time": "21:00",
         "minimum_reward": 10000
       }
+    },
+        {
+      "name": "juno",
+      "address": "junovaloper1juczud9nep06t0khghvm643hf9usw45r23gsmr",
+      "restake": {
+        "address": "juno1ljahtlzw6zy7fea6yywavuvvlq96vec99hcg9e",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+        {
+      "name": "cosmos",
+      "address": "cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc",
+      "restake": {
+        "address": "cosmos1ljahtlzw6zy7fea6yywavuvvlq96vec9n9mnz9",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
