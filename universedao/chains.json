@@ -7,7 +7,7 @@
       "restake": {
         "address": "juno1rdmypyp36l44xkkg5rnm2uxuyhvejr7ge0xwug",
         "run_time": "01:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     }
   ]
