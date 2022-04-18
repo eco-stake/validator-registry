@@ -6,8 +6,8 @@
       "address": "mantlevaloper170ef5gajk5q8t90cv6qcmfv4ljwzuqtsklsgn6",
       "restake": {
         "address": "mantle1e44rluarkdw56dy2turnwjtvtg4wqvs0v0wpg0",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
       }
     },
     {
