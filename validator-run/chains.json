@@ -25,7 +25,7 @@
       "restake": {
         "address": "gravity1zks5qjck40m827v2m83la5r3y6lkudw8pjvvxw",
         "run_time": "08:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -71,6 +71,33 @@
         "address": "regen1zks5qjck40m827v2m83la5r3y6lkudw86q4g4z",
         "run_time": "08:00",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper18adqep9lrqayp8nql37r28gerh7cmkdf5s38qg",
+      "restake": {
+        "address": "mantle18adqep9lrqayp8nql37r28gerh7cmkdf504nma",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1dk4ste222kp256ky00553nexna0rh38hx2ur6c",
+      "restake": {
+        "address": "evmos1dk4ste222kp256ky00553nexna0rh38htynnm9",
+        "run_time": "08:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper109z67kdfftka3dzj0qc7zu43lvn5ru42y3t5cg",
+      "restake": {
+        "address": "emoney109z67kdfftka3dzj0qc7zu43lvn5ru42r3dqx9",
+        "run_time": "08:00",
+        "minimum_reward": 10000
       }
     }
   ]
