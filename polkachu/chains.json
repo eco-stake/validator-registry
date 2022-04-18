@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pmkjlwt",
+      "restake": {
+        "address": "mantle1xrrfek3qpz4ja8ccrjklfy064asyqq9kdkd2t9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pxqv0cj",
       "restake": {
