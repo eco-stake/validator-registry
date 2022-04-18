@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper19f0w9svr905fhefusyx4z8sf83j6et0g7slqln",
+      "restake": {
+        "address": "mantle1etsdevgm5ps240lrw9mg3p2j32tj96ktsm7yd8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "rizon",
       "address": "rizonvaloper19f0w9svr905fhefusyx4z8sf83j6et0gsj7p4y",
       "restake": {
