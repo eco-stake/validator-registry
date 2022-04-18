@@ -36,6 +36,15 @@
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1ldtq67attsty8hkl0pe4gkfz6fxhxdyvgnuavt",
+      "restake": {
+        "address": "umee1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9dumej8",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
