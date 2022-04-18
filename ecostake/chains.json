@@ -10,7 +10,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -31,7 +31,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -43,7 +43,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -55,7 +55,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -67,7 +67,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -79,7 +79,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     }
   ]
