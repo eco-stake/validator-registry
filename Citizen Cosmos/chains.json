@@ -1,0 +1,14 @@
+{
+  "name": "Citizen Cosmos",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u",
+      "restake": {
+        "address": "cosmos1yrv70gskxcn04xu03rpywd044gvz9l0mcyf752",
+        "run_time": "20:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
