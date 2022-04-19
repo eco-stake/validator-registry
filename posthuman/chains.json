@@ -80,6 +80,7 @@
         "address": "fetch1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjnx0exz",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000
-      },
+      }
+    }
   ]
 }
