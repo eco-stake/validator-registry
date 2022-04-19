@@ -15,7 +15,10 @@
       "address": "sentvaloper10y0044zsacejntznk6eatvz7mcekqv357fhl7q",
       "restake": {
         "address": "sent1n3m6rj0w9lgzg7leppnaru2xguraxhqc7uvx0f",
-        "run_time": "21:00",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
       }
     },
@@ -26,6 +29,15 @@
         "address": "bitsong1a4xzesd6cmwnsezfe8kfttegqmf73l6hzaeuxh",
         "run_time": "21:00",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper15smzx92y5ce92fqc8x079c7me9py3s09h0pva9",
+      "restake": {
+        "address": "osmo1n3m6rj0w9lgzg7leppnaru2xguraxhqcduf0a5",
+        "run_time": "17:30",
+        "minimum_reward": 100000
       }
     }
   ]

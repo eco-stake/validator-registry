@@ -1,0 +1,23 @@
+{
+  "name": "freak12techno",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1rw9wtyhsus7jvx55v3qv5nzun054ma6kz4237k",
+      "restake": {
+        "address": "sent1nuf0cf3y787y0caqfrf6qhsaz2uhf4nph4yegw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper14rvn7anf22e00vj5x3al4w50ns78s7n42rc0ge",
+      "restake": {
+        "address": "bitsong1tr90ym8g7lsaeptqfjlergvw6ft5vddckuq49q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

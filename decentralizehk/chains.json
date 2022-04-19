@@ -54,6 +54,51 @@
         "run_time": "22:00",
         "minimum_reward": 50000
       }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper19hsqcy8w8m3jxjcjdjmas4tnfpkrnm80ptywhu",
+      "restake": {
+        "address": "bostrom197yc3g8drkf8fyv6fr4ynddy2n22kauuug3ztc",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1qxf05cpxeeqpkqkxs72nvgt9sjf08yu64n3hkt",
+      "restake": {
+        "address": "fetch197yc3g8drkf8fyv6fr4ynddy2n22kauuvxv4hg",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper14zea53kzyz3vdgc99jxgltkmdesnjj86zhlcsc",
+      "restake": {
+        "address": "desmos197yc3g8drkf8fyv6fr4ynddy2n22kauutrgpz8",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1kfpe9de2nxwlhna35fr0yfsecj0dj6wffhr0qy",
+      "restake": {
+        "address": "gravity197yc3g8drkf8fyv6fr4ynddy2n22kauumthfsh",
+        "run_time": "22:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1jernznfnvw5ve925gmazjaf7ftxuzz5syj4l9l",
+      "restake": {
+        "address": "cheqd197yc3g8drkf8fyv6fr4ynddy2n22kauu3ef37w",
+        "run_time": "22:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

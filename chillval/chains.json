@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1sdz4rc95vnzh2f54sacec50vjxnmwdakfym4vh",
+      "restake": {
+        "address": "cosmos1fgmtjs7zd5cst4rj7h4vz0tp8zctajvtyq9saw",
+        "run_time": "14:15",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1mzqqrctm0hvkghf66jruxjtggd5j447dmugz0j",
       "restake": {
@@ -26,6 +35,15 @@
         "address": "lum1327kewr0m28edp6ee022myyxzvlf3g5exxpvr7",
         "run_time": "14:30",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper13szsn2zenp3gklm466t8h3hq4xzyhpe24z02dt",
+      "restake": {
+        "address": "mantle1wefkllky6uj794r0m09fs5azzwdupssysh75n6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
       }
     }
   ]

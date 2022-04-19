@@ -56,6 +56,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1d7ps3edl5u5hf9h8yyypjwmtd9xcqah7s3nsau",
+      "restake": {
+        "address": "osmo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zfmd8cf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "kichain",
       "address": "kivaloper14932eu6d398f0ycqj6xtmy9xhaewzegkhz2eap",
       "restake": {

@@ -1,0 +1,17 @@
+{
+  "name": "Blockdaemon",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14537vk6xr9qfptpw2090c589w7a8cm0e0wyv3u",
+      "restake": {
+        "address": "osmo1tar2llkpqe88tdnwy2yjdd55xsxa5ansxz6rwf",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

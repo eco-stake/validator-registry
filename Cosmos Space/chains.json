@@ -1,0 +1,14 @@
+{
+  "name": "Cosmos Spaces ☮️ 💜 ⚛️",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13p5ckpmc9g2v8ez5qsxs00wadqvcc7q0qheh26",
+      "restake": {
+        "address": "cosmos1us2kmxl8dqptawf9kmlf77mwupr4epq3kqft60",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

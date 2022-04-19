@@ -1,5 +1,5 @@
 {
-  "name": "  polkachu.com | 0% fee",
+  "name": "polkachu.com | 0% fee",
   "chains": [
     {
       "name": "akash",
@@ -8,6 +8,15 @@
         "address": "akash1xrrfek3qpz4ja8ccrjklfy064asyqq9k7fmgd4",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pmkjlwt",
+      "restake": {
+        "address": "mantle1xrrfek3qpz4ja8ccrjklfy064asyqq9kdkd2t9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -44,6 +53,15 @@
         "address": "comdex1xrrfek3qpz4ja8ccrjklfy064asyqq9k5a5ddc",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pqeemx8",
+      "restake": {
+        "address": "cosmos1xrrfek3qpz4ja8ccrjklfy064asyqq9knjk050",
+        "run_time": "every 1 hour",
+        "minimum_reward": 50000
       }
     },
     {
@@ -101,10 +119,46 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4phpkatp",
+      "restake": {
+        "address": "osmo1xrrfek3qpz4ja8ccrjklfy064asyqq9kmf9lza",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pfj2j90",
       "restake": {
         "address": "sif1xrrfek3qpz4ja8ccrjklfy064asyqq9kk0eemy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pu0vlu3",
+      "restake": {
+        "address": "somm1xrrfek3qpz4ja8ccrjklfy064asyqq9klwer99",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p60w86a",
+      "restake": {
+        "address": "stars1xrrfek3qpz4ja8ccrjklfy064asyqq9k8wpjl7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4phlh7lv",
+      "restake": {
+        "address": "umee1xrrfek3qpz4ja8ccrjklfy064asyqq9kpytssa",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }

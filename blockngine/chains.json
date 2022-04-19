@@ -2,6 +2,15 @@
   "name": " BlockNgine 🛡️ Slash Protected",
   "chains": [
     {
+      "name": "agoric",
+      "address": "agoricvaloper1df98lt4ph685ujr69jy5w8xvrtszad7te7pna9",
+      "restake": {
+        "address": "agoric19xahfnsqdmnw8h5cwes5wnpnymq2llhn8hrn42",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "akash",
       "address": "akashvaloper1strxz39h5fapp7zvn5mvf8xm0ea9aajqjstv6g",
       "restake": {
@@ -17,6 +26,15 @@
         "address": "comdex194ytn50yhh67rdha8akhs7c6zulnz4n2wctp45",
         "run_time": "every 15 minutes",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gxgyhqagmvyg8sgwgpa79scrwqp4wn4hw4e3cl",
+      "restake": {
+        "address": "cosmos194ytn50yhh67rdha8akhs7c6zulnz4n2fhfrvr",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
       }
     },
     {
@@ -77,9 +95,9 @@
       "name": "sentinel",
       "address": "sentvaloper138dhtmfslt0ls4ec0jumj8tyajry4dfuv27jay",
       "restake": {
-        "address": "sent194ytn50yhh67rdha8akhs7c6zulnz4n2jvl6gv",
+        "address": "sent10ys69560pqr6zmqam80g8s0smtjw6p3ua4twmh",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -96,16 +114,7 @@
       "address": "terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz",
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1df98lt4ph685ujr69jy5w8xvrtszad7te7pna9",
-      "restake": {
-        "address": "agoric19xahfnsqdmnw8h5cwes5wnpnymq2llhn8hrn42",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },

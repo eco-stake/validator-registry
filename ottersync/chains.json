@@ -38,6 +38,15 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper10x64dgdwxcvmvgw8x8kfmpj52ppl4gy4thv2nk",
+      "restake": {
+        "address": "fetch1p0mr7h222e7ljkcmuje8gz0ayv43u50qjvv34n",
+        "run_time": "00:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg",
       "restake": {

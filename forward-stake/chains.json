@@ -1,0 +1,14 @@
+{
+  "name": "forward-stake",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1hay4kqak5h9zvp0r43y6nggprug4uc2qs0pn0j",
+      "restake": {
+        "address": "evmos1hay4kqak5h9zvp0r43y6nggprug4uc2qapwrw0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
