@@ -108,6 +108,42 @@
         ],
         "minimum_reward": 100
       }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1jlednjxak55pekp8ewg225wdy5wc9c5t80yamg",
+      "restake": {
+        "address": "certik1ltd3ynqjvy39r3lc48p4zlqa59hvam5tjmkygt",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1v2xylfeyry808ltt0hwxggzt0fns6uwh74mku3",
+      "restake": {
+        "address": "inj1ltd3ynqjvy39r3lc48p4zlqa59hvam5tl6ahmc",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1jxruqmfurgxrem4phvaqxkvprxa6fr0ncg3t88",
+      "restake": {
+        "address": "evmos1ltd3ynqjvy39r3lc48p4zlqa59hvam5thjmang",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100
+      }
     }
   ]
 }
