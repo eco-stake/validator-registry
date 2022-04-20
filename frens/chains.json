@@ -2,6 +2,15 @@
   "name": "Frens (🤝,🤝)",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cerberusvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5w2yl7tt",
+      "restake": {
+        "address": "cosmos1gvgcxwdk4j46gx3knhuackvqr2hta29z2lmjnx",
+        "run_time": "every 45 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wnscrkq",
       "restake": {
