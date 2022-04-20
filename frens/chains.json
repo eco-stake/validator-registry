@@ -42,8 +42,8 @@
       "address": "lumvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wf0p22w",
       "restake": {
         "address": "lum1gvgcxwdk4j46gx3knhuackvqr2hta29zl4xmxj",
-        "run_time": "23:00",
-        "minimum_reward": 1001
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
       }
     },
     {
