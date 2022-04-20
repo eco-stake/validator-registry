@@ -34,7 +34,7 @@
       "restake": {
         "address": "juno1gvgcxwdk4j46gx3knhuackvqr2hta29zudcf56",
         "run_time": "every 30 hours",
-        "minimum_reward": 10001
+        "minimum_reward": 10000
       }
     },
     {
