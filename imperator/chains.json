@@ -72,6 +72,15 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },
+ {
+      "name": "rizon",
+      "address": "rizonvaloper1g4ye0fm5fl4vrtn68fl7ylzwteln08mueqlk94",
+      "restake": {
+        "address": "rizon1eml7agwd5x084ennlg6apvskufzrlvnr4dxxep",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
