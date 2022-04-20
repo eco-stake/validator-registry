@@ -33,7 +33,7 @@
       "address": "junovaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5w2aqycm",
       "restake": {
         "address": "juno1gvgcxwdk4j46gx3knhuackvqr2hta29zudcf56",
-        "run_time": "20:00",
+        "run_time": "every 30 hours",
         "minimum_reward": 10001
       }
     },
