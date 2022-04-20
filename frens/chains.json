@@ -69,7 +69,7 @@
       "address": "cerberusvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5w2yl7tt",
       "restake": {
         "address": "cerberus1ftaxf307mumu6gwg05q360xeryspcgsq6fvnyc",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 1000000
       }
     }
