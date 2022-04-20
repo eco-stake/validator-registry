@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5waf2pqp",
+      "restake": {
+        "address": "mantle1gvgcxwdk4j46gx3knhuackvqr2hta29z5mqhvv",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wj68kfd",
       "restake": {
