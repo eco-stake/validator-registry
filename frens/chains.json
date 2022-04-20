@@ -15,8 +15,8 @@
       "address": "comdexvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wh2dqrg",
       "restake": {
         "address": "comdex1gvgcxwdk4j46gx3knhuackvqr2hta29zdses23",
-        "run_time": "21:00",
-        "minimum_reward": 1001
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
     {
