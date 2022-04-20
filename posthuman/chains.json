@@ -72,6 +72,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug",
+      "restake": {
+        "address": "fetch1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjnx0exz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9",
+      "restake": {
+        "address": "mantle1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj7lacml",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
