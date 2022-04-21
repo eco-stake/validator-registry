@@ -38,6 +38,15 @@
       }
     },
     {
+      "name": "crescent",
+      "address": "crevaloper1gkf73mx4zv3ggrf4kuc3v8jm5yv4s0jtrqzkvd",
+      "restake": {
+        "address": "cre194ytn50yhh67rdha8akhs7c6zulnz4n2dl6xew",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "emoney",
       "address": "emoneyvaloper1z0cwp2wezmaehlhzdmqpx55vhxupuk52d7ucjy",
       "restake": {
