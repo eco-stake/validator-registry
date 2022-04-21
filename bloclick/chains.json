@@ -56,6 +56,15 @@
       }
     },
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1s4rrnhk3794ancd5gunhg0sp350amhdm84xprk",
+      "restake": {
+        "address": "mantle1k8mymzl8sapy2yqyyce5a35u09rnuae72r9x52",
+        "run_time": "18:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1j74f2ef2p9ue7tz0jlcg6ejnjhp5evv0wyw0av",
       "restake": {
