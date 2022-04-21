@@ -20,15 +20,6 @@
       }
     },
     {
-      "name": "comdex",
-      "address": "comdexvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9waw0u289r",
-      "restake": {
-        "address": "comdex1v9vae554q55xa4pcfdm0p3kv8nxn50jkar9s57",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "akash",
       "address": "akashvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawua3kt9",
       "restake": {
