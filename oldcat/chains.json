@@ -14,7 +14,7 @@
       "name": "bitsong",
       "address": "bitsongvaloper1pqlxe507avzg2hq8ylcju037ywyh3myfsv9wln",
       "restake": {
-        "address": "bitsong1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zdfvlv5",
+        "address": "bitsong1nyq65uezlhy9qpyfd4uqrtahhy70wtc6v4yzg8",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -23,7 +23,7 @@
       "name": "desmos",
       "address": "desmosvaloper1d6xe3ldswgaurszrp3emspvhspvu7hxm4ty8mv",
       "restake": {
-        "address": "desmos1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z4cn8er",
+        "address": "desmos17srygfu0ky47ctnjrx740c53v57vnerp2rdnh0",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -62,15 +62,6 @@
         "address": "osmo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zfmd8cf",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper14932eu6d398f0ycqj6xtmy9xhaewzegkhz2eap",
-      "restake": {
-        "address": "ki1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zsd0c20",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
       }
     },
     {
