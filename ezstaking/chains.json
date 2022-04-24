@@ -87,7 +87,7 @@
       "address": "starsvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawyx37ju",
       "restake": {
         "address": "stars1fs7lu28hx5m9akm7rp0c2422cn8r2f7gglt0uc",
-        "run_time": "21:00",
+        "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
     },
