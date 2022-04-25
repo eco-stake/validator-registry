@@ -6,7 +6,7 @@
       "address": "crocncl13sspaluakmld27em3duhmkzxy8g6frrfl89gnq",
       "restake": {
         "address": "cro1fjehug09flkh25q7u35gt05z074hal8vtl8t4c",
-        "run_time": "17:30",
+        "run_time": ["05:30", "17:30"],
         "minimum_reward": 1000000
       }
     },
