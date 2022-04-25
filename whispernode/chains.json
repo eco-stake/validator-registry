@@ -105,7 +105,7 @@
       "address": "osmovaloper1md9f5524vtmrn64lyv2pdfn7cnkjkklf44vtjz",
       "restake": {
         "address": "osmo1e44rluarkdw56dy2turnwjtvtg4wqvs06sx5ph",
-        "run_time": "19:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000
       }
     },
