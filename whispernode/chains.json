@@ -7,7 +7,7 @@
       "restake": {
         "address": "mantle1e44rluarkdw56dy2turnwjtvtg4wqvs0v0wpg0",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 1000
       }
     },
     {
@@ -15,7 +15,7 @@
       "address": "cerberusvaloper1g3d36rfxfqtlnz3hzd05cs2wrjgykcz2g649a8",
       "restake": {
         "address": "cerberus1e44rluarkdw56dy2turnwjtvtg4wqvs0wv4dzw",
-        "run_time": "every 3 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     },
@@ -105,7 +105,7 @@
       "address": "osmovaloper1md9f5524vtmrn64lyv2pdfn7cnkjkklf44vtjz",
       "restake": {
         "address": "osmo1e44rluarkdw56dy2turnwjtvtg4wqvs06sx5ph",
-        "run_time": "19:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000
       }
     },
