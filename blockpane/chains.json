@@ -7,7 +7,7 @@
       "restake": {
         "address": "juno17cqeudhhwt8a4hpsp3mg96hy9lwx8t5d4zf7mw",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 10000
       }
@@ -18,7 +18,7 @@
       "restake": {
         "address": "kava1fqdmqe3pry5jmynfnudav8v4vrl55rw9utfme3",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 10000
       }
@@ -29,7 +29,7 @@
       "restake": {
         "address": "osmo17cqeudhhwt8a4hpsp3mg96hy9lwx8t5dtte42q",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 10000
       }
@@ -40,7 +40,7 @@
       "restake": {
         "address": "sif17cqeudhhwt8a4hpsp3mg96hy9lwx8t5dxd9nne",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 1e+16
       }
@@ -51,7 +51,7 @@
       "restake": {
         "address": "stars17cqeudhhwt8a4hpsp3mg96hy9lwx8t5dhvachr",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 100000
       }
@@ -62,7 +62,7 @@
       "restake": {
         "address": "secret1g8du6578unxm0qufe2xfp6s6wgskr0cv9jctu6",
         "run_time": [
-          "18:00"
+          "19:00"
         ],
         "minimum_reward": 10000
       }
