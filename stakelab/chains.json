@@ -83,6 +83,15 @@
       }
     },
     {
+      "name": "decentr",
+      "address": "decentrvaloper1dxlusw3j5hy4m9r9xewhdux7wnctdcdz8hnt4q",
+      "restake": {
+        "address": "decentr1mjq48r6435aewerpruwc8up3tz3rzan28hcrqa",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1lzzctd3a839xxk7vf4cwuhcvgcnmxrhrx7d92e",
       "restake": {
@@ -258,6 +267,15 @@
       "address": "starsvaloper1mz2qks48v486d9m8wp4l9fxm2e9l0e0kzk79m5",
       "restake": {
         "address": "stars1mjq48r6435aewerpruwc8up3tz3rzan2c9f22y",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper19cx56quwsd03s4xfzkx39je4ag9c5lcvkhn3rv",
+      "restake": {
+        "address": "star1mjq48r6435aewerpruwc8up3tz3rzan2drs7ke",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
