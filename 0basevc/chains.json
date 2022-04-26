@@ -144,6 +144,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ep74jz",
+      "restake": {
+        "address": "cre1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyntfxme",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
