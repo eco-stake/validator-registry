@@ -47,6 +47,15 @@
       }
     },
     {
+      "name": "secret",
+      "address": "secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
+      "restake": {
+        "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "dig",
       "address": "digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "restake": {
