@@ -47,7 +47,7 @@
       }
     },
     {
-      "name": "secret",
+      "name": "secretnetwork",
       "address": "secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w",
       "restake": {
         "address": "secret1fcc93jz6egcc7vhrmpgdflwlkl3pseewq796lm",
