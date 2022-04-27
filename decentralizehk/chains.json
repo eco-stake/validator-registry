@@ -108,6 +108,15 @@
         "run_time": "22:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1s9q9ewnpr3jd89lnrme3yjnqdadhpzxdz3q7lf",
+      "restake": {
+        "address": "akash197yc3g8drkf8fyv6fr4ynddy2n22kauujqgkv9",
+        "run_time": "22:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
