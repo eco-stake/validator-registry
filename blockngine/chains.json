@@ -7,7 +7,7 @@
       "restake": {
         "address": "agoric19xahfnsqdmnw8h5cwes5wnpnymq2llhn8hrn42",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 1
       }
     },
     {
@@ -16,7 +16,7 @@
       "restake": {
         "address": "akash194ytn50yhh67rdha8akhs7c6zulnz4n2yvyy4e",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 1
       }
     },
     {
@@ -25,7 +25,7 @@
       "restake": {
         "address": "comdex194ytn50yhh67rdha8akhs7c6zulnz4n2wctp45",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -43,7 +43,7 @@
       "restake": {
         "address": "cre194ytn50yhh67rdha8akhs7c6zulnz4n2dl6xew",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1
       }
     },
     {
@@ -52,7 +52,7 @@
       "restake": {
         "address": "emoney194ytn50yhh67rdha8akhs7c6zulnz4n2x5nhm7",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -61,7 +61,7 @@
       "restake": {
         "address": "evmos194ytn50yhh67rdha8akhs7c6zulnz4n2tkcdkt",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -70,7 +70,7 @@
       "restake": {
         "address": "kava194ytn50yhh67rdha8akhs7c6zulnz4n24za76y",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -79,7 +79,7 @@
       "restake": {
         "address": "darc194ytn50yhh67rdha8akhs7c6zulnz4n2kkajp5",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1
       }
     },
     {
@@ -97,7 +97,7 @@
       "restake": {
         "address": "secret194ytn50yhh67rdha8akhs7c6zulnz4n2tja23l",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1
       }
     },
     {
@@ -115,7 +115,7 @@
       "restake": {
         "address": "sif194ytn50yhh67rdha8akhs7c6zulnz4n2v2x4rg",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -124,7 +124,7 @@
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 1
       }
     },
     {
