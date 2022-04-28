@@ -29,7 +29,7 @@
       }
     },
     {
-      "name": "dvpn",
+      "name": "sentinel",
       "address": "sentvaloper1df90uu7h29kek7wj6e2g8qqew0qwk7789lmrmv",
       "restake": {
         "address": "sent12q48j5xah5x5fwv2vuvc52j3ryfdq0lxlc3uxd",
