@@ -47,6 +47,15 @@
       }
     },
     {
+      "name": "dig",
+      "address": "digvaloper17tfxshzyf59grmhnr9xe6v9rxkwassgwlehlfr",
+      "restake": {
+        "address": "dig1r8egcurpwxftegr07gjv9gwffw4fk009nnxp6c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper1euqdrhevxg6gdzaphs7d3uulagxehex3fev6m3",
       "restake": {
