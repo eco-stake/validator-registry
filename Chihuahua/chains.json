@@ -1,0 +1,50 @@
+{
+  "name": "Chihuahua",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1c53el6jh90cu99wyc5rx60zymqd8svxfc6ll5f",
+      "restake": {
+        "address": "juno12q48j5xah5x5fwv2vuvc52j3ryfdq0lxj3y797",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper15knxwwzq38lwe3e3rul8cpcew9n6u0gq7x38cj",
+      "restake": {
+        "address": "osmo12q48j5xah5x5fwv2vuvc52j3ryfdq0lxvc545s",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1340p98mw30khq58kk0tm04hjmsvf04nuryjv6d",
+      "restake": {
+        "address": "akash12q48j5xah5x5fwv2vuvc52j3ryfdq0lxfc2zmc",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dvpn",
+      "address": "sentvaloper1df90uu7h29kek7wj6e2g8qqew0qwk7789lmrmv",
+      "restake": {
+        "address": "sent12q48j5xah5x5fwv2vuvc52j3ryfdq0lxlc3uxd",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper12c4tffgzm859h0e06fz5s9mqksnpawaw5rj0c4",
+      "restake": {
+        "address": "gravity12q48j5xah5x5fwv2vuvc52j3ryfdq0lxqn4a82",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
