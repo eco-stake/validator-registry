@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "kichain",
-      "address": "kivaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sh3aq7",
+      "name": "decentr",
+      "address": "decentrvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4purhmt",
       "restake": {
-        "address": "ki1mwysqcvvhjcntajus2vuezgc5su7kha4tqzgz7",
+        "address": "decentr1mwysqcvvhjcntajus2vuezgc5su7kha43r4n8z",
         "run_time": [
           "10:00",
           "22:00"
@@ -62,10 +62,22 @@
       }
     },
     {
-      "name": "decentr",
-      "address": "decentrvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4purhmt",
+      "name": "irisnet",
+      "address": "iva16lhapna7nfm0j3pnwt7tn4lxtx3q7hs44wy3cz",
       "restake": {
-        "address": "decentr1mwysqcvvhjcntajus2vuezgc5su7kha43r4n8z",
+        "address": "iaa1mwysqcvvhjcntajus2vuezgc5su7kha400nkym",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sh3aq7",
+      "restake": {
+        "address": "ki1mwysqcvvhjcntajus2vuezgc5su7kha4tqzgz7",
         "run_time": [
           "10:00",
           "22:00"
