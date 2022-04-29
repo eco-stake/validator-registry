@@ -39,6 +39,18 @@
         "run_time": "17:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper1lr5dq8kda4ujj76pluy9hsavwc3rnts7y897ms",
+      "restake": {
+        "address": "omniflix1n3m6rj0w9lgzg7leppnaru2xguraxhqccetxuc",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
     }
   ]
 }
