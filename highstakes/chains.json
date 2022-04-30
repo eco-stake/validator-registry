@@ -39,7 +39,7 @@
     },
     {
       "name": "secretnetwork",
-      "address": "sentvaloper1em47hyec6g6jcmywp5mpqvs66h7wdnj6kd5t6p",
+      "address": "secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp",
       "restake": {
         "address": "secret1cwkv3ul0w8ea4m7hkqx9htzj5etsgmvrs3qqd8",
         "run_time": "every 1 hour",
