@@ -137,6 +137,15 @@
       }
     },
     {
+      "name": "galaxy",
+      "address": "galaxyvaloper1jd5q2w6gma776nxg2gk5as6selh4q6jkvksr6u",
+      "restake": {
+        "address": "galaxy1mjq48r6435aewerpruwc8up3tz3rzan2sxch28",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper1d63hvdgwy64sfex2kyujd0xyfhmu7r7cgxt5ru",
       "restake": {
@@ -195,6 +204,15 @@
       "address": "lumvaloper1axqn30kead92gdsg7pusc6ezxx8ltq465r3hv3",
       "restake": {
         "address": "lum1mjq48r6435aewerpruwc8up3tz3rzan2enr75p",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1hlp6fs6hvmjnpskaeyd7444tmc3hwtks8lshjc",
+      "restake": {
+        "address": "meme1mjq48r6435aewerpruwc8up3tz3rzan2jxgqxl",
         "run_time": "19:00",
         "minimum_reward": 10000
       }
