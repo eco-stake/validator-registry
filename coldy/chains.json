@@ -1,0 +1,16 @@
+{
+  "name": "coldy",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfv6t4y9y",
+      "restake": {
+        "address": "osmo1cs4jxnxjl54y3xnk4aud5g4n334nxsnnxaqegn",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
