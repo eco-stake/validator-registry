@@ -56,6 +56,18 @@
       }
     },
     {
+      "name": "cryptoorgchain",
+      "address": "crocncl10mfs428fyntu296dgh5fmhvdzrr2stlaekcrp9",
+      "restake": {
+        "address": "cro105yt8cy0syduuyx8hf8aud42tns63h9r3zx3au",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "dig",
       "address": "digvaloper136avwnuvvy94dqmtnaue2nfvjes8xr37h9rzay",
       "restake": {
