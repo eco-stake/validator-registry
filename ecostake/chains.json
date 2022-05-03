@@ -80,6 +80,10 @@
       }
     },
     {
+      "name": "nomic",
+      "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1u5v0m74mql5nzfx2yh43s2tke4mvzghr6m2n5t",
       "restake": {
