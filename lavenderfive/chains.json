@@ -6,7 +6,7 @@
       "address": "akashvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztqs903",
       "restake": {
         "address": "akash12xpq68caw2aqdu70jm4k792g0v9prhrpdctrez",
-        "run_time": "21:00",
+        "run_time": "hourly",
         "minimum_reward": 10000
       }
     },
@@ -24,7 +24,7 @@
       "address": "chihuahuavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zum7h5l",
       "restake": {
         "address": "chihuahua12xpq68caw2aqdu70jm4k792g0v9prhrprkt2p6",
-        "run_time": "22:00",
+        "run_time": "hourly",
         "minimum_reward": 1000
       }
     },
@@ -33,7 +33,7 @@
       "address": "cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j",
       "restake": {
         "address": "cosmos12xpq68caw2aqdu70jm4k792g0v9prhrpqrxyqc",
-        "run_time": "21:00",
+        "run_time": "hourly",
         "minimum_reward": 10000
       }
     },
@@ -42,7 +42,7 @@
       "address": "desmosvaloper1r0emf6ap6y5advzgtsf4uz3g68p5t5484j4alp",
       "restake": {
         "address": "desmos1nrt8va6he35w4vclr6sejkqpvsmr4vtas330me",
-        "run_time": "22:00",
+        "run_time": "hourly",
         "minimum_reward": 1000
       }
     },
@@ -51,7 +51,7 @@
       "address": "gravityvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zezczfa",
       "restake": {
         "address": "gravity12xpq68caw2aqdu70jm4k792g0v9prhrpyn5u9s",
-        "run_time": "22:00",
+        "run_time": "hourly",
         "minimum_reward": 1000
       }
     },
@@ -60,7 +60,7 @@
       "address": "junovaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw59jv9vez",
       "restake": {
         "address": "juno12xpq68caw2aqdu70jm4k792g0v9prhrpk39l8y",
-        "run_time": "14:00",
+        "run_time": "hourly",
         "minimum_reward": 10000
       }
     },
@@ -69,7 +69,7 @@
       "address": "osmovaloper1glmy88g0uf6vmw29pyxu3yq0pxpjqtzqr5e57n",
       "restake": {
         "address": "osmo12xpq68caw2aqdu70jm4k792g0v9prhrpgc45k2",
-        "run_time": "22:00",
+        "run_time": "hourly",
         "minimum_reward": 10000
       }
     },
@@ -78,7 +78,7 @@
       "address": "secretvaloper1t5wtcuwjkdct9qkw2h6m48zu2hectpd6ulmekk",
       "restake": {
         "address": "secret18zzklau04kf3qtwrnnzlf20xrxpx3a89dqu42m",
-        "run_time": "21:00",
+        "run_time": "hourly",
         "minimum_reward": 100000
       }
     }
