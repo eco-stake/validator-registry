@@ -6,9 +6,24 @@
       "address": "akashvaloper1cke3ja95gkg4drpf28vt454k7pt0pvcmm56lqj",
       "restake": {
         "address": "akash1w4du0y6705rqregfl6cktm7swds6t4dssplxyv",
-        "run_time": "21:00",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
+      "restake": {
+        "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }
