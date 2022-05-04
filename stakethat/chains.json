@@ -1,0 +1,14 @@
+{
+  "name": "StakeThat",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg",
+      "restake": {
+        "address": "osmo194ygwl959ckr3qszh6xde7cvcpdngm2l7lvs58",
+        "run_time": "19:20",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
