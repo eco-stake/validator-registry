@@ -14,6 +14,18 @@
       }
     },
     {
+      "name": "bandchain",
+      "address": "bandvaloper1nqmeykpnqdccxf2kfqnwszy748ll3qlzu0heyt",
+      "restake": {
+        "address": "band1w4du0y6705rqregfl6cktm7swds6t4dsy4jr97",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
       "restake": {
