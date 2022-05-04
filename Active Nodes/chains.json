@@ -1,0 +1,14 @@
+{
+  "name": "Active Nodes",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1cke3ja95gkg4drpf28vt454k7pt0pvcmm56lqj",
+      "restake": {
+        "address": "akash1w4du0y6705rqregfl6cktm7swds6t4dssplxyv",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
