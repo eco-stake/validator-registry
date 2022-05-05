@@ -26,6 +26,90 @@
       }
     },
     {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper16epwpkwh37u9ma9yjwd0kglvsq9u5saxffzcuc",
+      "restake": {
+        "address": "chihuahua1w4du0y6705rqregfl6cktm7swds6t4ds70l0u5",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1wusf6f0tm986erjewgnp0qyc7ezzxmc6h05knf",
+      "restake": {
+        "address": "comdex1w4du0y6705rqregfl6cktm7swds6t4ds64sryp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper14nfk5gm99gfrd7nwqtmtvzunzclz8720a6cqh7",
+      "restake": {
+        "address": "desmos10k8cylaqmmdy4pyf3jzjm6vt2c52pv6hncm5cv",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1vjcwc2ehpxykw4dr0j9k3gxygwmvecmcy6garq",
+      "restake": {
+        "address": "fetch1w4du0y6705rqregfl6cktm7swds6t4dsw8m9lp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1n57r2prsyd767tehvw44spa7z9vzza0p5rkyay",
+      "restake": {
+        "address": "gravity1w4du0y6705rqregfl6cktm7swds6t4dse2qec7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1c6nw58dd8ur9kt9k4fh8u64ea4892sg28mxkmu",
+      "restake": {
+        "address": "ixo1w4du0y6705rqregfl6cktm7swds6t4dsz0vne9",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper189nl8q7rm4ks2t2l7qwe7j49w7sagw4y8uk2nd",
+      "restake": {
+        "address": "juno1w4du0y6705rqregfl6cktm7swds6t4dstg3662",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
       "restake": {
@@ -36,6 +120,66 @@
         ],
         "minimum_reward": 100000
       }
-    }    
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1xfffx2agkgy4d0jpl7lulgklpf7evgla679rn2",
+      "restake": {
+        "address": "persistence1wxww8zvmgnsdq6npq5lh0a9erjyphh4ex6hnzj",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1u4285azprzlrqpq45azsw7464ymmw4juqww8em",
+      "restake": {
+        "address": "rizon1w4du0y6705rqregfl6cktm7swds6t4ds78ws3w",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper13ce8734a8vstdplk79dg4jemdsm8048t0hjplm",
+      "restake": {
+        "address": "sent1wxww8zvmgnsdq6npq5lh0a9erjyphh4end8ege",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper1zs66yh6daua3tjsanq7pqjffryrn65stg3ae73",
+      "restake": {
+        "address": "star1shf5lmy2mg99cwh8t6fqqwemhv6g6krevy0yh5",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1j6l7zpwnmkrdkat5f84d79aanr5em9cumzly8j",
+      "restake": {
+        "address": "umee1w4du0y6705rqregfl6cktm7swds6t4ds0v07ey",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
   ]
 }
