@@ -26,6 +26,7 @@
         "address": "darc1uc877qk45e23hxxx364dxsp8rehu5addv6sdr0",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
+      }
     },
     {
       "name": "secretnetwork",
