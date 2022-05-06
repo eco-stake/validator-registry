@@ -6,9 +6,16 @@
       "address": "osmovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfv6t4y9y",
       "restake": {
         "address": "osmo1cs4jxnxjl54y3xnk4aud5g4n334nxsnnxaqegn",
-        "run_time": [
-          "19:30"
-        ],
+        "run_time": "18:30",
+        "minimum_reward": 100000
+      }
+    },
+       {
+      "name": "bitsong",
+      "address": "bitsongvaloper1wq3hjdygz9n84z826p56zft0e45kmlfrnsy4p4",
+      "restake": {
+        "address": "bitsong1cs4jxnxjl54y3xnk4aud5g4n334nxsnnz0ppuw",
+        "run_time": "18:30",
         "minimum_reward": 100000
       }
     }
