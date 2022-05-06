@@ -25,7 +25,7 @@
       "restake": {
         "address": "cerberus195mm9y35sekrjk73anw2az9lv9xs5mztx300fu",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000000000
+        "minimum_reward": 10000000
       }
     },
     {
