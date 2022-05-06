@@ -33,7 +33,7 @@
       "address": "chihuahuavaloper1m2dxkn94t97m7ah65hv4tg2xu0j2a2k4fdee20",
       "restake": {
         "address": "chihuahua1e44rluarkdw56dy2turnwjtvtg4wqvs037c2k8",
-        "run_time": "21:00",
+        "run_time": "every 15 minutes",
         "minimum_reward": 1000
       }
     },
@@ -42,7 +42,7 @@
       "address": "comdexvaloper19qz6sgw7llrft2x05lp4swy569e5sla6gl3cuu",
       "restake": {
         "address": "comdex1e44rluarkdw56dy2turnwjtvtg4wqvs04yhxwj",
-        "run_time": "21:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000
       }
     },

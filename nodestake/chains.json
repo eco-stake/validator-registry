@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1xaxg47uw046uw8vgpp3da367ctw9aguqjuyyyx",
+      "restake": {
+        "address": "evmos15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4pxnwa9",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper19f0w9svr905fhefusyx4z8sf83j6et0g7slqln",
       "restake": {

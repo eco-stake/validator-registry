@@ -27,6 +27,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+	{
+      "name": "firmachain",
+      "address": "firmavaloper1prx367m4rds5q8fksj24ckk9f6q5au9g4upg9c",
+      "restake": {
+        "address": "firma1w8kjs2h982d6z9w43y73guf3fa80x2kngzs35c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 50000000
+      }
+    },
+	{
+      "name": "shentu",
+      "address": "certikvaloper1nj59qd5h9tt4r0k40twj5ptp9f7xsmg0u6xhlk",
+      "restake": {
+        "address": "certik1gkrdcksr3gslm2ngu4c47j36e62hvmv9zmsrmc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
     }
   ]
 }

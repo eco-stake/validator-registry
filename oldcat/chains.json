@@ -11,10 +11,19 @@
       }
     },
     {
+      "name": "galaxy",
+      "address": "galaxyvaloper1nudskr0tr2nmev043dgy74p0dhkj2x782wsdf6",
+      "restake": {
+        "address": "galaxy1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zalch9f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper1pqlxe507avzg2hq8ylcju037ywyh3myfsv9wln",
       "restake": {
-        "address": "bitsong1nyq65uezlhy9qpyfd4uqrtahhy70wtc6v4yzg8",
+        "address": "bitsong1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zdfvlv5",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -23,7 +32,7 @@
       "name": "desmos",
       "address": "desmosvaloper1d6xe3ldswgaurszrp3emspvhspvu7hxm4ty8mv",
       "restake": {
-        "address": "desmos17srygfu0ky47ctnjrx740c53v57vnerp2rdnh0",
+        "address": "desmos1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z4cn8er",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -56,12 +65,12 @@
       }
     },
     {
-      "name": "osmosis",
-      "address": "osmovaloper1d7ps3edl5u5hf9h8yyypjwmtd9xcqah7s3nsau",
+      "name": "konstellation",
+      "address": "darcvaloper14pt370vn5pcjupuveqenggd5exejq58mgas9xn",
       "restake": {
-        "address": "osmo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zfmd8cf",
+        "address": "darc1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z7p2xrv",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },
     {
