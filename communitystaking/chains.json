@@ -6,7 +6,10 @@
       "address": "junovaloper1zxx8j75ngm8m38v9l5wreaavwnsuun7gcq5cu8",
       "restake": {
         "address": "juno1n3m6rj0w9lgzg7leppnaru2xguraxhqcn4eyv6",
-        "run_time": "21:00",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
         "minimum_reward": 10000
       }
     },
