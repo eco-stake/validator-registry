@@ -9,6 +9,15 @@
         "run_time": "every 4 hours",
         "minimum_reward": 1000000
       }
+    },
+{
+      "name": "akash",
+      "address": "akashvaloper1phskre56344dtx5k0ph9sp8n4lsjlrlg8v0242",
+      "restake": {
+        "address": "akash12yeq3h92ew3e00tt2kma5q0t7tmangvy5cq72z",
+        "run_time": "every 4 hours",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
