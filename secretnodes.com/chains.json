@@ -1,0 +1,14 @@
+{
+  "name": "secretnodes.com",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkvd79jj",
+      "restake": {
+        "address": "secret16lwpq0c02xyl6zz6uddxug05zwpheghw58g4ym",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
