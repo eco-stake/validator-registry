@@ -17,7 +17,8 @@
         "address": "cosmos1syc66updwkat9nhmfplzzvflh5789phceexx7y",
         "run_time": "18:00",
         "minimum_reward": 50000
-      },
+      }
+    },
     {
       "name": "regen",
       "address": "regenvaloper1rg2u2r9e8slqvp23vkm9mnu26zdkz9emsy0d4g",
