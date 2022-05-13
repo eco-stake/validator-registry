@@ -106,7 +106,7 @@
       "restake": {
         "address": "sent10ys69560pqr6zmqam80g8s0smtjw6p3ua4twmh",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
