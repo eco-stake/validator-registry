@@ -34,7 +34,7 @@
       "restake": {
         "address": "cheqd12xpq68caw2aqdu70jm4k792g0v9prhrpwp2ytf",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -61,7 +61,7 @@
       "restake": {
         "address": "desmos1nrt8va6he35w4vclr6sejkqpvsmr4vtas330me",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -70,7 +70,7 @@
       "restake": {
         "address": "dig12xpq68caw2aqdu70jm4k792g0v9prhrpch00zr",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -88,7 +88,7 @@
       "restake": {
         "address": "gravity12xpq68caw2aqdu70jm4k792g0v9prhrpyn5u9s",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {

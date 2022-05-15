@@ -1,14 +1,40 @@
 {
-  "name": "SmartNodes",
-  "chains": [
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper1dh25k2zuf0tgz8dsp3v0utw0xch2ljxu3lnsct",
-      "restake": {
-        "address": "cerberus12yeq3h92ew3e00tt2kma5q0t7tmangvy9ydsxn",
-        "run_time": "every 4 hours",
-        "minimum_reward": 1000000
-      }
-    }
-  ]
+	"name": "SmartNodes",
+	"chains": [{
+			"name": "cerberus",
+			"address": "cerberusvaloper1dh25k2zuf0tgz8dsp3v0utw0xch2ljxu3lnsct",
+			"restake": {
+				"address": "cerberus12yeq3h92ew3e00tt2kma5q0t7tmangvy9ydsxn",
+				"run_time": [
+					"09:00",
+					"21:00"
+				],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "akash",
+			"address": "akashvaloper1phskre56344dtx5k0ph9sp8n4lsjlrlg8v0242",
+			"restake": {
+				"address": "akash12yeq3h92ew3e00tt2kma5q0t7tmangvy5cq72z",
+				"run_time": [
+					"09:00",
+					"21:00"
+				],
+				"minimum_reward": 10000
+			}
+		},
+		{
+			"name": "bitsong",
+			"address": "bitsongvaloper12d0dae3qm4et9r5l2npwrmwknax07yd0rrlhxx",
+			"restake": {
+				"address": "bitsong1slqc677c76ngkmyp32kphgt22yl6dhnk0r7edk",
+				"run_time": [
+					"09:00",
+					"21:00"
+				],
+				"minimum_reward": 1000000
+			}
+		}
+	]
 }

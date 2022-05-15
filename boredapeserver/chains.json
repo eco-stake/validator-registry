@@ -1,0 +1,23 @@
+{
+  "name": "Bored Ape Server",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1ztx53a02e292sf7gedj56f29ynvmcas03kz09c",
+      "restake": {
+        "address": "juno1v9qka9m6cxefx0kn754rekph883hkc9pdngs8c",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper17z6mxxmkk5vykq6m4c2vexqjs6eq0zqualtqu3",
+      "restake": {
+        "address": "osmo1v9qka9m6cxefx0kn754rekph883hkc9pn6cmkk",
+        "run_time": "01:30",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
