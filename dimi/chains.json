@@ -23,7 +23,7 @@
       "name": "osmosis",
       "address": "osmovaloper1s33zct2zhhaf60x4a90cpe9yquw99jj0x8t08z",
       "restake": {
-        "address": "osmos1vlzuqyyw8cnuxzhghf6824m96nh5vdlhk0ukk7",
+        "address": "osmo1vlzuqyyw8cnuxzhghf6824m96nh5vdlhgh3rkj",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
