@@ -90,6 +90,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq",
+      "restake": {
+        "address": "cre1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjyn4c3c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc",
+      "restake": {
+        "address": "bostrom1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjrgjw6j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

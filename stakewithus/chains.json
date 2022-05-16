@@ -125,19 +125,31 @@
       "name": "injective",
       "address": "injvaloper1v2xylfeyry808ltt0hwxggzt0fns6uwh74mku3",
       "restake": {
-        "address": "inj1ltd3ynqjvy39r3lc48p4zlqa59hvam5tl6ahmc",
+        "address": "inj1te06mjvtw763dm8q8g7zd4gru8y3vvk49ahe0q",
         "run_time": [
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 100000000000000
       }
     },
     {
       "name": "evmos",
       "address": "evmosvaloper1jxruqmfurgxrem4phvaqxkvprxa6fr0ncg3t88",
       "restake": {
-        "address": "evmos1ltd3ynqjvy39r3lc48p4zlqa59hvam5thjmang",
+        "address": "evmos1te06mjvtw763dm8q8g7zd4gru8y3vvk4d43n8s",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000000000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvp4sl2q",
+      "restake": {
+        "address": "akash1ltd3ynqjvy39r3lc48p4zlqa59hvam5tcg85s6",
         "run_time": [
           "00:00",
           "12:00"
