@@ -6,7 +6,7 @@
       "address": "akashvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlsqkfuf",
       "restake": {
         "address": "akash1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6zrr52c",
-        "run_time": "every 3 hours",
+        "run_time": "every hour",
         "minimum_reward": 1000000
       }
     },
