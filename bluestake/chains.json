@@ -56,6 +56,15 @@
       }
     },
     {
+      "name": "firmachain",
+      "address": "firmavaloper177muy880q88ugrnrk5d7zvgvrm8l62rh6m08v7",
+      "restake": {
+        "address": "firma1m5hgzum68rjf4c7zhezgkj8hlnmr0kghcjnum2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "impacthub",
       "address": "ixovaloper1a3qpp5ff9cgnusxwufdkmnvn83446lf9vq88ga",
       "restake": {
@@ -74,6 +83,15 @@
       }
     },
     {
+      "name": "panacea",
+      "address": "panaceavaloper13npeg0lqkrntrnaulm6al6clkpm45hnqpt359v",
+      "restake": {
+        "address": "panacea1m5hgzum68rjf4c7zhezgkj8hlnmr0kghmw8d3n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "persistence",
       "address": "persistencevaloper1f9p23ru4sw8p2044237ckfhwdpklrn0ahdaujg",
       "restake": {
@@ -87,6 +105,15 @@
       "address": "sentvaloper1wd944at7mn6eqm7c7m5lfd9ej3g6astqawjnqn",
       "restake": {
         "address": "sent1m5hgzum68rjf4c7zhezgkj8hlnmr0kghd6djwl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper14wg0p9jlgp6vra7p4rw9vlyh5ra5svpl9qhf6j",
+      "restake": {
+        "address": "certik1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh3f8utm",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -141,6 +168,15 @@
       "address": "osmovaloper1ek7jzycywst6uxact9l4r8wq5pnt5xcdduj5x9",
       "restake": {
         "address": "osmo1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh76gmuz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper12xx74t5sx3vgyew7es9h8e9py4ttts6zmqknjz",
+      "restake": {
+        "address": "cre1m5hgzum68rjf4c7zhezgkj8hlnmr0kghjfgwla",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

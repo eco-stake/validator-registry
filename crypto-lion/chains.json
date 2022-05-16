@@ -2,6 +2,18 @@
   "name": "Crypto Lion 🦁",
   "chains": [
     {
+      "name": "bandchain",
+      "address": "bandvaloper1dndwcqre8wjnk4086vr76nu28q5lhnlsu36td8",
+      "restake": {
+        "address": "band1xkj7qkeck349npnkef4v46awn7dgk2pmrncd3f",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sf66t8",
       "restake": {
@@ -26,10 +38,10 @@
       }
     },
     {
-      "name": "kichain",
-      "address": "kivaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sh3aq7",
+      "name": "decentr",
+      "address": "decentrvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4purhmt",
       "restake": {
-        "address": "ki1mwysqcvvhjcntajus2vuezgc5su7kha4tqzgz7",
+        "address": "decentr1mwysqcvvhjcntajus2vuezgc5su7kha43r4n8z",
         "run_time": [
           "10:00",
           "22:00"
@@ -50,10 +62,34 @@
       }
     },
     {
-      "name": "decentr",
-      "address": "decentrvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4purhmt",
+      "name": "irisnet",
+      "address": "iva16lhapna7nfm0j3pnwt7tn4lxtx3q7hs44wy3cz",
       "restake": {
-        "address": "decentr1mwysqcvvhjcntajus2vuezgc5su7kha43r4n8z",
+        "address": "iaa1mwysqcvvhjcntajus2vuezgc5su7kha400nkym",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4sh3aq7",
+      "restake": {
+        "address": "ki1mwysqcvvhjcntajus2vuezgc5su7kha4tqzgz7",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs49pkc09",
+      "restake": {
+        "address": "certik1mwysqcvvhjcntajus2vuezgc5su7kha4a90s8p",
         "run_time": [
           "10:00",
           "22:00"

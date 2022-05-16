@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "cheqd",
+      "address": "cheqdvaloper1s02t0gudrjggwjsfq8rr7e9dk9mfu0xv0kd355",
+      "restake": {
+        "address": "cheqd1r8egcurpwxftegr07gjv9gwffw4fk00999r2nj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1tzk3kzjy7fj4w37hm5v48c2t8vvgukzcqgkz8k",
       "restake": {
@@ -38,6 +47,15 @@
       }
     },
     {
+      "name": "dig",
+      "address": "digvaloper17tfxshzyf59grmhnr9xe6v9rxkwassgwlehlfr",
+      "restake": {
+        "address": "dig1r8egcurpwxftegr07gjv9gwffw4fk009nnxp6c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper1euqdrhevxg6gdzaphs7d3uulagxehex3fev6m3",
       "restake": {
@@ -62,6 +80,15 @@
         "address": "lum1r8egcurpwxftegr07gjv9gwffw4fk0097djrdh",
         "run_time": "every 1 hour",
         "minimum_reward": 1001
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1vrddys753qrlq55hslre0vnyussdshju3d3yy6",
+      "restake": {
+        "address": "meme1r8egcurpwxftegr07gjv9gwffw4fk0094cealf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

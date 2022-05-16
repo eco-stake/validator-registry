@@ -3,7 +3,7 @@
   "chains": [
     {
       "name": "cerberus",
-      "address": "cerberusvaloper1hzd9hdlnt7et9gmdnw4r24m0xhvycn38ptvec8",
+      "address": "cerberusvaloper1emh90uhfx3ytu42y070v0ernk48s4v67l26xzv",
       "restake": {
         "address": "cerberus164e53fz34nkc03vnncdl5w9xp420lkakgwpcer",
         "run_time": "every 3 minutes",

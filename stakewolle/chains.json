@@ -2,6 +2,42 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "secretnetwork",
+      "address": "secretvaloper12ancx2qcgk04rrkexuhjq93etgktq4nn58z9yu",
+      "restake": {
+        "address": "secret1fwutgwc9wspus0wque2n22nyp0q7jm4h5zlgcs",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper170k335eghnmmjduy9qecwhaslkh63yrrec23c6",
+      "restake": {
+        "address": "rizon1m7xlymnpxl2d4llu67v08e8xs67dj2fzyg066y",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1xmznygxujt2vpzmufvghfunw5rq02qn5plut4t",
+      "restake": {
+        "address": "fetch1m7xlymnpxl2d4llu67v08e8xs67dj2fz5g605t",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "akash",
       "address": "akashvaloper1ksu368eh54vcqzruqk42dsnx88hvk8px09ws7q",
       "restake": {
@@ -84,8 +120,8 @@
       "address": "cosmosvaloper1gf4wlkutql95j7wwsxz490s6fahlvk2s9xpwax",
       "restake": {
         "address": "cosmos1m7xlymnpxl2d4llu67v08e8xs67dj2fz84ntku",
-        "run_time": "18:00",
-        "minimum_reward": 1000
+        "run_time": "every 6 hour",
+        "minimum_reward": 10000
       }
     },
     {

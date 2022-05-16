@@ -2,6 +2,15 @@
   "name": "Golden Ratio Staking",
   "chains": [
     {
+      "name": "bitcanna",
+      "address": "bcnavaloper1mzputg3yvlwx3zq5dms8p0cjujtut4xmpx9hgd",
+      "restake": {
+        "address": "bcna106n92ygqknaw5wcgl2e9v0duxxux6nttv0e0re",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
       "name": "cerberus",
       "address": "cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk",
       "restake": {
@@ -17,24 +26,6 @@
         "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "juno",
-      "address": "junovaloper10y7ucn6jhjtakwchgpw32y0tgaku6yn255z7gm",
-      "restake": {
-        "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "osmosis",
-      "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
-      "restake": {
-        "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
       }
     },
     {
@@ -56,21 +47,39 @@
       }
     },
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper1mzputg3yvlwx3zq5dms8p0cjujtut4xmpx9hgd",
-      "restake": {
-        "address": "bcna106n92ygqknaw5wcgl2e9v0duxxux6nttv0e0re",
-        "run_time": "every 1 hour",
-        "minimum_reward": 5000000
-      }
-    },
-    {
       "name": "emoney",
       "address": "emoneyvaloper1ftsexjra3zdwfmtvu3pqk5vndjtrq4hf5ptaxn",
       "restake": {
         "address": "emoney106n92ygqknaw5wcgl2e9v0duxxux6ntteun6uk",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1t3rfzrxeslmtz62mydyf2xmmxehwk7xzaaucjd",
+      "restake": {
+        "address": "evmos14pcslzl25jyueuwj956yjld0kfkrp0qakg9zan",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper10y7ucn6jhjtakwchgpw32y0tgaku6yn255z7gm",
+      "restake": {
+        "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
+      "restake": {
+        "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     }
   ]

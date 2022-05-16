@@ -5,7 +5,7 @@
       "name": "cerberus",
       "address": "cerberusvaloper1wmanxw8y2s4cauegx5lagq5gxgqzpuuccwascc",
       "restake": {
-        "address": "cerberus1uc877qk45e23hxxx364dxsp8rehu5add0uy4mn",
+        "address": "cerberus174ksezrlm8g77r0lx6q0qhxemqvze8fue5wwec",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
@@ -25,6 +25,15 @@
       "restake": {
         "address": "darc1uc877qk45e23hxxx364dxsp8rehu5addv6sdr0",
         "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1xmu8meef8ynlsev3a9hpl5wdxhpzzj0efmzpcj",
+      "restake": {
+        "address": "secret1ttpagwpgwlxwdctm0rwwx9jmtdtvl3vtygqzhl",
+        "run_time": "every 12 hours",
         "minimum_reward": 100000
       }
     }
