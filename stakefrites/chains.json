@@ -6,8 +6,8 @@
       "address": "akashvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlsqkfuf",
       "restake": {
         "address": "akash1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6zrr52c",
-        "run_time": "21:00",
-        "minimum_reward": 10000
+        "run_time": "every hour",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -16,7 +16,7 @@
       "restake": {
         "address": "cerberus1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6nlw6xf",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -24,8 +24,8 @@
       "address": "chihuahuavaloper1zl4vt84hya03e8hu7dx4q4cvn2ts2xdr685p5g",
       "restake": {
         "address": "chihuahua1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6vdrajq",
-        "run_time": "22:00",
-        "minimum_reward": 1000
+        "run_time": "every hour",
+        "minimum_reward": 10000000
       }
     },
     {
@@ -34,7 +34,7 @@
       "restake": {
         "address": "evmos17va68yw35aleakz62jwqn24s22fd3k545mclkl",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -42,8 +42,8 @@
       "address": "sifvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmlmxj56z",
       "restake": {
         "address": "sif1weeu5yuj8n23hd87wsdxqqgfmzzz9zt629p9uf",
-        "run_time": "21:00",
-        "minimum_reward": 1000
+        "run_time": "every hour",
+        "minimum_reward": 10000000
       }
     },
     {
@@ -51,7 +51,16 @@
       "address": "cosmosvaloper1uepjmgfuk6rnd0djsglu88w7d0t49lmljdpae2",
       "restake": {
         "address": "cosmos1weeu5yuj8n23hd87wsdxqqgfmzzz9zt60cwnnz",
-        "run_time": "21:00",
+        "run_time": "every hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1uepjmgfuk6rnd0djsglu88w7d0t49lml7kqufu",
+      "restake": {
+        "address": "juno1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6e2dg57",
+        "run_time": "every hour",
         "minimum_reward": 100000
       }
     }
