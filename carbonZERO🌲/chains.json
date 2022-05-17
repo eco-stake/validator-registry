@@ -15,7 +15,7 @@
       "address": "chihuahuavaloper1t85yx95l5pajl9hwkeztawqf8sg9uh4lglgu9w",
       "restake": {
         "address": "chihuahua1h43hjfxlz8t6y5wewma63jz7melv46gj803735",
-        "run_time": "every 30 minutes",
+        "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
     },
@@ -24,8 +24,17 @@
       "address": "comdexvaloper14yh3sqetnphupx2r4jrjctpsqqg7jqmnmzpxc4",
       "restake": {
         "address": "comdex1h43hjfxlz8t6y5wewma63jz7melv46gjr47jfp",
-        "run_time": "21:00",
+        "run_time": "every 30 minutes",
         "minimum_reward": 1000
+      }
+    },
+        {
+      "name": "juno",
+      "address": "junovaloper1xvm3d0k8gwuptdvcvy9udp0j9l9pm8dzwt65ut",
+      "restake": {
+        "address": "juno1h43hjfxlz8t6y5wewma63jz7melv46gjjglth2",
+        "run_time": "22:00",
+        "minimum_reward": 10000
       }
     },
     {
@@ -33,7 +42,7 @@
       "address": "sifvaloper1ehruemknfvxwnc6w8qj0cvdp5wdtlrf4p52w66",
       "restake": {
         "address": "sif1h43hjfxlz8t6y5wewma63jz7melv46gjp8nxla",
-        "run_time": "every 30 minutes",
+        "run_time": "every 5 minutes",
         "minimum_reward": 10000000
       }
     }
