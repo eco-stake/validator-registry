@@ -40,9 +40,6 @@
     {
       "name": "bitsong",
       "address": "bitsongvaloper1pqlxe507avzg2hq8ylcju037ywyh3myfsv9wln",
-      "autostake": {
-        "correctSlip44": true
-      },
       "restake": {
         "address": "bitsong1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zdfvlv5",
         "run_time": "every 1 hour",
@@ -52,9 +49,6 @@
     {
       "name": "desmos",
       "address": "desmosvaloper1d6xe3ldswgaurszrp3emspvhspvu7hxm4ty8mv",
-      "autostake": {
-        "correctSlip44": true
-      },
       "restake": {
         "address": "desmos17srygfu0ky47ctnjrx740c53v57vnerp2rdnh0",
         "run_time": "every 1 hour",
