@@ -28,6 +28,15 @@
         "minimum_reward": 10000
       }
     },
+         {
+      "name": "desmos",
+      "address": "desmosvaloper1u0xqasxgl6qkkckd860pt4xjqryxek4y05jwy6",
+      "restake": {
+        "address": "desmos10gqy32et4k2zydrrl30t7pfa854mu56pj3xdht",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
         {
       "name": "cosmos",
       "address": "cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc",
