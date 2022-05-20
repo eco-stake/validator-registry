@@ -54,6 +54,15 @@
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1a26frgj0c90q8y00crsmsd60na79l6kzet3uqu",
+      "restake": {
+        "address": "secret1ahevefu7vpfektcc8ccs34d4rtg8luyr3syh8n",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
