@@ -11,6 +11,24 @@
       }
     },
     {
+      "name": "decentr",
+      "address": "decentrvaloper19f0w9svr905fhefusyx4z8sf83j6et0g52df8n",
+      "restake": {
+        "address": "decentr1etsdevgm5ps240lrw9mg3p2j32tj96kt93r4n9",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper19f0w9svr905fhefusyx4z8sf83j6et0g9plrux",
+      "restake": {
+        "address": "ki1etsdevgm5ps240lrw9mg3p2j32tj96ktlj5wke",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper19f0w9svr905fhefusyx4z8sf83j6et0glfrct9",
       "restake": {
