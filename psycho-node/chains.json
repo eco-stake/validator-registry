@@ -36,6 +36,15 @@
         "run_time": "10:30",
         "minimum_reward": 1000
       }
+    },
+    {
+        "name": "gravity",
+        "address": "gravityvaloper1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2d454qt",
+        "restake": {
+          "address": "gravity1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2u7dt2l",
+          "run_time": "10:30",
+          "minimum_reward": 1000
+      }
     }
   ]
 }
