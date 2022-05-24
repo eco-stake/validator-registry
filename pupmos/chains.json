@@ -1,0 +1,32 @@
+{
+  "name": "PUPMØS",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1ka8v934kgrw6679fs9cuu0kesyl0ljjy2kdtrl",
+      "restake": {
+        "address": "juno1ka6r58g5h27x6gyyjkzxtpdk95k2yurf4ge0fl",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1vygmh344ldv9qefss9ek7ggsnxparljlmj56q5",
+      "restake": {
+        "address": "cosmos1ka6r58g5h27x6gyyjkzxtpdk95k2yurfr665wr",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15sr5ugya95q0ps9qet03ujsten8z05atamhcvy",
+      "restake": {
+        "address": "stars1ka6r58g5h27x6gyyjkzxtpdk95k2yurfhxdf9j",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

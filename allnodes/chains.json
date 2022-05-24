@@ -54,6 +54,33 @@
         "run_time": "01:15",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1e9ucjn5fjmetky5wezzcsccp7hqcwzrrdulz7n",
+      "restake": {
+        "address": "osmo1n4mmffygh8wdm8zfxxv30cg0aq9m2s07xjv0d8",
+        "run_time": "01:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1vaq0mrf3vfs5pap7hhfs7lgfl4e2plum77halc",
+      "restake": {
+        "address": "stars1n4mmffygh8wdm8zfxxv30cg0aq9m2s0764gzsy",
+        "run_time": "01:45",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1t9evdw09hgt8p4z5at5325scwdhszka92vafvr",
+      "restake": {
+        "address": "persistence17yg9k46xnj6v83peqsvrxvakaxc3arlkgfjv8k",
+        "run_time": "02:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

@@ -14,7 +14,7 @@ Each validator operation has their own directory. Within that directory are curr
 
 ### profile.json
 
-Overall name for your operation and [keybase.io](https://keybase.io/) identity. This isn't used in REStake currently but it helps annotate your entry.
+Overall name for your operation and [keybase.io](https://keybase.io/) PGP fingerprint identity. This isn't used in REStake currently but it helps annotate your entry.
 
 ```JSON
 {
