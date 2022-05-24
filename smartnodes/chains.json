@@ -25,6 +25,27 @@
 			}
 		},
 		{
+			"name": "cosmoshub",
+			"address": "cosmosvaloper1hdrlqvyjfy5sdrseecjrutyws9khtxxaux62l7",
+			"restake": {
+			"address": "cosmos12yeq3h92ew3e00tt2kma5q0t7tmangvyerdenc",
+			"run_time": [
+				"09:00",
+				"21:00"
+			],
+			"minimum_reward": 1000
+		}
+		},
+		{
+			"name": "osmosis",
+			"address": "osmovaloper16j5hsdrcaa6950ks0rf944rgmncukl74cs7yw6",
+			"restake": {
+			"address": "osmo12yeq3h92ew3e00tt2kma5q0t7tmangvy3c7f92",
+			"run_time": "21:00",
+			"minimum_reward": 1000
+		}
+		},
+		{
 			"name": "bitsong",
 			"address": "bitsongvaloper12d0dae3qm4et9r5l2npwrmwknax07yd0rrlhxx",
 			"restake": {
