@@ -18,6 +18,15 @@
         "run_time": "01:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15sr5ugya95q0ps9qet03ujsten8z05atamhcvy",
+      "restake": {
+        "address": "stars1ka6r58g5h27x6gyyjkzxtpdk95k2yurfhxdf9j",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
