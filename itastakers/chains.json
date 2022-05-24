@@ -37,6 +37,15 @@
         "minimum_reward": 10000
       }
     },
+         {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1t6t8ttmlzw5fgehx5wlfc02sefj5etwvk6yz9j",
+      "restake": {
+        "address": "chihuahua1ljahtlzw6zy7fea6yywavuvvlq96vec9sskar8",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },    
         {
       "name": "cosmos",
       "address": "cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc",
