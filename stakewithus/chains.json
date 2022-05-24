@@ -1,0 +1,17 @@
+{
+  "name": "StakeWithUs",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqv5qgdz9",
+      "restake": {
+        "address": "osmo1ltd3ynqjvy39r3lc48p4zlqa59hvam5tagerlj",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100
+      }
+    }
+  ]
+}

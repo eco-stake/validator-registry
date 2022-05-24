@@ -1,0 +1,17 @@
+{
+  "name": "playalongs",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1pujrvwt9xve0u0t472x5wm0lf5r37thakp7pvw",
+      "restake": {
+        "address": "secret12jdfyjlpzqg0899yq9rmenumse8se0dqde4gu7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

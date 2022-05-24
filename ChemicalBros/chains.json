@@ -1,0 +1,17 @@
+{
+  "name": "Chemical Bros by Bites Digital",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14ts0j42qkpr43a3tgxr7zz6l6zdf7hdes5jpma",
+      "restake": {
+        "address": "osmo1dp67gfvhsffyn42k4srsw29wm6d55u9mlx9m3l",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

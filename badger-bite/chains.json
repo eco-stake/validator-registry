@@ -9,6 +9,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000
       }
-    }
+    },
+    {
+     "name": "sentinel",
+     "address": "sentvaloper16yg44hae44lcdexmmk7wpaphny0ahmqf6zevq5",
+     "restake": {
+       "address": "sent1rffg5ctm87snd4d8q2zk3rv9pk32md4p5xp9yk",
+       "run_time": "every 15 minutes",
+       "minimum_reward": 1000000
+     }
+   },
+    {
+     "name": "decentr",
+     "address": "decentrvaloper1tk7wrqqwz5tlqw7sg4kdtultm3t6ucuf6p43m6",
+     "restake": {
+       "address": "decentr1rffg5ctm87snd4d8q2zk3rv9pk32md4pyn3gp3",
+       "run_time": "every 15 minutes",
+       "minimum_reward": 1000000
+     }
+   }
   ]
 }
