@@ -20,6 +20,15 @@
       }
     },
     {
+      "name": "kava",
+      "address": "kavavaloper1a7xflafgxct35xhncmat33hp3v58kr3dfly48x",
+      "restake": {
+        "address": "kava1ueljtgcj9qt6rqumhvufl9ykm25gd40g9a2tqm",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "shentu",
       "address": "certikvaloper13yhqdx8ycpyadfzque9ucj5ewe80qvh7vw0sh4",
       "restake": {
