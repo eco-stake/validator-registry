@@ -54,6 +54,15 @@
         "run_time": "21:00",
         "minimum_reward": 10000
       }
+    },
+            {
+      "name": "crescent",
+      "address": "crevaloper1zegq2j52zh7g23k8dzfawwmz64j8d52uqfnzhn",
+      "restake": {
+        "address": "cre1zegq2j52zh7g23k8dzfawwmz64j8d52uzand6e",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
