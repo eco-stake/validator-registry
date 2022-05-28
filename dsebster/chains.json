@@ -9,7 +9,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
-    }
+    },
     {
       "name": "sifchain",
       "address": "sifvaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnunzjlyg",
@@ -18,7 +18,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
-    }
+    },
     {
       "name": "akash",
       "address": "akashvaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnucykzzr",
@@ -27,6 +27,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
     {
       "name": "cheqd",
       "address": "cheqdvaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnuw489xq",
@@ -34,7 +35,7 @@
         "address": "cheqd1zl2wl0fryq24yug2l9jrmjx73axydfn3djx5p9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000
-      },
-    }
+      }
+    },
   ]
 }
