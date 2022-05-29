@@ -1,4 +1,3 @@
-
 {
   "name": "vNodes Validators | #IBCunderdogs",
   "chains": [
@@ -28,6 +27,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
-    }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnuw489xq",
+      "restake": {
+        "address": "cheqd1zl2wl0fryq24yug2l9jrmjx73axydfn3djx5p9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
   ]
 }
