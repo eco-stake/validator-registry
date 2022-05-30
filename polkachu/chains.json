@@ -33,8 +33,17 @@
       "address": "cerberusvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pvm8q9p",
       "restake": {
         "address": "cerberus1xrrfek3qpz4ja8ccrjklfy064asyqq9k04kxpy",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p434ez9",
+      "restake": {
+        "address": "certik1xrrfek3qpz4ja8ccrjklfy064asyqq9k562c4y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -42,7 +51,7 @@
       "address": "chihuahuavaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p40qac2",
       "restake": {
         "address": "chihuahua1xrrfek3qpz4ja8ccrjklfy064asyqq9ks8mp4d",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000
       }
     },
