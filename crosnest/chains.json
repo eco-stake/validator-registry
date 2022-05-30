@@ -189,6 +189,24 @@
         "run_time": "23:00",
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1ktu7a6wqlk6vlywf4rt6wfcxuphc0es27p0qvx",
+      "restake": {
+        "address": "terra1v9vae554q55xa4pcfdm0p3kv8nxn50jkugaj0f",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper16nx30ear9ewsd9xuzy9wrlpp94vmdzlvq5jfdx",
+      "restake": {
+        "address": "must be added",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
     }
   ]
 }
