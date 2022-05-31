@@ -1,3 +1,6 @@
+{
+  "name": "Four Moons",
+  "chains": [    
     {
       "name": "osmosis",
       "address": "osmovaloper1adm6z5krjhu527v8y9umvye9vf04efgya5f2wk",
