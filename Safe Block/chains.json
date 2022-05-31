@@ -1,0 +1,14 @@
+{
+  "name": "Safe Block",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1fp9klv3ahdya8m2gc58vhp3cge8seglrgt0rzz",
+      "restake": {
+        "address": "lum1r64t7u292f5d0ck4pt6ate6880ufwffm6vzs8l",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
