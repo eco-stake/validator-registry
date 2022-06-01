@@ -74,6 +74,24 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw63w87l",
+      "restake": {
+        "address": "evmos10edr8awd0pulykvqxlwnz9n72rtngwjdzvjtq0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "echelon",
+      "address": "echelonvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgwnwhvxv",
+      "restake": {
+        "address": "echelon10edr8awd0pulykvqxlwnz9n72rtngwjd4ncn53",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "firmachain",
       "address": "firmavaloper1sl53c25dhhac36fsuj0cgw55dm4pzvjxv2mzn6",
       "restake": {
@@ -133,7 +151,7 @@
       "restake": {
         "address": "secret18zzklau04kf3qtwrnnzlf20xrxpx3a89dqu42m",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     }
   ]
