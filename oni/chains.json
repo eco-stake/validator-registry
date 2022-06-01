@@ -1,14 +1,33 @@
 {
-  "name": "Oni ⛩️",
-  "chains": [
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper1hzd9hdlnt7et9gmdnw4r24m0xhvycn38ptvec8",
-      "restake": {
-        "address": "cerberus164e53fz34nkc03vnncdl5w9xp420lkakgwpcer",
-        "run_time": "every 3 minutes",
-        "minimum_reward": 10000
+    "name": "Oni ⛩️",
+    "chains": [
+      {
+        "name": "cerberus",
+        "address": "cerberusvaloper1emh90uhfx3ytu42y070v0ernk48s4v67l26xzv",
+        "restake": {
+          "address": "cerberus164e53fz34nkc03vnncdl5w9xp420lkakgwpcer",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+            },
+      {
+        "name": "juno",
+        "address": "junovaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qk0du5jq",
+        "restake": {
+          "address": "juno164e53fz34nkc03vnncdl5w9xp420lkakzmz2t5",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+            },
+      {
+        "name": "stargaze",
+        "address": "starsvaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qkeq2f7v",
+        "restake": {
+          "address": "stars164e53fz34nkc03vnncdl5w9xp420lkakq4kv8e",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
       }
-    }
-  ]
-}
+
+    ]
+  }

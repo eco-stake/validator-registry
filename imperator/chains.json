@@ -80,6 +80,15 @@
         "address": "rizon1eml7agwd5x084ennlg6apvskufzrlvnr4dxxep",
         "run_time": "21:00",
         "minimum_reward": 100000
+        }      		
+      },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1fqeezech7r9mr20aggde4a36qf4zy57r5qm0dm",
+      "restake": {
+        "address": "evmos1xtk2ex5zmw7xk9s3vklz8nv8pq3cngagfwp22t",
+        "run_time": "21:00",
+        "minimum_reward": 100000
       }
     }
   ]

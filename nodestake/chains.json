@@ -11,6 +11,42 @@
       }
     },
     {
+      "name": "decentr",
+      "address": "decentrvaloper19f0w9svr905fhefusyx4z8sf83j6et0g52df8n",
+      "restake": {
+        "address": "decentr1etsdevgm5ps240lrw9mg3p2j32tj96kt93r4n9",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper19f0w9svr905fhefusyx4z8sf83j6et0g9plrux",
+      "restake": {
+        "address": "ki1etsdevgm5ps240lrw9mg3p2j32tj96ktlj5wke",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper19f0w9svr905fhefusyx4z8sf83j6et0glfrct9",
+      "restake": {
+        "address": "stars1etsdevgm5ps240lrw9mg3p2j32tj96kt6rjueu",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+	  },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1xaxg47uw046uw8vgpp3da367ctw9aguqjuyyyx",
+      "restake": {
+        "address": "evmos15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4pxnwa9",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper19f0w9svr905fhefusyx4z8sf83j6et0g7slqln",
       "restake": {
