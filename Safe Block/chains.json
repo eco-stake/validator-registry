@@ -18,6 +18,24 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1wzksq5mrnj2pewm9dyv8fan59f4ds8daj2fq2v",
+      "restake": {
+        "address": "agoric19e3jdwefw4lv3vgk4fl4fgs3t7fk5qtx9y3re3",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper17m80vwsx8eveq78puqztz9xxvee4306spsa0xm",
+      "restake": {
+        "address": "evmos1408uk4pmf4gdwxelrz3wgfks3ttxujwwfj8cm6",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000
+      }
     }
   ]
 }
