@@ -9,6 +9,15 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
+      "restake": {
+        "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
