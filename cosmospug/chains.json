@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper10q09k0flvffqzcmy2nx20nhxzs78nnesrv60ad",
+      "restake": {
+        "address": "evmos1kmpplwln372xm6fkkmcthlk3twxmcavep62dqq",
+        "run_time": "19:30",
+        "minimum_reward": 100000000000000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1d63kfm2azymzuw4cmn5qf7qsl2zp5qax2zz6l3",
       "restake": {

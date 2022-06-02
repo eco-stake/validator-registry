@@ -68,7 +68,7 @@
       "name": "evmos",
       "address": "evmosvaloper1aep37tvd5yh4ydeya2a88g2tkjz6f2lcrfjumh",
       "restake": {
-        "address": "evmos1v9vae554q55xa4pcfdm0p3kv8nxn50jkcdkuhp",
+        "address": "evmos1ksh2uvrvq7gftgdc8jd2n67pcwcztdxupe9y4u",
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
@@ -186,6 +186,24 @@
       "address": "starsvaloper1cpaslqxawslaadw7e6vmakkx8wu8z4408wxj0p",
       "restake": {
         "address": "stars1v9vae554q55xa4pcfdm0p3kv8nxn50jkwss0xc",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1ktu7a6wqlk6vlywf4rt6wfcxuphc0es27p0qvx",
+      "restake": {
+        "address": "terra1v9vae554q55xa4pcfdm0p3kv8nxn50jkugaj0f",
+        "run_time": "23:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper16nx30ear9ewsd9xuzy9wrlpp94vmdzlvq5jfdx",
+      "restake": {
+        "address": "must be added",
         "run_time": "23:00",
         "minimum_reward": 1000
       }

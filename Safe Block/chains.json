@@ -1,0 +1,23 @@
+{
+  "name": "Safe Block",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1fp9klv3ahdya8m2gc58vhp3cge8seglrgt0rzz",
+      "restake": {
+        "address": "lum1r64t7u292f5d0ck4pt6ate6880ufwffm6vzs8l",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
+      "restake": {
+        "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
