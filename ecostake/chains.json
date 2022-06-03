@@ -80,6 +80,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1umk407eed7af6anvut6llg2zevnf0dn0feqqny",
+      "restake": {
+        "address": "evmos18fzq4nac28gfma6gqfvkpwrgpm5ctar2z9mxf3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
     },
