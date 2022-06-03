@@ -95,9 +95,18 @@
       "name": "evmos",
       "address": "evmosvaloper1c55g6u7q2uzgks9gjp80sle8n6qcyg64vk64g2",
       "restake": {
-        "address": "evmos18aa9mr93y6alsr58w23y4q9l47dcys78nurnnw",
+        "address": "evmos1yyt52xdduwmlrym3ecu0z5636lx5et36jm7nu6",
         "run_time": "02:30",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva1muxh5wllk627klssx2w305lz8mdar5ne4ve9dc",
+      "restake": {
+        "address": "iaa1n4mmffygh8wdm8zfxxv30cg0aq9m2s07mtlwey",
+        "run_time": "02:45",
+        "minimum_reward": 10000
       }
     }
   ]
