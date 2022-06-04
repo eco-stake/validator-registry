@@ -10,7 +10,16 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1fqs7gakxdmujtk0qufdzth5pfyspus3yx394zd",
+      "restake": {
+        "address": "mantle1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz0jupvu",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -31,7 +40,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -43,7 +52,19 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl10mfs428fyntu296dgh5fmhvdzrr2stlaekcrp9",
+      "restake": {
+        "address": "cro105yt8cy0syduuyx8hf8aud42tns63h9r3zx3au",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
       }
     },
     {
@@ -55,8 +76,21 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1umk407eed7af6anvut6llg2zevnf0dn0feqqny",
+      "restake": {
+        "address": "evmos18fzq4nac28gfma6gqfvkpwrgpm5ctar2z9mxf3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
     },
     {
       "name": "osmosis",
@@ -67,7 +101,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -79,7 +113,19 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper19t5nk5ceq5ga75epwdqhnupwg0v9339p096ydz",
+      "restake": {
+        "address": "sif1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz5tgjua",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
     }
   ]

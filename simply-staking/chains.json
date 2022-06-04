@@ -36,6 +36,33 @@
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1ldtq67attsty8hkl0pe4gkfz6fxhxdyvgnuavt",
+      "restake": {
+        "address": "umee1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9dumej8",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper10rdgqczxyp69x9llq62cc3xs4w8w0k7p42x9jq",
+      "restake": {
+        "address": "cre1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9mz4rrc",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1a26frgj0c90q8y00crsmsd60na79l6kzet3uqu",
+      "restake": {
+        "address": "secret1ahevefu7vpfektcc8ccs34d4rtg8luyr3syh8n",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

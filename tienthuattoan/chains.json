@@ -63,6 +63,24 @@
         "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13ql36flc4cdjhx08hke5vpr4dyv03aafnmvtnc",
+      "restake": {
+        "address": "cosmos15hfak84jamn59229c7r6umg2purgd9cy9h62m2",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1ksg82xa3ufmfwtsa75cgzwvv0m6mym230p6s9s",
+      "restake": {
+        "address": "mantle15hfak84jamn59229c7r6umg2purgd9cymnp0yq",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
     }	
   ]
 }

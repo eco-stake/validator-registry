@@ -1,0 +1,29 @@
+{
+  "name": "OmniFlix Network",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper12zwq8pcmmgwsl95rueqsf65avfg5zcj047ucw6",
+      "restake": {
+        "address": "osmo1npp5e2ejxwn5z08tw8ve2ppdwetu22c7wmnpe5",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1afhtjur8js4589xymu346ca7a5y5293x7p64ca",
+      "restake": {
+        "address": "juno1npp5e2ejxwn5z08tw8ve2ppdwetu22c7sjr2g6",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

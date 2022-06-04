@@ -20,6 +20,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1qmpmzdesg9gr5wpyzkssayldnhk3pa8x2nwlwp",
+      "restake": {
+        "address": "evmos1z5mwcgf7ekjze4tpelueu9hjz9whyj6e79268f",
+        "run_time": "22:30",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
       "restake": {

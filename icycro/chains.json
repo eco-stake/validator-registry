@@ -6,7 +6,7 @@
       "address": "crocncl13sspaluakmld27em3duhmkzxy8g6frrfl89gnq",
       "restake": {
         "address": "cro1fjehug09flkh25q7u35gt05z074hal8vtl8t4c",
-        "run_time": "17:30",
+        "run_time": ["05:30", "17:30"],
         "minimum_reward": 1000000
       }
     },
@@ -15,7 +15,7 @@
       "address": "cosmosvaloper1ukpah0340rx7k3x2njnavwyjv6pfpvn632df9q",
       "restake": {
         "address": "cosmos1kll6vhlg4rqeczkey04x7u4l9w2ngm6plh4zk0",
-        "run_time": "17:30",
+        "run_time": ["05:30", "17:30"],
         "minimum_reward": 10000
       }
     }

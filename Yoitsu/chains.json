@@ -1,0 +1,14 @@
+{
+  "name": "Yoitsu",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper15f60vns6g04vururr8m4mrwkzyjc23uvm3vl6e",
+      "restake": {
+        "address": "like13zq4c45h5z7zf8mnu8z9nqu9pdqe29u0jgk7d3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    }
+  ]
+}

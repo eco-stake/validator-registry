@@ -72,6 +72,51 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug",
+      "restake": {
+        "address": "fetch1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjnx0exz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9",
+      "restake": {
+        "address": "mantle1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj7lacml",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq",
+      "restake": {
+        "address": "cre1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjyn4c3c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc",
+      "restake": {
+        "address": "bostrom1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjrgjw6j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7",
+      "restake": {
+        "address": "evmos1a2kjvsgxqqk0mrfpwlvv209zfjes2xz9punv67",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }
