@@ -158,6 +158,15 @@
       }
     },
     {
+      "name": "secretnetwork",
+      "address": "secretvaloper1sa8av4qw3xerr58kwvnm8wvd87zgp36mv6cnyg",
+      "restake": {
+        "address": "secret1m7uulm62l60nz2pjvj2y8w3rtjtkm8amayhdds",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1esnwgt6g6x2d3m37pw9lkgsxgzenc36n3a4n0f",
       "restake": {
