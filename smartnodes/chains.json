@@ -46,6 +46,15 @@
 		}
 		},
 		{
+      			"name": "evmos",
+      			"address": "evmosvaloper13nujml9r2dg85nucffe82xq3yg8f35qxmfal7p",
+      			"restake": {
+        		"address": "evmos108l8y02mzl85s5e3pnhdfh0gx8cv0wclpwufjx",
+        		"run_time": "21:00",
+        		"minimum_reward": 100000000000000000
+      		}
+    		},
+		{
 			"name": "bitsong",
 			"address": "bitsongvaloper12d0dae3qm4et9r5l2npwrmwknax07yd0rrlhxx",
 			"restake": {
