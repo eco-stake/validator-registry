@@ -7,7 +7,7 @@
       "restake": {
         "address": "evmos16neph07fjlrsd6uzrul3jjxtkn3f6g06ckgrd6",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
