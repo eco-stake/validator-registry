@@ -1,0 +1,14 @@
+{
+  "name": "FireStake",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1hygh3ferns6tnu0kg03aspc8yrlm6593rkru6c",
+      "restake": {
+        "address": "evmos10v2gw6ksefw7rd7vcwzrlhgnf30h7wrqyz2t2r",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
