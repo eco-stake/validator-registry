@@ -43,7 +43,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000000
+        "minimum_reward": 1000000
       }
     },
 	{
@@ -52,7 +52,7 @@
       "restake": {
         "address": "meme1q7qrgf8dy34t62tuh7mu8m33ehvf0m7shf97h7",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -64,7 +64,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     }
   ]
