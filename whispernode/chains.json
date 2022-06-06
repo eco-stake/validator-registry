@@ -78,8 +78,8 @@
       "address": "evmosvaloper1chx7v975g72xuw8kdpjt94dh35daqqfyc37kys",
       "restake": {
         "address": "evmos1k0fpumkxl35p3se0n52e6dc3mh8vy24kn0uqsg",
-        "run_time": "23:00",
-        "minimum_reward": 1000
+        "run_time": "every 9 minutes",
+        "minimum_reward": 1000000000000
       }
     },
     {
@@ -134,6 +134,15 @@
         "address": "stars1e44rluarkdw56dy2turnwjtvtg4wqvs0xhzeu5",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1pwum4swah9t5mjynalk3f334v4ztxc66k29v25",
+      "restake": {
+        "address": "terra1e44rluarkdw56dy2turnwjtvtg4wqvs0500y49",
+        "run_time": "17:00",
+        "minimum_reward": 1000
       }
     }
   ]
