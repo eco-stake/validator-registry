@@ -1,0 +1,14 @@
+{
+  "name": "Bad Kids | 100% Slashing",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1gz645mefvu5emd0llpfjchqqpyuxt0xxq34per",
+      "restake": {
+        "address": "stars1jsmtq9z9qpeda0pyff9w8u66mkxrtzsetu0x85",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
