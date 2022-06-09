@@ -78,8 +78,8 @@
       "address": "evmosvaloper1chx7v975g72xuw8kdpjt94dh35daqqfyc37kys",
       "restake": {
         "address": "evmos1k0fpumkxl35p3se0n52e6dc3mh8vy24kn0uqsg",
-        "run_time": "every 9 minutes",
-        "minimum_reward": 1000000000000
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000000000000
       }
     },
     {
