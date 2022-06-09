@@ -81,6 +81,33 @@
         "run_time": "02:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper14vk3997r4ea4m7eej7ugmr503ru768fxwynsmq",
+      "restake": {
+        "address": "kava1vem73j7m9t04kp5mh3t7tnhzw9yhrudyldx7mn",
+        "run_time": "02:15",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1c55g6u7q2uzgks9gjp80sle8n6qcyg64vk64g2",
+      "restake": {
+        "address": "evmos1yyt52xdduwmlrym3ecu0z5636lx5et36jm7nu6",
+        "run_time": "02:30",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva1muxh5wllk627klssx2w305lz8mdar5ne4ve9dc",
+      "restake": {
+        "address": "iaa1n4mmffygh8wdm8zfxxv30cg0aq9m2s07mtlwey",
+        "run_time": "02:45",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
