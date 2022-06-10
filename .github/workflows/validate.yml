@@ -6,14 +6,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Validate profile.json schema
-        uses: snapcart/json-schema-validator@v1.0.0
+        uses: walbo/validate-json@v1.1.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          json_schema: ./profile.schema.json
-          json_path_pattern: .*/profile.json$
+          files: .*/profile.json
+          schema: profile.schema.json
+          fail-on-missing-schema: true
       - name: Validate chains.json schema
-        uses: snapcart/json-schema-validator@v1.0.0
+        uses: walbo/validate-json@v1.1.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          json_schema: ./chains.schema.json
-          json_path_pattern: .*/chains.json$
+          files: .*/chains.json
+          schema: chains.schema.json
+          fail-on-missing-schema: true
