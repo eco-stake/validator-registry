@@ -1,5 +1,6 @@
 {
-  "name": "Saturn 🌑",
+  "$schema": "../chains.schema.json",
+  "name": "GalaxyStaking - Saturn 🌑",
   "chains": [
     {
       "name": "cryptoorgchain",

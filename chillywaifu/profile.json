@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Chilly Waifu Validation (Chill Validation)",
   "identity": "94530BFA87496641"
 }

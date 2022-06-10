@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "🌲 Finland | 0% fee",
   "chains": [
     {

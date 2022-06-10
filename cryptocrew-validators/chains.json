@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "✅ CryptoCrew Validators #IBCgang",
   "chains": [
     {
@@ -142,6 +143,15 @@
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
+      "restake": {
+        "address": "persistence1sk3s5k9sn8eeszf2d4dtn4c3sxqkxuvz56mg0r",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     }

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {

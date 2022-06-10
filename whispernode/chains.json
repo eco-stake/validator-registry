@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": " WhisperNode 🤐",
   "chains": [
     {
@@ -7,6 +8,15 @@
       "restake": {
         "address": "mantle1e44rluarkdw56dy2turnwjtvtg4wqvs0v0wpg0",
         "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1j5vxzfx74xlml73e2mz9nn2ultz9jhzxjsakxw",
+      "restake": {
+        "address": "axelar1e44rluarkdw56dy2turnwjtvtg4wqvs0k9rvuy",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000
       }
     },
@@ -74,12 +84,21 @@
       }
     },
     {
+      "name": "echelon",
+      "address": "echelonvaloper1ytqr8sr2utacn7s0ky4c7n5g80tz8xhylertpf",
+      "restake": {
+        "address": "echelon1k0fpumkxl35p3se0n52e6dc3mh8vy24kyskcyk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1chx7v975g72xuw8kdpjt94dh35daqqfyc37kys",
       "restake": {
         "address": "evmos1k0fpumkxl35p3se0n52e6dc3mh8vy24kn0uqsg",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 10000
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000000000000
       }
     },
     {

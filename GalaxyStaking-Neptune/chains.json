@@ -1,5 +1,6 @@
 {
-  "name": "Neptune 🌑",
+  "$schema": "../chains.schema.json",
+  "name": "GalaxyStaking - Neptune 🌑",
   "chains": [
     {
       "name": "cryptoorgchain",

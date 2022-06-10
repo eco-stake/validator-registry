@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Kalia Network",
   "chains": [    
     {
@@ -18,6 +19,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1qz3zj0j3546xywfe8qwcve5flne9w98qu90048",
+      "restake": {
+        "address": "stars1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsacgp7s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }    
   ]
 }

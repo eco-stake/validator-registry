@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "u2 DAO | 100% Slash Protected",
+  "chains": [
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1p90hu6pqd57xgdauf0l8dwpau73jkk7273y6ck",
+      "restake": {
+        "address": "firma1p4a2tqtgnhjwaxwfvn8zq5tqktla0fqxmd9xvm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
