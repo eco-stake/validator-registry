@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "u2 DAO | 100% Slash Protected",
   "chains": [
     {

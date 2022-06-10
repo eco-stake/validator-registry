@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Trivium | Trivium.Network",
   "identity": "1DAC06C56C7B2AC9"
 }

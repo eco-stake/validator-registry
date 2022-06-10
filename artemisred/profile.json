@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Artemis.red",
   "identity": "B9EA8ECA91684211"
 }
