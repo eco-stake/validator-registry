@@ -1,0 +1,14 @@
+on: [pull_request, workflow_dispatch]
+name: PR workflow
+jobs:
+  validate_profile:
+    name: Validate profile.json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate profile.json schema
+        uses: snapcart/json-schema-validator@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          json_schema: ./profile.schema.json
+          json_path_pattern: .*\/profile.json$
