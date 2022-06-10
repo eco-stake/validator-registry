@@ -12,7 +12,6 @@ jobs:
           schema: profile.schema.json
           fail-on-missing-schema: true
           schema-version: draft-07
-          print-valid-files: true
       - name: Validate chains.json schema
         uses: walbo/validate-json@v1.1.0
         with:
@@ -20,4 +19,3 @@ jobs:
           schema: chains.schema.json
           fail-on-missing-schema: true
           schema-version: draft-07
-          print-valid-files: true
