@@ -10,6 +10,15 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper15ksyw7t5t9e7w9n3d2jqqmv7y334mfrhfvvnge",
+      "restake": {
+        "address": "evmos1xc3rax4n2xs3d7df2ap8cscgtcm7faku627glt",
+        "run_time": "20:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
