@@ -1,0 +1,33 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1654856890.json", 
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"name",
+		"identity"
+	],
+	"properties": {
+		"name": {
+			"$id": "#root/name", 
+			"title": "Name", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"ECO Stake 🌱"
+			],
+			"pattern": "^.*$"
+		},
+		"identity": {
+			"$id": "#root/identity", 
+			"title": "Identity", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"5992A6D423A406D6"
+			],
+			"pattern": "^.*$"
+		}
+	}
+}
