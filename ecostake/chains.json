@@ -20,7 +20,7 @@
       "restake": {
         "address": "mantle1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz0jupvu",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000,
       }
     },
     {
