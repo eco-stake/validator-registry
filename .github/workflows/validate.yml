@@ -8,12 +8,12 @@ jobs:
       - name: Validate profile.json schema
         uses: walbo/validate-json@v1.1.0
         with:
-          files: .*/profile.json
+          files: ./*/profile.json
           schema: profile.schema.json
           fail-on-missing-schema: true
       - name: Validate chains.json schema
         uses: walbo/validate-json@v1.1.0
         with:
-          files: .*/chains.json
+          files: ./*/chains.json
           schema: chains.schema.json
           fail-on-missing-schema: true
