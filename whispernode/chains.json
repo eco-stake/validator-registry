@@ -78,7 +78,7 @@
       "address": "digvaloper1s8kaf75yr6v693lhcdwx9r6d3z0sgs2nns36pq",
       "restake": {
         "address": "dig1e44rluarkdw56dy2turnwjtvtg4wqvs02lu047",
-        "run_time": "22:00",
+        "run_time": "2x per day",
         "minimum_reward": 1000
       }
     },
