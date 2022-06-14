@@ -1,5 +1,4 @@
 {
-  "$schema": "../chains.schema.json",
   "name": "POSTHUMAN ꝏ DVS",
   "chains": [
     {
@@ -117,6 +116,15 @@
         "address": "evmos1a2kjvsgxqqk0mrfpwlvv209zfjes2xz9punv67",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk",
+      "restake": {
+        "address": "like1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjn86l8w",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
       }
     }
   ]
