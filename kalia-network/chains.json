@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "meme",
+      "address": "memevaloper1upm4qs3k97qn4m9f68gj099d70sa8qxjxr9ye2",
+      "restake": {
+        "address": "meme1wv5zr0sfynf2d78c0u49h3kuqnhhqgcshmftjt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1qz3zj0j3546xywfe8qwcve5flne9w98qu90048",
       "restake": {
