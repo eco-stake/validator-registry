@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "kichain",
+      "address": "kivaloper1xwazl8ftks4gn00y5x3c47auquc62ssuqpegp6",
+      "restake": {
+        "address": "ki195mm9y35sekrjk73anw2az9lv9xs5mzttm7fcr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu0kjqgq",
       "restake": {
