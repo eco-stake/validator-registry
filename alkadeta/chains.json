@@ -1,0 +1,14 @@
+{
+  "name": "alkadeta",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1wz3692qvg6g3kcnnyta40rn2jj5jfhxqzntq0s",
+      "restake": {
+        "address": "stars1re48lxn948kjq2pkjcczs90ukxysczxdg02rjl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
