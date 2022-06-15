@@ -37,6 +37,24 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper125ph4snec4yneqagk5u07e95sej4zhjcjw3yx9",
+      "restake": {
+        "address": "bitsong1hf2znxmx2gj33dcc045vpdwc3v9kmtn2rnp5s9",
+        "run_time": "daily",
+        "minimum_reward": 100000
+      }
+    },    
+     {
+      "name": "desmos",
+      "address": "desmosvaloper1alcd0qxkygqrxew82rxf75f8ajwpycvr9jfk3n",
+      "restake": {
+        "address": "desmos1h3g0cxusvhwkcpzxgedyvs699gyxxn9x33msua",
+        "run_time": "daily",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
