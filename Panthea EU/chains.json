@@ -8,7 +8,7 @@
       "restake": {
         "address": "desmos1qxx2azpysc7pya2nr3p88dnrjt2ne53z757wxv",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
