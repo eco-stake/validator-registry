@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DeFi100-iCosmosDAO",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1k9lay7ec328u2cmmtp8m8309msztt5hz7euvcc",
+      "restake": {
+        "address": "evmos1n4dc77hxkdds9c2sgz0779vlnuhxatm0dampqe",
+        "run_time": "3:30",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
