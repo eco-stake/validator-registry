@@ -29,6 +29,24 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper16sk79nlv8jkvq3gnhgm758uhfqjmwtmkcrl80f",
+      "restake": {
+        "address": "osmo1m2g72wffh3l65sjlpxvsgmns3y7z58dyxwrdkd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper12772f4pdtgrm4umqakclh98y98mt9qh8c9v6g6",
+      "restake": {
+        "address": "secret163hk2yw0dt8gdrdaefqtvfl3v9pjdhgj6nake6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {
