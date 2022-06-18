@@ -19,6 +19,15 @@
             "run_time":"every 2 hour",
             "minimum_reward":10000
          }
+      },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfyscxa",
+      "restake": {
+        "address": "mantle1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfm5vag",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
+    }
    ]
 }
