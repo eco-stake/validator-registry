@@ -3,6 +3,18 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "meme",
+      "address": "memevaloper1dshysamgzd0d7meftn6npf9pxyskxh49mdc68a",
+      "restake": {
+        "address": "meme1m7xlymnpxl2d4llu67v08e8xs67dj2fze29u3k",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper12ancx2qcgk04rrkexuhjq93etgktq4nn58z9yu",
       "restake": {
