@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Citizen Cosmos",
+  "name": "spacefi.io",
   "chains": [
     {
       "name": "evmos",
