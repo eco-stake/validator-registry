@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Bro_n_Bro",
   "chains": [
     {

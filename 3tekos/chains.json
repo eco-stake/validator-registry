@@ -1,6 +1,16 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "3Tekos",
   "chains": [
+    {
+      "name": "bandchain",
+      "address": "bandvaloper12v3458kg298ckge36lsqafmmggj3pywj062p2q",
+      "restake": {
+        "address": "band1ugq749thznx04z4yw6vh57hqlzel6z25zzz9ue",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
     {
       "name": "bitcanna",
       "address": "bcnavaloper1hmjwnv96eg30mc7vg2wes7eu2esnk9ujdwaccu",

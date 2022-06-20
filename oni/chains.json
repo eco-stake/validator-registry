@@ -1,4 +1,5 @@
 {
+    "$schema": "../chains.schema.json",
     "name": "Oni ⛩️",
     "chains": [
       {
@@ -15,6 +16,15 @@
         "address": "junovaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qk0du5jq",
         "restake": {
           "address": "juno164e53fz34nkc03vnncdl5w9xp420lkakzmz2t5",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+            },
+           {
+        "name": "osmosis",
+        "address": "osmovaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qk5wjn0s",
+        "restake": {
+          "address": "osmo164e53fz34nkc03vnncdl5w9xp420lkakujjp66",
           "run_time": "every 1 hour",
           "minimum_reward": 10000
         }

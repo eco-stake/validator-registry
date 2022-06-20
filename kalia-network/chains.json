@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Kalia Network",
   "chains": [    
     {
@@ -11,12 +12,39 @@
       }
     },
     {
+      "name": "echelon",
+      "address": "echelonvaloper1ms0kwjfhfztn74eg3qeazsnuj4r06gswjx8cvw",
+      "restake": {
+        "address": "echelon1w37sg25lvt47yflnm6m4eky6ggdqprm7wjr8u0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper168g8tlyghyz38ytl63ucvfgsfwc5r66kdwrvhw",
+      "restake": {
+        "address": "desmos1ypncrt0jczvmtxc4ew2f0pvz26kthk6x6dz698",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1492mycgzlzw2htuwqdny0r55s5t0zype4m9pzl",
       "restake": {
         "address": "evmos1w37sg25lvt47yflnm6m4eky6ggdqprm7edflg3",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1upm4qs3k97qn4m9f68gj099d70sa8qxjxr9ye2",
+      "restake": {
+        "address": "meme1wv5zr0sfynf2d78c0u49h3kuqnhhqgcshmftjt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     },
     {

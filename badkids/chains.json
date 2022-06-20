@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Bad Kids | 100% Slashing",
   "chains": [
     {

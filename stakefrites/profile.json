@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Stake Frites",
   "identity": "7817CA2B0981F769"
 }

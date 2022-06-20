@@ -18,6 +18,7 @@ Overall name for your operation and [keybase.io](https://keybase.io/) PGP finger
 
 ```JSON
 {
+  "$schema": "../profile.schema.json",
   "name": "ECO Stake 🌱",
   "identity": "5992A6D423A406D6"
 }
@@ -29,6 +30,7 @@ Chain information and REStake attributes for your validators.
 
 ```JSON
 {
+  "$schema": "../chains.schema.json",
   "name": "ECO Stake 🌱",
   "chains": [
     {
