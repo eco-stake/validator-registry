@@ -1,0 +1,47 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "GATA | Slash Protected",
+  "chains": [
+    
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1w9m6p7ctu4gkdsr8plle997h25rzsa96xlzfat",
+      "restake": {
+        "address": "evmos17ahstzturq5rvk5razlkwcmagj6440h7j0apfu",
+        "run_time": [
+          "01:00",
+          "13:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+ 
+
+    {
+      "name": "juno",
+      "address": "junovaloper1yeaw3dv6jk3hr290l2tsew7rr2vjykynme37s2",
+      "restake": {
+        "address": "juno1na6j5scjfrq4az3d0lupp4tyaeahmh9wm2sm7w",
+        "run_time": [
+          "01:00",
+          "13:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1u453cen62m939v548nfql54zl886a9zy7ggzqq",
+      "restake": {
+        "address": "sif1na6j5scjfrq4az3d0lupp4tyaeahmh9wg9ukke",
+        "run_time": [
+          "01:00",
+          "13:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+   
+  ]
+}
