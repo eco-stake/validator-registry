@@ -9,8 +9,8 @@
       "restake": {
         "address": "evmos17ahstzturq5rvk5razlkwcmagj6440h7j0apfu",
         "run_time": [
-          "01:00",
-          "13:00"
+          "08:00",
+          "20:00"
         ],
         "minimum_reward": 10000
       }
@@ -23,8 +23,8 @@
       "restake": {
         "address": "juno1na6j5scjfrq4az3d0lupp4tyaeahmh9wm2sm7w",
         "run_time": [
-          "01:00",
-          "13:00"
+          "08:00",
+          "20:00"
         ],
         "minimum_reward": 10000
       }
@@ -36,8 +36,8 @@
       "restake": {
         "address": "sif1na6j5scjfrq4az3d0lupp4tyaeahmh9wg9ukke",
         "run_time": [
-          "01:00",
-          "13:00"
+          "08:00",
+          "20:00"
         ],
         "minimum_reward": 10000
       }
