@@ -98,7 +98,7 @@
       "restake": {
         "address": "evmos13craf042e76qasxu6f8vl9ds7vtcajyxmr9asz",
         "run_time": "12:30,22:30",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 250000000000000000
       }
     },
     {
