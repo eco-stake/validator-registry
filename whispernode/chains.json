@@ -111,6 +111,17 @@
       }
     },
     {
+      "name": "harpoon",
+      "address": "kujiravaloper1fdjq8wxdg3ew0y27fmhd9vp3hvceg5y72ahup4",
+      "restake": {
+        "address": "kujira1e44rluarkdw56dy2turnwjtvtg4wqvs0rrhu60",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1txgtzgdj90mqddhyu5gcpkkdeu9g2fu22d85d7",
       "restake": {
