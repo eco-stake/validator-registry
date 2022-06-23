@@ -79,7 +79,7 @@
       "address": "digvaloper1s8kaf75yr6v693lhcdwx9r6d3z0sgs2nns36pq",
       "restake": {
         "address": "dig1e44rluarkdw56dy2turnwjtvtg4wqvs02lu047",
-        "run_time": "22:00",
+        "run_time": "2x per day",
         "minimum_reward": 1000
       }
     },
@@ -108,6 +108,17 @@
         "address": "juno1e44rluarkdw56dy2turnwjtvtg4wqvs0yeklse",
         "run_time": "every 29 minutes",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "harpoon",
+      "address": "kujiravaloper1fdjq8wxdg3ew0y27fmhd9vp3hvceg5y72ahup4",
+      "restake": {
+        "address": "kujira1e44rluarkdw56dy2turnwjtvtg4wqvs0rrhu60",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 10000
       }
     },
     {
