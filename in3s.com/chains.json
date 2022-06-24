@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper1rcp29q3hpd246n6qak7jluqep4v006cdnsdfzt",
-      "restake": {
-        "address": "cre1vldshr3rznnhrdm40p6d5qy2km3n799j0zu49t",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper1rcp29q3hpd246n6qak7jluqep4v006cd8q9sme",
       "restake": {
