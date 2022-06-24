@@ -22,7 +22,7 @@
     },
     {
       "name": "cosmoshub",
-      "address": "junovaloper1vq8tw77kp8lvxq9u3c8eeln9zymn68rng8pgt4",
+      "address": "cosmosvaloper15ytx6mflyrxynjerqlud6w646v6u3qvtjtfane",
       "restake": {
         "address": "cosmos188pr9uhee8ls67flnhke4a7383pdmf24g39vyq",
         "run_time": "22:00",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "name": "cosmoshub",
+      "name": "terra",
       "address": "terravaloper1wzu2j73nvccghywtghku5ch59f67jykw58na64",
       "restake": {
         "address": "terra1dmvjsfhywnu42635ls5wd4xpgxeude5hkvw93z",
