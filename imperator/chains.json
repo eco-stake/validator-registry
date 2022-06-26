@@ -103,7 +103,7 @@
       },
     {
         "name": "firmachain",
-        "address": "evmosvaloper1fqeezech7r9mr20aggde4a36qf4zy57r5qm0dm",
+        "address": "firmavaloper13frzpda7gydx4zhn29awye757ffr863mc9mhsn",
         "restake": {
           "address": "firma1jq03ch6nw2e0f34gqx04hureq6tmrk7hgvpl5l",
           "run_time": "21:00",
@@ -192,7 +192,7 @@
         }
       },
     {
-        "name": "ixo",
+        "name": "impacthub",
         "address": "ixovaloper13zr4hl0775hpfxqfhrc6y2z38u9zqpqj99vt4q",
         "restake": {
           "address": "ixo1eml7agwd5x084ennlg6apvskufzrlvnrf9y932",
