@@ -244,6 +244,15 @@
         ],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "idep",
+      "address": "idepvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawuewume",
+      "restake": {
+        "address": "idep1fs7lu28hx5m9akm7rp0c2422cn8r2f7gar2x3q",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
