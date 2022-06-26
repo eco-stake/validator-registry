@@ -35,7 +35,7 @@
       "restake": {
         "address": "echelon1w37sg25lvt47yflnm6m4eky6ggdqprm7wjr8u0",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
