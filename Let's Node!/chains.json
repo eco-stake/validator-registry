@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Let's Node!",
+  "chains": [
+	{
+      "name": "umee",
+      "address": "umeevaloper1uw0uy65pdrpge0xjp492qfqywqpvl5q44ggnsv",
+      "restake": {
+        "address": "umee1nhf7attgendwuqpnmzpmdk3hjplt4zq8c6z4m8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1vvjw4652wfnkn596va77ltewe02mkf7qlj7n3l",
+      "restake": {
+        "address": "evmos1e8nzrjjuanvtqet5kqngunf40vt8v7kaa6gwv5",
+        "run_time": "21:00",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}
