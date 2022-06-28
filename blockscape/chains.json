@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "blockscape",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13x77yexvf6qexfjg9czp6jhpv7vpjdwwkyhe4p",
+      "restake": {
+        "address": "cosmos152thyyusslc48metpf9tpt3r8d4krc2qe77gwt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1pwxk989lc74wfysdm22mceeahm83e52nv6xg8m",
+      "restake": {
+        "address": "gravity152thyyusslc48metpf9tpt3r8d4krc2qawvstr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper13x77yexvf6qexfjg9czp6jhpv7vpjdww6lkc9h",
+      "restake": {
+        "address": "juno152thyyusslc48metpf9tpt3r8d4krc2q0vanfh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper13x77yexvf6qexfjg9czp6jhpv7vpjdwwpuclc8",
+      "restake": {
+        "address": "osmo152thyyusslc48metpf9tpt3r8d4krc2q39dcce",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper10yhlcvh88sux4zmf67udhg5f5z2803z6wujgj9",
+      "restake": {
+        "address": "regen152thyyusslc48metpf9tpt3r8d4krc2qxu45c0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1u7gfsx42k88sk6qr23gjdu2y5gkhm2h2zkryc5",
+      "restake": {
+        "address": "sif152thyyusslc48metpf9tpt3r8d4krc2qur37pq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
