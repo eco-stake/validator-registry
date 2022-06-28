@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Bro_n_Bro",
   "chains": [
     {
@@ -23,7 +24,7 @@
       "name": "evmos",
       "address": "evmosvaloper1ce4vh0e5kanlgc7z0rhcemvd8erjnfzcyfecl7",
       "restake": {
-        "address": "evmos1grfk7t0k42yxpwqhr7kt4te7j73m2a3vqyv7mw",
+        "address": "evmos1umjyc6jvtrwrr62z5d4afkrjtq7gyg0eq98x5k",
         "run_time": "19:37",
         "minimum_reward": 1000000
       }

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "ECO Stake 🌱",
   "chains": [
     {
@@ -72,6 +73,27 @@
       "address": "digvaloper136avwnuvvy94dqmtnaue2nfvjes8xr37h9rzay",
       "restake": {
         "address": "dig1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczfzw03d",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1umk407eed7af6anvut6llg2zevnf0dn0feqqny",
+      "restake": {
+        "address": "evmos18fzq4nac28gfma6gqfvkpwrgpm5ctar2z9mxf3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "harpoon",
+      "address": "kujiravaloper1vue5lawr3s0au9zj0aqeft5aknx6cjq6w5ghca",
+      "restake": {
+        "address": "kujira1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq79u7u",
         "run_time": [
           "09:00",
           "21:00"

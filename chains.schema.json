@@ -1,0 +1,107 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"name",
+		"chains"
+	],
+	"properties": {
+		"name": {
+			"$id": "#root/name", 
+			"title": "Name", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"ECO Stake 🌱"
+			],
+			"pattern": "^.*$"
+		},
+		"chains": {
+			"$id": "#root/chains", 
+			"title": "Chains", 
+			"type": "array",
+			"default": [],
+			"items":{
+				"$id": "#root/chains/items", 
+				"title": "Items", 
+				"type": "object",
+				"required": [
+					"name",
+					"address"
+				],
+				"properties": {
+					"name": {
+						"$id": "#root/chains/items/name", 
+						"title": "Name", 
+						"type": "string",
+						"default": "",
+						"examples": [
+							"akash"
+						],
+						"pattern": "^.*$"
+					},
+					"address": {
+						"$id": "#root/chains/items/address", 
+						"title": "Address", 
+						"type": "string",
+						"default": "",
+						"examples": [
+							"akashvaloper1xgnd8aach3vawsl38snpydkng2nv8a4kqgs8hf"
+						],
+						"pattern": "^.*$"
+					},
+					"restake": {
+						"$id": "#root/chains/items/restake", 
+						"title": "Restake", 
+						"type": "object",
+						"required": [
+							"address",
+							"run_time",
+							"minimum_reward"
+						],
+						"properties": {
+							"address": {
+								"$id": "#root/chains/items/restake/address", 
+								"title": "Address", 
+								"type": "string",
+								"default": "",
+								"examples": [
+									"akash1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczud2r2v"
+								],
+								"pattern": "^.*$"
+							},
+							"run_time": {
+								"$id": "#root/chains/items/restake/run_time", 
+								"title": "Run_time", 
+								"type": ["array", "string"],
+								"default": [],
+								"items":{
+									"$id": "#root/chains/items/restake/run_time/items", 
+									"title": "Items", 
+									"type": "string",
+									"default": "",
+									"examples": [
+										"09:00"
+									],
+									"pattern": "^.*$"
+								}
+							},
+							"minimum_reward": {
+								"$id": "#root/chains/items/restake/minimum_reward", 
+								"title": "Minimum_reward", 
+								"type": "integer",
+								"examples": [
+									10000
+								],
+								"default": 0
+							}
+						}
+					}
+
+				}
+			}
+		}
+	},
+	"definitions": {}
+}

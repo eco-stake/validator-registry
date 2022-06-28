@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "QuantumNode.io - Token and NFT airdrops to all delegators",
   "chains": [
     {

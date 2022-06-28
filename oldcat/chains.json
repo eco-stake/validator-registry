@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Oldcat",
   "chains": [
     {
@@ -11,10 +12,10 @@
       }
     },
     {
-      "name": "bandchain",
-      "address": "bandvaloper16xw6g374x57j5adp95e09pdeen5w6tfaaz5l7u",
+      "name": "crescent",
+      "address": "crevaloper1djsyrsd0csgy2qz8a4xwxmy57xl06u0gn4r42f",
       "restake": {
-        "address": "band1rpff2j8rdcyqcpaukxlrwyt09fcvkmz8rqgjvc",
+        "address": "cre1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z9gdjmk",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

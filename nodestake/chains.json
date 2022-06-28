@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "NodeStake.top",
   "chains": [
     {
@@ -7,6 +8,15 @@
       "restake": {
         "address": "agoric13z4fh79uexcc49na679p37xst9592m9arp3lpd",
         "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "idep",
+      "address": "idepvaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snnkdel79",
+      "restake": {
+        "address": "idep1etsdevgm5ps240lrw9mg3p2j32tj96kt0ln45y",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1000000
       }
     },
@@ -42,8 +52,8 @@
       "address": "evmosvaloper1xaxg47uw046uw8vgpp3da367ctw9aguqjuyyyx",
       "restake": {
         "address": "evmos15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4pxnwa9",
-        "run_time": "23:00",
-        "minimum_reward": 1000
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000000000000000
       }
     },
     {

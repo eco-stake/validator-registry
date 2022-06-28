@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Cros-nest",
   "chains": [
     {
@@ -206,6 +207,15 @@
         "address": "must be added",
         "run_time": "23:00",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "harpoon",
+      "address": "kujiravaloper1pshqems6hdka48gc56r2ykshyaarkt40hl0rlh",
+      "restake": {
+        "address": "kujira1v9vae554q55xa4pcfdm0p3kv8nxn50jkty92qr",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
       }
     }
   ]

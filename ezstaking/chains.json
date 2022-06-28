@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "EZStaking.io",
   "chains": [
     {
@@ -217,7 +218,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -229,6 +230,27 @@
           "12:00",
           "00:00"
         ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "harpoon",
+      "address": "kujiravaloper10gm6rlc5c684zrsq6kqdjkq3rnfe7sr6w5gy8e",
+      "restake": {
+        "address": "kujira1fs7lu28hx5m9akm7rp0c2422cn8r2f7gdt726r",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "idep",
+      "address": "idepvaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawuewume",
+      "restake": {
+        "address": "idep1fs7lu28hx5m9akm7rp0c2422cn8r2f7gar2x3q",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1000000
       }
     }
