@@ -46,6 +46,24 @@
 		}
 		},
 		{
+      			"name": "juno",
+      			"address": "junovaloper1q3jsx9dpfhtyqqgetwpe5tmk8f0ms5qywje8tw",
+      			"restake": {
+        		"address": "juno12yeq3h92ew3e00tt2kma5q0t7tmangvy03wz5y",
+		        "run_time": "18:00",
+        		"minimum_reward": 100
+		}
+ 		},
+ 		{
+      			"name": "secretnetwork",
+      			"address": "secretvaloper1arfql9hv2m8nq3ssyjd0z8t4r4vh5senz5sj00",
+      			"restake": {
+        		"address": "secret12yeq3h92ew3e00tt2kma5q0t7tmangvymxeswy",
+		        "run_time": "18:00",
+        		"minimum_reward": 100
+		}
+		},
+		{
       			"name": "evmos",
       			"address": "evmosvaloper13nujml9r2dg85nucffe82xq3yg8f35qxmfal7p",
       			"restake": {
@@ -53,7 +71,7 @@
         		"run_time": "21:00",
         		"minimum_reward": 100000000000000000
       		}
-    		},
+    		},		     
 		{
 			"name": "bitsong",
 			"address": "bitsongvaloper12d0dae3qm4et9r5l2npwrmwknax07yd0rrlhxx",
