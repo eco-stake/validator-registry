@@ -2,12 +2,12 @@
   "$schema": "../chains.schema.json",
   "name": "Let's Node!",
   "chains": [
-	{
-      "name": "umee",
-      "address": "umeevaloper1uw0uy65pdrpge0xjp492qfqywqpvl5q44ggnsv",
+    {
+      "name": "akash",
+      "address": "akashvaloper1jtnvqq2knzdu7vs4d60segud98kvjxszn2jnlx",
       "restake": {
-        "address": "umee1nhf7attgendwuqpnmzpmdk3hjplt4zq8c6z4m8",
-        "run_time": "every 1 hour",
+        "address": "akash1nhf7attgendwuqpnmzpmdk3hjplt4zq88hjdx0",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
@@ -18,6 +18,15 @@
         "address": "evmos1e8nzrjjuanvtqet5kqngunf40vt8v7kaa6gwv5",
         "run_time": "21:00",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1uw0uy65pdrpge0xjp492qfqywqpvl5q44ggnsv",
+      "restake": {
+        "address": "umee1nhf7attgendwuqpnmzpmdk3hjplt4zq8c6z4m8",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
       }
     }
   ]
