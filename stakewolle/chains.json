@@ -3,6 +3,15 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "crescent",
+      "address": "crevaloper1sx88pppqz998p6sq84hjvrx5qrgq7ezqdtmfxt",
+      "restake": {
+        "address": "cre1m7xlymnpxl2d4llu67v08e8xs67dj2fzraqwr3",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1dshysamgzd0d7meftn6npf9pxyskxh49mdc68a",
       "restake": {
