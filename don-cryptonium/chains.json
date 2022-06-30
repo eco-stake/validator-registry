@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Don Cryptonium",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1rj6324uq904z5zr96zg6ew9qjyau9u6h5nflg6",
+      "restake": {
+        "address": "cosmos1m0gxvgqk052xq0fc465cmycxkfz5pxzdspqrtd",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
