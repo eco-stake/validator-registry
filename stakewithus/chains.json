@@ -157,6 +157,18 @@
         ],
         "minimum_reward": 100
       }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvyfzg08",
+      "restake": {
+        "address": "agoric16r8m6kfzh36e5x95z5s8zjg6mml0kea9myq000",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100
+      }
     }
   ]
 }
