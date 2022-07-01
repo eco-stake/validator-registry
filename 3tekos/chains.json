@@ -136,6 +136,15 @@
         "run_time": "12:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1vmmlphwck04khtwj69ghuewux5hrmvwwc43j77",
+      "restake": {
+        "address": "kujira1hcgxjhvv43g9z6dc58g428jgc8hdlmf7986d0g",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
