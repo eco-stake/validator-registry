@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper18lap75eu2sw4el35urw202j3ld9g0m3nka3kz0",
+      "restake": {
+        "address": "kujira106n92ygqknaw5wcgl2e9v0duxxux6ntt8htkxp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 16180
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
       "restake": {
