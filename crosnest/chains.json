@@ -214,7 +214,7 @@
       "address": "kujiravaloper1pshqems6hdka48gc56r2ykshyaarkt40hl0rlh",
       "restake": {
         "address": "kujira1v9vae554q55xa4pcfdm0p3kv8nxn50jkty92qr",
-        "run_time": "every 15min",
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     }
