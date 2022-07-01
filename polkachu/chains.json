@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "polkachu.com | 0% fee",
+  "name": "polkachu.com",
   "chains": [
     {
       "name": "akash",
@@ -156,6 +156,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pnsu9m3",
+      "restake": {
+        "address": "kujira1xrrfek3qpz4ja8ccrjklfy064asyqq9kz65he9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "konstellation",
       "address": "darcvaloper1jt9w26mpxxjsk63mvd4m2ynj0af09csldy6sgw",
       "restake": {
@@ -207,6 +216,15 @@
         "address": "stars1xrrfek3qpz4ja8ccrjklfy064asyqq9k8wpjl7",
         "run_time": "every 1 hour",
         "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1rr2g4z2ch4cqwl8s70yj94a5l2vakg0v36nmjh",
+      "restake": {
+        "address": "terra1rqmap037jkzeygkxyjfwuhvp0ghm477nytmw8x",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
     {
