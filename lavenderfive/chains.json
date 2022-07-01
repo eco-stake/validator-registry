@@ -168,6 +168,18 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z6yz0hy",
+      "restake": {
+        "address": "kujira12xpq68caw2aqdu70jm4k792g0v9prhrp3tyudj",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxy87g3",
       "restake": {
@@ -196,6 +208,18 @@
       "address": "secretvaloper1t5wtcuwjkdct9qkw2h6m48zu2hectpd6ulmekk",
       "restake": {
         "address": "secret18zzklau04kf3qtwrnnzlf20xrxpx3a89dqu42m",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1vcd42qfvlvnjwaw7hvl6y32wrzqxvas653yus9",
+      "restake": {
+        "address": "terra12xpq68caw2aqdu70jm4k792g0v9prhrpx8uyzc",
         "run_time": [
           "12:00",
           "24:00"
