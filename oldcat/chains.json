@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "panacea",
+      "address": "panaceavaloper1tk63f4uuvne57eay6dlndt6v8skpuvncjpgpau",
+      "restake": {
+        "address": "panacea13ls6wes07v79y33vpdxkm3yyn8gx6qhy9g3y0z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "galaxy",
       "address": "galaxyvaloper1nudskr0tr2nmev043dgy74p0dhkj2x782wsdf6",
       "restake": {
