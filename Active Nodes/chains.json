@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "",
+      "restake": {
+        "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1uxm0kglrajtcltl0vmxpkg0q4ld4m48lsw2rnc",
       "restake": {
