@@ -19,6 +19,15 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1w2fe5lu8jp02xtaxlak0456fjthe588xwqjmaz",
+      "restake": {
+        "address": "agoric1ezv68p0wsj6t2lhn292mazsyfl2ystyrym0a6p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
