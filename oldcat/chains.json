@@ -107,7 +107,7 @@
       "restake": {
         "address": "lum1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z52r7m0",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {
