@@ -8,8 +8,7 @@
       "restake": {
         "address": "bitsong16p20vlypv4s2xtsghk5xxp3vck929dl28lk5kw",
         "run_time": [
-          "12:00",
-          "24:00"
+          "17:00"
         ],
         "minimum_reward": 20000000
       }
@@ -20,10 +19,9 @@
       "restake": {
         "address": "dig17kdv6l908jn48cpxfvf7zekdmm3vf5p7du65tp",
         "run_time": [
-          "12:00",
-          "24:00"
+          "17:00"
         ],
-        "minimum_reward": 700000000
+        "minimum_reward": 20000000
       }
     },
     {
@@ -32,10 +30,9 @@
       "restake": {
         "address": "lum17kdv6l908jn48cpxfvf7zekdmm3vf5p7qzwkuw",
         "run_time": [
-          "12:00",
-          "24:00"
+          "17:00"
         ],
-        "minimum_reward": 200000000
+        "minimum_reward": 20000000
       }
     }
 	]
