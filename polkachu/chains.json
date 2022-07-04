@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "echelon",
+      "address": "echelon125fkz3mq6qxxpkmphdl3ep92t0d3y969u2w0zp",
+      "restake": {
+        "address": "echelon1spdlljxpvgzn52qky7hafsdqxpchpydq7hlh9d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper125fkz3mq6qxxpkmphdl3ep92t0d3y969xmt8hz",
       "restake": {
