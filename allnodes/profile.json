@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "⚡️Allnodes",
   "identity": "3999DA33020A4DBC"
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeLikeMo",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1vkrhllc9ufpymtgpxhaqfp8qcxw7cnhuk3c6l6",
+      "restake": {
+        "address": "evmos1c3e699nxhdl4qhe5egtz4pf4skgsyusm2afwdt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

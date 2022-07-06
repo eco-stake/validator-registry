@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "TC Network",
   "chains": [
     {
@@ -17,6 +18,15 @@
         "address": "dig19a9vcvzc8ld33psnq8dm0h4lh5v8seuwhxqs6h",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1yw3uzauqx3lywnttftjr728e3j6e9ptfk7h406",
+      "restake": {
+        "address": "evmos1j9us0qyye0reyudw2w07t7r2zwrp7d7xxf36rl",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
       }
     }
   ]

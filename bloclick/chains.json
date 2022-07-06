@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "BloClick 100% CO2 free 🍃",
   "chains": [
     {

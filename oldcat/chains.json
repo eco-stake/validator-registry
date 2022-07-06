@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Oldcat",
   "chains": [
     {
@@ -11,10 +12,10 @@
       }
     },
     {
-      "name": "bandchain",
-      "address": "bandvaloper16xw6g374x57j5adp95e09pdeen5w6tfaaz5l7u",
+      "name": "crescent",
+      "address": "crevaloper1djsyrsd0csgy2qz8a4xwxmy57xl06u0gn4r42f",
       "restake": {
-        "address": "band1rpff2j8rdcyqcpaukxlrwyt09fcvkmz8rqgjvc",
+        "address": "cre1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z9gdjmk",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -26,6 +27,15 @@
         "address": "like1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zjuz4dq",
         "run_time": "every 1 hour",
         "minimum_reward": 5000000000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1tk63f4uuvne57eay6dlndt6v8skpuvncjpgpau",
+      "restake": {
+        "address": "panacea13ls6wes07v79y33vpdxkm3yyn8gx6qhy9g3y0z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -97,7 +107,7 @@
       "restake": {
         "address": "lum1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z52r7m0",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {

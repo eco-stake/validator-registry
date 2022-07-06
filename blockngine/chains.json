@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": " BlockNgine 🛡️ Slash Protected",
   "chains": [
     {
@@ -61,7 +62,7 @@
       "restake": {
         "address": "evmos163g9c65kv5v8lgvvwner3ruxntrdr50yx36eyj",
         "run_time": "every 10 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -80,6 +81,15 @@
         "address": "darc194ytn50yhh67rdha8akhs7c6zulnz4n2kkajp5",
         "run_time": "every 10 minutes",
         "minimum_reward": 1
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1rc2h9eg3wul70a8yruadmn9vf947nhcdzcjyg0",
+      "restake": {
+        "address": "kujira194ytn50yhh67rdha8akhs7c6zulnz4n2cltmpf",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -125,6 +135,15 @@
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1yy5379nk24xffpq4egw7ue4ad3j7l79ma2enmz",
+      "restake": {
+        "address": "terra1awqjfv0znyemkv8v89vyp3hte54ayrt97tng8d",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1
       }
     },
     {

@@ -1,9 +1,10 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Yoitsu",
   "chains": [
     {
       "name": "likecoin",
-      "address": "likevaloper15f60vns6g04vururr8m4mrwkzyjc23uvm3vl6e",
+      "address": "likevaloper1r4sv5ea8mhd7q2cp566sh5zvkwg8xf3xwgw6uw",
       "restake": {
         "address": "like13zq4c45h5z7zf8mnu8z9nqu9pdqe29u0jgk7d3",
         "run_time": "every 1 hour",

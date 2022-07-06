@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "SunFace.org airdrops for stakers",
   "identity": "454CB7EF1B8E7CD8"
 }

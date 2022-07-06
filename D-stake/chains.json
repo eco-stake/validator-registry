@@ -1,0 +1,33 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"D-stake",
+   "chains":[
+      {
+         "name":"stargaze",
+         "address":"starsvaloper1tk057sckr9yf94a0ndn66ye8d9zgn860qmww8y",
+         "restake":{
+            "address":"stars1tk057sckr9yf94a0ndn66ye8d9zgn860t966uu",
+            "run_time":"every 2 hour",
+            "minimum_reward":10000
+         }
+      },
+      {
+         "name":"galaxy",
+         "address":"galaxyvaloper1e2mx0upghd79l6y0j7pwzw6ldapwl94rh7aj0u",
+         "restake":{
+            "address":"galaxy1e2mx0upghd79l6y0j7pwzw6ldapwl94r2lwjvs",
+            "run_time":"every 2 hour",
+            "minimum_reward":10000
+         }
+      },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfyscxa",
+      "restake": {
+        "address": "mantle1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfm5vag",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+   ]
+}

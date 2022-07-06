@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Stake Frites",
   "chains": [
     {
@@ -62,6 +63,15 @@
         "address": "juno1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6e2dg57",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1wcyvemaw8m4fxwnsljghe5wtd9t6q0smaq64ef",
+      "restake": {
+        "address": "sent1weeu5yuj8n23hd87wsdxqqgfmzzz9zt65rc2hd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     }
   ]

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "GalaxyStaking - Neptune 🌑",
   "chains": [
     {
@@ -6,10 +7,7 @@
       "address": "crocncl10leq9pzrgecla7kskar59zw04atft5ehwtkafz",
       "restake": {
         "address": "cro1fvedw32vg68kv83s6zzgh4p06gydvf78t2z0cr",
-        "run_time": [
-          "06:00",
-          "18:00"
-        ],
+        "run_time": "18:00",
         "minimum_reward": 1000000
       }
     }

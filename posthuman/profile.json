@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "POSTHUMAN ꝏ DVS",
   "identity": "8A9FC930E1A980D6"
 }

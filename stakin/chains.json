@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Stakin",
   "chains": [
     {
@@ -17,6 +18,15 @@
         "address": "umee1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d45v3nc",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1sq9ggymzx02vcp7kf6yyar83scfm4r22swu673",
+      "restake": {
+        "address": "evmos1rddqmf6y36geq90daesm057uaagasjd0rr925z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     }
   ]
