@@ -7,7 +7,7 @@
       "restake": {
         "address": "evmos19mgc0j2m7pfzuc9lthqa6r24laxk094d3a979q",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -42,6 +42,15 @@
       "address": "secretvaloper12772f4pdtgrm4umqakclh98y98mt9qh8c9v6g6",
       "restake": {
         "address": "secret163hk2yw0dt8gdrdaefqtvfl3v9pjdhgj6nake6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1ffn3twytclgn5k03nv3ksra8kk6hyls8crlk92",
+      "restake": {
+        "address": "desmos1hzju8h7e23anvryz87nh7uyw3ylssgcn3ns76k",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
