@@ -150,7 +150,7 @@
       "name": "sentinel",
       "address": "sentvaloper13ce8734a8vstdplk79dg4jemdsm8048t0hjplm",
       "restake": {
-        "address": "sent1wxww8zvmgnsdq6npq5lh0a9erjyphh4end8ege",
+        "address": "sent1w4du0y6705rqregfl6cktm7swds6t4dsxpycee",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
