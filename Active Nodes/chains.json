@@ -165,6 +165,15 @@
       }
     },
     {
+      "name": "terra2",
+      "address": "terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv",
+      "restake": {
+        "address": "terra1ws7lc048pemg09dp3ehl9094z0p0hyzqr72pm9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1j6l7zpwnmkrdkat5f84d79aanr5em9cumzly8j",
       "restake": {
