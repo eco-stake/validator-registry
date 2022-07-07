@@ -21,6 +21,18 @@
       }
     },
     {
+      "name": "secretnetwork",
+      "address": "secretvaloper1hqlvlvps8rrd2jn05p3ugetu7z40z8vzszfnx9",
+      "restake": {
+        "address": "secret1hqlvlvps8rrd2jn05p3ugetu7z40z8vzp98wtv",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 500000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1d63kfm2azymzuw4cmn5qf7qsl2zp5qax2zz6l3",
       "restake": {
