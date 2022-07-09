@@ -15,7 +15,7 @@
       "name": "desmos",
       "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
       "restake": {
-        "address": "desmos1qxx2azpysc7pya2nr3p88dnrjt2ne53z757wxv",
+        "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
