@@ -8,7 +8,7 @@
       "restake": {
         "address": "bcna106n92ygqknaw5wcgl2e9v0duxxux6nttv0e0re",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "cerberus106n92ygqknaw5wcgl2e9v0duxxux6ntt2cf87q",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "cryptoorgchain",
+      "address": "crocncl1zkmqc6jwq3609uwsucwzps4vtdy5k2069hslf0",
+      "restake": {
+        "address": "cro15smm5assxxvzlx9sv8sqf2q3p9t0f8x7lcm0l2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800
+      }
+    },
+    {
       "name": "dig",
       "address": "digvaloper133stfdlg2mzg3hstp3vclzcj9ywftk6ewenpj0",
       "restake": {
@@ -62,7 +71,7 @@
       "restake": {
         "address": "emoney106n92ygqknaw5wcgl2e9v0duxxux6ntteun6uk",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -84,12 +93,21 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper18lap75eu2sw4el35urw202j3ld9g0m3nka3kz0",
+      "restake": {
+        "address": "kujira106n92ygqknaw5wcgl2e9v0duxxux6ntt8htkxp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
       "restake": {
         "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
         "run_time": "every 1 hour",
-        "minimum_reward": 161800
+        "minimum_reward": 1618
       }
     }
   ]
