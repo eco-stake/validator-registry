@@ -3,6 +3,14 @@
   "name": "Panthea EU",
   "chains": [
     {
+      "name": "bitcanna",
+      "address": "bcnavaloper18uempxcg7e8xr0un2zc3x3add2zdr0vwdshhhc",
+      "restake": {
+        "address": "bcna15zgtdy8q278at07uud3zjzrn73qqgju77mxhgw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
       "name": "desmos",
       "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
       "restake": {
