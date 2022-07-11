@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pandora",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1dwyk6ppcaw9zhs4keljnfce62lu5n38zqd7thc",
+      "restake": {
+        "address": "bcna1dsyj5nq2ky94wwf5axqghl02h0vy6jnakcr6g7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
