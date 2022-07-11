@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "cerberus",
+      "address": "cerberusvaloper10g284y7qkk4ecee896hnukw2wa8s3u0t4js57m",
+      "restake": {
+        "address": "cerberus1yqqsskp60ru889m2ac9rtdays6pt9xfyfl2f8j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
       "restake": {
