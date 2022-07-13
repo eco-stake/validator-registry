@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "terra2",
+      "address": "terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l",
+      "restake": {
+        "address": "terra1vnuw6e9czygwwkcayzyq2jm0zap7gkg8kuwe4a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "persistence",
       "address": "persistencevaloper1yvcrahdpctyg77l67cnnhqf4ef5j8kanq8jeqv",
       "restake": {
@@ -135,6 +144,15 @@
         "address": "pb10ckyufenegvw8czkqxck08q7gn92k2zz93g0ut",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp",
+      "restake": {
+        "address": "secret1cwkv3ul0w8ea4m7hkqx9htzj5etsgmvrs3qqd8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]
