@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoSailors",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1pske98rrpg6vwayjauncjqvfs6tj06xhmm9atm",
+      "restake": {
+        "address": "gravity1dm6xj4ycecwl934tr4sc7hup92uuvkenx30u4v",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
