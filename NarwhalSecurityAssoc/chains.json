@@ -8,7 +8,7 @@
       "restake": {
         "address": "kujira1sqqckf89jca2xehnj4tuda48h0an8xgpny9f53",
         "run_time": "09:00",
-        "minimum_reward": 1000
+        "minimum_reward": 10
       }
     }
   ]
