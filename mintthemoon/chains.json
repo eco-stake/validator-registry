@@ -1,0 +1,23 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "mintthemoon",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1dl78xzsmh448kd4vlv2x6x3s0mmjzkwt6ywshy",
+      "restake": {
+        "address": "kujira1rguvj7fu77xr4qqqk8smuec8ps96800wshgmus",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    }, {
+      "name": "bitcanna",
+      "address": "bcnavaloper1suwk8dcf4retyxkkkm6hxzstzfvrzqp5hv88we",
+      "restake": {
+        "address": "bcna1rguvj7fu77xr4qqqk8smuec8ps96800wm06zeg",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
