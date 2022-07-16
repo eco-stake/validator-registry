@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlockHunters \uD83C\uDFAF",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1symf474wnypes2d3mecllqk6l26rwz8mfjqdus",
+      "restake": {
+        "address": "cosmos1g4v4qvnmmqhuprq0f6vvzm6hv67vet6754ffzh",
+        "run_time": "every 7 hours",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1ss7vkqzfal7h4m8ug8lh8peqqyt7vq3s33yv7a",
+      "restake": {
+        "address": "juno1g4v4qvnmmqhuprq0f6vvzm6hv67vet67z82j9t",
+        "run_time": "every 7 hours",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "carbon",
+      "address": "swthvaloper1fdqkq5gc5x8h6a0j9hamc30stlvea6zlsh4y7s",
+      "restake": {
+        "address": "swth1g4v4qvnmmqhuprq0f6vvzm6hv67vet67ttrl3w",
+        "run_time": "every 7 hours",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
