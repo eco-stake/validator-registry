@@ -165,6 +165,15 @@
       }
     },
     {
+      "name": "idep",
+      "address": "idepvaloper1hzps6q78uzz8a8ks9h4s04mr6pvwwwmgrpmx90",
+      "restake": {
+        "address": "idep1mjq48r6435aewerpruwc8up3tz3rzan2degr8u",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "impacthub",
       "address": "ixovaloper1ktjjvaurdupt7nvmfkgycn7mv0jcx5frz0dwzf",
       "restake": {
@@ -214,6 +223,15 @@
       "address": "darcvaloper1pk8e47hdlw9mtnphz3klhkeed8wlq8gwjw7m0w",
       "restake": {
         "address": "darc1mjq48r6435aewerpruwc8up3tz3rzan2nc2xvz",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1esj2mkumg8q9l7wunkqzu85jvz7zrrcykeeka7",
+      "restake": {
+        "address": "kujira1mjq48r6435aewerpruwc8up3tz3rzan2a3u0vl",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
