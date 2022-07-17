@@ -16,7 +16,7 @@
       "restake": {
         "address": "cosmos1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s6qxm7k",
         "run_time": "every 12 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -25,11 +25,11 @@
       "restake": {
         "address": "cre1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s7g47tm",
         "run_time": "every 12 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
-      "name": "crypto.org",
+      "name": "cryptoorgchain",
       "address": "crocncl1s3hd63shz3q3vca8ajptewv3zt7jg6ed9kk2zr",
       "restake": {
         "address": "cro1flmu8hkcuett57gacjusdsnyqr37qd3ahxu42r",
@@ -52,7 +52,7 @@
       "restake": {
         "address": "juno1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0svj9qe2",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -65,12 +65,12 @@
       }
     },
     {
-      "name": "luna",
+      "name": "terra2",
       "address": "terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp",
       "restake": {
         "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
         "run_time": "every 12 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -79,7 +79,7 @@
       "restake": {
         "address": "osmo1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sjm4tgy",
         "run_time": "every 12 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -97,7 +97,7 @@
       "restake": {
         "address": "secret1h9556xnwx6z6ck2fhz7e858n067eq2mjlwvugt",
         "run_time": "every 12 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     }
   ]
