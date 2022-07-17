@@ -1,0 +1,23 @@
+{
+  "name": "Smart Stake",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1uckq4fddrwftu6pv4stsm9ffthxkgathezgznj",
+      "restake": {
+        "address": "akash1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0shmtu8v",
+        "run_time": ["01:00", "13:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper174jlcery04j6r7wgvequeysruyjlhtcmlhnhy2",
+      "restake": {
+        "address": "evmos18fm9rxkmrnnx3auzpq4mvjh7vgvnnvw2amm8qd",
+        "run_time": ["01:00", "13:00"],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
