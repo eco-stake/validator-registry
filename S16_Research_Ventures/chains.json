@@ -11,13 +11,9 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100
       }
-    }
-  ],
-  "$schema": "../chains.schema.json",
-  "name": "S16 Research Ventures",
-  "chains": [
+    },
     {
       "name": "juno",
       "address": "junovaloper1fcve3lyvtddet4zxlqvar94v9xxhrj858aakxl",
@@ -27,7 +23,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100
       }
     }
   ]
