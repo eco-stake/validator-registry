@@ -13,11 +13,7 @@
         ],
         "minimum_reward": 10000
       }
-    }
-  ],
-  "$schema": "../chains.schema.json",
-  "name": "S16 Research Ventures",
-  "chains": [
+    },
     {
       "name": "juno",
       "address": "junovaloper1fcve3lyvtddet4zxlqvar94v9xxhrj858aakxl",
