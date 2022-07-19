@@ -11,7 +11,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 10000
       }
     },
     {
@@ -23,7 +23,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -35,7 +35,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 10000
       }
     }
   ]
