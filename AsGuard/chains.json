@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AsGuard",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1p0wy6wdnw05h33rfeavqt3ueh7274hcl420svt",
+      "restake": {
+        "address": "mantle13u0z5dge3vvz3nk9wpxt5lxus7fjgheefyusrr",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
