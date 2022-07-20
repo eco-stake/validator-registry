@@ -36,6 +36,14 @@
         "address": "gravity1334362q9lzxqu042s4maqd33g9ff9zrf6t4jq7",
         "run_time": "16:30",
         "minimum_reward": 10000000
+      },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper10pcga9su5me3dp5g4jln49uxjq7c9s2u9qy9zu",
+      "restake": {
+        "address": "evmos16saqy8ddfvquys02pfsjxezj5g4qcaec0qd70j",
+        "run_time": "16:30",
+        "minimum_reward": 10000000
       }
     }
   ]
