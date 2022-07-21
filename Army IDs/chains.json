@@ -6,7 +6,7 @@
       "name": "akash",
       "address": "akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q",
       "restake": {
-        "address": "akash156pevdckt8h93fe7hlxqth4hd5wnkfjdx7r3qu",
+        "address": "akash1785xzn9qec54fewmezuady4n8tuq00c4npj5sd",
         "run_time": "00:00",
         "minimum_reward": 1000000
       }
@@ -60,7 +60,7 @@
       "name": "stargaze",
       "address": "starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5",
       "restake": {
-        "address": "stars156pevdckt8h93fe7hlxqth4hd5wnkfjdleetjh",
+        "address": "stars1785xzn9qec54fewmezuady4n8tuq00c42xgwzx",
         "run_time": "00:00",
         "minimum_reward": 1000000
       }
