@@ -1,0 +1,22 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LikeCoin by Liker Land",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug"
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1yat0v9mqt88m2x3uew0zrpzn7tjzas6eplz6s2"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1fr62zx24gapdul0gze8lt3y9fmtt7h6mqq0amd"
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1tlra0c7evdg3kdxfg723e68rdlt5nn78rr39jz"
+    }
+  ]
+}
