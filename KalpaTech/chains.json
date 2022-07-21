@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "KalpaTech",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetguct4ddyl",
+      "restake": {
+        "address": "osmo1yhv74ymxxaurxug490hnadh9467y3q27rjaf79",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
