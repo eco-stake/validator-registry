@@ -102,6 +102,18 @@
       }
     },
     {
+      "name": "juno",
+      "address": "junovaloper19ur8r2l25qhsy9xvej5zgpuc5cpn6syydmwtrt",
+      "restake": {
+        "address": "juno1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz8yyl52",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "kujira",
       "address": "kujiravaloper1vue5lawr3s0au9zj0aqeft5aknx6cjq6w5ghca",
       "restake": {
