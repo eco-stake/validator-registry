@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Cephalopod Equipment",
+  "name": "Cephalopod Equipment Corp",
   "chains": [
     {
       "name": "osmosis",
