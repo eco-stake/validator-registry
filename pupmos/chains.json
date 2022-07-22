@@ -37,6 +37,24 @@
         "run_time": "01:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper12ghdy3n809dpxr7kkdtyt3xrf8rse8pyhzlazc",
+      "restake": {
+        "address": "somm1ka6r58g5h27x6gyyjkzxtpdk95k2yurf0x4clf",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1hnjtaayu056h9wjdcn5dj3wxs3tqgajyv8dvzq",
+      "restake": {
+        "address": "cre1ka6r58g5h27x6gyyjkzxtpdk95k2yurf8jf3mw",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
