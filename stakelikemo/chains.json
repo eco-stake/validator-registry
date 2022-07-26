@@ -4,9 +4,9 @@
   "chains": [
     {
       "name": "evmos",
-      "address": "evmosvaloper1vkrhllc9ufpymtgpxhaqfp8qcxw7cnhuk3c6l6",
+      "address": "evmosvaloper187860d5xukeksge9jz3wwff7h68asdafxdxh4r",
       "restake": {
-        "address": "evmos1c3e699nxhdl4qhe5egtz4pf4skgsyusm2afwdt",
+        "address": "evmos1lu88u03rd0qc0knkg69udyqsdsyppyedvh2smj",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }

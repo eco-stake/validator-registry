@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "defiantlabs",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1dnmz4yzv73lr3lmauuaa0wpwn8zm8s20memec4",
+      "restake": {
+        "address": "kujira1ckyt39wtj5kjuj7tn6agrg5jheua5cjkpxg80a",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

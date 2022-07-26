@@ -25,7 +25,7 @@
       "address": "echelonvaloper1rtq6xhsyqu69ugulsa6me9nstu3dn66ccuuejt",
       "restake": {
         "address": "echelon1408uk4pmf4gdwxelrz3wgfks3ttxujww7ddq0y",
-        "run_time": "21:00",
+        "run_time": "1:00",
         "minimum_reward": 1000000000000000000
       }
     },
