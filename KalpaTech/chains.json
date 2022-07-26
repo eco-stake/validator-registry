@@ -1,18 +1,42 @@
 {
-  "$schema": "../chains.schema.json",
-  "name": "KalpaTech",
-  "chains": [
-    {
-      "name": "osmosis",
-      "address": "osmovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetguct4ddyl",
-      "restake": {
-        "address": "osmo1yhv74ymxxaurxug490hnadh9467y3q27rjaf79",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 1000
-      }
-    }
-  ]
+    "$schema": "../chains.schema.json",
+    "name": "KalpaTech",
+    "chains": [
+        {
+            "name": "osmosis",
+            "address": "osmovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetguct4ddyl",
+            "restake": {
+                "address": "osmo1yhv74ymxxaurxug490hnadh9467y3q27rjaf79",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "cosmoshub",
+            "address": "cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe",
+            "restake": {
+                "address": "cosmos1yhv74ymxxaurxug490hnadh9467y3q27tfwegh",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "juno",
+            "address": "junovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucskr2e0",
+            "restake": {
+                "address": "juno1yhv74ymxxaurxug490hnadh9467y3q27amdz0t",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        }
+    ]
 }
