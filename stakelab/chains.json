@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper19dx6vywgr62jtsxhhlhlgh7ug5vmgjnz6dkeud",
+      "restake": {
+        "address": "axelar1mjq48r6435aewerpruwc8up3tz3rzan2ghgl25",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper10s7t8prp0nz36g4dug5ftkm8elyg9hdtlpn6uv",
       "restake": {
