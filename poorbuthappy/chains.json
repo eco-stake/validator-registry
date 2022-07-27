@@ -53,6 +53,14 @@
         "address": "cerberus14a78h6202u4xg6phjnd8rmr5fq98zzdleksrwt",
         "run_time": "every 4 hour",
         "minimum_reward": 100000
+      },
+    {
+      "name": "juno",
+      "address": "junovaloper1ty57mt8ess8fry3k6llmv2m2lhj90xpqpmyk0c",
+      "restake": {
+        "address": "juno14a78h6202u4xg6phjnd8rmr5fq98zzdlnrn3uu",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
       }
     }
   ]
