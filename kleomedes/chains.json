@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Kleomedes",
   "chains": [
     {
@@ -69,6 +70,15 @@
       "address": "junovaloper1x8u2ypdr35802tjyjqyxan8x85fzxe6sk0qmh8",
       "restake": {
         "address": "juno1r8egcurpwxftegr07gjv9gwffw4fk009a4v3ll",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper17200mes7mplx33x8gcegkurqmz35d7v4lydt6f",
+      "restake": {
+        "address": "kujira1r8egcurpwxftegr07gjv9gwffw4fk00960dj4f",
         "run_time": "every 1 hour",
         "minimum_reward": 20000
       }

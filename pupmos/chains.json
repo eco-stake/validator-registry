@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "PUPMØS",
   "chains": [
     {
@@ -24,6 +25,33 @@
       "address": "starsvaloper15sr5ugya95q0ps9qet03ujsten8z05atamhcvy",
       "restake": {
         "address": "stars1ka6r58g5h27x6gyyjkzxtpdk95k2yurfhxdf9j",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1q9k3uh0xl6ss5dwqyq4j4jthdkke8daqp5kzlc",
+      "restake": {
+        "address": "meme1ka6r58g5h27x6gyyjkzxtpdk95k2yurfa9vrff",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper12ghdy3n809dpxr7kkdtyt3xrf8rse8pyhzlazc",
+      "restake": {
+        "address": "somm1ka6r58g5h27x6gyyjkzxtpdk95k2yurf0x4clf",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1hnjtaayu056h9wjdcn5dj3wxs3tqgajyv8dvzq",
+      "restake": {
+        "address": "cre1ka6r58g5h27x6gyyjkzxtpdk95k2yurf8jf3mw",
         "run_time": "01:00",
         "minimum_reward": 10000
       }

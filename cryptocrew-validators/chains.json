@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "✅ CryptoCrew Validators #IBCgang",
   "chains": [
     {
@@ -60,15 +61,6 @@
       "address": "digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7",
       "restake": {
         "address": "dig1305e92ng6a9pdh3ttc3ld459ckxupxt30cngcu",
-        "run_time": "every 6 hours",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
-      "restake": {
-        "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
@@ -141,7 +133,7 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
-        "run_time": "every 10 minutes",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
@@ -150,6 +142,24 @@
       "address": "persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879",
       "restake": {
         "address": "persistence1sk3s5k9sn8eeszf2d4dtn4c3sxqkxuvz56mg0r",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "restake": {
+        "address": "terra1305e92ng6a9pdh3ttc3ld459ckxupxt33gqrc8",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
+      "restake": {
+        "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       }

@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Secure Secrets",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1pgl5usqpelz3a4c04g6t3yyvlrc9yseylmtcnt",
+      "restake": {
+        "address": "osmo188pr9uhee8ls67flnhke4a7383pdmf24q2kujj",
+        "run_time": "22:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1vq8tw77kp8lvxq9u3c8eeln9zymn68rng8pgt4",
+      "restake": {
+        "address": "juno188pr9uhee8ls67flnhke4a7383pdmf247rxhru",
+        "run_time": "22:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1wzu2j73nvccghywtghku5ch59f67jykw58na64",
+      "restake": {
+        "address": "terra1dmvjsfhywnu42635ls5wd4xpgxeude5hkvw93z",
+        "run_time": "22:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1rfnmcuwzf3zn7r025j9zr3ncc7mt9ge56l7se7",
+      "restake": {
+        "address": "secret1dmvjsfhywnu42635ls5wd4xpgxeude5hjdqvw7",
+        "run_time": "22:00",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

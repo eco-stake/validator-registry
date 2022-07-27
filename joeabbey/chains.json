@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "jabbey",
   "chains": [
     {
@@ -17,6 +18,15 @@
         "address": "bitsong1kxv5szlqgt8p7w95w76m7ahgjt58ultqkmpjja",
         "run_time": "every 1 hour",
         "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu7z4kg5",
+      "restake": {
+        "address": "bostrom195mm9y35sekrjk73anw2az9lv9xs5mzte9m4zs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     },
     {
@@ -87,8 +97,8 @@
       "address": "evmosvaloper17vze0tk7q7gwpd6jt69p4m5svrty40yw9a88e3",
       "restake": {
         "address": "evmos13craf042e76qasxu6f8vl9ds7vtcajyxmr9asz",
-        "run_time": "22:30",
-        "minimum_reward": 250000
+        "run_time": "12:30,22:30",
+        "minimum_reward": 250000000000000000
       }
     },
     {
@@ -98,6 +108,15 @@
         "address": "juno195mm9y35sekrjk73anw2az9lv9xs5mztvyvamt",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1xwazl8ftks4gn00y5x3c47auquc62ssuqpegp6",
+      "restake": {
+        "address": "ki195mm9y35sekrjk73anw2az9lv9xs5mzttm7fcr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000000
       }
     },
     {

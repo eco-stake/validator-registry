@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Active Nodes",
   "chains": [
     {
@@ -56,6 +57,15 @@
       }
     },
     {
+      "name": "firmachain",
+      "address": "firmavaloper1mhlwudq5eu9crrs3e0m87j7p2sp0nrk7u6qewn",
+      "restake": {
+        "address": "firma1melp9uzaxxqretdvr7tcmtf6k99krgh9kcx5ec",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper1vjcwc2ehpxykw4dr0j9k3gxygwmvecmcy6garq",
       "restake": {
@@ -87,6 +97,15 @@
       "address": "junovaloper189nl8q7rm4ks2t2l7qwe7j49w7sagw4y8uk2nd",
       "restake": {
         "address": "juno1w4du0y6705rqregfl6cktm7swds6t4dstg3662",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
+      "restake": {
+        "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -143,6 +162,15 @@
         "address": "star1shf5lmy2mg99cwh8t6fqqwemhv6g6krevy0yh5",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv",
+      "restake": {
+        "address": "terra1ws7lc048pemg09dp3ehl9094z0p0hyzqr72pm9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

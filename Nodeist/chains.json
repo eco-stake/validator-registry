@@ -1,0 +1,18 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Nodeist",
+	"chains": [
+		{
+			"name": "kujira",
+			"address": "kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7",
+			"restake": {
+				"address": "kujira1gh4sup4lnqs29fpg9ylgqzhuz4rwc4pgf7t0gu",
+				"run_time": [
+					"09:00",
+					"21:00"
+				],
+				"minimum_reward": 100000
+			}
+		}
+	]
+}

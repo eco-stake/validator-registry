@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "3Tekos",
   "chains": [
     {
@@ -132,6 +133,15 @@
       "address": "starsvaloper1yskcx5zfkr3nacn6f5zd08yw72zwm4s06x8tpz",
       "restake": {
         "address": "stars1hcgxjhvv43g9z6dc58g428jgc8hdlmf7qn0gfn",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1vmmlphwck04khtwj69ghuewux5hrmvwwc43j77",
+      "restake": {
+        "address": "kujira1hcgxjhvv43g9z6dc58g428jgc8hdlmf7986d0g",
         "run_time": "12:00",
         "minimum_reward": 10000
       }

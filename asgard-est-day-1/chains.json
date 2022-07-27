@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "☮ Asgard - est. day 1",
   "chains": [
     {
