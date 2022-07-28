@@ -7,7 +7,7 @@
       "address": "evmosvaloper1n4zajqylnmk7kmnymq4ceynzlkq68j9l6qrxmg",
       "restake": {
         "address": "evmos152r7uy6scz9kpfxcjuy3frg4vhqeawfnlqtzhr",
-        "run_time": "once a day",
+        "run_time": "23:00,
         "minimum_reward": 100000
       }
     },
