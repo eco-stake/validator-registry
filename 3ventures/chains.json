@@ -54,7 +54,7 @@
       "restake": {
         "address": "genesis1fmrkm9sv664jteazv04372wh4dx3qqurlm8gur",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 10000000
+        "minimum_reward": 41000000000000000000
       }
     },
     {
