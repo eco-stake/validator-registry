@@ -37,6 +37,42 @@
                 ],
                 "minimum_reward": 1000
             }
+        },
+        {
+            "name": "regen",
+            "address": "regenvaloper1ypwzuhaffvr06ktu0ne6lnm69gxj32qww0relw",
+            "restake": {
+                "address": "regen1yhv74ymxxaurxug490hnadh9467y3q275t997n",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper19ah9302mh80pvv5zeztdr6qcqk6z52frn6rjj5",
+            "restake": {
+                "address": "bitsong13ywxfx8yulvcpd2wdz2nrsdve6wpxqfyt6ce30",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "evmos",
+            "address": "evmosvaloper16ywlfq3ansuh70tjtenazpdwcn6rg279gjadep",
+            "restake": {
+                "address": "evmos14pzmhcxunuxhnlgt4nkhky4m5z4c7lgpdmwntk",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000000000000000
+            }
         }
     ]
 }
