@@ -21,6 +21,18 @@
       }
     },
     {
+      "name": "juno",
+      "address": "junovaloper1dqhxzkkkc4frsleknwn8gr9xxg9kynfvj8ky44",
+      "restake": {
+        "address": "juno17xs4md6flec0klct07874ntqppg78aneqcc8mx",
+        "run_time": [
+          "02:00",
+          "14:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper1hqlvlvps8rrd2jn05p3ugetu7z40z8vzszfnx9",
       "restake": {
