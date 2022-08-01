@@ -28,6 +28,15 @@
         "run_time": "19:30",
         "minimum_reward": 100000000000000000
       }
+    },
+     {
+      "name": "juno",
+      "address": "junovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfvpgmrc5",
+      "restake": {
+        "address": "juno1cs4jxnxjl54y3xnk4aud5g4n334nxsnnc5sjea",
+        "run_time": "18:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
