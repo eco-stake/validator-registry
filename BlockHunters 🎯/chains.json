@@ -37,6 +37,24 @@
         "run_time": "every 8 hours",
         "minimum_reward": 1000000000
       }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1symf474wnypes2d3mecllqk6l26rwz8m720t3k",
+      "restake": {
+        "address": "osmo1g4v4qvnmmqhuprq0f6vvzm6hv67vet67uw6e59",
+        "run_time": "every 8 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper15n2ms99yx2lycwk0msmtlj9yxhtlmqeymtg4c3",
+      "restake": {
+        "address": "evmos1cguhp05y0rd6tshsgaf8htl3eux5sfs6z7gyqa",
+        "run_time": "every 8 hours",
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }
