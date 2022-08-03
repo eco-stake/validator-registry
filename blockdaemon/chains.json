@@ -3,7 +3,7 @@
   "name": "Blockdaemon",
   "chains": [
     {
-      "name": "cosmos",
+      "name": "cosmoshub",
       "address": "cosmosvaloper10nzaaeh2kq28t3nqsh5m8kmyv90vx7ym5mpakx",
       "restake": {
         "address": "cosmos1tar2llkpqe88tdnwy2yjdd55xsxa5answefncm",
