@@ -226,6 +226,15 @@
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1gvgjg4fu7jy9ll2paas54ml66hxt929p0udzaw",
+      "restake": {
+        "address": "omniflix1v9vae554q55xa4pcfdm0p3kv8nxn50jk8jkt6h",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
