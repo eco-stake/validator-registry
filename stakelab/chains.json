@@ -387,6 +387,14 @@
         "address": "terra14ea57tjt282v38k9dxez72a7gnjeepgtpmqlke",
         "run_time": "19:00",
         "minimum_reward": 1000
+      },
+      {
+      "name": "umee",
+      "address": "umeevaloper1gxgsq7jpkg0f8vfkk60c4rd30z4cgs6lyqtglf",
+      "restake": {
+        "address": "umee1mjq48r6435aewerpruwc8up3tz3rzan270rg98",
+        "run_time": "19:00",
+        "minimum_reward": 1000
       }
     }
   ]
