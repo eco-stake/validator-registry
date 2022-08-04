@@ -192,6 +192,15 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1ackww60mtpc24d3wccxz90wyx5gxq0ggwtnw6c",
+      "restake": {
+        "address": "inj1mjq48r6435aewerpruwc8up3tz3rzan2xsfnnd",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "irisnet",
       "address": "iva1d3z30ndxuqas8vr3mrc7028ykvfaukal0tnj0p",
       "restake": {
@@ -259,6 +268,15 @@
       "address": "memevaloper1hlp6fs6hvmjnpskaeyd7444tmc3hwtks8lshjc",
       "restake": {
         "address": "meme1mjq48r6435aewerpruwc8up3tz3rzan2jxgqxl",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1pzkx9p2upmrrscwxvwgrmvmfrgcnfskxfzm3z0",
+      "restake": {
+        "address": "omniflix1mjq48r6435aewerpruwc8up3tz3rzan2380wkt",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -397,6 +415,15 @@
         "run_time": "19:00",
         "minimum_reward": 1000
       }
-    }    
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper10lzfn24dcscg2l4rzdnz603l0mtj27775cuwl5",
+      "restake": {
+        "address": "vdl1783uahcme2gr4um54655g65cxklzky2072f6e5",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    }
   ]
 }
