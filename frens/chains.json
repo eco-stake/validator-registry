@@ -109,6 +109,24 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wuske5h",
+      "restake": {
+        "address": "stars1gvgcxwdk4j46gx3knhuackvqr2hta29z7rv0ch",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5w4trh4w",
+      "restake": {
+        "address": "fetch1gvgcxwdk4j46gx3knhuackvqr2hta29zezjk33",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
