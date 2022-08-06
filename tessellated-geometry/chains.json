@@ -1,0 +1,42 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Tessellated Geometry",
+	"chains": [
+		{
+			"name": "cosmoshub",
+			"address": "cosmosvaloper1fun809ksxh87nzf88yashp9ynjz6xkscrtvzvw",
+			"restake": {
+				"address": "cosmos15v30v6vqj4cw5mwfna0p8l65qqa6vtkdh6xq5n",
+				"run_time": "9:00",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "evmos",
+			"address": "evmosvaloper1umk407eed7af6anvut6llg2zevnf0dn0feqqny",
+			"restake": {
+				"address": "evmos1ng6jprehwayzfk7c6dlkq4fl0v0f60puynxdjt",
+				"run_time": "9:00",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "lumnetwork",
+			"address": "lumvaloper1m8rwaup0774h3pj0wrlk53cwd44jrx6nj9xkxy",
+			"restake": {
+				"address": "lum1w7u5ye2mqky9s6d7d6q3kmej8pa32yntu678gt",
+				"run_time": "9:00",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "osmosis",
+			"address": "osmovaloper1n56swda49evz92zhcw2xc8esx6kzt8qm62hkep",
+			"restake": {
+				"address": "osmo15v30v6vqj4cw5mwfna0p8l65qqa6vtkdlp4szp",
+				"run_time": "9:00",
+				"minimum_reward": 10000000
+			}
+		}
+	]
+}
