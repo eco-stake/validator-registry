@@ -3,6 +3,33 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "bandchain",
+      "address": "bandvaloper1hcu2spr3r80v36us40mg938f5qhaqq2qeajtfv",
+      "restake": {
+        "address": "band1ylj24e7j97v8s4mjf3t22fvq9nx3463rze4kqz",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15cu52e36jth9gqr0muq755syvgyr96cr98a549",
+      "restake": {
+        "address": "stars1m7xlymnpxl2d4llu67v08e8xs67dj2fznfykad",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1qy7jncf45lluxaya5jaxf9r284jnmzz5fw2egh",
+      "restake": {
+        "address": "certik1m7xlymnpxl2d4llu67v08e8xs67dj2fzqa0uhh",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper1pn6mhrwq8vdhns366jwxkggmhmxypuhrrc4huu",
       "restake": {
