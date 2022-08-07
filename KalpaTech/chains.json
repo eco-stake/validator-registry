@@ -73,6 +73,30 @@
                 ],
                 "minimum_reward": 1000000000000000
             }
+        },
+        {
+            "name": "persistence",
+            "address": "persistencevaloper1tuedp72uprur89p550nvd2lf2dyy09kv9wz4tr",
+            "restake": {
+                "address": "persistence1r5696j4cmjxm66w3uad8m6yqt0w08wkkgppcdl",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "agoric",
+            "address": "agoricvaloper1ypwzuhaffvr06ktu0ne6lnm69gxj32qw00ykav",
+            "restake": {
+                "address": "agoric186rfzfmx84tvcrf3s57vck08rzt45x2lwnr0dl",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000
+            }
         }
     ]
 }
