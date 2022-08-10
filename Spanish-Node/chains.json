@@ -1,0 +1,30 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Spanish-Validator / Raul",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper19gta62js3h3p6s4xdtyyrt7g2zysp5rnk2hnkv",
+      "restake": {
+        "address": "bcna16u4r85a3ha9u6ppkjeycsjgw2tehm9z2n2gwzz",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1h2dcfp6q2uhel6tmt4rnnjnxu64pz30nqy8ch8",
+      "restake": {
+        "address": "regen16u4r85a3ha9u6ppkjeycsjgw2tehm9z2kcnnu5",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
