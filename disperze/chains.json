@@ -19,8 +19,8 @@
       "address": "evmosvaloper1sp9frqwep52chwavv3xd776myy8gyyvkv5uysl",
       "restake": {
         "address": "evmos1fr6dylwlhaetqke95agqnyk29la9hqkxy0jplg",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "run_time": "every 4 hour",
+        "minimum_reward": 500000000000000000
       }
     }
   ]
