@@ -8,7 +8,7 @@
       "restake": {
         "address": "bcna10y9kj0uczltu42pdnjhktymdtyvj0f952raxhz",
         "run_time": "22:00",
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },
     {
