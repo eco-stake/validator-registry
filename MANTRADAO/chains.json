@@ -1,0 +1,62 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MANTRA DAO",
+  "chains": [
+    {
+      "name": "kava",
+      "address": "kavavaloper1mqsd85lut69zwclmeurj3ve5tarm56hzzkt8fq"
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1yej82e2zursn2f56vgxfvmydwj9f2awluhusqh"
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1vyv7l5qyakgnz2y006jq2xawdr3hnezxlylgtw"
+    },
+    {
+      "name": "cosmos",
+      "address": "cosmosvaloper103agss48504gkk3la5xcg5kxplaf6ttnuv234h"
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper1qrg0kzh73jf32tgfn6gsrh9am5pw35urws5eq2"
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1p5uwz3x0g2jk9y4cnx6d5lzwhduy4lv68xygep"
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1lanud256kqlwryaw0zegmqg872zdwpcfsantv6"
+    },
+    {
+      "name": "polkadot",
+      "address": "14B2ArWoQKrZy6mcHF6St6GKajTX1WzUAqpQhiVs7Bkq8n7W"
+    },
+    {
+      "name": "kusama",
+      "address": "HhZkxUEceUTr4FYNUAZECizfd5QLVKMdfZAL1eY3xPAPmwA"
+    },
+    {
+       "name": "matic",
+       "address": "0x4f856f79f54592a48c8a1a1fafa1b0a3ac053f99"
+     },
+     {
+       "name": "fuse",
+       "address": "0xffe7a09779f852ca7e4229d1b3532e94f196baf7"
+     },
+     {
+       "name": "tomo",
+       "address": "0xbc627070d31bf31431626da186796131d9846376"
+     },
+   {
+      "name": "karidachain",
+      "address": "0x0E1A0310C5423674d471ba0978FF9BB14b283985"
+    },
+    {
+       "name": "solana",
+       "address": "4QbpvfQ4tfaGwWMLj3zpHhdHtCef13r6E3TrCiP55SZL"
+     }
+  ]
+}
