@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "echelon",
-      "address": "echelonvaloper1q9puynszmmwmsvhsr4g3zgrd6jxt8tksgqauzh",
-      "restake": {
-        "address": "echelon15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4keekfm",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
-      }
-    },
-    {
       "name": "idep",
       "address": "idepvaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snnkdel79",
       "restake": {
@@ -108,6 +99,24 @@
         "address": "cheqd1etsdevgm5ps240lrw9mg3p2j32tj96ktqafpeu",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1x70l4dcj30nr4x52ph3jmkpgz79qgktxe0w4tl",
+      "restake": {
+        "address": "omniflix1etsdevgm5ps240lrw9mg3p2j32tj96ktnp5c9n",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "chronicnetwork",
+      "address": "chronicvaloper19f0w9svr905fhefusyx4z8sf83j6et0gdse0hy",
+      "restake": {
+        "address": "chronic1etsdevgm5ps240lrw9mg3p2j32tj96ktnjzpc8",
+        "run_time": "23:00",
+        "minimum_reward": 10000
       }
     }
   ]
