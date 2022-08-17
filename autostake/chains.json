@@ -1,5 +1,5 @@
 {
-  "name": " BlockNgine 🛡️ Slash Protected",
+  "name": " AutoStake 🛡️ Slash Protected",
   "chains": [
     {
       "name": "agoric",
@@ -88,6 +88,24 @@
       "restake": {
         "address": "osmo194ytn50yhh67rdha8akhs7c6zulnz4n2pv6n63",
         "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1s2eecyppqqpp3x7alqk4ntxkw2cegwkztdeh2y",
+      "restake": {
+        "address": "pasg194ytn50yhh67rdha8akhs7c6zulnz4n220sepu",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper16jd664rd04j5lyckykjedt7vrha7k822vlkxty",
+      "restake": {
+        "address": "persistence10ys69560pqr6zmqam80g8s0smtjw6p3ugzmy3u",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
     },
