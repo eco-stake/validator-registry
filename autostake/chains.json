@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": " AutoStake 🛡️ Slash Protected",
   "chains": [
     {
@@ -59,7 +60,7 @@
       "name": "evmos",
       "address": "evmosvaloper1shvcjzhcxau6qtlz9w82a646ecwp4hq7ayqt0w",
       "restake": {
-        "address": "evmos194ytn50yhh67rdha8akhs7c6zulnz4n2tkcdkt",
+        "address": "evmos163g9c65kv5v8lgvvwner3ruxntrdr50yx36eyj",
         "run_time": "every 5 minutes",
         "minimum_reward": 10000000000000000
       }
