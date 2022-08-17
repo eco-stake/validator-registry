@@ -201,6 +201,15 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p4f7uxh",
+      "restake": {
+        "address": "pasg1xrrfek3qpz4ja8ccrjklfy064asyqq9ks204es",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pfj2j90",
       "restake": {
