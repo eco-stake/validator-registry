@@ -4,7 +4,7 @@
   "services": [
     {
       "title": "Synergy Nodes",
-      "description": "We provide multiple infrastructure support: node snapshot, IBC relaying, PRC, API, blockchain explorer at https://cosmosrun.info, Crosschain Bridge at https://www.cosmosbridge.app, etc.",
+      "description": "We provide multiple infrastructure support: Node Snapshots, IBC Relayers, RPC, API, blockchain explorer at https://cosmosrun.info, Crosschain Bridge at https://www.cosmosbridge.app, etc.",
       "url": "https://www.synergynodes.com"
     }
   ]
