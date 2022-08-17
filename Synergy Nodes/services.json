@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Synergy Nodes",
+  "services": [
+    {
+      "title": "Synergy Nodes",
+      "description": "We provide multiple node operation infrastructure support: node snapshot, IBC relaying, PRC, API, blockchain explorer at https://cosmosrun.info, Crosschain Bridge at https://www.cosmosbridge.app, etc.",
+      "url": "https://www.synergynodes.com"
+    }
+  ]
+}
