@@ -109,6 +109,7 @@
         "minimum_reward": 1
       }
     },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper12y30xefd0wg53xtyv9lw7mjcdvf8nxgzzva3sr",
       "restake": {
