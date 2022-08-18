@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper17200mes7mplx33x8gcegkurqmz35d7v4lydt6f",
+      "restake": {
+        "address": "kujira1r8egcurpwxftegr07gjv9gwffw4fk00960dj4f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper16xvwljz2vqpsdzuskdlqt25e8gxmlpnfq3dcxh",
       "restake": {

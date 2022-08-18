@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OrbitalApes.com",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1mx9nqk5agvlsvt2yc8259nwztmxq7zjqep5khu",
+      "restake": {
+        "address": "evmos1mh7r77ku43zwd07y9heetv8kzj22u7vu473hm5",
+        "run_time": "21:10",
+        "minimum_reward": 10000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "danku_zone w/ DAIC",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper13qjgwewgrwu979wn8xxrh274rjtwk4m5gqkehp",
+      "restake": {
+        "address": "juno1cj78sef57pm5w0h4q0gjtxjj8krfjht86zdeau",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper140e7u946a2nqqkvcnjpjm83d0ynsqem8dnp684",
+      "restake": {
+        "address": "cosmos1cj78sef57pm5w0h4q0gjtxjj8krfjht8vswz6q",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1cwurrzatev9lfkn3ak6hh59t6yc0zy00rzp8yd",
+      "restake": {
+        "address": "osmo1cj78sef57pm5w0h4q0gjtxjj8krfjht8ytajvj",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1teve9jdzedzu64mty72qc2888kh7t9hjchp5y2",
+      "restake": {
+        "address": "evmos1pntrghlytsfftdaxm3wqw2lkuvy7ylgvwr88w9",
+        "run_time": "18:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1x3ecxjgg6mlq34g3pm7dyuz8n4jz2exxx7eh0n",
+      "restake": {
+        "address": "persistence1mh3cyw0c8fxmu87a4vdtnjn9kjq5959x6nv66q",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1qkk2nwpq0k6aq02le5g2hmsmts8um3cx44usvy",
+      "restake": {
+        "address": "kujira1cj78sef57pm5w0h4q0gjtxjj8krfjht8acv6h2",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

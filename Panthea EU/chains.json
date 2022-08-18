@@ -3,12 +3,30 @@
   "name": "Panthea EU",
   "chains": [
     {
+      "name": "bitcanna",
+      "address": "bcnavaloper18uempxcg7e8xr0un2zc3x3add2zdr0vwdshhhc",
+      "restake": {
+        "address": "bcna1yqqsskp60ru889m2ac9rtdays6pt9xfy0g6p6t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper10g284y7qkk4ecee896hnukw2wa8s3u0t4js57m",
+      "restake": {
+        "address": "cerberus1yqqsskp60ru889m2ac9rtdays6pt9xfyfl2f8j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
       "restake": {
-        "address": "desmos1qxx2azpysc7pya2nr3p88dnrjt2ne53z757wxv",
+        "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {

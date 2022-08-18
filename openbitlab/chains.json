@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "openbitlab",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1umy6425nsccm22qvtugxsfyvpee60xfs9x3w0x",
+      "restake": {
+        "address": "kujira1t5ykuy6eqyh495ew79zl46ea4fcaw63cpt6sm4",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

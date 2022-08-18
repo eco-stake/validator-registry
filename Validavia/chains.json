@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Validavia",
+    "chains": [
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1wxllvjqmha2p437dpczat82wzpr8gem04jkwmz",
+        "restake": {
+          "address": "evmos1edyyndl5sw6u6v4glrdag88mzhhak0p65wey3m",
+          "run_time": "20:30",
+          "minimum_reward": 10000000000000000
+        }
+      }
+    ]
+  }

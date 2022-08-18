@@ -11,7 +11,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -23,7 +23,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 2000
       }
     },
     {
@@ -35,7 +35,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -47,7 +47,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -59,7 +59,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -71,7 +71,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -83,7 +83,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -95,7 +95,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -107,7 +107,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -119,7 +119,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -131,7 +131,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100000000000000
+        "minimum_reward": 1000000000000000
       }
     },
     {
@@ -143,7 +143,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -155,7 +155,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -167,7 +167,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     }
   ]
