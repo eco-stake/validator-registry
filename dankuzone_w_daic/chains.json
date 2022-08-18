@@ -54,6 +54,24 @@
         "run_time": "18:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper12r8929na0amxfj406zw7vk8jmd03fmzcj9r2gg",
+      "restake": {
+        "address": "terra1hr0dn8lxdzk57mzz992cj8v9dtwz3exgfmwxvc",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper17kh8ngu3s74epwympaxrp4ukahm5rvtf5zc8ma",
+      "restake": {
+        "address": "terra1hr0dn8lxdzk57mzz992cj8v9dtwz3exgfmwxvc",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
