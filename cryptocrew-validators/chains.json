@@ -134,7 +134,7 @@
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -160,6 +160,24 @@
       "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
       "restake": {
         "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
+      "restake": {
+        "address": "inj1t8e0n59ta6dnf38vqel7ydme9tajvjegca5yuc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
+      "restake": {
+        "address": "pasg1305e92ng6a9pdh3ttc3ld459ckxupxt355rehc",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
