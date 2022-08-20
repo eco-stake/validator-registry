@@ -21,19 +21,10 @@
       }
     },
     {
-      "name": "akash",
-      "address": "akashvaloper1340p98mw30khq58kk0tm04hjmsvf04nuryjv6d",
+      "name": "passage",
+      "address": "pasgvaloper1myyssc7g6hxsvq9qdtc25um8yacvx8e0v3cerg",
       "restake": {
-        "address": "akash12q48j5xah5x5fwv2vuvc52j3ryfdq0lxfc2zmc",
-        "run_time": "12:00",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "sentinel",
-      "address": "sentvaloper1df90uu7h29kek7wj6e2g8qqew0qwk7789lmrmv",
-      "restake": {
-        "address": "sent12q48j5xah5x5fwv2vuvc52j3ryfdq0lxlc3uxd",
+        "address": "pasg12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8m7l0a",
         "run_time": "12:00",
         "minimum_reward": 1000000
       }
