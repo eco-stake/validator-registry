@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "CosmosPug",
   "chains": [
     {
@@ -8,6 +9,39 @@
         "address": "cerberus17xs4md6flec0klct07874ntqppg78ane2dm4f3",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper10q09k0flvffqzcmy2nx20nhxzs78nnesrv60ad",
+      "restake": {
+        "address": "evmos1kmpplwln372xm6fkkmcthlk3twxmcavep62dqq",
+        "run_time": "19:30",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1dqhxzkkkc4frsleknwn8gr9xxg9kynfvj8ky44",
+      "restake": {
+        "address": "juno17xs4md6flec0klct07874ntqppg78aneqcc8mx",
+        "run_time": [
+          "02:00",
+          "14:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1hqlvlvps8rrd2jn05p3ugetu7z40z8vzszfnx9",
+      "restake": {
+        "address": "secret1jxlnltc69adsrqj4yph2qu0j8a9pfne8gatlfj",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 100000
       }
     },
     {

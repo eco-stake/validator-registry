@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "coldy",
   "chains": [
     {
@@ -23,9 +24,18 @@
       "name": "evmos",
       "address": "evmosvaloper148hpdcvge7jgjr4xxjufcq56w5k4rr0pnnqxla",
       "restake": {
-        "address": "evmos12hwz2jflsea2vdj08l2kfl49hdvpg9527vj4xx",
+        "address": "evmos15sr3ygx636kazkrv8rh3u4d7xyyferejdsvvq3",
         "run_time": "19:30",
         "minimum_reward": 100000000000000000
+      }
+    },
+     {
+      "name": "juno",
+      "address": "junovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfvpgmrc5",
+      "restake": {
+        "address": "juno1cs4jxnxjl54y3xnk4aud5g4n334nxsnnc5sjea",
+        "run_time": "18:00",
+        "minimum_reward": 1000000
       }
     }
   ]

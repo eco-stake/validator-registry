@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "The Crypto Gateway",
+  "chains": [
+     {
+      "name": "desmos",
+      "address": "desmosvaloper134qmcparptzrfqagu2y96cq4raspt8q6z3etsk",
+      "restake": {
+        "address": "desmos1r58q9u99wftd48khwx67d9urx5v5ql60qvnzcv",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

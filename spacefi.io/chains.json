@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "spacefi.io",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1tppfkc7qtf7jmz3kat9za09d50yftjlr8rhdkr",
+      "restake": {
+        "address": "evmos1hvqp7juhlses4y7jf5n6ltd6m5rsqdkvcsdn74",
+        "run_time": "21:00",
+        "minimum_reward": 50000000000000000
+      }
+    }
+  ]
+}

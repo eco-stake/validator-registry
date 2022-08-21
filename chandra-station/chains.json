@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Chandra Station ",
   "chains": [
     {
@@ -50,7 +51,7 @@
       "name": "evmos",
       "address": "evmosvaloper18zt355ccyxd3kj23mz5hdz00qqn5lk5kjnj74m",
       "restake": {
-        "address": "evmos1uwqjtgjhjctjc45ugy7ev5prprhehc7wmuyqdd",
+        "address": "evmos1ey55yn6mvhmykvp6vmfnrr7jwz5ya8jm2t3rcs",
         "run_time": "21:00",
         "minimum_reward": 1000
       }

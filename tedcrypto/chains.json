@@ -1,5 +1,6 @@
 {
-  "name": "Tedcrypto",
+  "$schema": "../chains.schema.json",
+  "name": "Tedcrypto.io 🧸 | TedLotto",
   "chains": [
     {
       "name": "bitsong",
@@ -16,6 +17,24 @@
       "restake": {
         "address": "cerberus1jsmtq9z9qpeda0pyff9w8u66mkxrtzser8cjew",
         "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper19fv2gwkgv3x53lau3um6tzg7qxvq96grvg97zr",
+      "restake": {
+        "address": "evmos1xqaz4pwa2s49nrpe0vg55rv64kttw0qewc4907",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper14xmyp2hdd586frvl0d5mpqy5j9rjkt4khdp5hd",
+      "restake": {
+        "address": "juno1jsmtq9z9qpeda0pyff9w8u66mkxrtzsefjmqte",
+        "run_time": ["08:00", "20:00"],
         "minimum_reward": 100000
       }
     }

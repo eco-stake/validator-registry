@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Cros-nest",
   "chains": [
     {
@@ -68,7 +69,7 @@
       "name": "evmos",
       "address": "evmosvaloper1aep37tvd5yh4ydeya2a88g2tkjz6f2lcrfjumh",
       "restake": {
-        "address": "evmos1v9vae554q55xa4pcfdm0p3kv8nxn50jkcdkuhp",
+        "address": "evmos1ksh2uvrvq7gftgdc8jd2n67pcwcztdxupe9y4u",
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
@@ -191,7 +192,7 @@
       }
     },
     {
-      "name": "terra",
+      "name": "terra2",
       "address": "terravaloper1ktu7a6wqlk6vlywf4rt6wfcxuphc0es27p0qvx",
       "restake": {
         "address": "terra1v9vae554q55xa4pcfdm0p3kv8nxn50jkugaj0f",
@@ -206,6 +207,33 @@
         "address": "must be added",
         "run_time": "23:00",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1pshqems6hdka48gc56r2ykshyaarkt40hl0rlh",
+      "restake": {
+        "address": "kujira1v9vae554q55xa4pcfdm0p3kv8nxn50jkty92qr",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper15fr85l4n63lyzu0t28kwayhwef4s3jyc467pg5",
+      "restake": {
+        "address": "pb1v9vae554q55xa4pcfdm0p3kv8nxn50jknzvhq4",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1gvgjg4fu7jy9ll2paas54ml66hxt929p0udzaw",
+      "restake": {
+        "address": "omniflix1v9vae554q55xa4pcfdm0p3kv8nxn50jk8jkt6h",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
       }
     }
   ]

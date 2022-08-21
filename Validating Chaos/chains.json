@@ -1,0 +1,97 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Validating Chaos",
+    "chains": [
+      {
+        "name": "osmosis",
+        "address": "osmovaloper1d4pn8f3q5dn0g4uwr2egh5mgzrnf7fhh53tuu4",
+        "restake": {
+          "address": "osmo1p0yrw4lawfafed3gpsr3andz8mc0skcducluyf",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "juno",
+        "address": "junovaloper1kg99k8wd67r0ffxwavgnxup7yk46rvtt2r4szg",
+        "restake": {
+          "address": "juno1p0yrw4lawfafed3gpsr3andz8mc0skcdz30h48",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "cosmos-hub",
+        "address": "cosmosvaloper1kg99k8wd67r0ffxwavgnxup7yk46rvttxc53j7",
+        "restake": {
+          "address": "cosmos1p0yrw4lawfafed3gpsr3andz8mc0skcd5rvvjm",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "akash",
+        "address": "akashvaloper1kg99k8wd67r0ffxwavgnxup7yk46rvtty4r9ha",
+        "restake": {
+          "address": "akash1p0yrw4lawfafed3gpsr3andz8mc0skcdecpttp",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "chihuahua",
+        "address": "chihuahuavaloper1f2026phpmwleuxv5g50tetyenfhqwtt5a94vek",
+        "restake": {
+          "address": "chihuahua1p0yrw4lawfafed3gpsr3andz8mc0skcdhkpzne",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1glfl3hd0tpqyu6fa23qsspyqya99kh0juhhhqq",
+        "restake": {
+          "address": "evmos106kllpzppt84vq2dgy2qd37mfn8lr8zmn096v8",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "lum",
+        "address": "lumvaloper1a6086nvvgrlqsua88c7j2fjssykn2ks0zlgvg0",
+        "restake": {
+          "address": "lum1p0yrw4lawfafed3gpsr3andz8mc0skcdpf3980",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "stargaze",
+        "address": "starsvaloper1kg99k8wd67r0ffxwavgnxup7yk46rvttuwrdwy",
+        "restake": {
+          "address": "stars1p0yrw4lawfafed3gpsr3andz8mc0skcdqlm3e2",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "cereberus",
+        "address": "cerberusvaloper1kg99k8wd67r0ffxwavgnxup7yk46rvtt26223c",
+        "restake": {
+          "address": "cerberus1p0yrw4lawfafed3gpsr3andz8mc0skcdgyv98s",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "crescent",
+        "address": "crevaloper1kg99k8wd67r0ffxwavgnxup7yk46rvtt9snwx2",
+        "restake": {
+          "address": "cre1p0yrw4lawfafed3gpsr3andz8mc0skcdstlf8k",
+          "run_time": "23:00",
+          "minimum_reward": 1000
+        }
+      }
+    ]
+  }
+  

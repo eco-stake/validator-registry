@@ -1,0 +1,16 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Galaxias",
+    "chains": [
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1aqjfvunjprdhs660e9yfa8wdulc7rxlzz43hn3",
+        "restake": {
+          "address": "evmos1dxch2d96zgjssxhqvmf9l8yy9e9th82tfhxr65",
+          "run_time": "19:20",
+          "minimum_reward": 1000000000000000000
+        }
+      }
+    ]
+}
+  

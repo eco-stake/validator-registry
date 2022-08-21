@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IndieVal",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper12h8fpmg5qs570rmlem27km5xu4l2gv0lapuels",
+      "restake": {
+        "address": "umee1vnvs2j0g5x3tel7fddzr85qvv0rddk60k54zdw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

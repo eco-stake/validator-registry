@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "⚡️Allnodes",
   "chains": [
     {
@@ -79,6 +80,87 @@
       "restake": {
         "address": "persistence17yg9k46xnj6v83peqsvrxvakaxc3arlkgfjv8k",
         "run_time": "02:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper14vk3997r4ea4m7eej7ugmr503ru768fxwynsmq",
+      "restake": {
+        "address": "kava1vem73j7m9t04kp5mh3t7tnhzw9yhrudyldx7mn",
+        "run_time": "02:15",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1c55g6u7q2uzgks9gjp80sle8n6qcyg64vk64g2",
+      "restake": {
+        "address": "evmos1yyt52xdduwmlrym3ecu0z5636lx5et36jm7nu6",
+        "run_time": "02:30",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper120ppepaj2lh5vreadx42wnjjznh55vvktp78wk",
+      "restake": {
+        "address": "terra1yy484hlsmhp6ulc764sfaqyfp3uyqg5ed87hsv",
+        "run_time": "02:45",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva1muxh5wllk627klssx2w305lz8mdar5ne4ve9dc",
+      "restake": {
+        "address": "iaa1n4mmffygh8wdm8zfxxv30cg0aq9m2s07mtlwey",
+        "run_time": "03:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1c07ughj0a396vdg7t9edy2wyrzr90p02yhl7p8",
+      "restake": {
+        "address": "akash1n4mmffygh8wdm8zfxxv30cg0aq9m2s07rjjcz0",
+        "run_time": "03:15",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1clsxq6wk4r4wsd0wjlqaa52p4t94r06lya7h5t",
+      "restake": {
+        "address": "comdex1n4mmffygh8wdm8zfxxv30cg0aq9m2s07fxaazz",
+        "run_time": "03:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ddlw0cz4v0grzek88z0vm34ktcfsac8du78yhg",
+      "restake": {
+        "address": "sif1n4mmffygh8wdm8zfxxv30cg0aq9m2s07t5sf57",
+        "run_time": "03:45",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1m64f97cewr4f2qurnjr8gjaquthtm5ge0u8eq9",
+      "restake": {
+        "address": "kujira1n4mmffygh8wdm8zfxxv30cg0aq9m2s07lpa8kl",
+        "run_time": "04:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper16q7tsm4eadhw3sgqrlg2e32g6mfm8xzhjame6j",
+      "restake": {
+        "address": "mantle1n4mmffygh8wdm8zfxxv30cg0aq9m2s07sdy6yl",
+        "run_time": "04:15",
         "minimum_reward": 10000
       }
     }

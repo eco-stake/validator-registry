@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Crypto Lion 🦁",
   "chains": [
     {
@@ -42,6 +43,18 @@
       "address": "decentrvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4purhmt",
       "restake": {
         "address": "decentr1mwysqcvvhjcntajus2vuezgc5su7kha43r4n8z",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1rmsuaqqfyrmrgc45p3d5jpkyrapzxwzjamp0q0",
+      "restake": {
+        "address": "desmos14dh7sqahy6gd96hwfhsjxte3axtfa5nh64fjw9",
         "run_time": [
           "10:00",
           "22:00"

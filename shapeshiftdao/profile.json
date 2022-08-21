@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "ShapeShift DAO",
   "identity": "47434737FEC2418A"
 }

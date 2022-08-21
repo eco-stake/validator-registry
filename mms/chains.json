@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "MMS",
   "chains": [
     {
@@ -6,17 +7,53 @@
       "address": "evmosvaloper1rhddecqpwfjdkwmu6lmfzekh936kcu6wxs7jxa",
       "restake": {
         "address": "evmos19mgc0j2m7pfzuc9lthqa6r24laxk094d3a979q",
-        "run_time": "every 3 hours",
-        "minimum_reward": 1000000000000000
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
       "name": "konstellation",
       "address": "darcvaloper17w25mz7gvf8f84fevy3akzhaugjewp4dd8f5rj",
       "restake": {
-        "address": "darc1vkayq65xn0tguetzm6r2ejal7zmlwgemf8ncwq",
-        "run_time": "every 3 hours",
-        "minimum_reward": 1000000
+        "address": "darc1m2g72wffh3l65sjlpxvsgmns3y7z58dy35yvdg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1d8luu64z3q4vx2nvyv8wsp89jn6nkxk9dwmpne",
+      "restake": {
+        "address": "gravity1m2g72wffh3l65sjlpxvsgmns3y7z58dy29z99h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper16sk79nlv8jkvq3gnhgm758uhfqjmwtmkcrl80f",
+      "restake": {
+        "address": "osmo1m2g72wffh3l65sjlpxvsgmns3y7z58dyxwrdkd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper12772f4pdtgrm4umqakclh98y98mt9qh8c9v6g6",
+      "restake": {
+        "address": "secret163hk2yw0dt8gdrdaefqtvfl3v9pjdhgj6nake6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1ffn3twytclgn5k03nv3ksra8kk6hyls8crlk92",
+      "restake": {
+        "address": "desmos1hzju8h7e23anvryz87nh7uyw3ylssgcn3ns76k",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     },
     {
@@ -24,8 +61,8 @@
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {
         "address": "umee1m2g72wffh3l65sjlpxvsgmns3y7z58dyurdzyd",
-        "run_time": "every 3 hours",
-        "minimum_reward": 50000
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     }
   ]

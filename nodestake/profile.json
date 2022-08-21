@@ -1,4 +1,5 @@
 {
-  "name": "NodeStake.top",
+  "$schema": "../profile.schema.json",
+  "name": "NodeStake",
   "identity": "94EFE192B2C52424"
 }

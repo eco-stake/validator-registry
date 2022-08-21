@@ -1,0 +1,14 @@
+{
+  "name": "coinhall.org 📈🔄",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1y3u3ht35yn82j72sejtf85dkvqwlt302x47lk9",
+      "restake": {
+        "address": "juno1mqdaym2dhn74tpn02y6uaw60dp0svu9jlwp5u9",
+        "run_time": "02:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

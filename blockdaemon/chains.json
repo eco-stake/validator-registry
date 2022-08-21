@@ -1,6 +1,43 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Blockdaemon",
   "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper10nzaaeh2kq28t3nqsh5m8kmyv90vx7ym5mpakx",
+      "restake": {
+        "address": "cosmos1tar2llkpqe88tdnwy2yjdd55xsxa5answefncm",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1tuup69wz94u62g9tjuphj3vuvqyh3t006h4l0n",
+      "restake": {
+        "address": "evmos1gr38wvphz08ytjmpw666mutqgplq7k80dglnsf",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1k0hmfxjj3thuc47057cxuhxneu8rmseuje72k5",
+      "restake": {
+        "address": "juno1tar2llkpqe88tdnwy2yjdd55xsxa5ansct2gl8",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
     {
       "name": "osmosis",
       "address": "osmovaloper14537vk6xr9qfptpw2090c589w7a8cm0e0wyv3u",

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Citizen Cosmos",
   "chains": [
     {
@@ -17,6 +18,15 @@
         "address": "bostrom1yrv70gskxcn04xu03rpywd044gvz9l0mmhad2d",
         "run_time": "20:00",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj",
+      "restake": {
+        "address": "evmos1ygxdvtvzcekv402arfh97n0p5gajpvnhu7zk7r",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
       }
     }
   ]

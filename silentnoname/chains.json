@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "silent",
   "chains": [
     {
@@ -15,6 +16,15 @@
       "address": "starsvaloper1xqum4wt30f3aqw8mmv823ty3x7gpmmde9zfndf",
       "restake": {
         "address": "stars1r3g7japkptsvt3gv52gvuudprtcue762n08yrf",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1psf28krr9muve6w0qzgjlrju5mamlsac96l85q",
+      "restake": {
+        "address": "evmos13pc2era7rw65024je5neky46mhhjhgrjd20npe",
         "run_time": "12:00",
         "minimum_reward": 10000
       }

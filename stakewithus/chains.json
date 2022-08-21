@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "StakeWithUs",
   "chains": [
     {
@@ -10,7 +11,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -22,7 +23,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 2000
       }
     },
     {
@@ -34,7 +35,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -46,7 +47,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -58,7 +59,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -70,7 +71,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -82,7 +83,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -94,7 +95,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -106,7 +107,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -118,7 +119,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
       }
     },
     {
@@ -130,7 +131,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100000000000000
+        "minimum_reward": 1000000000000000
       }
     },
     {
@@ -142,7 +143,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -154,7 +155,19 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvyfzg08",
+      "restake": {
+        "address": "agoric16r8m6kfzh36e5x95z5s8zjg6mml0kea9myq000",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1000
       }
     }
   ]

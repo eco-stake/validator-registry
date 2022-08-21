@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Bro_n_Bro",
   "chains": [
     {
@@ -23,9 +24,9 @@
       "name": "evmos",
       "address": "evmosvaloper1ce4vh0e5kanlgc7z0rhcemvd8erjnfzcyfecl7",
       "restake": {
-        "address": "evmos1grfk7t0k42yxpwqhr7kt4te7j73m2a3vqyv7mw",
-        "run_time": "19:37",
-        "minimum_reward": 1000000
+        "address": "evmos1umjyc6jvtrwrr62z5d4afkrjtq7gyg0eq98x5k",
+        "run_time": "20:15",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -60,6 +61,24 @@
       "address": "starsvaloper1y58hfnm90r4efhlydx0gavz57lvm7k6uulkg3h",
       "restake": {
         "address": "stars1grfk7t0k42yxpwqhr7kt4te7j73m2a3vke2d2h",
+        "run_time": "19:37",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper106yp7zw35wftheyyv9f9pe69t8rteumjrx52jg",
+      "restake": {
+        "address": "cosmos1grfk7t0k42yxpwqhr7kt4te7j73m2a3vz9aspx",
+        "run_time": "19:37",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1sykf8q94l8q8mqstf64ptuvp74ueyehxpgcq76",
+      "restake": {
+        "address": "desmos1vaycuz987q8g8lw6kuvy4fp7dfy7yp093rj9av",
         "run_time": "19:37",
         "minimum_reward": 10000
       }

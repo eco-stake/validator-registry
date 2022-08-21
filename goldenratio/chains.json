@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Golden Ratio Staking",
   "chains": [
     {
@@ -7,7 +8,7 @@
       "restake": {
         "address": "bcna106n92ygqknaw5wcgl2e9v0duxxux6nttv0e0re",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -16,7 +17,7 @@
       "restake": {
         "address": "cerberus106n92ygqknaw5wcgl2e9v0duxxux6ntt2cf87q",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -25,7 +26,16 @@
       "restake": {
         "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 1618000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper18hrnuttvs8efncze46g7q2ujy4p4yude83kndl",
+      "restake": {
+        "address": "comdex106n92ygqknaw5wcgl2e9v0duxxux6ntt3stvju",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800
       }
     },
     {
@@ -34,7 +44,16 @@
       "restake": {
         "address": "cosmos106n92ygqknaw5wcgl2e9v0duxxux6nttklfwtt",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 161800
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1zkmqc6jwq3609uwsucwzps4vtdy5k2069hslf0",
+      "restake": {
+        "address": "cro15smm5assxxvzlx9sv8sqf2q3p9t0f8x7lcm0l2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618000
       }
     },
     {
@@ -43,7 +62,7 @@
       "restake": {
         "address": "dig106n92ygqknaw5wcgl2e9v0duxxux6nttwtq9fs",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -52,7 +71,7 @@
       "restake": {
         "address": "emoney106n92ygqknaw5wcgl2e9v0duxxux6ntteun6uk",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 1618000
       }
     },
     {
@@ -61,7 +80,7 @@
       "restake": {
         "address": "evmos14pcslzl25jyueuwj956yjld0kfkrp0qakg9zan",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 161800000000000000
       }
     },
     {
@@ -70,7 +89,16 @@
       "restake": {
         "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 161800
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper18lap75eu2sw4el35urw202j3ld9g0m3nka3kz0",
+      "restake": {
+        "address": "kujira106n92ygqknaw5wcgl2e9v0duxxux6ntt8htkxp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
       }
     },
     {
@@ -79,7 +107,7 @@
       "restake": {
         "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 1618
       }
     }
   ]

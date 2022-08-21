@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "wabut.club",
+  "chains": [
+    {
+      "name": "meme",
+      "address": "memevaloper1uxysl5pw8avye6rtcssmwfr7eyharcm2xx8drt",
+      "restake": {
+        "address": "memevaloper1uxysl5pw8avye6rtcssmwfr7eyharcm2xx8drt",
+        "run_time": "every 12 hour",
+        "minimum_reward": 10000000
+      }
+    },
+	{
+      "name": "galaxy",
+      "address": "galaxyvaloper12cpwgkczy62gs6fq0lvgfuu6f89e64qcel7da4",
+      "restake": {
+        "address": "galaxy12cpwgkczy62gs6fq0lvgfuu6f89e64qcy7dd7e",
+        "run_time": "every 24 hour",
+        "minimum_reward": 1000
+		  }
+    }    
+  ]
+}

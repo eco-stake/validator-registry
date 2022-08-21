@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "#decentralizehk",
   "chains": [
     {
@@ -116,6 +117,24 @@
         "address": "akash197yc3g8drkf8fyv6fr4ynddy2n22kauujqgkv9",
         "run_time": "22:00",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1d74wdckw5vyn6gwqt4r0ruemp9n8vmwtudw848",
+      "restake": {
+        "address": "evmos1vx4kvzk4pppmkpt9yvmyng08rnag200xyh5wgk",
+        "run_time": "22:00",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper19cuh2kalnp82euhsf0aj75m0yxncj0v47eyfv8",
+      "restake": {
+        "address": "stars197yc3g8drkf8fyv6fr4ynddy2n22kauut8jv7w",
+        "run_time": "22:00",
+        "minimum_reward": 100000
       }
     }
   ]

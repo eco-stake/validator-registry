@@ -1,4 +1,5 @@
 {
-  "name": "Saturn 🌑",
+  "$schema": "../profile.schema.json",
+  "name": "GalaxyStaking - Saturn 🌑",
   "identity": "CE96041EC98A5DDA"
 }

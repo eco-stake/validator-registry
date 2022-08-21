@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "EarnX💗Stake",
+    "chains": [
+      {
+        "name": "agoric",
+        "address": "agoricvaloper1j7jyrppckcgf4mnl56xz0gr2gkkz4xncdjuggy",
+        "restake": {
+          "address": "agoric16kz8rnqjcz23vgh3egukfzamctvxkft2trhrc6",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000
+        }
+      }
+    ]
+}

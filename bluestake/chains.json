@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "BlueStake 🚀 | 100% insurance",
   "chains": [
     {
@@ -83,12 +84,30 @@
       }
     },
     {
+      "name": "odin",
+      "address": "odinvaloper1agc625vf57femlvg7aupvuje8v73swlmv6watw",
+      "restake": {
+        "address": "odin1m5hgzum68rjf4c7zhezgkj8hlnmr0kghjpagx6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "panacea",
       "address": "panaceavaloper13npeg0lqkrntrnaulm6al6clkpm45hnqpt359v",
       "restake": {
         "address": "panacea1m5hgzum68rjf4c7zhezgkj8hlnmr0kghmw8d3n",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1c4vqnuy4v4pwnwd92funa6ntf97twdxc6rpunu",
+      "restake": {
+        "address": "pasg1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh4ez380",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     },
     {
