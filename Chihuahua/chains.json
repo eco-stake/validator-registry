@@ -37,6 +37,24 @@
         "run_time": "12:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1zutsqx9779k6tascykf9t2xsdn6xs5ffpv06z9",
+      "restake": {
+        "address": "bcna12q48j5xah5x5fwv2vuvc52j3ryfdq0lx7nhy2s",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1z6rfp8wzsx87pwt3z73gf2a67d6tgmfrsgzeda",
+      "restake": {
+        "address": "chihuahua12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8k2trq",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
