@@ -26,7 +26,16 @@
       "restake": {
         "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1k4dsje06s8dyf3k80g7x695l7wdj0z52q5l2hu",
+      "restake": {
+        "address": "pasg1yqqsskp60ru889m2ac9rtdays6pt9xfykqn6lx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

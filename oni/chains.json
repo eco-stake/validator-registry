@@ -39,10 +39,10 @@
           }
         },
       {
-        "name": "cerberus",
-        "address": "cerberusvaloper1emh90uhfx3ytu42y070v0ernk48s4v67l26xzv",
+        "name": "passage",
+        "address": "pasgvaloper1azdfljp04ptlazs95e5gscweavmaszw54e26uy",
         "restake": {
-          "address": "cerberus164e53fz34nkc03vnncdl5w9xp420lkakgwpcer",
+          "address": "pasg164e53fz34nkc03vnncdl5w9xp420lkakh3ctph",
           "run_time": "every 1 hour",
           "minimum_reward": 10000
         }
@@ -67,4 +67,3 @@
       }
     ]
   }
-  

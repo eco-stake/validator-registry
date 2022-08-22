@@ -309,6 +309,15 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1judfryxu5xz4y3sljcqm82vv94psy3d4ckcp7m",
+      "restake": {
+        "address": "pasg1mjq48r6435aewerpruwc8up3tz3rzan20p8dv2",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "persistence",
       "address": "persistencevaloper1r7gdc8ag4ktmrvhed2xp09n3klrjuznwdzsru2",
       "restake": {
