@@ -53,7 +53,7 @@
       "restake": {
         "address": "evmos1xul3g9w27tlns7k3d2reqjxqdsgyknkx74prwv",
         "run_time": "21:00",
-        "minimum_reward": 1001
+        "minimum_reward": 10000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "juno1gvgcxwdk4j46gx3knhuackvqr2hta29zudcf56",
         "run_time": "every 30 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 50000
       }
     },
     {
@@ -107,7 +107,7 @@
       "restake": {
         "address": "persistence1eq24ucp4g0qhps7c9aqz2qk2ccxeynjjqhja04",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -116,7 +116,7 @@
       "restake": {
         "address": "stars1gvgcxwdk4j46gx3knhuackvqr2hta29z7rv0ch",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -125,6 +125,15 @@
       "restake": {
         "address": "fetch1gvgcxwdk4j46gx3knhuackvqr2hta29zezjk33",
         "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1dctmve6z0kyjghfcpqqrvlfc7axa3vwaywuehc",
+      "restake": {
+        "address": "cro1ctpk9sxshtwqx7v4z98jfredpzsm4wth2n0pr2",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     }
