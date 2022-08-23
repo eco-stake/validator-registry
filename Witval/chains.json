@@ -11,6 +11,15 @@
 			}
 		},
 		{
+                        "name": "juno",
+                        "address": "junovaloper16msryt3fqlxtvsy8u5ay7wv2p8mglfg9g70e3q",
+                        "restake": {
+                                "address": "juno1334362q9lzxqu042s4maqd33g9ff9zrfgfy3z2",
+                                "run_time": "16:30",
+                                "minimum_reward": 10000000
+                        }
+                },
+		{
 			"name": "cosmoshub",
 			"address": "cosmosvaloper1ddle9tczl87gsvmeva3c48nenyng4n56nghmjk",
 			"restake": {
