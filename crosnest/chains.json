@@ -204,7 +204,7 @@
       "name": "axelar",
       "address": "axelarvaloper16nx30ear9ewsd9xuzy9wrlpp94vmdzlvq5jfdx",
       "restake": {
-        "address": "must be added",
+        "address": "axelar1v9vae554q55xa4pcfdm0p3kv8nxn50jk7z36xg",
         "run_time": "23:00",
         "minimum_reward": 1000
       }
@@ -232,6 +232,14 @@
       "address": "omniflixvaloper1gvgjg4fu7jy9ll2paas54ml66hxt929p0udzaw",
       "restake": {
         "address": "omniflix1v9vae554q55xa4pcfdm0p3kv8nxn50jk8jkt6h",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1fqrdtx7pyps6eytn3356j9cs4f8zl0eevlt3rt",
+      "restake": {
+        "address": "inj1ksh2uvrvq7gftgdc8jd2n67pcwcztdxuf3rwav",
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
