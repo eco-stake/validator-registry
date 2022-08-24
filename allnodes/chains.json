@@ -118,6 +118,51 @@
         "run_time": "03:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1c07ughj0a396vdg7t9edy2wyrzr90p02yhl7p8",
+      "restake": {
+        "address": "akash1n4mmffygh8wdm8zfxxv30cg0aq9m2s07rjjcz0",
+        "run_time": "03:15",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1clsxq6wk4r4wsd0wjlqaa52p4t94r06lya7h5t",
+      "restake": {
+        "address": "comdex1n4mmffygh8wdm8zfxxv30cg0aq9m2s07fxaazz",
+        "run_time": "03:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ddlw0cz4v0grzek88z0vm34ktcfsac8du78yhg",
+      "restake": {
+        "address": "sif1n4mmffygh8wdm8zfxxv30cg0aq9m2s07t5sf57",
+        "run_time": "03:45",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1m64f97cewr4f2qurnjr8gjaquthtm5ge0u8eq9",
+      "restake": {
+        "address": "kujira1n4mmffygh8wdm8zfxxv30cg0aq9m2s07lpa8kl",
+        "run_time": "04:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper16q7tsm4eadhw3sgqrlg2e32g6mfm8xzhjame6j",
+      "restake": {
+        "address": "mantle1n4mmffygh8wdm8zfxxv30cg0aq9m2s07sdy6yl",
+        "run_time": "04:15",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

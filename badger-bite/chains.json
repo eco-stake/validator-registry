@@ -46,7 +46,16 @@
         "run_time": "daily",
         "minimum_reward": 100000
       }
-    },    
+    },
+     {
+      "name": "emoney",
+      "address": "emoneyvaloper16yg44hae44lcdexmmk7wpaphny0ahmqfklvczz",
+      "restake": {
+        "address": "emoney109lz8sepyytaf4azx973a9jc2jv7vsjzr6zfpw",
+        "run_time": "every hour",
+        "minimum_reward": 1000000
+      }
+    },
      {
       "name": "desmos",
       "address": "desmosvaloper1alcd0qxkygqrxew82rxf75f8ajwpycvr9jfk3n",
