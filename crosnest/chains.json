@@ -253,6 +253,10 @@
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "nomic",
+      "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
   ]
 }
