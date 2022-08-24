@@ -6,7 +6,7 @@
       "name": "gravitybridge",
       "address": "gravityvaloper1vf9f5sjy3m5yzx39nxk6xaagl3yq6wu0gj800k",
       "restake": {
-        "address": "gravity1vf9f5sjy3m5yzx39nxk6xaagl3yq6wu0ee739z",
+        "address": "gravity1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpdmvv46",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -15,7 +15,7 @@
       "name": "stargaze",
       "address": "starsvaloper1j8y7wh6hsz0nr9sx7z9qhx4p2hgy58xeclaucp",
       "restake": {
-        "address": "stars1j8y7wh6hsz0nr9sx7z9qhx4p2hgy58xenpfgre",
+        "address": "stars1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpahffmr",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -24,7 +24,7 @@
       "name": "galaxy",
       "address": "galaxyvaloper1pl8353ratr7ncyrt2ss3qrkav8z84granyfj5u",
       "restake": {
-        "address": "galaxy1pl8353ratr7ncyrt2ss3qrkav8z84graw96jhs",
+        "address": "galaxy1tzchfqaztwcekmr2jh6mvfhdt5ncdpnp45c5mq",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -33,7 +33,7 @@
       "name": "firmachain",
       "address": "firmavaloper1u4ja07p7kjkz9xnffdqf8r9j63rjkyh3wg8df9",
       "restake": {
-        "address": "firma1u4ja07p7kjkz9xnffdqf8r9j63rjkyh3smvkft",
+        "address": "firma1tzchfqaztwcekmr2jh6mvfhdt5ncdpnp8ckrpg",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -42,7 +42,7 @@
       "name": "shentu",
       "address": "certikvaloper18fa7lgnhr9v27vxqgxz5aa7r8mzmhe6v0k4sy0",
       "restake": {
-        "address": "certik18fa7lgnhr9v27vxqgxz5aa7r8mzmhe6vcz3sd4",
+        "address": "certik1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpwrzr3e",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
