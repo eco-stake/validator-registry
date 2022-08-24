@@ -33,7 +33,7 @@
       "name": "firmachain",
       "address": "firmavaloper1u4ja07p7kjkz9xnffdqf8r9j63rjkyh3wg8df9",
       "restake": {
-        "address": "firma1tzchfqaztwcekmr2jh6mvfhdt5ncdpnp8ckrpg",
+        "address": "firma1656tap6el4va4kznjhdv8spduthg3a9lu52y8n",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -44,7 +44,7 @@
       "restake": {
         "address": "certik1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpwrzr3e",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     }
   ]
