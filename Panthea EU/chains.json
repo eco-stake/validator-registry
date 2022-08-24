@@ -8,7 +8,16 @@
       "restake": {
         "address": "bcna1yqqsskp60ru889m2ac9rtdays6pt9xfy0g6p6t",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper16976fek2lpt6nnuj3r00ldw7lvhavvqt0mkxjy",
+      "restake": {
+        "address": "bitsong1ce3u6d0jwpzvgwnvktjwarwz2yzhae372qqhvw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
