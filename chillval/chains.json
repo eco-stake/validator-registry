@@ -64,6 +64,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000
       }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1esnx47axnktm7pwpeuw27lydnlfr29q0eluvem",
+      "restake": {
+        "address": "pasg1tk2wzrjsh5x8anzyld48xsnecyg4h4h5cx40mm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
