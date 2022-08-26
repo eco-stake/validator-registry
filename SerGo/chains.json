@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "BlockHunters \uD83C\uDFAF",
+  "name": "SerGo",
   "chains": [
     {
       "name": "sifchain",
