@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SerGo",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1x04g9ameendpemes5zm6a78sx69664xe7ldn7f",
+      "restake": {
+        "address": "sif1mgwft0dpeqmracgy64rz52gss6zwpp3zvvxx9m",
+        "run_time": "every 6 hour",
+        "minimum_reward": 10000000000000000000
+      }
+	}
+  ]
+}
