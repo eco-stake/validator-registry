@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Ultrawaves",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper15kddnzxnl24lxddjcmn5m6t2xkmn6uhltqjlgx",
+      "restake": {
+        "address": "umee1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d45v3nc",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}
