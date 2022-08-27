@@ -147,6 +147,15 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1c42pgxrg652f2f26dfgj40a7y5rhkt0wm9hwfj",
+      "restake": {
+        "address": "pasg1e44rluarkdw56dy2turnwjtvtg4wqvs03nv766",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper16k26akna7h295rfjx3278s7xusnt736vy437y8",
       "restake": {

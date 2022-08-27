@@ -3,11 +3,56 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "kava",
+      "address": "kavavaloper1j4tymd9r3au3vm508l4jugdg7l892l2lmh4jry",
+      "restake": {
+        "address": "kava1kumxc74c9nn2laxgdxe0pjqvvvztrn7yawy80m",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1wusrw8nzgs6d8d47xqej5xqttvsu2geftfgu5f",
+      "restake": {
+        "address": "umee1m7xlymnpxl2d4llu67v08e8xs67dj2fz4rw5jw",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper12mzd08n2ut7qwfmchezk2hqkh644lvd2tngequ",
+      "restake": {
+        "address": "vdl1u8twlktq6l2r9cx9gfdwgwm7vpzej8zeanzkrq",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper13ytytwjuerm3zc8svdvgh3vq7fgve75vnwc5kq",
+      "restake": {
+        "address": "like1m7xlymnpxl2d4llu67v08e8xs67dj2fz5f0f48",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1cxmaennk7xn39fg52vwty0wzvqjptrwnz6lf48",
+      "restake": {
+        "address": "decentr1m7xlymnpxl2d4llu67v08e8xs67dj2fzvm4lh5",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper1hcu2spr3r80v36us40mg938f5qhaqq2qeajtfv",
       "restake": {
         "address": "band1ylj24e7j97v8s4mjf3t22fvq9nx3463rze4kqz",
-        "run_time": "every 6 hour",
+        "run_time": "every 12 hour",
         "minimum_reward": 100000
       }
     },
@@ -16,7 +61,7 @@
       "address": "starsvaloper15cu52e36jth9gqr0muq755syvgyr96cr98a549",
       "restake": {
         "address": "stars1m7xlymnpxl2d4llu67v08e8xs67dj2fznfykad",
-        "run_time": "every 6 hour",
+        "run_time": "every 12 hour",
         "minimum_reward": 100000
       }
     },
@@ -25,7 +70,7 @@
       "address": "certikvaloper1qy7jncf45lluxaya5jaxf9r284jnmzz5fw2egh",
       "restake": {
         "address": "certik1m7xlymnpxl2d4llu67v08e8xs67dj2fzqa0uhh",
-        "run_time": "every 6 hour",
+        "run_time": "every 12 hour",
         "minimum_reward": 100000
       }
     },
@@ -34,7 +79,7 @@
       "address": "bitsongvaloper1pn6mhrwq8vdhns366jwxkggmhmxypuhrrc4huu",
       "restake": {
         "address": "bitsong1vn2fc2cdt2r5kseptl86rstqudxly2c3jxw4x7",
-        "run_time": "every 6 hour",
+        "run_time": "every 12 hour",
         "minimum_reward": 100000
       }
     },
@@ -43,7 +88,7 @@
       "address": "crevaloper1sx88pppqz998p6sq84hjvrx5qrgq7ezqdtmfxt",
       "restake": {
         "address": "cre1m7xlymnpxl2d4llu67v08e8xs67dj2fzraqwr3",
-        "run_time": "every 6 hour",
+        "run_time": "every 12 hour",
         "minimum_reward": 1000000
       }
     },

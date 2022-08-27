@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Kohola.io 🐋",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1re482vy0t380aw2d068nl9ce6qpwsa2cmmxef7",
+      "restake": {
+        "address": "kujira105fmlyf2r7yk542k85je6sly98nthvd036y2pl",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

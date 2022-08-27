@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Qubelabs",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1f08fffp8zz42jj0f6wh3gyu7he4hf6zzs6mn8j",
+      "restake": {
+        "address": "evmos1rxjq9gwhhajcraxxtnj0km30yjxasyaeq5884w",
+        "run_time": "19:10",
+        "minimum_reward": 10000000000000
+      }
+    }
+  ]
+}

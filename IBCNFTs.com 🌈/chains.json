@@ -8,7 +8,7 @@
       "restake": {
         "address": "evmos1jsd7kf6dl475cye9dqsevx5v7jsdr2kgverrj8",
         "run_time": "21:00",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 200000000000000000
       }
     },
     
@@ -18,7 +18,7 @@
       "restake": {
         "address": "stars13y36asj5gyhs0g9tpenv6rx8nzk7ujxxxfme9v",
         "run_time": "21:00",
-        "minimum_reward": 50000000
+        "minimum_reward": 5000000
       }
     },
     
