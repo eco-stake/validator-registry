@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sneed's Feed and Seed",
+  "chains": [    
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1e58lgrth8lcd4jjh84fhpf0uc95stzg3v2ysff",
+      "restake": {
+        "address": "cerberus1hwrwk8fqt6r8cj8fje0lz5twwhn7g6nzuhf36y",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
