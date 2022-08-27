@@ -100,6 +100,15 @@
         "run_time": "22:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper19sxt6gyrh20htsqjhm264necqns3c2gxxlpenp",
+      "restake": {
+        "address": "sif197yc3g8drkf8fyv6fr4ynddy2n22kauu6x2865",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
