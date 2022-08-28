@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Multiplex",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1dj0mysdn05447p9ncsq9g424fv2ynaxryhpjkc",
+      "restake": {
+        "address": "evmos1er4gen5kehmpmgqxhtsjf46sg99e69lq3c5d4t",
+        "run_time": [
+          "09:00",
+          "22:00"
+        ],
+        "minimum_reward": 1000000000000000
+      }
+    }
+  ]
+}
