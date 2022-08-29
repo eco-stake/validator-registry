@@ -181,6 +181,18 @@
         ],
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqv2n5zvt",
+      "restake": {
+        "address": "sif1ltd3ynqjvy39r3lc48p4zlqa59hvam5tsw99xt",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }
