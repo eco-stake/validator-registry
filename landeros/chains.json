@@ -10,6 +10,51 @@
         "run_time": ["00:00", "12:00"],
         "minimum_reward": 1000000000000000000
       }
-	}
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper17n7rmsjug80ccenpj0pf4szmgvu3sn58rcgzlt",
+      "restake": {
+        "address": "darc12pt2ds9cu80yruy5t86fuuz5t6tm37ajzp9v6t",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1ljqlz0wvu5q92r9vy7rrh66aa33h3c4x34k365",
+      "restake": {
+        "address": "meme12pt2ds9cu80yruy5t86fuuz5t6tm37ajrl82sk",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 10000000
+      }
+    },
+     {
+      "name": "idep",
+      "address": "idepvaloper1gw658ykchxqvn35rxxhh4jcjl6eah5gug5m33x",
+      "restake": {
+        "address": "idep12pt2ds9cu80yruy5t86fuuz5t6tm37ajuq8f34",
+        "run_time":  ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper19vp8sy5cxyey3s3gw2dvgpnpde557ezv8n874z",
+      "restake": {
+        "address": "omniflix12pt2ds9cu80yruy5t86fuuz5t6tm37ajq7qyqz",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+     {
+      "name": "beezee",
+      "address": "bzevaloper1jv9wveqgmuwje2qlaxd6jv4n488uyzfwr2gsyt",
+      "restake": {
+        "address": "bze12pt2ds9cu80yruy5t86fuuz5t6tm37ajqyak9t",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    }
   ]
 }
