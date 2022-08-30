@@ -1,0 +1,48 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Gelotto",
+  "chains": [
+    {
+      "name": "osmosis",
+      "prettyName": "Gelotto",
+      "address": "osmovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxw9uq8w",
+      "restake": {
+        "address": "<STAKING_COIN_ADDRESS>",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "prettyName": "Gelotto",
+      "default": true,
+      "address": "junovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhx4xj867",
+      "restake": {
+        "address": "<STAKING_COIN_ADDRESS>",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "prettyName": "Gelotto",
+      "txTimeout": 120000,
+      "address": "evmosvaloper1v4crs2adgcu2cdm2jxq07mw7ugzx0z4x6alxeg",
+      "restake": {
+        "address": "<STAKING_COIN_ADDRESS>",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "prettyName": "Gelotto",
+      "address": "starsvaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxrty6kj",
+      "restake": {
+        "address": "<STAKING_COIN_ADDRESS>",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
