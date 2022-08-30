@@ -4,42 +4,36 @@
   "chains": [
     {
       "name": "osmosis",
-      "prettyName": "Gelotto",
       "address": "osmovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxw9uq8w",
       "restake": {
-        "address": "<STAKING_COIN_ADDRESS>",
+        "address": "osmo17htrh2z4uxpv33mg7g7k4qedwe0hljpx4a6g5l",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
     {
       "name": "juno",
-      "prettyName": "Gelotto",
-      "default": true,
       "address": "junovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhx4xj867",
       "restake": {
-        "address": "<STAKING_COIN_ADDRESS>",
+        "address": "juno17htrh2z4uxpv33mg7g7k4qedwe0hljpxt52r93",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
     {
       "name": "evmos",
-      "prettyName": "Gelotto",
-      "txTimeout": 120000,
       "address": "evmosvaloper1v4crs2adgcu2cdm2jxq07mw7ugzx0z4x6alxeg",
       "restake": {
-        "address": "<STAKING_COIN_ADDRESS>",
+        "address": "evmos10txj5e88tz3h5jmjx9g7pg2h9ztl5wxa06vcsw",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
     {
       "name": "stargaze",
-      "prettyName": "Gelotto",
       "address": "starsvaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxrty6kj",
       "restake": {
-        "address": "<STAKING_COIN_ADDRESS>",
+        "address": "stars17htrh2z4uxpv33mg7g7k4qedwe0hljpxf679fu",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
