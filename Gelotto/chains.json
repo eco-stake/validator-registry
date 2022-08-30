@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Gelotto",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxw9uq8w",
+      "restake": {
+        "address": "osmo17htrh2z4uxpv33mg7g7k4qedwe0hljpx4a6g5l",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhx4xj867",
+      "restake": {
+        "address": "juno17htrh2z4uxpv33mg7g7k4qedwe0hljpxt52r93",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1v4crs2adgcu2cdm2jxq07mw7ugzx0z4x6alxeg",
+      "restake": {
+        "address": "evmos10txj5e88tz3h5jmjx9g7pg2h9ztl5wxa06vcsw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxrty6kj",
+      "restake": {
+        "address": "stars17htrh2z4uxpv33mg7g7k4qedwe0hljpxf679fu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
