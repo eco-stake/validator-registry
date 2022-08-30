@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "tyminskyim always 5%",
+  "chains": [
+     {
+      "name": "lumenx",
+      "address": "lumen1n7x23e6gysnzmqc0s8edm5t7w0lskjtvpw7j8k",
+      "restake": {
+        "address": "lumenvaloper1n7x23e6gysnzmqc0s8edm5t7w0lskjtv36hwf0",
+        "run_time": [
+          "every hour"
+        ],
+        "minimum_reward": 10
+      }
+    }
+  ]
+}
