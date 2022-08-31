@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Nodejumper ⭐ nodejumper.io",
+  "name": "Nodejumper \uD83D\uDE80",
   "chains": [
     {
       "name": "bitcanna",
@@ -49,7 +49,7 @@
     },
     {
       "name": "rizon",
-      "address": "rizonvaloper1hy3em3nfngyntk7tre9d0626mj9swhu9ughurh",
+      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
       "restake": {
         "address": "rizon1ksx5yarsdjw8wcgkqn4v5demdszzx9ertfw766",
         "run_time": "every 1 hour",
