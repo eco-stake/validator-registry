@@ -105,8 +105,26 @@
       "address": "starsvaloper1ux7vg9ph4p68pg7e2l5yn703xllec388y2t65a",
       "restake": {
         "address": "stars1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0swu3x48",
-        "run_time": "every 1 hours",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9",
+      "restake": {
+        "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "band",
+      "address": "bandvaloper1nmlds05h9zpj0m3actleslnmf5ett8xfvmjgju",
+      "restake": {
+        "address": "band1z6j3tqhck27dwepupme5ny5hdcjn65v30yd7hg",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000
       }
     }
   ]
