@@ -84,7 +84,19 @@
         		"minimum_reward": 1000
       		}
     		},
-		   {
+	        {
+      			"name": "assetmantle",
+      			"address": "mantlevaloper1fqs7gakxdmujtk0qufdzth5pfyspus3yx394zd",
+      			"restake": {
+        		"address": "mantle1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz0jupvu",
+        		"run_time": [
+					"09:00",
+					"21:00"
+				],
+        		"minimum_reward": 100000
+      		}
+    		},
+		{
 			"name": "bitsong",
 			"address": "bitsongvaloper12d0dae3qm4et9r5l2npwrmwknax07yd0rrlhxx",
 			"restake": {
