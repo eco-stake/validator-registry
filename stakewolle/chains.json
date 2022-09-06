@@ -33,7 +33,7 @@
       "name": "likecoin",
       "address": "likevaloper13ytytwjuerm3zc8svdvgh3vq7fgve75vnwc5kq",
       "restake": {
-        "address": "cosmos1m7xlymnpxl2d4llu67v08e8xs67dj2fz84ntku",
+        "address": "like1m7xlymnpxl2d4llu67v08e8xs67dj2fz5f0f48",
         "run_time": "every 12 hour",
         "minimum_reward": 100000
       }

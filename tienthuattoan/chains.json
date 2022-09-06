@@ -35,7 +35,7 @@
       "restake": {
         "address": "sif15hfak84jamn59229c7r6umg2purgd9cyq24u5p",
         "run_time": "every 30 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 10000000000000000000
       }
     },
     {

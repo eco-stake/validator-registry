@@ -64,6 +64,24 @@
         "run_time": "every 8 hours",
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1ss7vkqzfal7h4m8ug8lh8peqqyt7vq3sjr9zvg",
+      "restake": {
+        "address": "lum1g4v4qvnmmqhuprq0f6vvzm6hv67vet67pl5qhr",
+        "run_time": "every 8 hours",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1symf474wnypes2d3mecllqk6l26rwz8m268jgy",
+      "restake": {
+        "address": "cre1g4v4qvnmmqhuprq0f6vvzm6hv67vet67sa6vh6",
+        "run_time": "every 8 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

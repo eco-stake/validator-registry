@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Fasthub.io",
+  "identity": "FCF346573A95C2D8",
+  "website": "https://fasthub.io",
+  "description": {
+    "overview": "Fast, secure and reliable staking service. Stake with confidence!",
+    "team": "The Fasthub.io team is made up of people with a strong passion for cybersecurity, networks and decentralization. We are all convinced that, in order to guarantee digital freedom, the network of the future will have to be based on blockchain. For this reason we invest in first person to support the development of free and decentralized networks by providing all our professionalism and competence."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@fasthub.io",
+    "telegram": "https://t.me/fasthub_io",
+    "twitter": "fasthub_io",
+    "discord": "https://discord.gg/Yxa79gnj",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
