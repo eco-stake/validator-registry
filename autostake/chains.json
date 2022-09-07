@@ -151,8 +151,8 @@
       "address": "terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz",
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -169,7 +169,7 @@
       "address": "umeevaloper1py60fpud4w468zn7mthfa25xnzuawjum7w90q2",
       "restake": {
         "address": "umee194ytn50yhh67rdha8akhs7c6zulnz4n2mp5ug3",
-        "run_time": "every 15 minutes",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
     }
