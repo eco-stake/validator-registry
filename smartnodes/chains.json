@@ -86,9 +86,9 @@
     		},
 	        {
       			"name": "assetmantle",
-      			"address": "mantlevaloper1fqs7gakxdmujtk0qufdzth5pfyspus3yx394zd",
+      			"address": "mantlevaloper1p224qamtqhqmg2k3cguwtml2ygk72spk7kzcz0",
       			"restake": {
-        		"address": "mantle1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz0jupvu",
+        		"address": "mantle12yeq3h92ew3e00tt2kma5q0t7tmangvy88kuvj",
         		"run_time": [
 					"09:00",
 					"21:00"
