@@ -152,7 +152,7 @@
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000000000
+        "minimum_reward": 100000000
       }
     },
     {
