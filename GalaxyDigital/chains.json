@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "GalaxyDigital",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1tfc7t9yx00sw4w4d3sj7a22e4mmsed30gjkwx2",
+      "restake": {
+        "address": "0x4033F677d2Fd8aE8e241Fc40E828E6f47a276c35",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
