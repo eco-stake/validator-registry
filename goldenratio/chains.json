@@ -118,6 +118,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1618
       }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1w630h8clgtvaupvcldu253s7m25a0m69lxvkr7",
+      "restake": {
+        "address": "quick106n92ygqknaw5wcgl2e9v0duxxux6nttameuje",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1eu093aez7hdqznqe9z94pwl5q2dlnt83yaqkgh",
+      "restake": {
+        "address": "stride106n92ygqknaw5wcgl2e9v0duxxux6ntt45fjl8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
+      }
     }
   ]
 }
