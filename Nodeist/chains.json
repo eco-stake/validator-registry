@@ -16,10 +16,10 @@
 		},
     {
       "name": "stride",
-      "address": "stridevaloper1dvgnqmgehv3kmtvu3e6xuujaxu9c9wepx6dmze",
+      "address": "stridevaloper10dahvqtd229q8ndggjk0upcjnkjckdjal5tqz2",
       "restake": {
-        "address": "stride1h43hjfxlz8t6y5wewma63jz7melv46gj83uvy6",
-        "run_time": "every 5 minutes",
+        "address": "stride1rna55e2yff0d0hvm60elhtjlacfwy7f3weweja",
+        "run_time": "22:30",
         "minimum_reward": 10000
       }
 	    }
