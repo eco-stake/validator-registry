@@ -7,7 +7,7 @@
       "address": "sifvaloper1e4l8durzh4hxmndv0vu43nayazedt0dk6fpx90",
       "restake": {
         "address": "sif1p4ecg8y2mcr247rtgjp4960d2zleavcajrhu5l",
-        "run_time": "every 15 hour",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000
       }
     }
