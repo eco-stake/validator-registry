@@ -247,9 +247,18 @@
     },
     {
       "name": "canto",
-      "address": "canto162t7tnn8m9l5jhkxwtr4cp68dw8a202a22w9fm",
+      "address": "cantovaloper162t7tnn8m9l5jhkxwtr4cp68dw8a202ag5fpc7",
       "restake": {
         "address": "canto1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu3w46mu",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1ejd7jj9pjfz0lu4gmhkxnuwautyzvdntv80sn4",
+      "restake": {
+        "address": "stride1v9vae554q55xa4pcfdm0p3kv8nxn50jke88we9",
         "run_time": "23:00",
         "minimum_reward": 1000000
       }
