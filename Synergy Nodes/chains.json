@@ -15,6 +15,18 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzmw8n8mf",
+      "restake": {
+        "address": "stride1hhzf9u376mg8zcuvx3jsls7t805kzcrszqwg0j",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
       "name": "terra",
       "address": "terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4",
       "restake": {
