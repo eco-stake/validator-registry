@@ -65,7 +65,28 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
+      }
+    },
+	{
+        "name": "omniflixhub",
+        "address": "omniflixvaloper1fdnz3xyzyrkzlz4mvv5a3eymcrrf24hzs0y93d",
+        "restake": {
+          "address": "omniflix1q7qrgf8dy34t62tuh7mu8m33ehvf0m7s5gzs82",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+    },
+	{
+      "name": "stride",
+      "address": "stridevaloper1hfc7etu4xhvmpmd860tdlqcavyaxv2y5wh6sew",
+      "restake": {
+        "address": "stride1q7qrgf8dy34t62tuh7mu8m33ehvf0m7s2an4yc",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
       }
     }
   ]
