@@ -107,6 +107,15 @@
       "restake": {
         "address": "sif197yc3g8drkf8fyv6fr4ynddy2n22kauu6x2865",
         "run_time": "22:00",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1vwqgl5f040j93kefp80edjxk7hdg30j8z3x46w",
+      "restake": {
+        "address": "pb197yc3g8drkf8fyv6fr4ynddy2n22kauuk4w5cr",
+        "run_time": "22:00",
         "minimum_reward": 100000
       }
     }
