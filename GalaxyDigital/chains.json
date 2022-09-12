@@ -6,7 +6,7 @@
       "name": "evmos",
       "address": "evmosvaloper1tfc7t9yx00sw4w4d3sj7a22e4mmsed30gjkwx2",
       "restake": {
-        "address": "0x4033F677d2Fd8aE8e241Fc40E828E6f47a276c35",
+        "address": "evmos1gqelva7jlk9w3cjpl3qws28x73azwmp4vyvztm",
         "run_time": [
           "00:00",
           "12:00"
