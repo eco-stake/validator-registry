@@ -147,6 +147,15 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1a5c3ejnzy0827t62cyj7etmuchdqvznhp5yp94",
+      "restake": {
+        "address": "stride194ytn50yhh67rdha8akhs7c6zulnz4n22uflc0",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "terra",
       "address": "terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz",
       "restake": {
