@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": " WhisperNode 🤐",
+  "name": " WhisperNode🤐",
   "chains": [
     {
       "name": "assetmantle",
@@ -126,6 +126,18 @@
         "address": "lum1e44rluarkdw56dy2turnwjtvtg4wqvs08pgdz3",
         "run_time": "18:00",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomicvaloper1u0axwxyw2endvzv2lqyv65yazf3vr76eldu0es",
+      "restake": {
+        "address": "nomic1e44rluarkdw56dy2turnwjtvtg4wqvs0wnx7y0",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
       }
     },
     {
