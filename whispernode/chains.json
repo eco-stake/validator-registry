@@ -129,6 +129,18 @@
       }
     },
     {
+      "name": "nomic",
+      "address": "nomicvaloper1u0axwxyw2endvzv2lqyv65yazf3vr76eldu0es",
+      "restake": {
+        "address": "nomic1e44rluarkdw56dy2turnwjtvtg4wqvs0wnx7y0",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1md9f5524vtmrn64lyv2pdfn7cnkjkklf44vtjz",
       "restake": {
