@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Degenode",
+  "chains": [
+    {
+      "name": "shentu",
+      "address": "certikvaloper168h9dcrludav57qy3njt7lae7u5hnw7rgjpwkr",
+      "restake": {
+        "address": "certik1h2nf4ls58t2avgpxjs82x5sdrc2m9aklkyrm4q",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1kx29kmqyst73sej4wal5qtsu6ms472asp5zkgq",
+      "restake": {
+        "address": "gravity1h2nf4ls58t2avgpxjs82x5sdrc2m9akl4ud53r",
+        "run_time": "23:00",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1q0c6crtm92rsjn2z45s5cefe4xte40rx30mmws",
+      "restake": {
+        "address": "lum1mr0zxmgsl93fv9j0tmvhh8ez4s5hf0xz7vmkxz",
+        "run_time": "23:00",
+        "minimum_reward": 5000000
+      }
+    }
+  ]
+}
