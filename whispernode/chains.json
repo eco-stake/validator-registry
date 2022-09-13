@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": " WhisperNode 🤐",
+  "name": " WhisperNode🤐",
   "chains": [
     {
       "name": "assetmantle",
