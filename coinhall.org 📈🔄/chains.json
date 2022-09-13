@@ -9,6 +9,15 @@
         "run_time": "02:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1ge3vqn6cjkk2xkfwpg5ussjwxvahs2f6at87yp",
+      "restake": {
+        "address": "terra177266cjjdnvjaylkq467j5hckph07r9k3q97cj",
+        "run_time": "02:15",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
