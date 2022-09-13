@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "NodeStake.top",
+  "name": "NodeStake",
   "chains": [
     {
       "name": "agoric",
@@ -124,6 +124,15 @@
       "address": "pasgvaloper19f0w9svr905fhefusyx4z8sf83j6et0gs0nrh0",
       "restake": {
         "address": "pasg1etsdevgm5ps240lrw9mg3p2j32tj96ktd8umlj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper19f0w9svr905fhefusyx4z8sf83j6et0gq4y3r9",
+      "restake": {
+        "address": "stride1etsdevgm5ps240lrw9mg3p2j32tj96ktd59axp",
         "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
