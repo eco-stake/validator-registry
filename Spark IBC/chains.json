@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Spark IBC",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1u6q84vthrx54d6tmpycvpc8z557wg0etn037lx",
+      "restake": {
+        "address": "juno1lzspks2wd9d2rz9qs4fkwlnxjemum279p6rz3m",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
