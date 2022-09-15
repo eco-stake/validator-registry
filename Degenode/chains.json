@@ -31,9 +31,9 @@
     },
     {
       "name": "bitcanna",
-      "address": "lumvaloper1q0c6crtm92rsjn2z45s5cefe4xte40rx30mmws",
+      "address": "bcnavaloper1m3xsthdc8er0e7lm3srg4l8jjcf7ptnz673asf",
       "restake": {
-        "address": "lum1mr0zxmgsl93fv9j0tmvhh8ez4s5hf0xz7vmkxz",
+        "address": "bcna1h2nf4ls58t2avgpxjs82x5sdrc2m9akltu0due",
         "run_time": "23:00",
         "minimum_reward": 5000000
       }
