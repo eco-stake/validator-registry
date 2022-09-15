@@ -8,7 +8,7 @@
       "restake": {
         "address": "certik1h2nf4ls58t2avgpxjs82x5sdrc2m9aklkyrm4q",
         "run_time": "23:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 500000
       }
     },
     {
@@ -22,6 +22,15 @@
     },
     {
       "name": "lumnetwork",
+      "address": "lumvaloper1q0c6crtm92rsjn2z45s5cefe4xte40rx30mmws",
+      "restake": {
+        "address": "lum1mr0zxmgsl93fv9j0tmvhh8ez4s5hf0xz7vmkxz",
+        "run_time": "23:00",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "bitcanna",
       "address": "lumvaloper1q0c6crtm92rsjn2z45s5cefe4xte40rx30mmws",
       "restake": {
         "address": "lum1mr0zxmgsl93fv9j0tmvhh8ez4s5hf0xz7vmkxz",
