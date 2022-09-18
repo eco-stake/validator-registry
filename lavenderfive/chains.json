@@ -324,6 +324,18 @@
       }
     },
     {
+      "name": "rebus",
+      "address": "rebusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zryvw85",
+      "restake": {
+        "address": "rebus12xpq68caw2aqdu70jm4k792g0v9prhrp3f935w",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper1t5wtcuwjkdct9qkw2h6m48zu2hectpd6ulmekk",
       "restake": {

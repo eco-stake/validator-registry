@@ -10,6 +10,15 @@
         "run_time": "17:30",
         "minimum_reward": 250000
       }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1jlhu56rs6st0vyaneleg2lp0seqknw5j2fkpr4",
+      "restake": {
+        "address": "stars12r48dtt9cexk3430ncnj6nvm4ec63yhgnfaqma",
+        "run_time": "17:30",
+        "minimum_reward": 250000
+      }
     }
   ]
 }

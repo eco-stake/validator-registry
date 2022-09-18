@@ -408,6 +408,15 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1mjr7m233g7yklzvfjp7jvtpsjm286dv2rcytjj",
+      "restake": {
+        "address": "stride1mjq48r6435aewerpruwc8up3tz3rzan20j7t4e",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "terraclassic",
       "address": "terravaloper10ahmn0ucd9selcv77rwysx5pvd607z04zde7uh",
       "restake": {
