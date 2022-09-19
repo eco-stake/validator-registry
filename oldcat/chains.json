@@ -21,6 +21,24 @@
       }
     },
     {
+      "name": "nomic",
+      "address": "nomic14uztxavfdxns56dtpl0jpamjk9ww57ye3h250l",
+      "restake": {
+        "address": "nomic1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zacdda3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper16de7aj28t2jl3k0ylvdsugfjs0adk6ng4n4h4t",
+      "restake": {
+        "address": "stride1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zzt7t6h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "provenance",
       "address": "pbvaloper193vx4up30syusen7mtzjjza0nn585gxtvetwe2",
       "restake": {
