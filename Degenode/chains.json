@@ -37,6 +37,24 @@
         "run_time": "23:00",
         "minimum_reward": 5000000
       }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper19jh56swg6zuz6uxe9rul3ma628z79mrsvtf9x2",
+      "restake": {
+        "address": "dig1h2nf4ls58t2avgpxjs82x5sdrc2m9aklfck8ks",
+        "run_time": "23:00",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1ulc4s8qp35zgg9zknr4qj9gzppge64zh5xe3t6",
+      "restake": {
+        "address": "darc1h2nf4ls58t2avgpxjs82x5sdrc2m9aklwdtaeu",
+        "run_time": "23:00",
+        "minimum_reward": 5000000
+      }
     }
   ]
 }
