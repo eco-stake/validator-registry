@@ -8,7 +8,16 @@
       "restake": {
         "address": "cheqd1xmn2sefnqw8j8etk8z6sfx4swukfxrhvzh672g",
         "run_time": "every 1 hour",
-        "minimum_reward": 4200000
+        "minimum_reward": 42000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1f4tj483qfrt3yemjdlx5e577h7e3r52ydyqd3s",
+      "restake": {
+        "address": "stars1xmn2sefnqw8j8etk8z6sfx4swukfxrhvcfpr2g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 42000
       }
     }
   ]
