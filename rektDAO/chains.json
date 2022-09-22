@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "rektDAO",
+    "chains": [
+        {
+            "name": "stargaze",
+            "address": "starsvaloper1ylh6ptn0yt7h6a5zfyuvra6wtynzuvnakl6mr7",
+            "restake": {
+                "address": "stars1und6hl28vtdvhdxyf709nz0naxvathdjdv7zhk",
+                "run_time": "03:00",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
