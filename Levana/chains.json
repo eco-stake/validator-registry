@@ -1,0 +1,11 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Levana 🐉 Powered by Cros Nest",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1r548wap0a96rfqj0s9lwcylnqe90v7wvgtqssf",
+      }
+    }
+  ]
+}
