@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Colinka",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf",
+      "restake": {
+        "address": "mantle1httc2fqwpkkwyfaynydvp7y6f0h79rnxyxrs3g",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
