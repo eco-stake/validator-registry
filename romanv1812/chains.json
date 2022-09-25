@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "romanv1812",
+  "chains": [
+    {
+      "name": "dig",
+      "address": "digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6",
+      "restake": {
+        "address": "dig1agar2dvt3rm4kwme6fr7utzdcjd5ajs2lud4us",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
