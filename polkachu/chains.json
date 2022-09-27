@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4ppzdrn6",
+      "restake": {
+        "address": "axelar1xrrfek3qpz4ja8ccrjklfy064asyqq9khuq8lw",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "akash",
       "address": "akashvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pz5w0ry",
       "restake": {
