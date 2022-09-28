@@ -60,7 +60,7 @@
       "name": "rizon",
       "address": "rizonvaloper1wr730gckwkr7dxm2ywjltp8ud99lse0eyzqz6m",
       "restake": {
-        "address": "rizon1sn7mlsq37ed7r85gcdxdtlzpshwuc0p9qc2wn2",
+        "address": "rizon17j4r042dcvqpqdzxnw8eky02zv6gslrxq4v4lw",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -69,7 +69,7 @@
       "name": "kujira",
       "address": "kujiravaloper1hn4za2pm8fnkgk3cjw9az9z7q9p4qg3yayh74l",
       "restake": {
-        "address": "kujira1sn7mlsq37ed7r85gcdxdtlzpshwuc0p9jd58jc",
+        "address": "kujira17j4r042dcvqpqdzxnw8eky02zv6gslrxjqju7u",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -96,7 +96,7 @@
       "name": "echelon",
       "address": "echelonvaloper1pt06tu30ly99t3qt48ppyh2wst432aygdh3qwe",
       "restake": {
-        "address": "echelon19v8qu6fl272sxfaz3yxveu9nrjmgyyvgmph5ac",
+        "address": "echelon1s6m3ux225d48kkkmkdnmuscfhfws9yckp54q85",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
