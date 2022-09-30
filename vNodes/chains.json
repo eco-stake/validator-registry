@@ -23,9 +23,9 @@
         "name": "chihuahua",
         "address": "chihuahuavaloper1rns66d42lp038ptkfu2zf70u5g5rvu4adz83uq",
         "restake": {
-          "address": "chihuahua1rns66d42lp038ptkfu2zf70u5g5rvu4a748v0u",
+          "address": "chihuahua1zl2wl0fryq24yug2l9jrmjx73axydfn3q986tk",
           "run_time": "every 1 hour",
-          "minimum_reward": 10000
+          "minimum_reward": 10000000
         }
       },
       { 
