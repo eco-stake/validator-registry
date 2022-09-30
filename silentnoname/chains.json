@@ -7,8 +7,8 @@
       "address": "cerberusvaloper13pdq3ee636ak6tytg5htyf0jcp20vfuxekeaeq",
       "restake": {
         "address": "cerberus1r3g7japkptsvt3gv52gvuudprtcue762m5ssan",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000
+        "run_time": "12:00",
+        "minimum_reward": 10000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "evmos13pc2era7rw65024je5neky46mhhjhgrjd20npe",
         "run_time": "12:00",
-        "minimum_reward": 10000
+        "minimum_reward": 10000000000000000
       }
     },
     {
