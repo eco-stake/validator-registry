@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ZenChainLabs",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper12fzv0wrkllkzkwfv9tch07s3gj9ajhye0y4llv",
+      "restake": {
+        "address": "juno16pykdaup2f5e75j4y79q095hu7qpchnwrlzy3z",
+        "run_time": "22:22",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
