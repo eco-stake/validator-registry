@@ -1,7 +1,7 @@
 {
   "$schema": "../chains.schema.json",
   "name": "AAA MetaHuahua",
-  {
+  "chains": {
     "name": "chihuahua",
     "address": "chihuahuavaloper16x3cq3372jfjg7279prralhhdtregpgyvuj622",
     "restake": {
