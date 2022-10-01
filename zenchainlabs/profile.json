@@ -4,7 +4,7 @@
   "identity": "C0586A29077BF9AE",
   "website": "https://zenchainlabs.io",
   "description": {
-    "We provide secure and reliable blockchain services, including chain validation and infrastructure services."
+    "overview": "We provide secure and reliable blockchain services, including chain validation and infrastructure services."
   },
   "contacts": {
     "email": "support@zenchainlabs.io",
