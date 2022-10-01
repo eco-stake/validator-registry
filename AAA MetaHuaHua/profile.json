@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "AAA MetaHuahua",
+  "identity": "BAB1A7D613001868",
+  "website": "https://www.aaa-metahuahua.com/",
+  "description": {
+    "overview": "Born to build a web3.",
+    "team": "ONCHTX, Dr Cryptulien, Reaper, Gigi, Lester",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "admin@aaa-metahuahua.com",
+    "telegram": "",
+    "twitter": "AAAMetaHuahua",
+    "discord": "https://discord.gg/n6QdEXXGzP",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
