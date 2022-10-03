@@ -25,6 +25,66 @@
         ],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper17wfkxgledvk6vqgjpx7nyjj5dedw6t5uky0sz6",
+      "restake": {
+        "address": "canto168f7mg6rxwfvtfclcyy8pj48vtg6rjt5knl2rp",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "galaxy",
+      "address": "galaxyvaloper1h9n94zezpupvejarv0yfm5783xfpzuvzu4da72",
+      "restake": {
+        "address": "galaxy1httc2fqwpkkwyfaynydvp7y6f0h79rnxxa749s",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1g3pqepvuwmwe3whswpgu5fjs0sp9pshua5kkq6",
+      "restake": {
+        "address": "meme1httc2fqwpkkwyfaynydvp7y6f0h79rnxyawzfg",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper17yvc8wyvrwgk4j52dxagaf96akq4znu0rjjh3e",
+      "restake": {
+        "address": "pasg1httc2fqwpkkwyfaynydvp7y6f0h79rnxe6p0ra",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ham7afp4h2za7nzmclkay62nv2tutsk028vcn3",
+      "restake": {
+        "address": "rebus1qrk603aqd9d55meudf6r00yje4lj8ahv9gw4th",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
     }
   ]
 }
