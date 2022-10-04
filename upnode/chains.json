@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Upnode",
+  "chains": [
+    {
+    "name": "evmos",
+    "address": "evmosvaloper19e53dt5r9w2mstt32jnj43xrxlyprnc085tl30",
+      "restake": {
+        "address": "evmos1c8rnlljx4qfg4de9lths97f7a64mng7qlr5qz3",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
+
