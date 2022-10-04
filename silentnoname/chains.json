@@ -46,6 +46,15 @@
           "run_time": "12:00",
           "minimum_reward": 10000
         }
+    },
+    {
+        "name": "teritori",
+        "address": "torivaloper16rt847y0y7xpf87xk6deytd5ym3jpef8d2xfkx",
+        "restake": {
+          "address": "tori1r3g7japkptsvt3gv52gvuudprtcue762988sng",
+          "run_time": "12:00",
+          "minimum_reward": 10000
+        }
     }
   ]
 }
