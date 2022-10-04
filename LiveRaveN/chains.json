@@ -1,0 +1,15 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "LiveRaveN",
+	"chains": [
+		{
+			"name": "rebus",
+			"address": "rebusvaloper1v8e7g0475sys5l54lhkk8ufmzyu4deem920ysk",
+			"restake": {
+				"address": "rebus1g4uu3cs69x2rn4uyxhw6a02pptspyt6cvcm46x",
+				"run_time": "every 1 hour",
+				"minimum_reward": 10000
+				}
+		},
+	]
+}
