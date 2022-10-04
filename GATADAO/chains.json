@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "GATA | Slash Protected",
+  "name": "GATADAO Validation",
   "chains": [
     
     {
@@ -12,11 +12,10 @@
           "08:00",
           "20:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },
  
-
     {
       "name": "juno",
       "address": "junovaloper1yeaw3dv6jk3hr290l2tsew7rr2vjykynme37s2",
@@ -26,9 +25,22 @@
           "08:00",
           "20:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 50000
       }
     },
+
+    {
+      "name": "teritori",
+      "address": "torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn",
+      "restake": {
+        "address": "tori1na6j5scjfrq4az3d0lupp4tyaeahmh9w0vyfzz",
+        "run_time": [
+          "08:00",
+          "20:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }, 
 
     {
       "name": "sifchain",
