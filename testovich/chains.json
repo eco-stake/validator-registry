@@ -1,0 +1,24 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "testovich",
+    "chains": [
+      {
+        "name": "stargaze",
+        "address": "starsvaloper1tnx3z8ke9za65v32qxhu65mav2282jru8989a6",
+        "restake": {
+          "address": "stars1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8u782r5",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 10000
+        }
+      },
+      {
+        "name": "gravitybridge",
+        "address": "gravityvaloper19f7g4lh6unla4rp38u8mcyjcq4elt5zy2pwx63",
+        "restake": {
+          "address": "gravity1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8vjz0dd",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 10000
+        }
+      },
+    ]
+}
