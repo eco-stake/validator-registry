@@ -19,6 +19,6 @@
           "run_time": "every 15 minutes",
           "minimum_reward": 10000
         }
-      },
+      }
     ]
 }
