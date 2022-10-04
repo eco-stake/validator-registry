@@ -138,6 +138,15 @@
       }
     },
     {
+      "name": "point",
+      "address": "pointvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq85akl6",
+      "restake": {
+        "address": "point15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4mpamqe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq6asnlu",
       "restake": {
@@ -154,7 +163,6 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
-    },
-	  
+    }  
   ]
 }
