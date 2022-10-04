@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "nodeist.net",
+  "services": [
+    {
+      "title": "nodeist.net",
+      "description": "node operation infrastructure support: state-sync, seed, peers, IBC relaying, PRC, API, GRPC, JSON RPC etc.",
+      "url": "https://nodeist.net"
+    }
+  ]
+}

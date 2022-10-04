@@ -1,0 +1,18 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Spark IBC",
+  "identity": "CD6A4EF8ED0BB280",
+  "website": "https://SparkIBC.zone",
+  "description": {
+    "overview": "Spark IBC is a crowdfunding platform aimed at fostering innovation and education for the entire interchain. Visit https://SparkIBC.zone to give to the General Fund at any time or to participate in campaigns when active. Built on Juno. Built for the Interchain."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@sparkibc.zone",
+    "twitter": "SparkIBC",
+    "discord": "https://discord.gg/AGg7RPDz3H",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

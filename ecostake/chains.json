@@ -173,6 +173,30 @@
         ],
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1x2kta40h5rnymtjn6ys7vk2d87xu7y6zfu9j3r",
+      "restake": {
+        "address": "stride1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczja8c86",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
+      "restake": {
+        "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
     }
   ]
 }
