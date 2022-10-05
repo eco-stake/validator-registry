@@ -3,15 +3,12 @@
   "name": "Beehive",
   "chains": [
     {
-      "name": "Rizon",
+      "name": "rizon",
       "address": "rizonvaloper1gyrrvup6x3g732uhxq9x0qd4lyjjcs62j0kdhf",
       "restake": {
         "address": "rizon1sm90g8lvqu9z72pgw62t870uewu53fywtyyr99",
-        "run_time": [
-      "09:00",
-      "21:00"
-      ],
-        "minimum_reward": 100000000
+        "run_time": "21:00",
+        "minimum_reward": 1000000
       }
     }
   ]
