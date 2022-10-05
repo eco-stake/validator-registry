@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "romanv1812",
+  "name": "𝐫𝐨𝐦𝐚𝐧✔︎𝟭𝟴𝟭𝟮℠ 🧩",
   "chains": [
     {
       "name": "dig",
@@ -18,6 +18,15 @@
         "address": "genesis1lvwkek88nw4uzlm5vzd47gfqhdmlang0g3r6lx",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u",
+      "restake": {
+        "address": "tori1f85g9c9z92a0tlz3uec3l93yh6q40zsq9zkpfx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000
       }
     },
     {
