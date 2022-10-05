@@ -372,6 +372,18 @@
       }
     },
     {
+      "name": "teritori",
+      "address": "torivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztl8j0u",
+      "restake": {
+        "address": "tori18xrruhq5r246mwk0yj9elnn3mte8xa9uzpvyhv",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "terra2",
       "address": "terravaloper1vcd42qfvlvnjwaw7hvl6y32wrzqxvas653yus9",
       "restake": {
