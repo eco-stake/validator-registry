@@ -1,0 +1,47 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Nodeist",
+	"chains": [
+		{
+			"name": "kujira",
+			"address": "kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7",
+			"restake": {
+				"address": "kujira1gh4sup4lnqs29fpg9ylgqzhuz4rwc4pgf7t0gu",
+				"run_time": [
+					"09:00",
+					"21:00"
+				],
+				"minimum_reward": 100000
+			}
+		},
+    {
+      "name": "stride",
+      "address": "stridevaloper10dahvqtd229q8ndggjk0upcjnkjckdjal5tqz2",
+      "restake": {
+        "address": "stride1rna55e2yff0d0hvm60elhtjlacfwy7f3weweja",
+        "run_time": "22:30",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "rebus",
+      "address": "rebusvaloper1cvn7ldc24lvhhkyxz75x66hmmuppm2hpk44ddy",
+      "restake": {
+        "address": "rebus1cvn7ldc24lvhhkyxz75x66hmmuppm2hpgzfjc8",
+        "run_time": "22:30",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "teritori",
+      "address": "torivaloper1dq5s7kl7285n44pqc0xacpjxy07ycur0zjy9sh",
+      "restake": {
+        "address": "tori1rna55e2yff0d0hvm60elhtjlacfwy7f30xevap",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+	    }
+	]
+}

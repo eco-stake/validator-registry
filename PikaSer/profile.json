@@ -1,0 +1,5 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "PikaSer",
+  "identity": "fake_identity_value"
+}

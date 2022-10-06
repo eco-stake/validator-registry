@@ -10,6 +10,15 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1va8dlzuuwzf4tpnkzues2cdwvze5m6q9aqhf45",
+      "restake": {
+        "address": "sif1h5kwkrrny99qjejnymgvzxpyktudnqa7rxcxae",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
     }
   ]
 }

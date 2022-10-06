@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4mjdjnt",
+      "restake": {
+        "address": "axelar1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyndvt94",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "cerberus",
       "address": "cerberusvaloper1pzqjgfd25qsyfdtmx9elrqx6zjjvnc9stqd7h0",
       "restake": {
@@ -131,6 +140,15 @@
     {
       "name": "terra",
       "address": "terravaloper12079m57cew2v02zs624zvyed5479an9wxh03fy",
+      "restake": {
+        "address": "terra1knhcrmhcm4d6apcj4vglelax7sz4fm8759s6mj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36",
       "restake": {
         "address": "terra1knhcrmhcm4d6apcj4vglelax7sz4fm8759s6mj",
         "run_time": "every 1 hour",

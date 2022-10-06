@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TR-3B ASTRA",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1av9s094qhy56egrrqxpdyzjcupde3v48y5nva5",
+      "restake": {
+        "address": "juno14w04rqqdwnaur9jxaf2q3yyut7ru04lmfraf72",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1eprd0gn8s9y82kvyejggefqxkq4v7s54eal5r5",
+      "restake": {
+        "address": "osmo14w04rqqdwnaur9jxaf2q3yyut7ru04lmh2dz0y",
+        "run_time": "01:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper10w68lsj5avr354xssl3dlu5c8gfclamuexjfzf",
+      "restake": {
+        "address": "evmos19yr5aa9nwmnhr9rpsy6e728pdk06m783v3emy5",
+        "run_time": "02:30",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

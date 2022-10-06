@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "thosmos",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1dt7zu2evtce5mx7n6t0fledu0dsnglkfua78m6",
+      "restake": {
+        "address": "gravity14v82utshp8s8wtpacqzqly28qasa6h4uwtypex",
+        "run_time": "00:00",
+        "minimum_reward": 30000000
+      }
+    }
+  ]
+}

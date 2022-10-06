@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "  kwak",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1hg76w7v29yzprrhyuwe8y3ny89jnqmf93x6a4z",
+      "restake": {
+        "address": "sif1flsjt8u7h0wczkffr0v8q7x36gyqfxu9ncxjv9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

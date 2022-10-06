@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Capybara Labs | Kujira Validator",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper10x9gykujqmhjyx0g9rnm63ee5pm0fpng864tny",
+      "restake": {
+        "address": "kujira1hy7fgsm0s5ewfswpmknyxfpqfw202wkj03qg0a",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

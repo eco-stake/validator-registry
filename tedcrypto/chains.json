@@ -28,6 +28,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper14xmyp2hdd586frvl0d5mpqy5j9rjkt4khdp5hd",
+      "restake": {
+        "address": "juno1jsmtq9z9qpeda0pyff9w8u66mkxrtzsefjmqte",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1n7n0rgm37yp8rflxyhw2u75eh6j6tqnp72w5zq",
+      "restake": {
+        "address": "chihuahua1jsmtq9z9qpeda0pyff9w8u66mkxrtzseu444d8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper19twsea48jjup6qrfv55v0fr8hzt7zy4rul5mpg",
+      "restake": {
+        "address": "stride1jsmtq9z9qpeda0pyff9w8u66mkxrtzseutc8cf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

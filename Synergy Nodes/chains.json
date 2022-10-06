@@ -1,0 +1,54 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Synergy Nodes",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzmcyxvj9",
+      "restake": {
+        "address": "kujira1hhzf9u376mg8zcuvx3jsls7t805kzcrssrvvk5",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzmw8n8mf",
+      "restake": {
+        "address": "stride1hhzf9u376mg8zcuvx3jsls7t805kzcrszqwg0j",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "terra",
+      "address": "terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4",
+      "restake": {
+        "address": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "terra2",
+      "address": "terravaloper1tm0xkark2ufecmdhgaaw7gqsycyt4qag6py8x6",
+      "restake": {
+        "address": "terra1hhzf9u376mg8zcuvx3jsls7t805kzcrs8055e7",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper19dx6vywgr62jtsxhhlhlgh7ug5vmgjnz6dkeud",
+      "restake": {
+        "address": "axelar1mjq48r6435aewerpruwc8up3tz3rzan2ghgl25",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper10s7t8prp0nz36g4dug5ftkm8elyg9hdtlpn6uv",
       "restake": {
@@ -165,10 +174,28 @@
       }
     },
     {
+      "name": "idep",
+      "address": "idepvaloper1hzps6q78uzz8a8ks9h4s04mr6pvwwwmgrpmx90",
+      "restake": {
+        "address": "idep1mjq48r6435aewerpruwc8up3tz3rzan2degr8u",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "impacthub",
       "address": "ixovaloper1ktjjvaurdupt7nvmfkgycn7mv0jcx5frz0dwzf",
       "restake": {
         "address": "ixo1mjq48r6435aewerpruwc8up3tz3rzan2nvq99x",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1ackww60mtpc24d3wccxz90wyx5gxq0ggwtnw6c",
+      "restake": {
+        "address": "inj1mjq48r6435aewerpruwc8up3tz3rzan2xsfnnd",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -219,6 +246,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper1esj2mkumg8q9l7wunkqzu85jvz7zrrcykeeka7",
+      "restake": {
+        "address": "kujira1mjq48r6435aewerpruwc8up3tz3rzan2a3u0vl",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1axqn30kead92gdsg7pusc6ezxx8ltq465r3hv3",
       "restake": {
@@ -232,6 +268,15 @@
       "address": "memevaloper1hlp6fs6hvmjnpskaeyd7444tmc3hwtks8lshjc",
       "restake": {
         "address": "meme1mjq48r6435aewerpruwc8up3tz3rzan2jxgqxl",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1pzkx9p2upmrrscwxvwgrmvmfrgcnfskxfzm3z0",
+      "restake": {
+        "address": "omniflix1mjq48r6435aewerpruwc8up3tz3rzan2380wkt",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -259,6 +304,15 @@
       "address": "panaceavaloper1tfu4t4c0pywlh8d2g2u3d5xnsxdec8x5hacum5",
       "restake": {
         "address": "panacea1pgtj5c8ze6yfutzqshqfgt2wgdfgwu8hnhfhck",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1judfryxu5xz4y3sljcqm82vv94psy3d4ckcp7m",
+      "restake": {
+        "address": "pasg1mjq48r6435aewerpruwc8up3tz3rzan20p8dv2",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -354,10 +408,46 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1mjr7m233g7yklzvfjp7jvtpsjm286dv2rcytjj",
+      "restake": {
+        "address": "stride1mjq48r6435aewerpruwc8up3tz3rzan20j7t4e",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1xu736l4vt6l2pg9k2yk66fq7zq6y4aj5xmd6vq",
+      "restake": {
+        "address": "tori1mjq48r6435aewerpruwc8up3tz3rzan2wdf769",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "terraclassic",
       "address": "terravaloper10ahmn0ucd9selcv77rwysx5pvd607z04zde7uh",
       "restake": {
         "address": "terra14ea57tjt282v38k9dxez72a7gnjeepgtpmqlke",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1gxgsq7jpkg0f8vfkk60c4rd30z4cgs6lyqtglf",
+      "restake": {
+        "address": "umee1mjq48r6435aewerpruwc8up3tz3rzan270rg98",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper10lzfn24dcscg2l4rzdnz603l0mtj27775cuwl5",
+      "restake": {
+        "address": "vdl1783uahcme2gr4um54655g65cxklzky2072f6e5",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
