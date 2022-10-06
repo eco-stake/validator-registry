@@ -70,10 +70,7 @@
       "address": "torivaloper1r8ye6carm9pgznulrswjahst5fyxqdrn76s0se",
       "restake": {
         "address": "tori17xs4md6flec0klct07874ntqppg78ane57v482",
-        "run_time": [
-          "04:00",
-          "16:00"
-        ],
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     },
