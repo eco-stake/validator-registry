@@ -24,7 +24,7 @@
       "name": "rebus",
       "address": "rebusvaloper1kualgrr9qup0983gj44fczyvcda8ea47y8yppz",
       "restake": {
-        "address": "rebus1aw3emjgy0n5n882uj6p0hz56ltllan2fwapsq6",
+        "address": "rebus1a0elaxk2neduz5n3km9rzs3dekrve9vmqpx8qj",
         "run_time": "every 12 hours",
         "minimum_reward": 1000000
       }
