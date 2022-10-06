@@ -16,7 +16,7 @@
       "restake": {
         "address": "cosmos1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s6qxm7k",
         "run_time": "every 12 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -25,7 +25,7 @@
       "restake": {
         "address": "cre1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s7g47tm",
         "run_time": "every 12 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -52,7 +52,7 @@
       "restake": {
         "address": "juno1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0svj9qe2",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -70,7 +70,7 @@
       "restake": {
         "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
         "run_time": "every 12 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -79,7 +79,7 @@
       "restake": {
         "address": "osmo1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sjm4tgy",
         "run_time": "every 12 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -97,7 +97,34 @@
       "restake": {
         "address": "secret1h9556xnwx6z6ck2fhz7e858n067eq2mjlwvugt",
         "run_time": "every 12 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1ux7vg9ph4p68pg7e2l5yn703xllec388y2t65a",
+      "restake": {
+        "address": "stars1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0swu3x48",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9",
+      "restake": {
+        "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1nmlds05h9zpj0m3actleslnmf5ett8xfvmjgju",
+      "restake": {
+        "address": "band1z6j3tqhck27dwepupme5ny5hdcjn65v30yd7hg",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000
       }
     }
   ]

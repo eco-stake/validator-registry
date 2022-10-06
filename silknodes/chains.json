@@ -55,6 +55,24 @@
         "run_time": "20:00",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1q4srlrd2whunswxl04gu2znku7a3hlrl9s7xv2",
+      "restake": {
+        "address": "stride1u4njm0k28kk38gvmzxs37dxnn6mh9calsv4k3g",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper167xwmhtrn7n8ftexu6luhh4luvhpy435kw9yfs",
+      "restake": {
+        "address": "tori1u4njm0k28kk38gvmzxs37dxnn6mh9cal3nzr75",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
     }
   ]
 }

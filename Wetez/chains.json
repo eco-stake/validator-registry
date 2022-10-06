@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Wetez",
+  "chains": [
+     {
+       "name": "evmos",
+       "address": "evmosvaloper1jd6w3lm4y22680fkwvykx5h8tjzftd9z0mdcqm",
+       "restake": {
+         "address": "evmos1ha5nexql36n4mcnjaftj4804d8qs7alekkmqpf",
+         "run_time": "18:00",
+         "minimum_reward": 100000000000000000
+       }
+     }
+  ]
+}
