@@ -8,7 +8,7 @@
       "restake": {
         "address": "bcna10y9kj0uczltu42pdnjhktymdtyvj0f952raxhz",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "chihuahua10y9kj0uczltu42pdnjhktymdtyvj0f95nxqf7j",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "stride10y9kj0uczltu42pdnjhktymdtyvj0f95ncdmtu",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     }
   ]

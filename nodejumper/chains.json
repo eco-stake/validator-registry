@@ -73,6 +73,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8",
+      "restake": {
+        "address": "rebus1ksx5yarsdjw8wcgkqn4v5demdszzx9ere736z5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
+      "restake": {
+        "address": "tori1ksx5yarsdjw8wcgkqn4v5demdszzx9er2q9xdj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

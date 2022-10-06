@@ -66,12 +66,12 @@
       }
     },
     {
-      "name": "chronicnetwork",
-      "address": "chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx",
+      "name": "rebus",
+      "address": "rebusvaloper1kc5qhsmzxy69hsmz6zkp3emaytfdewur4g50yl",
       "restake": {
-        "address": "chronic1qn898yu5h46htm365vhkd5je5c2jp8us5f6q3n",
+        "address": "rebus1qn898yu5h46htm365vhkd5je5c2jp8uscw7400",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

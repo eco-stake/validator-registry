@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Black Lodge",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1xfztjfkfwg9cfldaygwyks79fpxq2x4kkgr06h",
+      "restake": {
+        "address": "rebus1tqajwhew3f2p3t9rffxvk9eelh283ynnmtvc7p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000
+      }
+    }
+  ]
+}

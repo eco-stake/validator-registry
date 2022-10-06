@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "teritori",
+      "address": "torivaloper1shtyw4f5pdhvx7gsrsknwrryy9ulqvvyhmuncl",
+      "restake": {
+        "address": "tori1wv5zr0sfynf2d78c0u49h3kuqnhhqgcstsg4w3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1upm4qs3k97qn4m9f68gj099d70sa8qxjxr9ye2",
       "restake": {
