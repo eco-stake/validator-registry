@@ -15,7 +15,7 @@
       "name": "rebus",
       "address": "rebusvaloper1675zynd76yeteugp33hexjjszwlqx753r43xzl",
       "restake": {
-        "address": "rebus1lrk7dvv69lzgsg5enm9yzu53t9kxw56pt575vu",
+        "address": "rebus13z23qackaev23j9segg5ldz54r2vs3glpgxvf4",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
@@ -24,7 +24,7 @@
       "name": "teritori",
       "address": "torivaloper1xpyql3vw67h8l99n3sswy5ev94ntwt9cu42jqg",
       "restake": {
-        "address": "rebus10pf3wq3ne4trjxmp275s4sldyp8k45daksfauz",
+        "address": "tori1y7f8n4nc55hwndq2nttr8gz87upcydrtzsr00q",
         "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
