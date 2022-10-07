@@ -71,7 +71,7 @@
       "restake": {
         "address": "tori17xs4md6flec0klct07874ntqppg78ane57v482",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000
       }
     },
     {
@@ -79,10 +79,7 @@
       "address": "rebusvaloper1nkdqydw90s49egyxzd4wsrtq73u9cecepzhzx8",
       "restake": {
         "address": "rebus17xs4md6flec0klct07874ntqppg78ane8qcfgv",
-        "run_time": [
-          "05:00",
-          "17:00"
-        ],
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     }
