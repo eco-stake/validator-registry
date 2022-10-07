@@ -74,7 +74,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
     },
 	{
@@ -94,6 +94,18 @@
       "address": "stridevaloper1hfc7etu4xhvmpmd860tdlqcavyaxv2y5wh6sew",
       "restake": {
         "address": "stride1q7qrgf8dy34t62tuh7mu8m33ehvf0m7s2an4yc",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "teritori",
+      "address": "torivaloper1rvfaa5q9tqn60m2ef5q6zzj5j4jv5lcde68sy8",
+      "restake": {
+        "address": "tori1q7qrgf8dy34t62tuh7mu8m33ehvf0m7stzyqty",
         "run_time": [
           "09:00",
           "21:00"
