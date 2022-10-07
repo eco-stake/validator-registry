@@ -277,7 +277,7 @@
       "address": "rebusvaloper1v5ywt9gxshtndv8auh8un7kzyn8qqcr2x2kg75",
       "restake": {
         "address": "rebus1v9vae554q55xa4pcfdm0p3kv8nxn50jktxy8el",
-        "run_time": "23:00",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000000000000000
       }
     },
