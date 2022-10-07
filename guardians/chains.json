@@ -13,8 +13,7 @@
         ],
         "minimum_reward": 1000000000000000
       }
-    }
-  ],
+    },
     {
       "name": "rebus",
       "address": "rebusvaloper1vrae60ygwwajhecunktlgp6p0qzp8v2nfnwfu0",
@@ -26,8 +25,7 @@
         ],
         "minimum_reward": 1000000000000000
       }
-    }
-  ],
+    },
     {
       "name": "teritori",
       "address": "torivaloper18d57l93pj7qcw05r882dw9ke9ppgcqsasz6gxg",
