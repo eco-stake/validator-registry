@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "firmachain",
+      "address": "firmavaloper1mhlwudq5eu9crrs3e0m87j7p2sp0nrk7u6qewn",
+      "restake": {
+        "address": "firma1melp9uzaxxqretdvr7tcmtf6k99krgh9kcx5ec",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper1vjcwc2ehpxykw4dr0j9k3gxygwmvecmcy6garq",
       "restake": {
@@ -93,6 +102,15 @@
       }
     },
     {
+      "name": "kujira",
+      "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
+      "restake": {
+        "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1uxm0kglrajtcltl0vmxpkg0q4ld4m48lsw2rnc",
       "restake": {
@@ -108,6 +126,15 @@
         "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1qjeasl5jgufwdm23gk5zcnlszjc3dzhu20yaxn",
+      "restake": {
+        "address": "pasg1w4du0y6705rqregfl6cktm7swds6t4ds7ztmsf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -144,6 +171,24 @@
         "address": "star1shf5lmy2mg99cwh8t6fqqwemhv6g6krevy0yh5",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1t7cyvydpp4lklprksnrjy2y3xzv3q2l0k8rl77",
+      "restake": {
+        "address": "tori1w4du0y6705rqregfl6cktm7swds6t4dslw9gxx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv",
+      "restake": {
+        "address": "terra1ws7lc048pemg09dp3ehl9094z0p0hyzqr72pm9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

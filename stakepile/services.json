@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Stakepile",
+  "services": [
+    {
+      "title": "Stakepile",
+      "description": "Experienced validator in the cosmos ecosystem with auto-compounding restake",
+      "url": "https://stakepile.com"
+    }
+  ]
+}

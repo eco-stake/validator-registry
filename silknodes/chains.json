@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Silk Nodes",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1aewyh4gtvayx6v7w592jdfylawk4rsu9tfvfgm",
+      "restake": {
+        "address": "cosmos1u4njm0k28kk38gvmzxs37dxnn6mh9caln8429y",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1v676erkdwd3hq2n2a7xte5qpymdfa8c8uyatcw",
+      "restake": {
+        "address": "juno1u4njm0k28kk38gvmzxs37dxnn6mh9cal94k3zc",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1s29zkm444lr8u4jjfkrycl9wh8gttwfze230hj",
+      "restake": {
+        "address": "osmo1u4njm0k28kk38gvmzxs37dxnn6mh9calmux6nk",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1w2j20fj2a4wfmvqnhfhv4mfxkw5xxt09x8esyj",
+      "restake": {
+        "address": "evmos1760tpjzhn8372kgnqly4845zs0j6lr4zh7845l",
+        "run_time": "20:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1qln4xw03t27nduvww4a5kw89348f3k7wv9nfhl",
+      "restake": {
+        "address": "cerberus1u4njm0k28kk38gvmzxs37dxnn6mh9cal0q4rs0",
+        "run_time": "20:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper19qu2efamrz5a8q5t93deazkyduvs095q34e53t",
+      "restake": {
+        "address": "chihuahua1u4njm0k28kk38gvmzxs37dxnn6mh9calsjcyyx",
+        "run_time": "20:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1q4srlrd2whunswxl04gu2znku7a3hlrl9s7xv2",
+      "restake": {
+        "address": "stride1u4njm0k28kk38gvmzxs37dxnn6mh9calsv4k3g",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper167xwmhtrn7n8ftexu6luhh4luvhpy435kw9yfs",
+      "restake": {
+        "address": "tori1u4njm0k28kk38gvmzxs37dxnn6mh9cal3nzr75",
+        "run_time": "10 minutes",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

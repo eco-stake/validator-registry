@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Gaechti - Switzerland",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper13r8t37p3l5fz49gt3anx8gwmvd6ar2y2cf224d",
+            "restake": {
+                "address": "echelon13wd9ugqql9jqjlmy9y2jv8v7rgd7hmn9twyg6z",
+                "run_time": "08:00",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

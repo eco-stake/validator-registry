@@ -16,8 +16,26 @@
       "address": "mantlevaloper15sfnle6cav443mcpsx4c7ac6enqcfep4fdr86r",
       "restake": {
         "address": "mantle1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt7cuuqg",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "run_time": "21:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1w2fe5lu8jp02xtaxlak0456fjthe588xwqjmaz",
+      "restake": {
+        "address": "agoric1ezv68p0wsj6t2lhn292mazsyfl2ystyrym0a6p",
+        "run_time": "10:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1vw7k3z99swlv7svjmnrrqvu6zdmatqhvzuz7lu",
+      "restake": {
+        "address": "evmos1g94m7lremc5m5dhzd8lvjf7d8hs6sg40lqrdme",
+        "run_time": "21:30",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

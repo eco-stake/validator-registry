@@ -1,0 +1,41 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"Spark IBC",
+   "chains":[
+      {
+         "name":"juno",
+         "address":"junovaloper1u6q84vthrx54d6tmpycvpc8z557wg0etn037lx",
+         "restake":{
+            "address":"juno1lzspks2wd9d2rz9qs4fkwlnxjemum279p6rz3m",
+            "run_time":[
+               "09:00",
+               "21:00"
+            ],
+            "minimum_reward":10000
+         }
+      },
+      {
+         "name":"evmos",
+         "address":"evmosvaloper17zaf6jk6gupa0mgnyyt7e4u8y783k6u3wz6avj",
+         "restake":{
+            "address":"evmos1tj305ludmkx4q60yfdt4z0x3xz57ppsmjkje0y",
+            "run_time":[
+               "21:05"
+            ],
+            "minimum_reward":100000000000000
+         }
+      },
+      {
+         "name":"teritori",
+         "address":"torivaloper14yfp86yz40dx5xdtdthu2hcrar5duxw0swxz4y",
+         "restake":{
+            "address":"tori1lzspks2wd9d2rz9qs4fkwlnxjemum2794uhsdh",
+            "run_time":[
+               "10:00",
+               "22:00"
+            ],
+            "minimum_reward":100000
+         }
+      }
+   ]
+}

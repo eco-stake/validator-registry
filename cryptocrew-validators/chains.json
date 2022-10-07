@@ -66,15 +66,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
-      "restake": {
-        "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
-        "run_time": "every 6 hours",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "lumnetwork",
       "address": "lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5",
       "restake": {
@@ -142,8 +133,8 @@
       "address": "evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0",
       "restake": {
         "address": "evmos1t8e0n59ta6dnf38vqel7ydme9tajvjegs4jw5g",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 100000
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -152,6 +143,51 @@
       "restake": {
         "address": "persistence1sk3s5k9sn8eeszf2d4dtn4c3sxqkxuvz56mg0r",
         "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x",
+      "restake": {
+        "address": "terra1305e92ng6a9pdh3ttc3ld459ckxupxt33gqrc8",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq",
+      "restake": {
+        "address": "kujira1305e92ng6a9pdh3ttc3ld459ckxupxt3xycmhd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6",
+      "restake": {
+        "address": "inj1t8e0n59ta6dnf38vqel7ydme9tajvjegca5yuc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6",
+      "restake": {
+        "address": "pasg1305e92ng6a9pdh3ttc3ld459ckxupxt355rehc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
+      "restake": {
+        "address": "tori1305e92ng6a9pdh3ttc3ld459ckxupxt34cd2ph",
+        "run_time": "every hour",
         "minimum_reward": 100000
       }
     }

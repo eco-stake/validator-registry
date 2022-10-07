@@ -3,12 +3,12 @@
   "name": "Safe Block",
   "chains": [
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1fp9klv3ahdya8m2gc58vhp3cge8seglrgt0rzz",
+      "name": "rebus",
+      "address": "rebusvaloper1a0qn2yydg9gd0xmzmxh6yd6d3gmdg43l6jtj6d",
       "restake": {
-        "address": "lum1r64t7u292f5d0ck4pt6ate6880ufwffm6vzs8l",
-        "run_time": "21:00",
-        "minimum_reward": 100000
+        "address": "rebus1r64t7u292f5d0ck4pt6ate6880ufwffm7vuvxa",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -18,24 +18,6 @@
         "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
         "run_time": "21:00",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1wzksq5mrnj2pewm9dyv8fan59f4ds8daj2fq2v",
-      "restake": {
-        "address": "agoric19e3jdwefw4lv3vgk4fl4fgs3t7fk5qtx9y3re3",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper17m80vwsx8eveq78puqztz9xxvee4306spsa0xm",
-      "restake": {
-        "address": "evmos1408uk4pmf4gdwxelrz3wgfks3ttxujwwfj8cm6",
-        "run_time": "21:00",
-        "minimum_reward": 1000000000
       }
     },
     {

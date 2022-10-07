@@ -84,12 +84,30 @@
       }
     },
     {
+      "name": "odin",
+      "address": "odinvaloper1agc625vf57femlvg7aupvuje8v73swlmv6watw",
+      "restake": {
+        "address": "odin1m5hgzum68rjf4c7zhezgkj8hlnmr0kghjpagx6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "panacea",
       "address": "panaceavaloper13npeg0lqkrntrnaulm6al6clkpm45hnqpt359v",
       "restake": {
         "address": "panacea1m5hgzum68rjf4c7zhezgkj8hlnmr0kghmw8d3n",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1c4vqnuy4v4pwnwd92funa6ntf97twdxc6rpunu",
+      "restake": {
+        "address": "pasg1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh4ez380",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     },
     {
@@ -151,6 +169,24 @@
       "address": "starvaloper1yz88gx2pkqqfrnwslleve43uq0r95al5guvrdq",
       "restake": {
         "address": "star1m5hgzum68rjf4c7zhezgkj8hlnmr0kghhm4zau",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1j556fukeakmudk2vvenk50tetxms649kk2rhh4",
+      "restake": {
+        "address": "stride1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh42mh7u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1tje7a8g30lyew9nax4nufece0stnyg6crh2t6s",
+      "restake": {
+        "address": "tori1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh54vz3q",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
