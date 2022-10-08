@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "genesisl1",
+      "address": "genesisvaloper1mytrxvvmmv9f9j7y7zx75u6t7axqxqryryl5zv",
+      "restake": {
+        "address": "genesis1wv5zr0sfynf2d78c0u49h3kuqnhhqgcshdt235",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },    
+    {
       "name": "idep",
       "address": "idepvaloper1gstw2kr0wc2589552gr43eh4khdlx6cq5jh2nt",
       "restake": {

@@ -3,6 +3,15 @@
   "name": "CosmoBook",
   "chains": [
     {
+      "name": "rebus",
+      "address": "rebusvaloper1lx6v8y99xrylq3llapke5lnln4sht66f372gkg",
+      "restake": {
+        "address": "rebus1sflqrmsyxx997np8cnm223p8pzjwpxq7y6rzcy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1y5w9vx6qe0ta55z44l505lvmcl9qqjx48733ck",
       "restake": {
