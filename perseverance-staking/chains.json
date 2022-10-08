@@ -1,13 +1,16 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Perseverance Staking",
+  "name": "Evmos Guardians",
   "chains": [
     {
       "name": "evmos",
       "address": "evmosvaloper1suvf29zmvlmgg92zngez946nj8jrtu4hmxpwqv",
       "restake": {
         "address": "evmos1eha7ex7r6csrrl682ns726d6pncdqmajnrxzxa",
-        "run_time": "22:00",
+        "run_time": [
+          "09:00",
+          "22:00"
+        ],
         "minimum_reward": 1000000000000000
       }
     }

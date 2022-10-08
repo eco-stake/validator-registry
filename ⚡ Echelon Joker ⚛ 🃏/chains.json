@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "⚡ Echelon Joker ⚛ 🃏 ",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper1jdrpdzdfsxd7rjf3eepzs4edg764km0p4pxcaz",
+            "restake": {
+                "address": "echelon1ru3dhpkgwcexz4l2g0vxj3we9vmvefg5py02gj",
+                "run_time": "08:00",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

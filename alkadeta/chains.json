@@ -39,7 +39,16 @@
       "restake": {
         "address": "agoric1rvs9rdxfxn0sv0h9vps7vx24qvjqxkvdc45slg",
         "run_time": "every 30 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 500000
+       }
+     },
+     {
+      "name": "rebus",
+      "address": "rebusvaloper1ashuysu8yq026kncsreplrzrhcdz93hvjxk7vw",
+      "restake": {
+        "address": "rebus1re48lxn948kjq2pkjcczs90ukxysczxdde7tdc",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
       }
     }
   ]

@@ -127,6 +127,33 @@
         "run_time": "22:30",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper16vc0num5aaq4mqdh4vjhs02s3ypd0j8c7ujxpm",
+      "restake": {
+        "address": "terra1hl0jgxre5z0nkyjj07c5vfdy44yk44atlmcvda",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1hmugz9ge5kmfvfaf3ljjzz4phl0rd3mks00v9z",
+      "restake": {
+        "address": "persistence19kfgtwsef4cf6mqyzqdfvlns3gm39m3azps9gt",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper16vxc4n67usd6cvtyrz0as0kegny2t5l73y4ump",
+      "restake": {
+        "address": "stride1hl0jgxre5z0nkyjj07c5vfdy44yk44at65zsm3",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

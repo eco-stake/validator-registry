@@ -204,7 +204,7 @@
       "name": "axelar",
       "address": "axelarvaloper16nx30ear9ewsd9xuzy9wrlpp94vmdzlvq5jfdx",
       "restake": {
-        "address": "must be added",
+        "address": "axelar1v9vae554q55xa4pcfdm0p3kv8nxn50jk7z36xg",
         "run_time": "23:00",
         "minimum_reward": 1000
       }
@@ -217,6 +217,64 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper15fr85l4n63lyzu0t28kwayhwef4s3jyc467pg5",
+      "restake": {
+        "address": "pb1v9vae554q55xa4pcfdm0p3kv8nxn50jknzvhq4",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1gvgjg4fu7jy9ll2paas54ml66hxt929p0udzaw",
+      "restake": {
+        "address": "omniflix1v9vae554q55xa4pcfdm0p3kv8nxn50jk8jkt6h",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1fqrdtx7pyps6eytn3356j9cs4f8zl0eevlt3rt",
+      "restake": {
+        "address": "inj1ksh2uvrvq7gftgdc8jd2n67pcwcztdxuf3rwav",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper162t7tnn8m9l5jhkxwtr4cp68dw8a202ag5fpc7",
+      "restake": {
+        "address": "canto1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu3w46mu",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1ejd7jj9pjfz0lu4gmhkxnuwautyzvdntv80sn4",
+      "restake": {
+        "address": "stride1v9vae554q55xa4pcfdm0p3kv8nxn50jke88we9",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1c22uwrtvadcp2a8rjn2l00kmuuqdcu2t5jg5ef",
+      "restake": {
+        "address": "tori1v9vae554q55xa4pcfdm0p3kv8nxn50jkccsmke",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
   ]
 }

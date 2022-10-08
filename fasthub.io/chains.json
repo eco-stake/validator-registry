@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Fasthub.io",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1zlsv0ta0asrmk5xnrr597fcq0l0r6w6akthgs3",
+      "restake": {
+        "address": "sif1tnkumer8xf6futw4j3dam84pfqvkwu7smugxry",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dustinthebeast-Ech4ever",
+  "chains": [    
+   {
+      "name": "echelon",
+      "address": "echelonvaloper13ke2nqwu63daylczpzkv9gc7qhgaumgrl0vnhh",
+      "restake": {
+        "address": "echelon1kum6n3gfjdyr7lqwexhwgy0n5xh80jeaxxlrz2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
