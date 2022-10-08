@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "0base.vc",
+  "chains": [
+     {
+      "name": "axelar",
+      "address": "axelarvaloper148skr4d5vy6c9728zkf7cff9e5eykgwka3rvm7",
+      "restake": {
+        "address": "axelar1sl7kahlh4zeewuxd3fqkd7wqyc9vfy3lu60k8w",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

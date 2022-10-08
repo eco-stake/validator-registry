@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "NOMIC.ONE",
+  "name": "Canopus",
   "chains": [
     {
       "name": "cosmoshub",
@@ -9,15 +9,6 @@
         "address": "cosmos1djgycm7e8svdmysr3rzg8c8y0phjnym6jvv93z",
         "run_time": "17:00",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1cxv3qjqch9dntx8dzddkrq6stwf6xu07xlm8st",
-      "restake": {
-        "address": "evmos1zd89jgxyrwed0f7vf0e8vcvgxlqamlflzxulz8",
-        "run_time": "22:00",
-        "minimum_reward": 1000000000000000000
       }
     }
   ]
