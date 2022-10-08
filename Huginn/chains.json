@@ -3,7 +3,7 @@
     "name": "Huginn",
     "chains": [
       {
-        "name": "Passage",
+        "name": "passage",
         "address": "pasgvaloper1fmxyjxaadxyk2am4mphp089c4e94vyxwcdfefw",
         "restake": {
           "address": "pasg1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9ac4vyp",
@@ -12,7 +12,7 @@
         }
       },
       {
-        "name": "Rebus",
+        "name": "rebus",
         "address": "rebusvaloper1mqzfe8y3yat2razmuzxjuwttgq68eshs9dq3w0",
         "restake": {
           "address": "rebus1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9020rag",
@@ -21,7 +21,7 @@
         }
       },
       {
-        "name": "Kujira",
+        "name": "kujira",
         "address": "kujiravaloper1pcp0pags4cjl4us2e69jk73klsl9egcgys5ynz",
         "restake": {
           "address": "kujira1059rn0ksgn4e7rp2yq48vp6s8zqy5tl90gwwy5",
