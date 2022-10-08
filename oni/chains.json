@@ -55,13 +55,37 @@
           "run_time": "every 1 hour",
           "minimum_reward": 10000
         }
-      },      
+      }, 
+      {
+        "name": "nomic",
+        "address": "nomic1pr5l5p3ggwfqtdmzxdujrtc3ry48dstcynftag",
+        }
+      }, 
+        
+       {
+        "name": "comdex",
+        "address": "comdex1azdfljp04ptlazs95e5gscweavmaszw5zjm2fs",
+        "restake": {
+          "address": "comdex164e53fz34nkc03vnncdl5w9xp420lkaknxrn4l",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+      }, 
+              {
+        "name": "stride",
+        "address": "stridevaloper1azdfljp04ptlazs95e5gscweavmaszw59raggw",
+        "restake": {
+          "address": "stride164e53fz34nkc03vnncdl5w9xp420lkakhzpdcy",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+      },
         {
         "name": "teritori",
         "address": "torivaloper1azdfljp04ptlazs95e5gscweavmaszw5zmd7e6",
         "restake": {
           "address": "tori164e53fz34nkc03vnncdl5w9xp420lkakkakchc",
-          "run_time": "every 30 minutes",
+          "run_time": "every 5 minutes",
           "minimum_reward": 10000
         }
       },
