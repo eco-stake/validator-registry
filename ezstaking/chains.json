@@ -230,7 +230,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -242,7 +242,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -251,7 +251,7 @@
       "restake": {
         "address": "idep1fs7lu28hx5m9akm7rp0c2422cn8r2f7gar2x3q",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -260,7 +260,7 @@
       "restake": {
         "address": "pasg1fs7lu28hx5m9akm7rp0c2422cn8r2f7glm9g6k",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -272,7 +272,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -284,7 +284,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -296,7 +296,7 @@
           "12:00",
           "00:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -305,7 +305,7 @@
       "restake": {
         "address": "omniflix1fs7lu28hx5m9akm7rp0c2422cn8r2f7gpadtqh",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -314,7 +314,7 @@
       "restake": {
         "address": "n1fs7lu28hx5m9akm7rp0c2422cn8r2f7gw8tsgv",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -323,7 +323,7 @@
       "restake": {
         "address": "tori1fs7lu28hx5m9akm7rp0c2422cn8r2f7g7htmve",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     }
   ]
