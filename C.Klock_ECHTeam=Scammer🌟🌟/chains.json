@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "C.Klock_ECHTeam=Scammer🌟🌟",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper1ywmhfwuq999pzaeukpxy3un5kkfmfr8tkusjqj",
+            "restake": {
+                "address": "echelon13wg2velkrrujpfdkk32p4gv626qdvvm2z86ln7z",
+                "run_time": "04:05",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "cosmoshub",
-      "address": "cosmosvaloper15ytx6mflyrxynjerqlud6w646v6u3qvtjtfane",
-      "restake": {
-        "address": "cosmos188pr9uhee8ls67flnhke4a7383pdmf24g39vyq",
-        "run_time": "22:00",
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "terra",
       "address": "terravaloper1wzu2j73nvccghywtghku5ch59f67jykw58na64",
       "restake": {

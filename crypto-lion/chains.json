@@ -75,6 +75,18 @@
       }
     },
     {
+      "name": "emoney",
+      "address": "emoneyvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4a7j0wy",
+      "restake": {
+        "address": "emoney1mwysqcvvhjcntajus2vuezgc5su7kha44wfn3h",
+        "run_time": [
+          "10:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4rycgky",
       "restake": {

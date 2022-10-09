@@ -35,7 +35,7 @@
       "restake": {
         "address": "sif15hfak84jamn59229c7r6umg2purgd9cyq24u5p",
         "run_time": "every 30 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -79,6 +79,24 @@
       "address": "mantlevaloper1ksg82xa3ufmfwtsa75cgzwvv0m6mym230p6s9s",
       "restake": {
         "address": "mantle15hfak84jamn59229c7r6umg2purgd9cymnp0yq",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1ar4268868p0ty93emhjdxpq7l6cy3g60cxpycl",
+      "restake": {
+        "address": "ki15hfak84jamn59229c7r6umg2purgd9cy56t9l7",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper12p4k84atxs7h8jcltgg4637h7x0ynexm3lfswm",
+      "restake": {
+        "address": "osmo15hfak84jamn59229c7r6umg2purgd9cydvf6dc",
         "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }

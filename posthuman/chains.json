@@ -115,7 +115,7 @@
       "address": "evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7",
       "restake": {
         "address": "evmos1a2kjvsgxqqk0mrfpwlvv209zfjes2xz9punv67",
-        "run_time": "every 1 hour",
+        "run_time": "daily",
         "minimum_reward": 10000000000000000
       }
     },
@@ -126,6 +126,15 @@
         "address": "like1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjn86l8w",
         "run_time": "every 1 hour",
         "minimum_reward": 5000000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm",
+      "restake": {
+        "address": "sif1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj9xftt7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

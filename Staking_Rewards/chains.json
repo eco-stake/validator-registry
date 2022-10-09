@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Staking_Rewards",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1few3jle0yjl32ap89j35d5y8xzt644zghe9ucy",
+      "restake": {
+        "address": "umee1vyyj69vwfz6vdqt9w4pwmvxrcgvd9hlekp3q5w",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "CosmosDrops",
+    "chains": [
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper1qyc9ccfx7clj0kswgjz6cdf5f4n6v4nyeudy8q",
+            "restake": {
+                "address": "bitsong14sq7wn2dgs597rl2e9vx4y2er5l68npdwlhvra",
+                "run_time": "every 1 hour",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

@@ -3,15 +3,6 @@
   "name": "wabut.club",
   "chains": [
     {
-      "name": "echelon",
-      "address": "echelonvaloper1yfx66278emgky7t9andw82tttesm9ydgk6w43a",
-      "restake": {
-        "address": "echelon1yfx66278emgky7t9andw82tttesm9ydg95jkud",
-        "run_time": "every 24 hour",
-        "minimum_reward": 1000000000000
-      }
-    },
-    {
       "name": "meme",
       "address": "memevaloper1uxysl5pw8avye6rtcssmwfr7eyharcm2xx8drt",
       "restake": {

@@ -52,8 +52,35 @@
       "address": "evmosvaloper1fmfhpcc00r6ejuclv2fje3egruruk9upe7tl4s",
       "restake": {
         "address": "evmos10evxaenlwal5llugmem3r4rfqguwhean6c854e",
+        "run_time": ["01:00", "13:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1jr8chvms8yjthhk32zq8asselesrud34qug4ys",
+      "restake": {
+        "address": "sif15z6yxcyhp3h82k93vawen0wy8c5yq3sr22w3fe",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1esnx47axnktm7pwpeuw27lydnlfr29q0eluvem",
+      "restake": {
+        "address": "pasg1tk2wzrjsh5x8anzyld48xsnecyg4h4h5cx40mm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper16czx9ukfcelsxmjpyt90fprjx5qjw5anjnqp7m",
+      "restake": {
+        "address": "tori172nexmul80uxqrfxt38tmtl7897mj90vxxg8yy",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 10000
       }
     }
   ]

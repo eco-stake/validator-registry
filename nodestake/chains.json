@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "NodeStake.top",
+  "name": "NodeStake",
   "chains": [
     {
       "name": "agoric",
@@ -94,12 +94,75 @@
     },
     {
       "name": "cheqd",
-      "address": "cheqdvaloper19f0w9svr905fhefusyx4z8sf83j6et0g3rjhkl",
+      "address": "cheqdvaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snnqchj26",
       "restake": {
         "address": "cheqd1etsdevgm5ps240lrw9mg3p2j32tj96ktqafpeu",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1x70l4dcj30nr4x52ph3jmkpgz79qgktxe0w4tl",
+      "restake": {
+        "address": "omniflix1etsdevgm5ps240lrw9mg3p2j32tj96ktnp5c9n",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "chronicnetwork",
+      "address": "chronicvaloper19f0w9svr905fhefusyx4z8sf83j6et0gdse0hy",
+      "restake": {
+        "address": "chronic1etsdevgm5ps240lrw9mg3p2j32tj96ktnjzpc8",
+        "run_time": "23:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper19f0w9svr905fhefusyx4z8sf83j6et0gs0nrh0",
+      "restake": {
+        "address": "pasg1etsdevgm5ps240lrw9mg3p2j32tj96ktd8umlj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper19f0w9svr905fhefusyx4z8sf83j6et0gq4y3r9",
+      "restake": {
+        "address": "stride1etsdevgm5ps240lrw9mg3p2j32tj96ktd59axp",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "point",
+      "address": "pointvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq85akl6",
+      "restake": {
+        "address": "point15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4mpamqe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq6asnlu",
+      "restake": {
+        "address": "rebus1etsdevgm5ps240lrw9mg3p2j32tj96ktl4x5xm",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper19f0w9svr905fhefusyx4z8sf83j6et0g8d58j3",
+      "restake": {
+        "address": "tori1etsdevgm5ps240lrw9mg3p2j32tj96ktvtjgfa",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    }  
   ]
 }

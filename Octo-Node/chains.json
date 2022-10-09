@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Octo-Node",
+  "chains": [
+    {
+      "name": "kichain",
+      "address": "kivaloper1sl9z6ts5w8ls6tank008l6qcmyxhstreu2ttma",
+      "restake": {
+        "address": "ki1l8n6ev7e03334ufask9jg3tsq2uqv0gt7zh57q",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "kichaintestnet",
+      "address": "tkivaloper1n0adrsmrg5d879h93nmcvr5zu8u5zhf32shdv2",
+      "restake": {
+        "address": "tki1l8n6ev7e03334ufask9jg3tsq2uqv0gtpjaank",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1s6l7nqd96sle9nsrcvzh6rgajrq8xnf2palpqx",
+      "restake": {
+        "address": "chihuahua1l8n6ev7e03334ufask9jg3tsq2uqv0gtv6t4mk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    }
+  ]
+}
