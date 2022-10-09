@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "\uD83C\uDF43 leafwind",
+  "name": "leafwind 🍃",
   "chains": [
     {
       "name": "likecoin",
