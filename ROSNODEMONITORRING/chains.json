@@ -1,0 +1,14 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ROSNODEMONITORING",
+  "chains": [
+   {      "name": "teritori",
+      "address": "torivaloper1ll382k4tjy2uec57ljex306e476syr36rs6uk4",
+      "restake": {
+        "address": "haqq1geq3ccstlw0sv5h5fltph8cqmt07kke7jsen0y",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
