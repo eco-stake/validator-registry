@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "\uD83C\uDF43 leafwind",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1r43h9ef7p9gl5v0npwzp9h3yery4qycfjpfg5h",
+      "restake": {
+        "address": "tori1v8xe0h0cdry9zt3ud8juxg20kxk0pd2wmaztks",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

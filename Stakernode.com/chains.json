@@ -2,6 +2,15 @@
   "$schema": "../chains.schema.json",
   "name": "Stakernode",
   "chains": [
+        {
+      "name": "konstellation",
+      "address": "darcvaloper1czn57jr7j00z5hh63f98mg8l8zrwur7ycta083",
+      "restake": {
+        "address": "darc1p4ecg8y2mcr247rtgjp4960d2zleavcaglvmkr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "sifchain",
       "address": "sifvaloper1e4l8durzh4hxmndv0vu43nayazedt0dk6fpx90",

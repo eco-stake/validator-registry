@@ -136,6 +136,33 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
-    }
+    },
+    {
+      "name": "point",
+      "address": "pointvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq85akl6",
+      "restake": {
+        "address": "point15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4mpamqe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq6asnlu",
+      "restake": {
+        "address": "rebus1etsdevgm5ps240lrw9mg3p2j32tj96ktl4x5xm",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper19f0w9svr905fhefusyx4z8sf83j6et0g8d58j3",
+      "restake": {
+        "address": "tori1etsdevgm5ps240lrw9mg3p2j32tj96ktvtjgfa",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    }  
   ]
 }

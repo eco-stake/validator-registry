@@ -102,6 +102,24 @@
       }
     },
     {
+      "name": "rebus",
+      "address": "rebusvaloper1afjdawtwmrrjpx3s65wd280gp83t7qw3xu87x6",
+      "restake": {
+        "address": "rebus1m2g72wffh3l65sjlpxvsgmns3y7z58dyllng5f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper143482qtwdfnjlyr8llcaa4fsc64ax87rf2papy",
+      "restake": {
+        "address": "tori1m2g72wffh3l65sjlpxvsgmns3y7z58dyvp85m0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {

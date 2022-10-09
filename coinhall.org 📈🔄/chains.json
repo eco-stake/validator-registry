@@ -11,6 +11,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1yp8qwkfs964pkg3rge3k6ree2e6lrttgc8aqzn",
+      "restake": {
+        "address": "osmo1mqdaym2dhn74tpn02y6uaw60dp0svu9jp83ldt",
+        "run_time": "02:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "terra2",
       "address": "terravaloper1ge3vqn6cjkk2xkfwpg5ussjwxvahs2f6at87yp",
       "restake": {

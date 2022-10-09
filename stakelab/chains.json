@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "commercio",
+      "address": "did:com:valoper1t2zade4eye2wvf65wtqs5ekvtt65ytry2w3t7q",
+      "restake": {
+        "address": "did:com:1m3fw4fxxlhr4vhuxk3zwe27vt027eu2wltxa0u",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1gpx52r9h3zeul45amvcy2pysgvcwddxrgx6cnv",
       "restake": {
@@ -327,6 +336,15 @@
       }
     },
     {
+      "name": "rebus",
+      "address": "rebusvaloper1mz4lyh4m0qe3snskl4fj0yy9zrnrffrkqysl2c",
+      "restake": {
+        "address": "rebus1mjq48r6435aewerpruwc8up3tz3rzan2anaz4r",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "regen",
       "address": "regenvaloper1gjvu75cq6qxyrtdv66lx9xe92jw9gqdetagaze",
       "restake": {
@@ -412,6 +430,15 @@
       "address": "stridevaloper1mjr7m233g7yklzvfjp7jvtpsjm286dv2rcytjj",
       "restake": {
         "address": "stride1mjq48r6435aewerpruwc8up3tz3rzan20j7t4e",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1xu736l4vt6l2pg9k2yk66fq7zq6y4aj5xmd6vq",
+      "restake": {
+        "address": "tori1mjq48r6435aewerpruwc8up3tz3rzan2wdf769",
         "run_time": "19:00",
         "minimum_reward": 1000
       }

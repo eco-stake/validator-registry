@@ -3,6 +3,17 @@
   "name": "[ block pane ]",
   "chains": [
     {
+      "name": "akash",
+      "address": "akashvaloper1fkq09h2hutmd8nueyxgpt6qlpxa4nvf3jz8x63",
+      "restake": {
+        "address": "akash17cqeudhhwt8a4hpsp3mg96hy9lwx8t5dwt8z9g",
+        "run_time": [
+          "19:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1sgghjqdrj9kujkx38q04d99qsljwfd6mxyrssk",
       "restake": {
