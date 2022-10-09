@@ -28,6 +28,15 @@
           "run_time": "every 1 hour",
           "minimum_reward": 10000000
         }
+      },
+      {
+        "name": "rebus",
+        "address": "rebusvaloper1kyk5wapta83vgyyv2ke5cfw5yhkf6gz2fq7q2v",
+        "restake": {
+          "address": "rebus1huydnawzyugn8ntmuux843flkza27vykhzjg0k",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
       }
     ]
   }
