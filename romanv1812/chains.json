@@ -29,6 +29,15 @@
         "minimum_reward": 1000000000000
       }
     },
+       {
+      "name": "lambda",
+      "address": "lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp",
+      "restake": {
+        "address": "lamb1lvwkek88nw4uzlm5vzd47gfqhdmlang0dlkz67",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
     {
       "name": "umee",
       "address": "umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2",
