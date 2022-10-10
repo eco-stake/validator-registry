@@ -163,6 +163,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 10000
       }
-    }  
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqplx8us",
+      "restake": {
+        "address": "lamb1etsdevgm5ps240lrw9mg3p2j32tj96kt4cy0nq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
   ]
 }
