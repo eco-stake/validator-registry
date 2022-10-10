@@ -53,14 +53,14 @@
 					"pattern": "^.*$"
 				},
 				"team": {
-					"$id": "#root/description/overview", 
+					"$id": "#root/description/team", 
 					"title": "Team", 
 					"type": "string",
 					"default": "",
 					"pattern": "^.*$"
 				},
 				"security": {
-					"$id": "#root/description/overview", 
+					"$id": "#root/description/security", 
 					"title": "Security", 
 					"type": "string",
 					"default": "",
