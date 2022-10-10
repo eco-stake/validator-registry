@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "rch",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ztgqknvdcl78f68hmdusjktx6r3rwy8rnjnplw",
+      "restake": {
+        "address": "rebus1l46sg8j7q49asn30wa6vu6mgsfx0rjfe5kkrcj",
+        "run_time": "every 50 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}
