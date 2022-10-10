@@ -3,6 +3,15 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "rebus",
+      "address": "rebusvaloper1vn7gkk4h7xa52jnr50l82n54sxnwd3xjtj77dy",
+      "restake": {
+        "address": "rebus1m7xlymnpxl2d4llu67v08e8xs67dj2fzkls7z2",
+        "run_time": "every 20 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+    {
       "name": "kava",
       "address": "kavavaloper1j4tymd9r3au3vm508l4jugdg7l892l2lmh4jry",
       "restake": {
