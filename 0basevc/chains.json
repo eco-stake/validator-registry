@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4mjdjnt",
+      "restake": {
+        "address": "axelar1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyndvt94",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "cerberus",
       "address": "cerberusvaloper1pzqjgfd25qsyfdtmx9elrqx6zjjvnc9stqd7h0",
       "restake": {
@@ -126,6 +135,15 @@
         "address": "stars1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyrld799",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cmefrc",
+      "restake": {
+        "address": "tori1jrjdqzxchlt09gj6qvn4ds8suxh9aqwy4hd24y",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 500000
       }
     },
     {

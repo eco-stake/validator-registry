@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pepe Federation",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper16p42g8ej2wxn7ss83jnd8ssk27jz3fs2n6nmav",
+      "restake": {
+        "address": "evmos1r4p45u486phkmh5zgpsa437g8uczcs4wlg4nyd",
+        "run_time": "02:30",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

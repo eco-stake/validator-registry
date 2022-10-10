@@ -57,6 +57,69 @@
       }
     },
     {
+      "name": "rizon",
+      "address": "rizonvaloper1wr730gckwkr7dxm2ywjltp8ud99lse0eyzqz6m",
+      "restake": {
+        "address": "rizon17j4r042dcvqpqdzxnw8eky02zv6gslrxq4v4lw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1hn4za2pm8fnkgk3cjw9az9z7q9p4qg3yayh74l",
+      "restake": {
+        "address": "kujira17j4r042dcvqpqdzxnw8eky02zv6gslrxjqju7u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper10pf5mvpwcwzmp86gcx0fmxgje6lg0tv9vyatax",
+      "restake": {
+        "address": "bcna1m2g72wffh3l65sjlpxvsgmns3y7z58dy59qugd",
+        "run_time": ["04:20", "16:20"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper10y23e2v9hm82uhw4m5zhm3mxrrqc865dmanyl5",
+      "restake": {
+        "address": "bitsong1nx68eylpsayl4skdl2aqzrthk5vrxgd8gkvhw9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "echelon",
+      "address": "echelonvaloper1pt06tu30ly99t3qt48ppyh2wst432aygdh3qwe",
+      "restake": {
+        "address": "echelon1s6m3ux225d48kkkmkdnmuscfhfws9yckp54q85",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1afjdawtwmrrjpx3s65wd280gp83t7qw3xu87x6",
+      "restake": {
+        "address": "rebus1m2g72wffh3l65sjlpxvsgmns3y7z58dyllng5f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper143482qtwdfnjlyr8llcaa4fsc64ax87rf2papy",
+      "restake": {
+        "address": "tori1m2g72wffh3l65sjlpxvsgmns3y7z58dyvp85m0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {
