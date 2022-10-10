@@ -4,8 +4,7 @@
 	"title": "Root", 
 	"type": "object",
 	"required": [
-		"name",
-		"identity"
+		"name"
 	],
 	"properties": {
 		"name": {
