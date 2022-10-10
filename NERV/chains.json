@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NERV",
+  "chains": [    
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1s3jm35z2yjepxmtm66seue5m0y2u7d7yhdnvsf",
+      "restake": {
+        "address": "sif1uh6maq096tmjcztw8hy3f3yuffhr6r4n09vzxk",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

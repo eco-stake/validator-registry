@@ -3,11 +3,20 @@
   "name": "Safe Block",
   "chains": [
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1fp9klv3ahdya8m2gc58vhp3cge8seglrgt0rzz",
+      "name": "rebus",
+      "address": "rebusvaloper1a0qn2yydg9gd0xmzmxh6yd6d3gmdg43l6jtj6d",
       "restake": {
-        "address": "lum1r64t7u292f5d0ck4pt6ate6880ufwffm6vzs8l",
-        "run_time": "21:00",
+        "address": "rebus1r64t7u292f5d0ck4pt6ate6880ufwffm7vuvxa",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1ay3vpfhmd8q8zcfmn6qqh9v5qj6ejqml955s5k",
+      "restake": {
+        "address": "tori1r64t7u292f5d0ck4pt6ate6880ufwffmdjgsfm",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
@@ -18,15 +27,6 @@
         "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
         "run_time": "21:00",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "echelon",
-      "address": "echelonvaloper1rtq6xhsyqu69ugulsa6me9nstu3dn66ccuuejt",
-      "restake": {
-        "address": "echelon1408uk4pmf4gdwxelrz3wgfks3ttxujww7ddq0y",
-        "run_time": "1:00",
-        "minimum_reward": 1000000000000000000
       }
     },
     {

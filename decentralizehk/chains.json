@@ -100,6 +100,24 @@
         "run_time": "22:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper19sxt6gyrh20htsqjhm264necqns3c2gxxlpenp",
+      "restake": {
+        "address": "sif197yc3g8drkf8fyv6fr4ynddy2n22kauu6x2865",
+        "run_time": "22:00",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1vwqgl5f040j93kefp80edjxk7hdg30j8z3x46w",
+      "restake": {
+        "address": "pb1xlenv8d7pzqqmxjc48c02s9xchqlr0sv6mq0js",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

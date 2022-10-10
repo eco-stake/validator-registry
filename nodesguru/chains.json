@@ -16,8 +16,8 @@
       "address": "mantlevaloper15sfnle6cav443mcpsx4c7ac6enqcfep4fdr86r",
       "restake": {
         "address": "mantle1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt7cuuqg",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "run_time": "21:30",
+        "minimum_reward": 100000
       }
     },
     {
@@ -25,7 +25,7 @@
       "address": "agoricvaloper1w2fe5lu8jp02xtaxlak0456fjthe588xwqjmaz",
       "restake": {
         "address": "agoric1ezv68p0wsj6t2lhn292mazsyfl2ystyrym0a6p",
-        "run_time": "every 1 hour",
+        "run_time": "10:00",
         "minimum_reward": 100000
       }
     },
@@ -34,7 +34,16 @@
       "address": "evmosvaloper1vw7k3z99swlv7svjmnrrqvu6zdmatqhvzuz7lu",
       "restake": {
         "address": "evmos1g94m7lremc5m5dhzd8lvjf7d8hs6sg40lqrdme",
-        "run_time": "daily",
+        "run_time": "21:30",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1448lsc8mfwvnya29uux0dc5ykaf6f3txn504t3",
+      "restake": {
+        "address": "rebus1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kyvt5",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
     }

@@ -64,6 +64,15 @@
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "stride",
+      "address": "stride1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9upx6ze",
+      "restake": {
+        "address": "stride1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9upx6ze",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

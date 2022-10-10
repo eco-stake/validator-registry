@@ -109,6 +109,51 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1c386cr9kzxs83h60qsuwyv8f0gnl2y47t744sq",
+      "restake": {
+        "address": "persistence12n5jc3f0lj03k08zfp90ln68rvegmpgghl0tpw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "rebus",
+      "address": "rebusvaloper1y472rsstv8lwcevn96m78ucmz7szapmk9xj8f6",
+      "restake": {
+        "address": "rebus1r8egcurpwxftegr07gjv9gwffw4fk0096dvlv4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1wza4vat4vv88tw3zh3zvey8f9s8djx7vxwk6g7",
+      "restake": {
+        "address": "sif1r8egcurpwxftegr07gjv9gwffw4fk009w6quhg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1ppeu2c9nkkptmhu2vxmwt2pjfyvn4pwl6ydulk",
+      "restake": {
+        "address": "certik1r8egcurpwxftegr07gjv9gwffw4fk009v0naeg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
+    },
+      {
+      "name": "teritori",
+      "address": "torivaloper16zqd7zvg2tpzp0rcfr3ky33dwunkprrf85fq06",
+      "restake": {
+        "address": "tori1r8egcurpwxftegr07gjv9gwffw4fk009fncrrn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

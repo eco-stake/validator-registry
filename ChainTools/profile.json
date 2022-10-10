@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "ChainTools",
+  "identity": "1857FF1BC2EA6A69",
+  "website": "https://chaintools.tech",
+  "contacts": {
+    "telephone": "",
+    "email": "contact@chaintools.tech",
+    "telegram": "chaintoolsT",
+    "twitter": "chaintoolsT",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

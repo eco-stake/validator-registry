@@ -1,0 +1,11 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "leafwind 🍃",
+  "identity": "F3F1F3D333F86A4F",
+  "description": {
+    "overview": "Cosmos 生態系參與者，撰寫《哩哩扣扣》週報，經營 Cosmos TW 群組: https://t.me/cosmos_tw"
+  },
+  "contacts": {
+    "telegram": "leafwind_tw"
+  }
+}
