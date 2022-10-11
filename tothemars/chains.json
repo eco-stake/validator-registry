@@ -7,10 +7,9 @@
       "address": "bostromvaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykflmhnn",
       "restake": {
         "address": "bostrom189ftxv2qx0hynq9hkppezdgx3nw2khk5x2zv4x",
-        "run_time": [
-          "21:00"
-        ],
+        "run_time": "21:00",
         "minimum_reward": 1000
-      }
+       }
     }
+    ]
 }
