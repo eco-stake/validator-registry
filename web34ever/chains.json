@@ -8,7 +8,7 @@
       "restake": {
         "address": "juno189ftxv2qx0hynq9hkppezdgx3nw2khk5nt4yva",
         "run_time": "10:10",
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "gravity189ftxv2qx0hynq9hkppezdgx3nw2khk5pfy8wf",
         "run_time": "10:10",
-        "minimum_reward": 10
+        "minimum_reward": 100000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "stars16hnse4c852xg4vxjnqhx648e02z32n72wcqczf",
         "run_time": "10:10",
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
