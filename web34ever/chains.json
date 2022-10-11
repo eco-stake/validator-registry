@@ -8,7 +8,7 @@
       "restake": {
         "address": "juno189ftxv2qx0hynq9hkppezdgx3nw2khk5nt4yva",
         "run_time": "10:10",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
@@ -17,25 +17,25 @@
       "restake": {
         "address": "gravity189ftxv2qx0hynq9hkppezdgx3nw2khk5pfy8wf",
         "run_time": "10:10",
-        "minimum_reward": 1000
+        "minimum_reward": 10
       }
     },
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk",
+      "name": "stargaze",
+      "address": "",
       "restake": {
-        "address": "",
+        "address": "stars16hnse4c852xg4vxjnqhx648e02z32n72wcqczf",
         "run_time": "10:10",
-        "minimum_reward": 1000
+        "minimum_reward": 1
       }
     },
     {
       "name": "bostrom",
       "address": "bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j",
       "restake": {
-        "address": "bostrom189ftxv2qx0hynq9hkppezdgx3nw2khk5x2zv4x",
+        "address": "bostrom16hnse4c852xg4vxjnqhx648e02z32n72ehrkhl",
         "run_time": "10:10",
-        "minimum_reward": 1000
+        "minimum_reward": 1000000
       }
     }
  ]
