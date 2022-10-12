@@ -147,6 +147,24 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1kmqet5g4mc5lt0e0s60x4xg6c94f7engguta8g",
+      "restake": {
+        "address": "pasg1kmqet5g4mc5lt0e0s60x4xg6c94f7engmqp4x5",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper16ajn2y037v5map6racggcezrry5zafreeumekr",
+      "restake": {
+        "address": "lamb16ajn2y037v5map6racggcezrry5zafrekynf4h",
+        "run_time": "08:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper162ty3nf7wd5tvqhsu486fexh832fyham0cvphg",
       "restake": {
@@ -154,6 +172,24 @@
         "run_time": "08:00",
         "minimum_reward": 100000
       }
-    }    
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper10wl2pr9qrl9lv6lnzdnrlz60sa86g09ade2vct",
+      "restake": {
+        "address": "omniflix10wl2pr9qrl9lv6lnzdnrlz60sa86g09aqtcder",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1es8xnawedlzx9ejdpw4k5hvy4qv4genp8mkkr9",
+      "restake": {
+        "address": "tori1es8xnawedlzx9ejdpw4k5hvy4qv4genpzf4f3g",
+        "run_time": "08:00",
+        "minimum_reward": 1000
+      }
+    }   
   ]
 }
