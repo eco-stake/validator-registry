@@ -28,6 +28,7 @@
         "run_time": "every 12 hour",
         "minimum_reward": 500000
       }
+    },
     {
       "name": "rebus",
       "address": "rebusvaloper1vn7gkk4h7xa52jnr50l82n54sxnwd3xjtj77dy",
