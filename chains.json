@@ -1,0 +1,12 @@
+{
+  "name": "decentr",
+  "address": "decentrvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqg5rfc3x",
+  "restake": {
+    "address": "decentr1709spkwudstcnlpvt6cpwhh6lylxxylym9h60j",
+    "run_time": [
+      "09:00",
+      "21:00"
+    ],
+    "minimum_reward": 1000000
+  }
+},
