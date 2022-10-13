@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Validatrium",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper125xazqstxpav7ekrt4w8km7ccdu8ytj45wstn3",
+      "restake": {
+        "address": "rebus1xv9vc84ze8y9pe9mmp65tlsr37qpse4dcwehlu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

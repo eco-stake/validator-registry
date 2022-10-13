@@ -34,13 +34,20 @@
       "address": "torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn",
       "restake": {
         "address": "tori1na6j5scjfrq4az3d0lupp4tyaeahmh9w0vyfzz",
-        "run_time": [
-          "08:00",
-          "20:00"
-        ],
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     }, 
+
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1v9z8pjfgjvuj4ar97h692scm88mvwks5plmvvq",
+      "restake": {
+        "address": "rebus17ahstzturq5rvk5razlkwcmagj6440h7py068z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
 
     {
       "name": "sifchain",

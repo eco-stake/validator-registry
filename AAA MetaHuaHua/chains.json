@@ -8,10 +8,10 @@
       "restake": {
         "address": "chihuahua18e9px5aau6s22p2nrctjwapncj3y3em887n6c8",
         "run_time": [
-          "4:00 UTC",
-          "10:00 UTC",
-          "16:00 UTC",
-          "22:00 UTC"
+          "04:00",
+          "10:00",
+          "16:00",
+          "22:00"
         ],
         "minimum_reward": 1000
       }
@@ -22,10 +22,10 @@
       "restake": {
         "address": "tori18e9px5aau6s22p2nrctjwapncj3y3em8xlfaz4",
         "run_time": [
-            "4:00 UTC",
-            "10:00 UTC",
-            "16:00 UTC",
-            "22:00 UTC"
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
         ],
         "minimum_reward": 1000
       }

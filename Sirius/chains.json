@@ -1,0 +1,14 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sirius",
+  "chains": [
+   {      "name": "teritori",
+      "address": "torivaloper10n52jqfnwkuhxg72jphqryy0rzn2qpvtqjtdnr",
+      "restake": {
+        "address": "tori1873eare9p9wmelyy008nskdfntk40myndrwy8u",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
