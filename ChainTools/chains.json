@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "qf3l3k | ChainTools",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1x2slrjfmgxq7qx3xwmsjue73t5ynmwy7jgpdtr",
+      "restake": {
+        "address": "bitsong1fvsjs72n24q6re5z8kslgj5cnypfhcj5k2s4sw",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper17za3hgg6ckjgk0ehcdpd5en4hs58ujlvpknn8z",
+      "restake": {
+        "address": "decentr1tj0t93t6xjwe5dqptr62ej4pqvy2es0r7swn7m",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1p3u583ms39yrz7dkcetxdkn4sj66sjau4250pu",
+      "restake": {
+        "address": "sent1tj0t93t6xjwe5dqptr62ej4pqvy2es0rw977mu",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper16752cplqs7yu5xgdchew52f23dtnu4ncm0pa4j",
+      "restake": {
+        "address": "sif1tj0t93t6xjwe5dqptr62ej4pqvy2es0rsr83sc",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }  
+  ]
+}

@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "commercio",
+      "address": "did:com:valoper1t2zade4eye2wvf65wtqs5ekvtt65ytry2w3t7q",
+      "restake": {
+        "address": "did:com:1m3fw4fxxlhr4vhuxk3zwe27vt027eu2wltxa0u",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1gpx52r9h3zeul45amvcy2pysgvcwddxrgx6cnv",
       "restake": {
@@ -322,6 +331,15 @@
       "address": "persistencevaloper1r7gdc8ag4ktmrvhed2xp09n3klrjuznwdzsru2",
       "restake": {
         "address": "persistence1mjq48r6435aewerpruwc8up3tz3rzan2z4cy03",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1mz4lyh4m0qe3snskl4fj0yy9zrnrffrkqysl2c",
+      "restake": {
+        "address": "rebus1mjq48r6435aewerpruwc8up3tz3rzan2anaz4r",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
