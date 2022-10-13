@@ -3,11 +3,38 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+      "name": "axelar",
+      "address": "axelarvaloper19ysyq74gkf8lv3l4suu3rlqadg4txp3sqxkhss",
+      "restake": {
+        "address": "axelar1m7xlymnpxl2d4llu67v08e8xs67dj2fzrm9raa",
+        "run_time": "every 12 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1dlpuptu8k8rps38u9wdjmkwte69v27593alh5s",
+      "restake": {
+        "address": "somm1m7xlymnpxl2d4llu67v08e8xs67dj2fztfu88k",
+        "run_time": "every 12 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1kpfxtqt5cmlew46dem32fqlk5g6k4wyueh4szu",
+      "restake": {
+        "address": "inj15lw5v5typyy4gx382v0gct2gfj4e2e0d5n6cjy",
+        "run_time": "every 12 hour",
+        "minimum_reward": 500000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1vn7gkk4h7xa52jnr50l82n54sxnwd3xjtj77dy",
       "restake": {
         "address": "rebus1m7xlymnpxl2d4llu67v08e8xs67dj2fzkls7z2",
-        "run_time": "every 20 hour",
+        "run_time": "every 2 hour",
         "minimum_reward": 1000000000000000000
       }
     },
