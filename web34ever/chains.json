@@ -6,7 +6,7 @@
       "name": "juno",
       "address": "junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx",
       "restake": {
-        "address": "juno189ftxv2qx0hynq9hkppezdgx3nw2khk5nt4yva",
+        "address": "juno1wswx53yjqla26jls2fsh099jdrpuw5yt64zp8m",
         "run_time": "10:10",
         "minimum_reward": 1000000
       }
@@ -15,7 +15,7 @@
       "name": "gravitybridge",
       "address": "gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y",
       "restake": {
-        "address": "gravity189ftxv2qx0hynq9hkppezdgx3nw2khk5pfy8wf",
+        "address": "gravity1wswx53yjqla26jls2fsh099jdrpuw5ytghnz90",
         "run_time": "10:10",
         "minimum_reward": 1000000
       }
@@ -24,7 +24,7 @@
       "name": "stargaze",
       "address": "starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x",
       "restake": {
-        "address": "stars16hnse4c852xg4vxjnqhx648e02z32n72wcqczf",
+        "address": "stars1wswx53yjqla26jls2fsh099jdrpuw5ytcmk8tk",
         "run_time": "10:10",
         "minimum_reward": 1000000
       }
@@ -33,16 +33,7 @@
       "name": "bostrom",
       "address": "bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j",
       "restake": {
-        "address": "bostrom16hnse4c852xg4vxjnqhx648e02z32n72ehrkhl",
-        "run_time": "10:10",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "bitcanna",
-      "address": "bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk",
-      "restake": {
-        "address": "bcna1wswx53yjqla26jls2fsh099jdrpuw5ytkh3mg4",
+        "address": "bostrom1wswx53yjqla26jls2fsh099jdrpuw5yt054f7q",
         "run_time": "10:10",
         "minimum_reward": 1000000
       }
@@ -118,6 +109,7 @@
         "run_time": "10:10",
         "minimum_reward": 1000000
       }
-    }    
+    }
+    
  ]
 }
