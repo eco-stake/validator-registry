@@ -1,0 +1,11 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Anatolian Team",
+  "identity": "D06CA33098EDDACE",
+  "website": "https://anatolianteam.com",
+  "description": "Always forward with the Anatolian Team 🚀",
+  "contacts": {
+    "email": "info@anatolianteam.com",
+    "twitter": "anatolianteam"
+  }
+}
