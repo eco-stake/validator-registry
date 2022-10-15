@@ -17,7 +17,7 @@
       "restake": {
         "address": "osmo1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8l6m67e",
         "run_time": "18:00",
-        "minumum_reward": 10000
+        "minimum_reward": 10000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "sif1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8ju8u8q",
         "run_time": "every 1 hour",
-        "minumum_reward": 1000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "rebus1d7lcnkafa29cme3gz7h4chp6jp3zz4e99thynk",
         "run_time": "every 1 hour",
-        "minumum_reward": 1000000
+        "minimum_reward": 1000000
       }
     }
   ]
