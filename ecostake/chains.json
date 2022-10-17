@@ -118,8 +118,11 @@
       "address": "kujiravaloper1vue5lawr3s0au9zj0aqeft5aknx6cjq6w5ghca",
       "restake": {
         "address": "kujira1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq79u7u",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
       }
     },
     {
