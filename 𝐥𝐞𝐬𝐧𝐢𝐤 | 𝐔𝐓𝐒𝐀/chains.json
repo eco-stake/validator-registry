@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy",
+      "restake": {
+        "address": "tori1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uy8uz23x",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
