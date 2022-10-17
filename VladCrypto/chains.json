@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "VladCryptoRebus",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper169wv0aaz6stej872as0djfwjel9a2je45akqhs",
+      "restake": {
+        "address": "rebus1wkxa5favgc7tmgd6l5h2h64fzuejvdn70nwrdq",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
