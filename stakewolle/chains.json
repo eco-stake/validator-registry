@@ -3,6 +3,15 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+        "name": "panacea",
+        "address": "panaceavaloper1dw3ev60v44q68qrrsz8lmwrx68f70hyrr5w5l6",
+        "restake": {
+          "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper19ysyq74gkf8lv3l4suu3rlqadg4txp3sqxkhss",
       "restake": {
