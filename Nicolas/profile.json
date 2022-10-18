@@ -1,0 +1,13 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "🌞Nicolas🔥",
+    "identity": "52D89EEA98D8C960",
+    "website": "https://web3normandy.com/",
+    "description": {
+        "overview": "Merci les amis pour vos jetons délégataires à l'obole taillant les blocs de notre chaîne d'union",
+        "team": "Nous sommes un groupe de copains validateurs: pour vous servir dans la décentralisation"
+    },
+      "contacts": {
+        "email": "nicolas.web3.0@gmail.com"
+    }
+}
