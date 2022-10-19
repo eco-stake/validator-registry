@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pmkjlwt",
+      "restake": {
+        "address": "mantle1xrrfek3qpz4ja8ccrjklfy064asyqq9kdkd2t9",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4ppzdrn6",
       "restake": {
