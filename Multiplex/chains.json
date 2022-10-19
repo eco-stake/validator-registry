@@ -3,6 +3,15 @@
   "name": "Multiplex",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a4qlael79p76my9pml6thwhnnzsxyy4ajrvd9s",
+      "restake": {
+        "address": "cosmos1vf336tp2wua20nc8lf8za7jtp757ujj3esm7ww",
+        "run_time": "16:30",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1dj0mysdn05447p9ncsq9g424fv2ynaxryhpjkc",
       "restake": {

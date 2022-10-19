@@ -19,10 +19,7 @@
       "address": "rebusvaloper1vrae60ygwwajhecunktlgp6p0qzp8v2nfnwfu0",
       "restake": {
         "address": "rebus1l7u96pp08xlznhgy0xdu2v9dvtqv2tyeg3mcxn",
-        "run_time": [
-          "09:00",
-          "22:00"
-        ],
+        "run_time": "every 2 hours",
         "minimum_reward": 1000000000000000
       }
     },
@@ -31,11 +28,8 @@
       "address": "torivaloper18d57l93pj7qcw05r882dw9ke9ppgcqsasz6gxg",
       "restake": {
         "address": "tori1l7u96pp08xlznhgy0xdu2v9dvtqv2tyem00yf4",
-        "run_time": [
-          "09:00",
-          "22:00"
-        ],
-        "minimum_reward": 1000000000000000
+        "run_time": "every 2 hours",
+        "minimum_reward": 10000
       }
     }
   ]

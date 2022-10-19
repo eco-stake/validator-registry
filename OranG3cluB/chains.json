@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OranG3cluB",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq",
+      "restake": {
+        "address": "juno1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqvz4j8n",
+        "run_time": "21:00",
+        "minimum_reward": 50000
+      }
+    }
+  ]
+}
