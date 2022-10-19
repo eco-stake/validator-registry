@@ -144,22 +144,6 @@
         "address": "pb10ckyufenegvw8czkqxck08q7gn92k2zz93g0ut",
         "run_time": "every 4 hours",
         "minimum_reward": 100000000
-      },
-     {
-      "name": "teritori",
-      "address": "torivaloper16dzaxgnq9zlac7yl3ar3zp4y2zgr9fm04w5ds9",
-      "restake": {
-        "address": "tori1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnelsyq6",
-        "run_time": "every 4 hours",
-        "minimum_reward": 500000
-      },
-    {
-      "name": "osmosis",
-      "address": "osmovaloper19hkeendgqz3ddhkq7djw264cftkl82sfcc2h86",
-      "restake": {
-        "address": "osmo1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnns5adc",
-        "run_time": "every 4 hours",
-        "minimum_reward": 500000
       }
     }
   ]
