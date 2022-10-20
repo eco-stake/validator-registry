@@ -69,7 +69,7 @@
       "address": "odinvaloper10u2g5yhvtm0d76f860kggp6lakge4q8hj59tn5",
       "restake": {
         "address": "odin1m8d834ykcy3dgrdve4xhxky3u3c2tl9dkc49fd",
-        "run_time": "Every 4 Hours",
+        "run_time": "Every hour",
         "minimum_reward": 100000
       }
     }
