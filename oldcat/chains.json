@@ -152,7 +152,7 @@
       "restake": {
         "address": "sif1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zya3pps",
         "run_time": ["03:00","09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 5000000000000000000
       }
     }
   ]
