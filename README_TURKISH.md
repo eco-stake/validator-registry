@@ -4,7 +4,7 @@ Bu depo REStake'ten çıkarılmış ve kabaca tekrar düzenlenmiş bir yapıya d
 
 REStake'e özgü bir depo yapmak yerine, bu repo burada zincirde saklanamayan validator özniteliklerini tutmak için kullanılabilir.
 
-Bunun amacı kendisini kanıtlandıktan sonra [Cosmos](https://github.com/cosmos) organizasyonuna geçmesidir. Bunun rüyası, [Zincir Kayıt](https://github.com/cosmos/chain-registry) Defterinin validator versiyonu olmaktır.
+Bunun amacı kendisini kanıtladıktan sonra [Cosmos](https://github.com/cosmos) organizasyonuna geçmesidir. Bunun rüyası, [Zincir Kayıt Defteri](https://github.com/cosmos/chain-registry)'nin validator versiyonu olmaktır.
 
 **Bu çok fazla devam eden bir çalışmadır ve tüm yorumlar hoş karşılanır.** Herhangi bir fikriniz veya öneriniz varsa lütfen bir Sorun (Issue) gönderin.
 
