@@ -16,8 +16,8 @@
          "address":"evmosvaloper17zaf6jk6gupa0mgnyyt7e4u8y783k6u3wz6avj",
          "restake":{
             "address":"evmos1tj305ludmkx4q60yfdt4z0x3xz57ppsmjkje0y",
-            "run_time":"21:05",
-            "minimum_reward":100000000000000
+            "run_time":"every 6 hours",
+            "minimum_reward":10000000000000000
          }
       },
       {
