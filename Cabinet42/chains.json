@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cabinet42",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1el4dz8wfv9e393fduw5r90hd7ydkdyqrflwy0h",
+      "restake": {
+        "address": "rebus19wxdxh5ashl2ntgjm3zw8pyhzpn9j9hewt3xff",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
