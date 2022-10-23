@@ -16,7 +16,7 @@
       "address": "genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj",
       "restake": {
         "address": "genesis1f85g9c9z92a0tlz3uec3l93yh6q40zsqel47kr",
-        "run_time": "every 1 hour",
+        "run_time": "21:30",
         "minimum_reward": 100000000000000000
       }
     },
