@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SUNREN 🐳 | BROXA ⚛️😸",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1t6x3s6std4uw5h0epmeexuldj3jvdgmpnttf4t",
+      "restake": {
+        "address": "umee1xllz2yrx4llfwm792geccfz7rey72m0d49p9q4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
