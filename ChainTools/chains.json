@@ -12,10 +12,64 @@
       }
     },
     {
+      "name": "carbon",
+      "address": "swthvaloper17qsmt59jqk3fexc8ffe257ysvfpjymy2exgsmz",
+      "restake": {
+        "address": "swth1tj0t93t6xjwe5dqptr62ej4pqvy2es0r2qz3v2",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper17za3hgg6ckjgk0ehcdpd5en4hs58ujlvpknn8z",
       "restake": {
         "address": "decentr1tj0t93t6xjwe5dqptr62ej4pqvy2es0r7swn7m",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper14ltn0tu3vjfgflpkmr559k5wgvyumpq6720cd0",
+      "restake": {
+        "address": "emoney1tj0t93t6xjwe5dqptr62ej4pqvy2es0r6ajngw",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1fkanx93krvlm77eyhyvgqvc3jcvj6sfqu7rwtz",
+      "restake": {
+        "address": "fetch1tj0t93t6xjwe5dqptr62ej4pqvy2es0rxrpray",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper125ae5hywcv8t63jmyvcqem2kpwjuknpdfeuep0",
+      "restake": {
+        "address": "firma1tw2l7pfhs9z262jv6dr6xqj6r2s383rvs5nkkv",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1ph6ze7v9594xunz0p9gtfcfhteln56m0c9d0hr",
+      "restake": {
+        "address": "kava1902atnmcafmsnlhg387m3cuvd6x036xjl9fwh8",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1ekd3thg0449huazyuxgdqvesw6ls8p82mwz4ky",
+      "restake": {
+        "address": "ki1tj0t93t6xjwe5dqptr62ej4pqvy2es0rynegm8",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
@@ -37,6 +91,15 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
-    }  
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper13w8s0zztve46jussm5pd97txjcwepzqpwhg3u6",
+      "restake": {
+        "address": "tori1tj0t93t6xjwe5dqptr62ej4pqvy2es0rh2lwyr",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
   ]
 }
