@@ -5,6 +5,10 @@
     {
       "name": "juno",
       "address": "junovaloper1r548wap0a96rfqj0s9lwcylnqe90v7wvgtqssf"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1k5mws9tqgflx6rvhq6x0tnsdw0ddfkptwf3ch9"
     }
   ]
 }
