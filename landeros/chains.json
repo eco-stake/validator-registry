@@ -69,8 +69,8 @@
       "name": "lambda",
       "address": "lambvaloper14q2r3emyaf6pagfk0shc632swqxqp3ahxewyth",
       "restake": {
-        "address": "lamb1lzx3anksk2nxtnmfhkk26sfyavlawwdu3cg7p9",
-        "run_time": "every 15 minutes",
+        "address": "lamb1tycj5llp8gjw00zxgf2wqt682ukx36q6z2umql",
+        "run_time": ["00:00", "12:00"],
         "minimum_reward": 1000000000000000000
       }
     },
