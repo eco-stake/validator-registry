@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1qvjahmlvxxu97p0r9eccne6z6zm8n55q6ea2j8",
+      "restake": {
+        "address": "jkl194ytn50yhh67rdha8akhs7c6zulnz4n2sf8j4u",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "kava",
       "address": "kavavaloper1hztgl202pvetspxch0pcchaqzrduw4qq64q08u",
       "restake": {
