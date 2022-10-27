@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhxx8nxk",
+      "restake": {
+        "address": "jkl1hpwxnnrtsc6zjx4glup77tfe5z54lmtqug9yuc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
       "restake": {
