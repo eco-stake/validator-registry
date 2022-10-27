@@ -12,6 +12,15 @@
         }
       },
       {
+        "name": "assetmantle",
+        "address": "mantlevaloper1lt4fvjm3ru5qgtasjeyw4zzth69ryxdnlu2svj",
+        "restake": {
+          "address": "mantle1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8kxtjh0",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 1000
+        }
+      },
+      {
         "name": "gravitybridge",
         "address": "gravityvaloper19f7g4lh6unla4rp38u8mcyjcq4elt5zy2pwx63",
         "restake": {
