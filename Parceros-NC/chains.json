@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Parceros",
+  "chains": [
+    {
+      "name": "junotestnet",
+      "address": "junovaloper1c2ukpzz5qj2nkx30dq4zqy60qct9exq3yc50rk",
+      "restake": {
+        "address": "juno1yg8k3schjyhsmkvx5ujct7fcueakskalxj9jph",
+        "run_time": [
+          "09:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
