@@ -165,6 +165,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper19f0w9svr905fhefusyx4z8sf83j6et0gvxwf62",
+      "restake": {
+        "address": "jkl1etsdevgm5ps240lrw9mg3p2j32tj96kthptstj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "lambda",
       "address": "lambvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqplx8us",
       "restake": {
