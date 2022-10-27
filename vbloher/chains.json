@@ -3,24 +3,6 @@
   "name": "vbloher",
   "chains": [
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4",
-      "restake": {
-        "address": "bcna1qn898yu5h46htm365vhkd5je5c2jp8usn5dpnt",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "rizon",
-      "address": "rizonvaloper1h7qgg8p52vdpcqzhxrt6wjsnyyfasaak588lrh",
-      "restake": {
-        "address": "rizon1qn898yu5h46htm365vhkd5je5c2jp8us2ep3hp",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
       "restake": {
@@ -52,15 +34,6 @@
       "address": "galaxyvaloper173mgkdad6f935ys7gd2yfj6z47khkwy6f9ce7n",
       "restake": {
         "address": "galaxy1qn898yu5h46htm365vhkd5je5c2jp8us4mmqst",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh",
-      "restake": {
-        "address": "ki1qn898yu5h46htm365vhkd5je5c2jp8uscfv0ld",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
