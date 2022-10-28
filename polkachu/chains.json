@@ -246,6 +246,15 @@
       }
     },
     {
+      "name": "persistence",
+      "address": "persistencevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pz9tqdf",
+      "restake": {
+        "address": "persistence1xrrfek3qpz4ja8ccrjklfy064asyqq9ka7su6t",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pfj2j90",
       "restake": {
