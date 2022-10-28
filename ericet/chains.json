@@ -37,6 +37,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    },
+     {
+      "name": "jackal",
+      "address": "jklvaloper1cp07k4ueagl98nk5q0n2vz2yrvwgnw5ckznd9m",
+      "restake": {
+        "address": "jkl1fvk8rfqdxh4wyewhdk636hryw98v23h20jmg6n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
