@@ -57,6 +57,18 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a37ze3yrr2y9nn98l6frhjskmufvd40cpyd0gq",
+      "restake": {
+        "address": "cosmos1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz3k8ynk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cryptoorgchain",
       "address": "crocncl10mfs428fyntu296dgh5fmhvdzrr2stlaekcrp9",
       "restake": {
