@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoNet",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper106na43ryp064u4whh6xux865z8yad8ka2s5u2v",
+      "restake": {
+        "address": "cerberus106na43ryp064u4whh6xux865z8yad8kalp7msj",
+        "run_time": "15:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1q8vxdwn6zdd5fudtjrx46c0q0a66u7n3dxdtc9",
+      "restake": {
+        "address": "rizon1q8vxdwn6zdd5fudtjrx46c0q0a66u7n37z0264",
+        "run_time": "15:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
