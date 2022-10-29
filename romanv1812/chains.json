@@ -6,7 +6,7 @@
       "name": "dig",
       "address": "digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6",
       "restake": {
-        "address": "dig1agar2dvt3rm4kwme6fr7utzdcjd5ajs2lud4us",
+        "address": "dig1f85g9c9z92a0tlz3uec3l93yh6q40zsqlzgrsd",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
@@ -15,8 +15,8 @@
       "name": "genesisl1",
       "address": "genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj",
       "restake": {
-        "address": "genesis1lvwkek88nw4uzlm5vzd47gfqhdmlang0g3r6lx",
-        "run_time": "every 1 hour",
+        "address": "genesis1f85g9c9z92a0tlz3uec3l93yh6q40zsqel47kr",
+        "run_time": "21:30",
         "minimum_reward": 100000000000000000
       }
     },
@@ -25,6 +25,42 @@
       "address": "torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u",
       "restake": {
         "address": "tori1f85g9c9z92a0tlz3uec3l93yh6q40zsq9zkpfx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+       {
+      "name": "lambda",
+      "address": "lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp",
+      "restake": {
+        "address": "lamb1lvwkek88nw4uzlm5vzd47gfqhdmlang0dlkz67",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+     {
+      "name": "canto",
+      "address": "cantovaloper13n6p2v6uzva8hqu7srsd6wxnpcjzrxcx3t4jqy",
+      "restake": {
+        "address": "canto1lvwkek88nw4uzlm5vzd47gfqhdmlang0ywku0m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1drnsf7zuqy4vxghwf5pcv48ch89zpcf0jg09ej",
+      "restake": {
+        "address": "stride1f85g9c9z92a0tlz3uec3l93yh6q40zsqyap5x6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1ergkl6u2578lhcvdksnygj8uazkgc82k40ww28",
+      "restake": {
+        "address": "persistence1f85g9c9z92a0tlz3uec3l93yh6q40zsqf68muj",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

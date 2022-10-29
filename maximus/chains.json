@@ -3,12 +3,12 @@
   "name": "Maximus",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1yuesquc0m29n3z50ny239gd5gwa0qt6w4zhwy0",
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1yuesquc0m29n3z50ny239gd5gwa0qt6wvksney",
       "restake": {
-        "address": "cerberus1w447dc34hcyvr96gpujj9w8sr9rzydmsy37dy0",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000
+        "address": "chihuahua1w447dc34hcyvr96gpujj9w8sr9rzydmsmrn2sx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     }
   ]

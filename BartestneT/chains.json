@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BartestneT",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper147svk58r7xy774cdknkzj3qyn7tm9v9jj0xwag",
+      "restake": {
+        "address": "umee1kwkgchce603pecu2c6k5xv9wn6e7zun8utthnq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1ny0dzf3wkutdfgxkk6us0xwal7gpuj4hnecw23",
+      "restake": {
+        "address": "evmos1fxpnjr2aes2tzrus6lvda25unjgclhf2q65kv5",
+        "run_time": "17:00",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1xuz5zfy00unhhtes4tw6c9d3ujf52r9amuu22f",
+      "restake": {
+        "address": "persistence1kwkgchce603pecu2c6k5xv9wn6e7zun8q3smek",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -65,6 +65,15 @@
         "minimum_reward": 100000
       }
     },
+       {
+      "name": "lambda",
+      "address": "lambvaloper14q2r3emyaf6pagfk0shc632swqxqp3ahxewyth",
+      "restake": {
+        "address": "lamb1tycj5llp8gjw00zxgf2wqt682ukx36q6z2umql",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
      {
       "name": "canto",
       "address": "cantovaloper1srknurs500rkl54379avdjx7j5p3kkkj6p9t55",

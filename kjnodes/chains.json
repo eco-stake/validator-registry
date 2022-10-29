@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "kjnodes",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1ku5sm2twlsywdrp4wz3kfwgyrtqtp0lpr3nvk8",
+      "restake": {
+        "address": "agoric1murx57yjv5r5gvspcxxd8d3w0mmy52xt9f38cf",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1nw3uavthnjwsgrrjzav2wdg9m0pw7k4fc7hvlz",
+      "restake": {
+        "address": "gravity1murx57yjv5r5gvspcxxd8d3w0mmy52xtnypqdh",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1tnuqj73jfn3724lqz34c27tuv80nv336sadqym",
+      "restake": {
+        "address": "kujira1murx57yjv5r5gvspcxxd8d3w0mmy52xtxu3q94",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1j8gkhtllnp252l6g6zwzea30e7pvzqttr9768n",
+      "restake": {
+        "address": "stride1murx57yjv5r5gvspcxxd8d3w0mmy52xt5lnyun",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper184ln03hkpt75uhrrr26f66kvcqvf4yn4nc2xjm",
+      "restake": {
+        "address": "tori1murx57yjv5r5gvspcxxd8d3w0mmy52xt4qy3n0",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1vndzy8y55ylgpmmsc34uy8rm6kqlml6ffs9lrv",
+      "restake": {
+        "address": "rebus1murx57yjv5r5gvspcxxd8d3w0mmy52xtx7sduf",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1tr3wm3mdkz0tda6t7vavqnn7fe2g4un0f67xmt",
+      "restake": {
+        "address": "jkl1murx57yjv5r5gvspcxxd8d3w0mmy52xtw2af3q",
+        "run_time": ["08:00", "20:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
