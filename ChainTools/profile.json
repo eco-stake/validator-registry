@@ -3,6 +3,9 @@
   "name": "ChainTools",
   "identity": "1857FF1BC2EA6A69",
   "website": "https://chaintools.tech",
+  "description": {
+    "overview": "STAKE | LEARN | EARN | Delegate to our validators and dive into blockchain technology with us.",
+  },  
   "contacts": {
     "telephone": "",
     "email": "contact@chaintools.tech",
