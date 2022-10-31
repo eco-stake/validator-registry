@@ -19,6 +19,15 @@
         "run_time": "15:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper19dgvl5c37cznxu86pwgq0z6m0tg8f9fykqg3wy",
+      "restake": {
+        "address": "pb1zj8q3x2sk9jsjav3q2m3zt79acz5e2cqvxk7h6",
+        "run_time": "15:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
