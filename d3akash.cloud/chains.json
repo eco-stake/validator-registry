@@ -8,7 +8,7 @@
       "restake": {
         "address": "decentr1gvu0xvz0vut3xq07m87np9kns5y2pw5fv6nnz9",
         "run_time": "15:00",
-        "minimum_reward": 100000
+        "minimum_reward": 2000000
       }
     }
   ]
