@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Goooodnes",
+  "chains": [
+    {
+      "name": "stride",
+      "address": "stridevaloper1ysrsjfrul6xa66uqzq6j27z9vmaxwjy5vx5y87",
+      "restake": {
+        "address": "stride1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3ujzgyy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1q8cyxjn85qj8xd6qvkkt48wmw4dmqzzhazvfpn",
+      "restake": {
+        "address": "cerberus1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3r7za9r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
