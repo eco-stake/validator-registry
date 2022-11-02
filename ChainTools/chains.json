@@ -21,6 +21,24 @@
       }
     },
     {
+      "name": "comdex",
+      "address": "comdex1tj0t93t6xjwe5dqptr62ej4pqvy2es0rj329xy",
+      "restake": {
+        "address": "comdexvaloper1z6a9p43svtkzf5efmy78tae7qqz8p8cctyj6yg",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1l634uf3kmyrtg6pl2dpfar9fdkjgtcmqjscd86",
+      "restake": {
+        "address": "cosmos1tj0t93t6xjwe5dqptr62ej4pqvy2es0r47g8ln",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper17za3hgg6ckjgk0ehcdpd5en4hs58ujlvpknn8z",
       "restake": {
@@ -48,6 +66,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper10666nk6c845g295h9y77eprzpepdv82gnrrs4c",
+      "restake": {
+        "address": "evmos1spv5z9f2fyfmdhseeduzcj7u0c0l44g0astv7l",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "fetchhub",
       "address": "fetchvaloper1fkanx93krvlm77eyhyvgqvc3jcvj6sfqu7rwtz",
       "restake": {
@@ -61,6 +88,15 @@
       "address": "firmavaloper125ae5hywcv8t63jmyvcqem2kpwjuknpdfeuep0",
       "restake": {
         "address": "firma1tw2l7pfhs9z262jv6dr6xqj6r2s383rvs5nkkv",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9",
+      "restake": {
+        "address": "juno1tj0t93t6xjwe5dqptr62ej4pqvy2es0rrvtuc0",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
@@ -91,7 +127,16 @@
         "run_time": "23:00",
         "minimum_reward": 100000
       }
-    },    
+    }, 
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1rgt2ejrjzyaw36h6f5jdzdkrt422kf2n3g0daw",
+      "restake": {
+        "address": "kujira1tj0t93t6xjwe5dqptr62ej4pqvy2es0ryk2lje",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },     
     {
       "name": "lumnetwork",
       "address": "lumvaloper1fc5lagv8zpraza7jhtvpn7uk0d2lzgm83ntqfu",
