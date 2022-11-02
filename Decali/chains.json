@@ -1,0 +1,23 @@
+{
+  "name": "decentr",
+  "address": "decentrvaloper1th4h3j6fu9kffyhqly52uy0ku9c5f0shmskp68",
+  "restake": {
+    "address": "decentr1edq7tuggx7ex6t5vuf5ltltenmtg4r29g8r7x3",
+    "run_time": [
+      "21:00"
+    ],
+    "minimum_reward": 2000000
+  }
+},
+
+{
+  "name": "fetch",
+  "address": "fetchvaloper157vs5a5tqt2kkkht95azwg9pa77z8hwkjatj42",
+  "restake": {
+    "address": "fetch1edq7tuggx7ex6t5vuf5ltltenmtg4r29s5vw9w",
+    "run_time": [
+      "21:00"
+    ],
+    "minimum_reward": 2000000
+  }
+}
