@@ -19,6 +19,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1zy6tu902nj7y0y23zm7z2dswqedpxz3ysz9pyh",
+      "restake": {
+        "address": "canto172uw3ksvf2jmcj4tqf49qf60g6p8lj0d4ly7aj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1k3q2gmu7d85ca5amydm9p82l7nd2e58guz2psj",
+      "restake": {
+        "address": "darc1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3qck9al",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ftmqcym4qk3wx0dtvzccyjxhphmyjqc3hwvlg9",
+      "restake": {
+        "address": "sif1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd36ydzlr",
+        "run_time": "",
+        "minimum_reward": 100000
+      }
     }
-  ]
+     ]
 }
