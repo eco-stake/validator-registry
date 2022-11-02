@@ -8,18 +8,7 @@
       "restake": {
         "address": "decentr1709spkwudstcnlpvt6cpwhh6lylxxylym9h60j",
         "run_time": [
-          "every 1 hour"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "lumenx",
-      "address": "lumenvaloper12z56ln2vxwhr7r3vra3pfp8r9fk88kfpd3ttpf",
-      "restake": {
-        "address": "lumen1709spkwudstcnlpvt6cpwhh6lylxxyly97499e",
-        "run_time": [
-          "every 1 hour"
+          "every 12 hour"
         ],
         "minimum_reward": 1000000
       }
