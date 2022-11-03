@@ -46,6 +46,24 @@
         "run_time": "",
         "minimum_reward": 100000
       }
-    }
-     ]
+    },
+     {
+      "name": "lambda",
+      "address": "lambvaloper1dp5lueefnff5h29g2pf50nnqknfyjt7358629d",
+      "restake": {
+        "address": "lamb172uw3ksvf2jmcj4tqf49qf60g6p8lj0duwyqgh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+     },
+     {
+      "name": "kichain",
+      "address": "kivaloper18zercj9rntvswhga3v69qh2yrsz75uh08wlg8w",
+      "restake": {
+        "address": "ki1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3w5nm5u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+     }
+   ]
 }
