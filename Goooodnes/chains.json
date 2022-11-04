@@ -46,6 +46,69 @@
         "run_time": "",
         "minimum_reward": 100000
       }
+    },
+     {
+      "name": "lambda",
+      "address": "lambvaloper1dp5lueefnff5h29g2pf50nnqknfyjt7358629d",
+      "restake": {
+        "address": "lamb172uw3ksvf2jmcj4tqf49qf60g6p8lj0duwyqgh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+     },
+     {
+      "name": "kichain",
+      "address": "kivaloper18zercj9rntvswhga3v69qh2yrsz75uh08wlg8w",
+      "restake": {
+        "address": "ki1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3w5nm5u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+     },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper15csvxgsnyv5yzsc4wn52qsjgvwkmxp9gag02ej",
+      "restake": {
+        "address": "decentr1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd35hyq3q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1zsxdmajpd8tq8mxj47ar5gevrnhy58rs7wpz3k",
+      "restake": {
+        "address": "rizon1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3uy79us",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+       {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1cpgvzgpyypumktfnald5hqwzurjv0rkk04m0q0",
+      "restake": {
+        "address": "gravity1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3mfsv4q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+       },
+     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper12e4cnesrnvjaadcp4r5pylw4ylkwum2c94sjey",
+      "restake": {
+        "address": "omniflix1kxj5mrj3r9a9u6c7wc6n0k8wjmtlgkd3z8nd8k",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+     },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper12tn8zue87c2y7v6wg8r4qrk3t89wxhpaay9u9u",
+      "restake": {
+        "address": "rebus172uw3ksvf2jmcj4tqf49qf60g6p8lj0dkrxmav",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
     }
-     ]
+   ]
 }
