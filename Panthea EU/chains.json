@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "lumnetwork",
+      "address": "lumvaloper1zjaa4qvqz3cwwhnvnfwk3w5ahvvsnngsdu6zuk",
+      "restake": {
+        "address": "lum1yqqsskp60ru889m2ac9rtdays6pt9xfyqjhf8d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper1k4dsje06s8dyf3k80g7x695l7wdj0z52q5l2hu",
       "restake": {
