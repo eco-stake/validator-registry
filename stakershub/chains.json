@@ -12,7 +12,7 @@
         ],
         "minimum_reward": 1000000
       }
-    }
+    },
     {
       "name": "echelon",
       "address": "echelonvaloper1lxnxwj8t52e78ws3lrp0ugyt4kuljadyek7zq7",
@@ -23,7 +23,7 @@
         ],
         "minimum_reward": 20000000
       }
-    }
+    },
     {
       "name": "jackal",
       "address": "jklvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqgv02cvl",
@@ -34,7 +34,7 @@
         ],
         "minimum_reward": 1000000
       }
-    }
+    },
     {
       "name": "lumenx",
       "address": "lumenvaloper1f4kmcewkr5jatxu7gm2em6hqst2ujg8ef9pmlk",
@@ -45,7 +45,7 @@
         ],
         "minimum_reward": 100000000
       }
-    }
+    },
     {
       "name": "sentinel",
       "address": "sentvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqgyud5xl",
