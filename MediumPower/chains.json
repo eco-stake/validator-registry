@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "MediumPower",
+  "name": "Medium Power",
   "chains": [
 	{
       "name": "meme",
