@@ -1,10 +1,4 @@
 {
-  "$schema": "../profile.schema.json",
-  "name": "Sr20de",
-  "identity": "42CEDE6C4852EE59"
-}
-
-{
   "$schema": "../chains.schema.json",
   "name": "Sr20de",
   "chains": [
