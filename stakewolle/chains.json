@@ -17,7 +17,7 @@
       "restake": {
         "address": "axelar1m7xlymnpxl2d4llu67v08e8xs67dj2fzrm9raa",
         "run_time": "every 12 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "somm1m7xlymnpxl2d4llu67v08e8xs67dj2fztfu88k",
         "run_time": "every 12 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
