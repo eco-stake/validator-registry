@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "1% MAX fee & 100% UPTIME",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1pu8lpz64erz47eemtkhq9wzwu9st9ehywnlw4q",
+      "restake": {
+        "address": "terra1cq8x4nw5q2qlvf7vplc678lnstluk3e0s0kkjh",
+        "run_time": "18:00",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}
