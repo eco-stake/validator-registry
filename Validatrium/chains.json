@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "umee",
+      "address": "umee1u42wxen67wqcqad3fwlnvf77fagedu4k9xxvp4",
+      "restake": {
+        "address": "umee1ludqm40uum3nurl80lqy9fc7dwdccj46fjqdjq",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "agoric",
       "address": "agoricvaloper1nqy7pllmkelu0x9zymr2jewrdadw4mag75cgyt",
       "restake": {
