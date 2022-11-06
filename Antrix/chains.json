@@ -7,7 +7,7 @@
       "restake": {
         "address": "fetch1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sfa0lup",
         "run_time": "every 12 hours",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
   ]
