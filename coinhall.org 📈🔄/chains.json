@@ -27,6 +27,15 @@
         "run_time": "02:15",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1xnrth5rku3z3msm9prxe3l0p2yec3d9mzxz9ka",
+      "restake": {
+        "address": "cosmos1mqdaym2dhn74tpn02y6uaw60dp0svu9jfuz0me",
+        "run_time": "02:45",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
