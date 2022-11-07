@@ -152,7 +152,7 @@
       "restake": {
         "address": "evmos175l97fdm2a6x5xp82psec52elzu8nsl7dmc7an",
         "run_time": "19:00",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -161,7 +161,7 @@
       "restake": {
         "address": "fetch1mjq48r6435aewerpruwc8up3tz3rzan2lyhnrz",
         "run_time": "19:00",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -202,11 +202,11 @@
     },
     {
       "name": "injective",
-      "address": "injvaloper1ackww60mtpc24d3wccxz90wyx5gxq0ggwtnw6c",
+      "address": "injvaloper1r3lgsyq49zvl36cnevjx3q6u2ep897rws9hauk",
       "restake": {
         "address": "inj1mjq48r6435aewerpruwc8up3tz3rzan2xsfnnd",
         "run_time": "19:00",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
