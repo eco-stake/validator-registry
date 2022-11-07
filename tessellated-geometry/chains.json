@@ -55,6 +55,15 @@
 				"run_time": "9:00",
 				"minimum_reward": 10000000
 			}
+		},
+		{
+			"name": "juno",
+			"address": "junovaloper12udz3pg72mr3yupsguf29nj3gfqlluwq04rg0k",
+			"restake": {
+				"address": "juno1jw7a28g98q3e7ul9f78cuzxnaw67dax8s0g3fd",
+				"run_time": "9:00",
+				"minimum_reward": 10000000
+			}
 		}
 	]
 }
