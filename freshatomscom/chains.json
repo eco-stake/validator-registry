@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Fresh*Staking",
+  "name": "FreshSTAKING",
   "chains": [
     {
       "name": "cosmoshub",
