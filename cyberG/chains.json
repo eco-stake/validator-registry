@@ -12,17 +12,6 @@
       ],
       "minimum_reward": 100000
     }
-  },
-  {
-    "name": "rebus",
-    "address": "",
-    "restake": {
-      "address": "rebus1jdzr4ql0kmxpljwamfqxnxhyn42tdvcl8an7az",
-      "run_time": [
-        "19:00"
-      ],
-      "minimum_reward": 1000000000000000
-    }
   }
-    ]
+  ]
 }
