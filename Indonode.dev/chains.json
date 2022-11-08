@@ -1,3 +1,4 @@
+{
 "$schema": "../chains.schema.json",
   "name": "Indonode.dev",
   "chains": [
