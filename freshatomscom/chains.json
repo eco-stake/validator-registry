@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgjssamkz",
-      "restake": {
-        "address": "bcna14gra89zm8753pfuhvujjulmtkf2qq70fr5xe4x",
-        "run_time": "17:28",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "akash",
       "address": "akashvaloper1vksj7nqkd89uvc4kh8f5mh4f3235megmu583u9",
       "restake": {
