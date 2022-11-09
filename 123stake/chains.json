@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "123stake stake.tori h0/vandals wholetrain grafitti NFTs",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1zpxawv3g5nmeraxge988v5kksujpgm6qu6tdqf",
+      "restake": {
+        "address": "tori1zpxawv3g5nmeraxge988v5kksujpgm6qeggjjy",
+        "run_time": "every 1 hour",        
+        "minimum_reward": 1000
+      }
+    }
+   ]
+}
