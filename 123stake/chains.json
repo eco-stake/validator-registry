@@ -10,6 +10,15 @@
         "run_time": "every 1 hour",        
         "minimum_reward": 10000
       }
+    },
+       {
+      "name": "meme",
+      "address": "memevaloper1wx2z70zsheh9qsfcrm3ypupwets38a33ed8my4",
+      "restake": {
+        "address": "meme1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjzf7ent",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
     }
    ]
 }
