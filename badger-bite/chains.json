@@ -66,6 +66,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper18qtxhdm3s5rxeau2ddwact6wczv984zs43t635",
+      "restake": {
+        "address": "jkl1m8d834ykcy3dgrdve4xhxky3u3c2tl9dtxahuc",
+        "run_time": "Every hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "odin",
       "address": "odinvaloper10u2g5yhvtm0d76f860kggp6lakge4q8hj59tn5",
       "restake": {
