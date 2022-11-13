@@ -3,11 +3,32 @@
   "name": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀",
   "chains": [
     {
+      "name": "jackal",
+      "address": "jklvaloper1ejrn54x9wpxarmp7ux2a7mtgt4f8vp5xum9q4p",
+      "restake": {
+        "address": "jkl1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyukmjnf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper198vmw08avzey37qnndknq5j4mmw6u2xj4uxecq",
+      "restake": {
+        "address": "meme1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uymhr5du",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy",
       "restake": {
         "address": "tori1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uy8uz23x",
-        "run_time": "every 1 hour",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
         "minimum_reward": 100000
       }
     }
