@@ -1,16 +1,14 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Parceros",
+  "name": "NacionCrypto - Parceros",
   "chains": [
     {
-      "name": "junotestnet",
-      "address": "junovaloper1c2ukpzz5qj2nkx30dq4zqy60qct9exq3yc50rk",
+      "name": "juno",
+      "address": "junovaloper1uwm8vhauj6wfj8ydlty3nr6ffeu9lg6j3ma59s",
       "restake": {
-        "address": "juno1yg8k3schjyhsmkvx5ujct7fcueakskalxj9jph",
-        "run_time": [
-          "09:00"
-        ],
-        "minimum_reward": 10000
+        "address": "juno1vmhzkmgzxrlq24099jhh6q9upzcge5ynevw8rg",
+        "run_time": ["23:00"],
+        "minimum_reward": 100000
       }
     }
   ]
