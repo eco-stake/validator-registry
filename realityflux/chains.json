@@ -3,20 +3,20 @@
   "name": "Reality Flux",
   "chains": [
     {
-      "name": "evmos",
-      "address": "evmosvaloper1n4zajqylnmk7kmnymq4ceynzlkq68j9l6qrxmg",
-      "restake": {
-        "address": "evmos152r7uy6scz9kpfxcjuy3frg4vhqeawfnlqtzhr",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "terra2",
       "address": "terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le",
       "restake": {
         "address": "terra128drzzk72xh03arugrt506jxvmj6uymp7yj0wf",
         "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+     "name":"stargaze",
+      "address":"starsvaloper1vpw942ek3ad8edrfyhyye6vd3zrwy88z3pwnuj",
+      "restake":{
+        "address":"stars1g48tslcw52hr0ljfp7p3ttlfm8hp7t4xv22nsf",
+        "run_time":"every 12 hours",
         "minimum_reward": 100000
       }
     }
