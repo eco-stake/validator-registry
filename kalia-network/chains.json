@@ -3,10 +3,28 @@
   "name": "Kalia Network",
   "chains": [    
     {
+      "name": "akash",
+      "address": "akashvaloper1skc28275u3dzwggtj8vmlqw3xpl86ry0r9tc5p",
+      "restake": {
+        "address": "akash1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsyljmvm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper1qz3zj0j3546xywfe8qwcve5flne9w98qaunhp3",
       "restake": {
         "address": "mantle1wv5zr0sfynf2d78c0u49h3kuqnhhqgcshqye2t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper12vm777ge3uqg7nhphxwmuu7n6f8a294q9p7w20",
+      "restake": {
+        "address": "bcna1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsn50aan",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -26,16 +44,7 @@
       "restake": {
         "address": "desmos1ypncrt0jczvmtxc4ew2f0pvz26kthk6x6dz698",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "echelon",
-      "address": "echelonvaloper1ms0kwjfhfztn74eg3qeazsnuj4r06gswjx8cvw",
-      "restake": {
-        "address": "echelon1w37sg25lvt47yflnm6m4eky6ggdqprm7wjr8u0",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -43,6 +52,33 @@
       "address": "evmosvaloper1492mycgzlzw2htuwqdny0r55s5t0zype4m9pzl",
       "restake": {
         "address": "evmos1w37sg25lvt47yflnm6m4eky6ggdqprm7edflg3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1mytrxvvmmv9f9j7y7zx75u6t7axqxqryryl5zv",
+      "restake": {
+        "address": "genesis1wv5zr0sfynf2d78c0u49h3kuqnhhqgcshdt235",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },    
+    {
+      "name": "idep",
+      "address": "idepvaloper1gstw2kr0wc2589552gr43eh4khdlx6cq5jh2nt",
+      "restake": {
+        "address": "idep1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsgyfgng",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "ixo",
+      "address": "ixovaloper1y7wlzm52y2nnt4404kaz403zcewgees506rdk6",
+      "restake": {
+        "address": "ixo1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsk3pw3j",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -57,13 +93,58 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1lwgy4hkuwwy7qem6c8m4z0t4dw4uv2pz2m5ljc",
+      "restake": {
+        "address": "pasg1wv5zr0sfynf2d78c0u49h3kuqnhhqgcs2uxxc7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1mk02k949qwns5gffuzh5y6fmvzj78ajsvu8sq9",
+      "restake": {
+        "address": "pb1ajtfdkt9lds4dw97qqmxkmcx4zp05zdgdq3aum",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1r5pu872mym6pd79lxm9wj7alm37glyzr3hsna3",
+      "restake": {
+        "address": "rebus1wv5zr0sfynf2d78c0u49h3kuqnhhqgcscwufph",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1qz3zj0j3546xywfe8qwcve5flne9w98qu90048",
       "restake": {
         "address": "stars1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsacgp7s",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 1000000
       }
-    }    
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper176zaj27r558ffaztsz76qxzcr6zar4tjhhf88r",
+      "restake": {
+        "address": "stride1wv5zr0sfynf2d78c0u49h3kuqnhhqgcs20lqpd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1shtyw4f5pdhvx7gsrsknwrryy9ulqvvyhmuncl",
+      "restake": {
+        "address": "tori1wv5zr0sfynf2d78c0u49h3kuqnhhqgcstsg4w3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
   ]
 }

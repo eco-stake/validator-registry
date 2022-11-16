@@ -1,0 +1,17 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Narwhalidator - 50% to kuji stakers",
+	"chains": [
+  {
+		"name": "stargaze",
+		"address": "starsvaloper17ggax30mkwwg74wsmw8h4966mdy7agwd84heqt",
+		"restake": {
+			"address": "stars1yrypz839yds0w7d7m8e7wljxr5yjnmqs25ryx8",
+			"run_time": [
+				"00:00",
+				"12:00"
+			],
+			"minimum_reward": 100000
+		}
+	}]
+}

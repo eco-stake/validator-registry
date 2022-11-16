@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Depomytymoped 🛵",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1qu6hwj678c5tm0j7q52rda8w8ftjes5ctmegy2",
+      "restake": {
+        "address": "bcna1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qewhxfn",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper15d7fknv6um58f6gdv5r0cjnzjnpvda4h7sakuf",
+      "restake": {
+        "address": "sif1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qxrg3w2",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

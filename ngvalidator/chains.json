@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ngvalidator",
+  "chains": [
+    {
+      "name": "panacea",
+      "address": "panaceavaloper16e4zkqtp7k5h43qrcxwk0spmamq3k286t4dz7t",
+      "restake": {
+        "address": "panacea17fr8akjvemq4kpmw2k0k9skr2ckgxyqh8hdzz6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

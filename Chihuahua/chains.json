@@ -21,19 +21,10 @@
       }
     },
     {
-      "name": "akash",
-      "address": "akashvaloper1340p98mw30khq58kk0tm04hjmsvf04nuryjv6d",
+      "name": "passage",
+      "address": "pasgvaloper1myyssc7g6hxsvq9qdtc25um8yacvx8e0v3cerg",
       "restake": {
-        "address": "akash12q48j5xah5x5fwv2vuvc52j3ryfdq0lxfc2zmc",
-        "run_time": "12:00",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "sentinel",
-      "address": "sentvaloper1df90uu7h29kek7wj6e2g8qqew0qwk7789lmrmv",
-      "restake": {
-        "address": "sent12q48j5xah5x5fwv2vuvc52j3ryfdq0lxlc3uxd",
+        "address": "pasg12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8m7l0a",
         "run_time": "12:00",
         "minimum_reward": 1000000
       }
@@ -43,6 +34,24 @@
       "address": "gravityvaloper12c4tffgzm859h0e06fz5s9mqksnpawaw5rj0c4",
       "restake": {
         "address": "gravity12q48j5xah5x5fwv2vuvc52j3ryfdq0lxqn4a82",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1zutsqx9779k6tascykf9t2xsdn6xs5ffpv06z9",
+      "restake": {
+        "address": "bcna12q48j5xah5x5fwv2vuvc52j3ryfdq0lx7nhy2s",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1z6rfp8wzsx87pwt3z73gf2a67d6tgmfrsgzeda",
+      "restake": {
+        "address": "chihuahua12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8k2trq",
         "run_time": "12:00",
         "minimum_reward": 10000
       }

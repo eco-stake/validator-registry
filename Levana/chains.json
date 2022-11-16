@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Levana 🐉 Powered by Cros Nest",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1r548wap0a96rfqj0s9lwcylnqe90v7wvgtqssf",
+      "restake": {
+        "address": "juno13ga56zp5dh5cq689np6p5pvmnrx6yhhplhhe0f",
+        "run_time": "20:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1k5mws9tqgflx6rvhq6x0tnsdw0ddfkptwf3ch9",
+      "restake": {
+        "address": "osmo13ga56zp5dh5cq689np6p5pvmnrx6yhhpp78j78",
+        "run_time": "20:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

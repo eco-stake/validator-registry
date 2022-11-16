@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "punq",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper16623pjezpuektz3q9s63fpnrn3hnh7087ennhe",
+      "restake": {
+        "address": "rebus1yfu8lpqy0e95yln2nwykznp9rcshqmvt4rfswn",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

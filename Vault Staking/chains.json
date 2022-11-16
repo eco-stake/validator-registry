@@ -7,7 +7,7 @@
       "address": "akashvaloper1a0wt033eds6lk4y0tucwju2x3weglxzg7vesku",
       "restake": {
         "address": "akash186y3rnx7vx2ura44ntayj9yqxdvwtya4g45uvy",
-        "run_time": "2x per day",
+        "run_time": ["08:00","20:00"],
         "minimum_reward": 1000000
       }
     },
@@ -16,7 +16,7 @@
       "address": "comdexvaloper1zy7uuu6cd5fde3uunlh5l40jjf24ypd6rnltv5",
       "restake": {
         "address": "comdex186y3rnx7vx2ura44ntayj9yqxdvwtya4zpmevf",
-        "run_time": "2x per day",
+        "run_time": ["08:00","20:00"],
         "minimum_reward": 1000000
       }
     },
@@ -25,8 +25,17 @@
       "address": "evmosvaloper1k5hcl0cjprzewwvzhz3um589kx8skzlrneuepu",
       "restake": {
         "address": "evmos1emzdjlfj55gezwr7cswr2e7ys7nqarclle3kpk",
-        "run_time": "1 hour",
-        "minimum_reward": 1000000
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 500000000000000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper14v0kl7aaylnz2wchm4mlfnyk6xdvcatgcn4f2x",
+      "restake": {
+        "address": "inj1u304hn6t8kmmcfy485mwff2qctwztsfvvuce2y",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -34,7 +43,7 @@
       "address": "gravityvaloper1c29qvkt7jkvsjj9h3fl9pgs8vqe3khgqluadfs",
       "restake": {
         "address": "gravity186y3rnx7vx2ura44ntayj9yqxdvwtya4p7trsk",
-        "run_time": "2x per day",
+        "run_time": ["08:00","20:00"],
         "minimum_reward": 5000000
       }
     },
@@ -43,7 +52,7 @@
       "address": "persistencevaloper1w0vwc82emz0ufyuvmvwps8s0lcyxl39nsct0w0",
       "restake": {
         "address": "persistence1d0rkf3a4h6c7qet9dm5d6jec2ztzvptumcs7n7",
-        "run_time": "2x per day",
+        "run_time": ["08:00","20:00"],
         "minimum_reward": 1000000
       }
     },
@@ -51,9 +60,9 @@
       "name": "sifchain",
       "address": "sifvaloper19p3ghh2epn7gsqkz4vl7hf7m3klearnef4ng7w",
       "restake": {
-        "address": "gravity1uffx94hdrq8uzgec6kd0lrd2wu2axruzrc4rdk",
-        "run_time": "2x per day",
-        "minimum_reward": 10000000
+        "address": "sif186y3rnx7vx2ura44ntayj9yqxdvwtya4qnkd64",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 100000000000000000000
       }
     }
   ]

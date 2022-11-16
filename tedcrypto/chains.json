@@ -37,6 +37,42 @@
         "run_time": ["08:00", "20:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1n7n0rgm37yp8rflxyhw2u75eh6j6tqnp72w5zq",
+      "restake": {
+        "address": "chihuahua1jsmtq9z9qpeda0pyff9w8u66mkxrtzseu444d8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper19twsea48jjup6qrfv55v0fr8hzt7zy4rul5mpg",
+      "restake": {
+        "address": "stride1jsmtq9z9qpeda0pyff9w8u66mkxrtzseutc8cf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1pnh324ugq34ntvdp7fn83vy3gzs2j20mwla43z",
+      "restake": {
+        "address": "rebus1jsmtq9z9qpeda0pyff9w8u66mkxrtzsew2mwcn",
+        "run_time": "every 3 hour",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1drgucz0twd0thvdkdd9gm9wf7rtarayq6ygarc",
+      "restake": {
+        "address": "tori1jsmtq9z9qpeda0pyff9w8u66mkxrtzsea50jh4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

@@ -54,7 +54,7 @@
       "restake": {
         "address": "genesis1fmrkm9sv664jteazv04372wh4dx3qqurlm8gur",
         "run_time": "every 1 hour",
-        "minimum_reward": 41000000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -62,6 +62,15 @@
       "address": "darcvaloper1g49f6kg70cv4z8whzc2exslv9xgcxxgnl9xhhe",
       "restake": {
         "address": "darc1fmrkm9sv664jteazv04372wh4dx3qqur7n804p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1vqry05pl7ezfujtx52qjnsljc6sxx38030hpa4",
+      "restake": {
+        "address": "axelar1fmrkm9sv664jteazv04372wh4dx3qqur9u9knh",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }

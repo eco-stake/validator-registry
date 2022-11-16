@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "🪨 SolidResults | J.A.R.V.I.S.",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper1fmkhp0pwknf3x8jsd4ua5pjwycjjfnzsx9qcn2",
+            "restake": {
+                "address": "echelon1l4scc4l5dx4xw7f9uxnspa77dfcgfm7pjx3e8c",
+                "run_time": "every 1 hour",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

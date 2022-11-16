@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TheCrazyStaker",
+  "chains": [
+        {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1mxvuwynzsqme3sug52hl6m0l288pk7f6xeaks0",
+      "restake": {
+        "address": "chihuahua1es8477g2krc8v7pe67xjwesjxk3vxwh8zjd0e2",
+        "run_time": "23:00",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1sn99492w8cxu60dsv560rlrnfvwz45gdgj2fnu",
+      "restake": {
+        "address": "cerberus1es8477g2krc8v7pe67xjwesjxk3vxwh8aqqgdr",
+        "run_time": "23:19",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+"$schema": "../chains.schema.json",
+  "name": "Indonode.dev",
+  "chains": [
+    {
+      "name": "lambda",
+      "address": "lambvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmz0ekr84",
+      "restake": {
+        "address": "lamb1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzqp7nyp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000000000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Validatrium",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper125xazqstxpav7ekrt4w8km7ccdu8ytj45wstn3",
+      "restake": {
+        "address": "rebus1xv9vc84ze8y9pe9mmp65tlsr37qpse4dcwehlu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x",
+      "restake": {
+        "address": "bitsong1shheetj5xssp8pm5srfeaedd5ng5zm0kneavwd",
+        "run_time": "9:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1fn9ldnvd5mt2fcn5prq2lhvcga6tmtlhugv8x3",
+      "restake": {
+        "address": "evmos12rwdetssq6l6y8ycd4py7fdwfemmck8wfpwch9",
+        "run_time": "21:00",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1u42wxen67wqcqad3fwlnvf77fagedu4k9zprsl",
+      "restake": {
+        "address": "umee1ludqm40uum3nurl80lqy9fc7dwdccj46fjqdjq",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1nqy7pllmkelu0x9zymr2jewrdadw4mag75cgyt",
+      "restake": {
+        "address": "agoric1ludqm40uum3nurl80lqy9fc7dwdccj46feldxy",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
