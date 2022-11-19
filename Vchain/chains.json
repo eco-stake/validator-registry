@@ -3,7 +3,7 @@
   "name": "Vchain",
   "chains": [
     {
-      "name": "Sifchain",
+      "name": "sifchain",
       "address": "sifvaloper1xvev3zrd4fg734vkwzg6c50zn6lrwhjcwruhtz",
       "restake": {
         "address": "sif17lrye3cdu498zgzynrm7n9580xdyghmu62en5w",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "name": "darchub",
+      "name": "konstellation",
       "address": "darcvaloper1r7vmspfzspr3rqe8q69c0upw8w9f5rpma489ds",
       "restake": {
         "address": "darc17lrye3cdu498zgzynrm7n9580xdyghmuqkz5kj",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "name": "Oraichain",
+      "name": "oraichain",
       "address": "oraivaloper1ltr3sx9vm9hq4ueajvs7ng24gw3k8t9tn5lh6s",
       "restake": {
         "address": "orai17lrye3cdu498zgzynrm7n9580xdyghmuvyqx6k",
