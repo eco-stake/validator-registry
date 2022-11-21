@@ -52,6 +52,16 @@
         "run_time": "22:30",
         "minimum_reward": 10000
       }
+	    },
+		
+		 {
+      "name": "chain4energy",
+      "address": "c4evaloper18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnuncplj",
+      "restake": {
+        "address": "c4e18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnvj9t79",
+        "run_time": "22:30",
+        "minimum_reward": 10000
+      }
 	    }
 	]
 }
