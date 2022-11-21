@@ -1,0 +1,15 @@
+{
+    "$schema":"../chains.schema.json",
+    "name":"5.0 Validator",
+    "chains":[
+       {
+          "name":"akash",
+          "address":"akashvaloper1j9pajxv4x5ye7wvdcj57g6mvtnsmk9ztgz0htr",
+          "restake":{
+             "address":"akash1yjsme9964m977clg2nlltvn6yc7c7vdmr7ll2n",
+             "run_time":"19:00",
+             "minimum_reward":100000
+          }
+       } 
+    ]
+ }
