@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BAT",
+  "chains": [
+{
+      "name": "rizon",
+      "address": "rizonvaloper17qltem80lz3gef4a5xgnr9k2kzg8u56a4ckpc4",
+      "restake": {
+        "address": "rizon1z68r084r7u78avhm96n2nzfv25hl3gsszqras2",
+        "run_time": "15:00",
+        "minimum_reward": 100000
+                 }
+ }
+    ]
+    }
