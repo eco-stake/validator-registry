@@ -46,7 +46,15 @@
         "run_time": ["15:00"],
         "minimum_reward": 1000000
       }
-    }
-    
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
+      "restake": {
+        "address": "lum1z3nltm2wmj2jtldkv8k2pqenaz3hqgmr7wfnxz",
+        "run_time": ["15:00"],
+        "minimum_reward": 1000000
+      }
+    } 
   ]
 }
