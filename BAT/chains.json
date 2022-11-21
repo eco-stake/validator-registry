@@ -1,4 +1,8 @@
 {
+  "$schema": "../chains.schema.json",
+  "name": "ECO Stake 🌱",
+  "chains": [
+{
       "name": "rizon",
       "address": "rizonvaloper17qltem80lz3gef4a5xgnr9k2kzg8u56a4ckpc4",
       "restake": {
@@ -6,4 +10,6 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
                  }
- }
+ },
+    ...
+}
