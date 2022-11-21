@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "ECO Stake 🌱",
+  "name": "BAT",
   "chains": [
 {
       "name": "rizon",
