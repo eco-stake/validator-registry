@@ -3,6 +3,15 @@
   "name": " AutoStake 🛡️ Slash Protected",
   "chains": [
     {
+      "name": "acrechain",
+      "address": "acrevaloper1ws43egqv720nglj53ks2qqv3z6lzrz3avs5jgw",
+      "restake": {
+        "address": "xyxyxyxyxy",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "agoric",
       "address": "agoricvaloper1df98lt4ph685ujr69jy5w8xvrtszad7te7pna9",
       "restake": {
@@ -12,19 +21,28 @@
       }
     },
     {
-      "name": "bandchain",
-      "address": "bandvaloper1xs2penspev206jj0egh5qu7qmr6mjzfgj299xl",
+      "name": "akash",
+      "address": "akashvaloper1strxz39h5fapp7zvn5mvf8xm0ea9aajqjstv6g",
       "restake": {
-        "address": "band194ytn50yhh67rdha8akhs7c6zulnz4n2scfp5t",
+        "address": "akash194ytn50yhh67rdha8akhs7c6zulnz4n2yvyy4e",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
     },
     {
-      "name": "akash",
-      "address": "akashvaloper1strxz39h5fapp7zvn5mvf8xm0ea9aajqjstv6g",
+      "name": "axelar",
+      "address": "axelarvaloper1kafxdlrq8svz68j2tn8qtqk74j4yhylyf364pt",
       "restake": {
-        "address": "akash194ytn50yhh67rdha8akhs7c6zulnz4n2yvyy4e",
+        "address": "axelar194ytn50yhh67rdha8akhs7c6zulnz4n2delt8z",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1xs2penspev206jj0egh5qu7qmr6mjzfgj299xl",
+      "restake": {
+        "address": "band194ytn50yhh67rdha8akhs7c6zulnz4n2scfp5t",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
