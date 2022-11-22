@@ -136,7 +136,16 @@
         "run_time": "23:00",
         "minimum_reward": 100000
       }
-    },     
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper108stvsjy43epm4nnrtasr0p90lkr3kq4xxjjn3",
+      "restake": {
+        "address": "lamb1spv5z9f2fyfmdhseeduzcj7u0c0l44g0ykmv96",
+        "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },      
     {
       "name": "lumnetwork",
       "address": "lumvaloper1fc5lagv8zpraza7jhtvpn7uk0d2lzgm83ntqfu",
@@ -201,12 +210,12 @@
       }
     },
     {
-      "name": "teritori",
-      "address": "torivaloper13w8s0zztve46jussm5pd97txjcwepzqpwhg3u6",
+      "name": "unification",
+      "address": "undvaloper15e2jq7q6chpfqud3lclml58hu0dmd7qa06ezmk",
       "restake": {
-        "address": "tori1tj0t93t6xjwe5dqptr62ej4pqvy2es0rh2lwyr",
+        "address": "und18ckd3rkwu3qc4msst3s0euyslq470r2yla25vm",
         "run_time": "21:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000000
       }
     }
   ]

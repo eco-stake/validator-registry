@@ -37,6 +37,24 @@
         "run_time": ["15:00"],
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1tvn94qr7jktmv79hc7mjplwwfxc2hpg00vjs00",
+      "restake": {
+        "address": "lamb1x8zysrq0jw6vq87h207ecv2m3yguv9rfj7wxzd",
+        "run_time": ["15:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
+      "restake": {
+        "address": "lum1z3nltm2wmj2jtldkv8k2pqenaz3hqgmr7wfnxz",
+        "run_time": ["15:00"],
+        "minimum_reward": 1000000
+      }
+    } 
   ]
 }
