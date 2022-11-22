@@ -1,15 +1,24 @@
 {
   "$schema": "../chains.schema.json",
   "name": "BAT",
-  "chains": [
-{
+  "chains":[
+    {
       "name": "rizon",
       "address": "rizonvaloper17qltem80lz3gef4a5xgnr9k2kzg8u56a4ckpc4",
       "restake": {
         "address": "rizon1z68r084r7u78avhm96n2nzfv25hl3gsszqras2",
         "run_time": "15:00",
         "minimum_reward": 100000
-                 }
- }
-    ]
-    }
+      }
+    },
+    {
+         "name":"rebus",
+         "address":"rebusvaloper10d6c9x8fsh9p82gt7ftnl5q8avaxgvhtswpyur",
+         "restake":{
+            "address":"rebus1xmdlp4dhv2m2ly0zycfwk0s3sq7mxc8v0rhsfg",
+            "run_time":"15:00",
+            "minimum_reward":100000
+         }
+     }
+           ]
+}
