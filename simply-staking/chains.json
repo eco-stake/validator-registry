@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "crescent",
+      "address": "crevaloper10rdgqczxyp69x9llq62cc3xs4w8w0k7p42x9jq",
+      "restake": {
+        "address": "cre1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9mz4rrc",
+        "run_time": "20:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1zm3l7p8n5dxqeadsfxy3rd0j3c2knnx3chg77a",
       "restake": {
