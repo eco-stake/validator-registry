@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "𝗧𝗲𝗮𝘀𝗲𝗹",
+  "chains": [
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1teasel555mxrnn0ds6cwau6fe3qmclulmektj7",
+      "restake": {
+        "address": "fetch1teasel8rsqrghy5jghmty97wwac0qcrs7wn26u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

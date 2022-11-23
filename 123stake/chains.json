@@ -7,8 +7,8 @@
       "address": "torivaloper172t6myuydj4euw96pxtwftg6fnw4pfgf3mjyz4",
       "restake": {
         "address": "tori1uzcagr0ss5ryn7a7244gwxuy9ls0kvwj7zl803",
-        "run_time": "every 1 hour",        
-        "minimum_reward": 10000
+        "run_time": "every 3 minutes",        
+        "minimum_reward": 100000
       }
     },
        {
@@ -16,8 +16,26 @@
       "address": "memevaloper1wx2z70zsheh9qsfcrm3ypupwets38a33ed8my4",
       "restake": {
         "address": "meme1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjzf7ent",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "run_time": "every 3 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+               {
+      "name": "rebus",
+      "address": "rebusvaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
+      "restake": {
+        "address": "rebus1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+               {
+      "name": "juno",
+      "address": "junovaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
+      "restake": {
+        "address": "juno1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
       }
     },
            {
@@ -25,8 +43,17 @@
       "address": "chihuahuavaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
       "restake": {
         "address": "chihuahua1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+               {
+      "name": "lambda",
+      "address": "lambvaloper1ej7w5xdd8js5qerz5x4w93dvvhlgqhgws7stgk",
+      "restake": {
+        "address": "lamb1uzcagr0ss5ryn7a7244gwxuy9ls0kvwj83fq4v",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
       }
     },
                {
@@ -34,8 +61,8 @@
       "address": "cerberusvaloper1teryendjzhaxn520ng946d2yprnh5jed49mydt",
       "restake": {
         "address": "cerberus1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjq3g8p2",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "run_time": "every 3 minutes",
+        "minimum_reward": 1000000
       }
     }
    ]

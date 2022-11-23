@@ -10,6 +10,24 @@
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
+    },
+	{
+      "name": "osmosis",
+      "address": "osmovaloper1pz8wre7clpym5cz9ufpt6nvcayvspqqh7yw4y7",
+      "restake": {
+        "address": "osmo1sm90g8lvqu9z72pgw62t870uewu53fywqztzl0",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1tppl0m9tqpy04vdmhxk7gya90zfftj94vkyn2t",
+      "restake": {
+        "address": "panacea1qhm0dv7sdz7s7c6cwulurpgfs6d6gdapakx6wg",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+     }
     }
   ]
 }
