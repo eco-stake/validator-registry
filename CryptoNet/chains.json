@@ -51,10 +51,19 @@
       "name": "lumnetwork",
       "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
       "restake": {
-        "address": "lum1z3nltm2wmj2jtldkv8k2pqenaz3hqgmr7wfnxz",
+        "address": "lum1zz3wp5t24ej534nz5g7lxdazekx0aaek6y023g",
         "run_time": ["15:00"],
         "minimum_reward": 1000000
       }
-    } 
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1kr45e3449c6mvhpvmndt60m006dwgghz8lkjae",
+      "restake": {
+        "address": "darc1zz3wp5t24ej534nz5g7lxdazekx0aaeks0xjft",
+        "run_time": ["15:00"],
+        "minimum_reward": 1000000
+      }
+    }    
   ]
 }
