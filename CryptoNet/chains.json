@@ -64,6 +64,15 @@
         "run_time": ["03:00,15:00"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "unification",
+      "address": "undvaloper125p0g3p7ug45vspmkxp7juhz206su646k0uffg",
+      "restake": {
+        "address": "und1gfs0gzwqlhcgm4ygsqr56p8z9xw7eqdhsxjjvl",
+        "run_time": ["03:00,15:00"],
+        "minimum_reward": 1000000
+      }
     }    
   ]
 }
