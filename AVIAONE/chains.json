@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "High Stakes \uD83C\uDDE8\uD83C\uDDED",
+  "name": "AVIAONE 🟢",
   "chains": [
       {
       "name": "gravity-bridge",
