@@ -1,15 +1,17 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Beagle2",
+  "name": "Antorai",
   "chains": [
     {
-      "name": "point",
-      "address": "pointvalcons1zl4qfqwjkjh3s7gtk8zv4ssg3wg3ujceg4ckkh",
+      "name": "oraichain",
+      "address": "oraivaloper13ckyvg0ah9vuujtd49yner2ky92lej6nwjvrjv",
       "restake": {
-        "address": "point1n7dg44zdtsykzwnudnr8s7k5whvt0s3smgq6q4",
-        "run_time": "21:00",
+        "address": "orai17fvnkeaac7gv5k3hvjrn6cfwgj0p4m563ylhyp",
+        "run_time": [
+          "21:00"
+        ],
         "minimum_reward": 10
       }
-    }  
-  ]       
+    }
+    ]
 }
