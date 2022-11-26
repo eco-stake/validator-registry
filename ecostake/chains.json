@@ -81,18 +81,6 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper136avwnuvvy94dqmtnaue2nfvjes8xr37h9rzay",
-      "restake": {
-        "address": "dig1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczfzw03d",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "evmos",
       "address": "evmosvaloper1umk407eed7af6anvut6llg2zevnf0dn0feqqny",
       "restake": {
@@ -175,18 +163,6 @@
           "21:00"
         ],
         "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "sifchain",
-      "address": "sifvaloper19t5nk5ceq5ga75epwdqhnupwg0v9339p096ydz",
-      "restake": {
-        "address": "sif1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz5tgjua",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 100000000000000000
       }
     },
     {
