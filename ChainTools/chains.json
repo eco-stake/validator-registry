@@ -93,6 +93,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1e6cr9u82wyy0ed7hf0m3s64mc8lyydf6crrzkz",
+      "restake": {
+        "address": "jkl1tj0t93t6xjwe5dqptr62ej4pqvy2es0rvqxkxv",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9",
       "restake": {
@@ -137,15 +146,6 @@
         "minimum_reward": 100000
       }
     },
-    {
-      "name": "lambda",
-      "address": "lambvaloper108stvsjy43epm4nnrtasr0p90lkr3kq4xxjjn3",
-      "restake": {
-        "address": "lamb1spv5z9f2fyfmdhseeduzcj7u0c0l44g0ykmv96",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    },      
     {
       "name": "lumnetwork",
       "address": "lumvaloper1fc5lagv8zpraza7jhtvpn7uk0d2lzgm83ntqfu",
