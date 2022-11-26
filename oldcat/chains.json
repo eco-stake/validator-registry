@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "kava",
+      "address": "kavavaloper1nm9vrvg2q2sep0lg373r3nce0d5hsnz0yncqm5",
+      "restake": {
+        "address": "kava1lxz2fmreqs4r4qu4w4q6c29e7p5gnzs6r07am4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "crescent",
       "address": "crevaloper1djsyrsd0csgy2qz8a4xwxmy57xl06u0gn4r42f",
       "restake": {
@@ -45,6 +54,15 @@
         "address": "stride1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zzt7t6h",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ffxlxl9jqd43cwwtk5c3l5tux2y96k3qfrmryj",
+      "restake": {
+        "address": "rebus1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zs2az6d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {

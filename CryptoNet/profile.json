@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "CryptoNet",
+  "identity": "789E0A435C6E9C75",
+  "website": "https://cryptonet.pl",
+  "contacts": {
+    "telephone": "",
+    "email": "contact@cryptonet.pl",
+    "telegram": "CryptoNetD",
+    "twitter": "CryptonetD",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

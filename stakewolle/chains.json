@@ -3,6 +3,15 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+        "name": "assetmantle",
+        "address": "mantlevaloper1qpkax9dxey2ut8u39meq8ewjp6rfsm3hlsyceu",
+        "restake": {
+          "address": "mantle1m7xlymnpxl2d4llu67v08e8xs67dj2fze3gwfk",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+    },
+    {
         "name": "panacea",
         "address": "panaceavaloper1dw3ev60v44q68qrrsz8lmwrx68f70hyrr5w5l6",
         "restake": {
@@ -17,7 +26,7 @@
       "restake": {
         "address": "axelar1m7xlymnpxl2d4llu67v08e8xs67dj2fzrm9raa",
         "run_time": "every 12 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -26,7 +35,7 @@
       "restake": {
         "address": "somm1m7xlymnpxl2d4llu67v08e8xs67dj2fztfu88k",
         "run_time": "every 12 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {

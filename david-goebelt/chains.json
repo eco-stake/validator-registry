@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "David Goebelt",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1pe3cvzlx6yqrd666qngpmfsllhemk9yqyyn58m",
+      "restake": {
+        "address": "terra1p6swnd0nxmw5jtware73jj6sse8eqdxw432g23",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "teritori",
-      "address": "torivaloper1ay3vpfhmd8q8zcfmn6qqh9v5qj6ejqml955s5k",
-      "restake": {
-        "address": "tori1r64t7u292f5d0ck4pt6ate6880ufwffmdjgsfm",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "bitsong",
       "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
       "restake": {

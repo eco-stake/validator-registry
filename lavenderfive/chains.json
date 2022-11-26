@@ -104,7 +104,7 @@
           "12:00",
           "24:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -136,18 +136,6 @@
       "address": "evmosvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw63w87l",
       "restake": {
         "address": "evmos10edr8awd0pulykvqxlwnz9n72rtngwjdzvjtq0",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "echelon",
-      "address": "echelonvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgwnwhvxv",
-      "restake": {
-        "address": "echelon10edr8awd0pulykvqxlwnz9n72rtngwjd4ncn53",
         "run_time": [
           "12:00",
           "24:00"
@@ -200,6 +188,15 @@
           "12:00",
           "24:00"
         ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq5au88",
+      "restake": {
+        "address": "jkl12xpq68caw2aqdu70jm4k792g0v9prhrpeag4e8",
+        "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
     },
@@ -344,7 +341,7 @@
           "12:00",
           "24:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -389,7 +386,7 @@
           "12:00",
           "24:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },
     {

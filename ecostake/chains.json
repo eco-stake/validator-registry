@@ -57,6 +57,18 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a37ze3yrr2y9nn98l6frhjskmufvd40cpyd0gq",
+      "restake": {
+        "address": "cosmos1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz3k8ynk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cryptoorgchain",
       "address": "crocncl10mfs428fyntu296dgh5fmhvdzrr2stlaekcrp9",
       "restake": {
@@ -194,6 +206,15 @@
       "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
       "restake": {
         "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1rdyunvvqg2l3723hlyjvvsnkd4vg338uar8q2s",
+      "restake": {
+        "address": "jkl1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczggf42f",
         "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }

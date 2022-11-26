@@ -44,6 +44,16 @@
     },
 
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6",
+      "restake": {
+        "address": "cosmos1na6j5scjfrq4az3d0lupp4tyaeahmh9wdcnqej",
+        "run_time": "every 1 hour",
+        "minimum_reward": 50000
+      }
+    },
+
+    {
       "name": "sifchain",
       "address": "sifvaloper1u453cen62m939v548nfql54zl886a9zy7ggzqq",
       "restake": {

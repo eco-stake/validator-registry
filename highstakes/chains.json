@@ -35,7 +35,7 @@
          "restake":{
             "address":"persistence1yxu698ryrcy7w5f2fv7uxwmqx0yyahvnu9e6f2",
             "run_time":"every 4 hours",
-            "minimum_reward":10000000
+            "minimum_reward":1000000
          }
       },
       {
@@ -44,7 +44,7 @@
          "restake":{
             "address":"darc1t3d2tlylpd2qllzm5uadcjpdm2u7v7pny2nuka",
             "run_time":"every 4 hours",
-            "minimum_reward":10000000
+            "minimum_reward":5000000
          }
       },
       {
@@ -62,7 +62,7 @@
          "restake":{
             "address":"sent1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnqs35l9",
             "run_time":"every 4 hours",
-            "minimum_reward":10000000
+            "minimum_reward":5000000
          }
       },
       {
@@ -89,7 +89,7 @@
          "restake":{
             "address":"fetch1t3d2tlylpd2qllzm5uadcjpdm2u7v7pngkwfea",
             "run_time":"every 4 hours",
-            "minimum_reward":10000000000000000000
+            "minimum_reward":5000000000000000000
          }
       },
       {
@@ -98,7 +98,7 @@
          "restake":{
             "address":"sif1t3d2tlylpd2qllzm5uadcjpdm2u7v7pn7kgm5p",
             "run_time":"every 4 hours",
-            "minimum_reward":10000000000000000000
+            "minimum_reward":5000000000000000000
          }
       },
       {
@@ -107,7 +107,7 @@
          "restake":{
             "address":"lum14l86wgknxxtp5zp2xxtq0lgf2rymqgnjycalk7",
             "run_time":"every 4 hours",
-            "minimum_reward":100000000
+            "minimum_reward":5000000
          }
       },
       {
@@ -116,7 +116,7 @@
          "restake":{
             "address":"desmos1gtyvtsfdkqfaaewk8yrwq3turvlpvvmljaxm67",
             "run_time":"every 4 hours",
-            "minimum_reward":100000000
+            "minimum_reward":2000000
          }
       },
       {
@@ -125,7 +125,7 @@
          "restake":{
             "address":"rizon1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnckmuhj",
             "run_time":"every 4 hours",
-            "minimum_reward":100000000
+            "minimum_reward":5000000
          }
       },
       {
@@ -134,7 +134,7 @@
          "restake":{
             "address":"certik1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnurm66p",
             "run_time":"every 4 hours",
-            "minimum_reward":100000000
+            "minimum_reward":2000000
          }
       },
       {
@@ -161,7 +161,7 @@
          "restake":{
             "address":"pb10ckyufenegvw8czkqxck08q7gn92k2zz93g0ut",
             "run_time":"every 4 hours",
-            "minimum_reward":100000000
+            "minimum_reward":1000000000
          }
       }
    ]

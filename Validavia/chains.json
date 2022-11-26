@@ -10,22 +10,23 @@
           "run_time": "20:30",
           "minimum_reward": 10000000000000000
         }
-      },      {
+      },
+      {
+           "name": "jackal",
+           "address": "jklvaloper1cj500uet7ssegwsmh24kt0hjw89ugez09h4gz2",
+           "restake": {
+               "address":"jkl1nszxyfxr5fpajlcfle0tvhptxknf5z9td8xhfw",
+               "run_time": "20:30",
+               "minimum_reward": 100000
+           }
+      },
+      {
         "name": "rebus",
-        "address": "rebusvaloper1wxllvjqmha2p437dpczat82wzpr8gem04qh6pz",
+        "address": "rebusvaloper1nrx8ekdehynmxvxtl6vrhzthpm2ksa90x96ld2",
         "restake": {
           "address": "rebus1nszxyfxr5fpajlcfle0tvhptxknf5z9t9ntny8",
           "run_time": "every 30 minutes",
           "minimum_reward": 100000000000000000
-        }
-      },
-      {
-        "name": "teritori",
-        "address": "torivaloper1cj500uet7ssegwsmh24kt0hjw89ugez0wu0x23",
-        "restake": {
-          "address": "tori1nszxyfxr5fpajlcfle0tvhptxknf5z9tkdl0tp",
-          "run_time": "20:30",
-          "minimum_reward": 100000
         }
       }
     ]

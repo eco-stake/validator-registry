@@ -7,8 +7,8 @@
       "address": "mantlevaloper18zzddr4cqpz56z2hqvdczqvwwy4ez29z0rw4u6",
       "restake": {
         "address": "mantle1h43hjfxlz8t6y5wewma63jz7melv46gj67840u",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 10000
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000
       }
     },
     {
@@ -36,6 +36,15 @@
         "address": "evmos1jgvqswfkgu6cl7tptn2p3fganpzqpfn5ap47u7",
         "run_time": "21:05",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1fjv9s3m2cg8few68med8wjdh2e0stvnps8mvfa",
+      "restake": {
+        "address": "jkl1h43hjfxlz8t6y5wewma63jz7melv46gjayjpff",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000
       }
     },
     {
@@ -83,7 +92,7 @@
       "restake": {
         "address": "tori1h43hjfxlz8t6y5wewma63jz7melv46gjxwtetx",
         "run_time": "every 1 minute",
-        "minimum_reward": 1000
+        "minimum_reward": 100
       }
     }
   ]

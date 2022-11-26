@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MUSTA VALIDATOR",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1yzctmh7s8ypv8l8yvxkzeqz0q0tnt883kygj9l",
+      "restake": {
+        "address": "terra1utd4qvxmunm43evh6qqrcjgan8emv3nmnmdtmh",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

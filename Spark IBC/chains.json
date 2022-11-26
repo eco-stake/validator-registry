@@ -16,8 +16,8 @@
          "address":"evmosvaloper17zaf6jk6gupa0mgnyyt7e4u8y783k6u3wz6avj",
          "restake":{
             "address":"evmos1tj305ludmkx4q60yfdt4z0x3xz57ppsmjkje0y",
-            "run_time":"21:05",
-            "minimum_reward":100000000000000
+            "run_time":"every 6 hours",
+            "minimum_reward":10000000000000000
          }
       },
       {
@@ -27,6 +27,15 @@
             "address":"gravity1lzspks2wd9d2rz9qs4fkwlnxjemum279ncjpn0",
             "run_time":"22:00",
             "minimum_reward":10000
+         }
+      },
+      {
+         "name": "jackal",
+         "address": "jklvaloper1enjczz55he8m2vre28gygj2qmqhcequel0cshe",
+         "restake": {
+           "address": "jkl1lzspks2wd9d2rz9qs4fkwlnxjemum279wkwg0c",
+           "run_time": "every 5 minutes",
+           "minimum_reward": 100000
          }
       },
       {

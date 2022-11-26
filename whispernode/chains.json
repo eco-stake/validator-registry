@@ -7,7 +7,7 @@
       "address": "mantlevaloper170ef5gajk5q8t90cv6qcmfv4ljwzuqtsklsgn6",
       "restake": {
         "address": "mantle1e44rluarkdw56dy2turnwjtvtg4wqvs0v0wpg0",
-        "run_time": "every 15 minutes",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1000
       }
     },
@@ -75,21 +75,12 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper1s8kaf75yr6v693lhcdwx9r6d3z0sgs2nns36pq",
-      "restake": {
-        "address": "dig1e44rluarkdw56dy2turnwjtvtg4wqvs02lu047",
-        "run_time": "2x per day",
-        "minimum_reward": 1000
-      }
-    },
-    {
       "name": "evmos",
       "address": "evmosvaloper1chx7v975g72xuw8kdpjt94dh35daqqfyc37kys",
       "restake": {
         "address": "evmos1k0fpumkxl35p3se0n52e6dc3mh8vy24kn0uqsg",
         "run_time": "19:05",
-        "minimum_reward": 1000000000000000
+        "minimum_reward": 100000000000000
       }
     },
     {
@@ -99,6 +90,15 @@
         "address": "kujira1e44rluarkdw56dy2turnwjtvtg4wqvs0rrhu60",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1upt02z2a64m00rh087q8r2esy7mg9yeq29j8gz",
+      "restake": {
+        "address": "jkl1e44rluarkdw56dy2turnwjtvtg4wqvs0t4m4w6",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 1000
       }
     },
     {
@@ -115,17 +115,8 @@
       "address": "kujiravaloper1med39q63mwzxgqdzus70lp98krdrfmhhm4v8al",
       "restake": {
         "address": "kujira1e44rluarkdw56dy2turnwjtvtg4wqvs0rrhu60",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "lumnetwork",
-      "address": "lumvaloper1txgtzgdj90mqddhyu5gcpkkdeu9g2fu22d85d7",
-      "restake": {
-        "address": "lum1e44rluarkdw56dy2turnwjtvtg4wqvs08pgdz3",
-        "run_time": "18:00",
-        "minimum_reward": 1000
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
       }
     },
     {
@@ -162,8 +153,8 @@
       "name": "secretnetwork",
       "address": "secretvaloper16k26akna7h295rfjx3278s7xusnt736vy437y8",
       "restake": {
-        "address": "secret1e44rluarkdw56dy2turnwjtvtg4wqvs0swpd2e",
-        "run_time": "every 1 hour",
+        "address": "secret1yqv7y5ynhas45hu59vhe3qvw0kmc8amtx7s7ur",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
@@ -199,8 +190,8 @@
       "address": "torivaloper1tjh6wpj6d9kpkfrcyglksevkhhtk9gm7cw7eku",
       "restake": {
         "address": "tori1e44rluarkdw56dy2turnwjtvtg4wqvs0slzdv4",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000
       }
     },
     {

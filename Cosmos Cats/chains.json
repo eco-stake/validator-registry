@@ -10,7 +10,16 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 100000000000000000
             }
-         },
+        },
+           {
+             "name": "cheqd",
+             "address": "cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp",
+             "restake": {
+                "address": "cheqd1k925saegdkfcq4cxjde7nmzyvu6cc0maaft7pe",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000      
+            }
+        },
          {
              "name": "teritori",
              "address": "torivaloper1u95yrd65yr28v7yek0zchsadg5s3wklvcc9hzh",
@@ -19,6 +28,15 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 100000      
             }
-        }
+        },
+		{
+             "name": "umee",
+             "address": "umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6",
+             "restake": {
+                "address": "umee1k925saegdkfcq4cxjde7nmzyvu6cc0mapa6pw6",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000      
+            }
+          }  
     ]
 }

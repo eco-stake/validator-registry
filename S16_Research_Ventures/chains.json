@@ -8,10 +8,9 @@
       "restake": {
         "address": "cosmos1yw3j54275lz30aamjcwk67kf2fd70mtd45xdt8",
         "run_time": [
-          "00:00",
-          "12:00"
+          "03:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 5000
       }
     },
     {
@@ -20,8 +19,7 @@
       "restake": {
         "address": "juno1yw3j54275lz30aamjcwk67kf2fd70mtdrx9kvm",
         "run_time": [
-          "00:00",
-          "12:00"
+          "03:00"
         ],
         "minimum_reward": 10000
       }
@@ -32,8 +30,7 @@
       "restake": {
         "address": "osmo1yw3j54275lz30aamjcwk67kf2fd70mtda04aa4",
         "run_time": [
-          "00:00",
-          "12:00"
+          "03:00"
         ],
         "minimum_reward": 10000
       }

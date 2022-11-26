@@ -3,15 +3,6 @@
   "name": "Orbital Command",
   "chains": [
     {
-      "name": "evmos",
-      "address": "evmosvaloper1f02m4jkx2p9r9ps50j87e0kmjaggru07lldfwy",
-      "restake": {
-        "address": "evmos1navcg5kpv4evhq3vue4uclp2mnkqta7tud7yrf",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "terra",
       "address": "terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd",
       "restake": {
@@ -31,7 +22,7 @@
     },    
     {
       "name": "osmosis",
-      "address": "osmo1jezguhpsartc36yqsfrrhp84ts3nnpw3u5uwcv",
+      "address": "osmovaloper13e2ale5hzxx2ca70eg50psd894hn7gkkn6w6ly",
       "restake": {
         "address": "osmo1jezguhpsartc36yqsfrrhp84ts3nnpw3u5uwcv",
         "run_time": "every 12 hours",
