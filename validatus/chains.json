@@ -3,13 +3,12 @@
   "name": "Validatus",
   "chains": [
     {
-      "name": "osmosis",
-      "address": "osmovaloper19v94c3z7ckarwsum76kaagma0wqsqhh54xucdk",
+      "name": "evmos",
+      "address": "evmosvaloper15fezptqfn3rmxtl4006ze9plealy4w9xdfamnv",
       "restake": {
-        "address": "osmo1yuukehecl8czrd28q0tmxpvwce9lzt23pj35zp",
-        "run_time": "21:00",
-        "minimum_reward": 10000
-      }
-    }
+        "address": "evmos1uuxz3efh5d4hmelpnqkfyjmg7skk0hagzzkqwh",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000000000000
+   }
   ]
 }
