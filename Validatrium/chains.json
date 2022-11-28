@@ -52,7 +52,7 @@
       "address": "comdexvaloper15kt5vf67ywfrzspywqs5n9q9kzty0rhj7x6e29",
       "restake": {
         "address": "comdex1shheetj5xssp8pm5srfeaedd5ng5zm0kcldx44",
-        "run_time": "every 6 hours,
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     }
