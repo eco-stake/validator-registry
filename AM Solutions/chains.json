@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AM Solutions",
+  "chains": [
+    {
+      "name": "stride",
+      "address": "stridevaloper1h4ce4xf6ee2y7cuzfsy4p2vnzjcjs3gukrsygz",
+      "restake": {
+        "address": "stride1qtqwkth99f9argc37ya27gwglc62pum20ua0sn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "regen",
+      "address": "regenvaloper1wu92z5y3sk0rnywenqudv69eqsq0gr4unhq04g",
+      "restake": {
+        "address": "regen1qtqwkth99f9argc37ya27gwglc62pum2n4k0jm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "kujira",
+      "address": "kujiravaloper1ly6xufjfuylky42ggcf79nvw5jmqzlkgq5drsg",
+      "restake": {
+        "address": "kujira1qtqwkth99f9argc37ya27gwglc62pum2alltf4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1z5vmtk77atdgrz7e2sef704e5wpz9sy4ay6atf",
+      "restake": {
+        "address": "rebus1x8ve3uc8pwfa6ywx5qylrm989w5mwjz4x2y7se",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1hdeemspqtxaw5pk3ddmtzju3xtk0euj5xddr0c",
+      "restake": {
+        "address": "umee1qtqwkth99f9argc37ya27gwglc62pum27pqvqd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

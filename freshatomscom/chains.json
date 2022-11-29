@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Fresh*Staking",
+  "name": "FreshSTAKING",
   "chains": [
     {
       "name": "cosmoshub",
@@ -54,15 +54,6 @@
         "address": "terra1hz2dutqm7e0t7q3h5cm9d8lchztskm8pekadus",
         "run_time": "17:28",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "bitcanna",
-      "address": "bcnavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgjssamkz",
-      "restake": {
-        "address": "bcna14gra89zm8753pfuhvujjulmtkf2qq70fr5xe4x",
-        "run_time": "17:28",
-        "minimum_reward": 1000000
       }
     },
     {

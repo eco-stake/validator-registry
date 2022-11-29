@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "BartestneT",
+  "identity": "7A5898F2CC077781",
+  "website": "https://github.com/bartosian",
+  "description": {
+    "overview": "YOU - stake on my validator, I - provide High Availability, Reliability, Disaster Recovery and of course timely Rewards"
+  }
+}

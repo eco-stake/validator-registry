@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "✨ lux8.net ✨",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1kh9vejqxqqccavtv2nf683mx0z85mfpd7q566q",
+      "restake": {
+        "address": "orai137m3qa2sxht2edkflj0q0enh47nnz27nnn5zxp",
+        "run_time": [
+          "11:11"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

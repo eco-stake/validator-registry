@@ -47,7 +47,7 @@
         "minimum_reward": 100000
       }
     },
-     {
+    {
       "name": "emoney",
       "address": "emoneyvaloper16yg44hae44lcdexmmk7wpaphny0ahmqfklvczz",
       "restake": {
@@ -56,12 +56,30 @@
         "minimum_reward": 1000000
       }
     },
-     {
+    {
       "name": "desmos",
       "address": "desmosvaloper1alcd0qxkygqrxew82rxf75f8ajwpycvr9jfk3n",
       "restake": {
         "address": "desmos1h3g0cxusvhwkcpzxgedyvs699gyxxn9x33msua",
         "run_time": "daily",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper18qtxhdm3s5rxeau2ddwact6wczv984zs43t635",
+      "restake": {
+        "address": "jkl1m8d834ykcy3dgrdve4xhxky3u3c2tl9dtxahuc",
+        "run_time": "Every hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "odin",
+      "address": "odinvaloper10u2g5yhvtm0d76f860kggp6lakge4q8hj59tn5",
+      "restake": {
+        "address": "odin1m8d834ykcy3dgrdve4xhxky3u3c2tl9dkc49fd",
+        "run_time": "Every hour",
         "minimum_reward": 100000
       }
     }

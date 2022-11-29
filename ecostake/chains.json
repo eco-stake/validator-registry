@@ -57,6 +57,18 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a37ze3yrr2y9nn98l6frhjskmufvd40cpyd0gq",
+      "restake": {
+        "address": "cosmos1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz3k8ynk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cryptoorgchain",
       "address": "crocncl10mfs428fyntu296dgh5fmhvdzrr2stlaekcrp9",
       "restake": {
@@ -66,18 +78,6 @@
           "21:00"
         ],
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "dig",
-      "address": "digvaloper136avwnuvvy94dqmtnaue2nfvjes8xr37h9rzay",
-      "restake": {
-        "address": "dig1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczfzw03d",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 10000
       }
     },
     {
@@ -118,8 +118,11 @@
       "address": "kujiravaloper1vue5lawr3s0au9zj0aqeft5aknx6cjq6w5ghca",
       "restake": {
         "address": "kujira1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq79u7u",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
       }
     },
     {
@@ -163,18 +166,6 @@
       }
     },
     {
-      "name": "sifchain",
-      "address": "sifvaloper19t5nk5ceq5ga75epwdqhnupwg0v9339p096ydz",
-      "restake": {
-        "address": "sif1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz5tgjua",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "stride",
       "address": "stridevaloper1x2kta40h5rnymtjn6ys7vk2d87xu7y6zfu9j3r",
       "restake": {
@@ -191,10 +182,16 @@
       "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
       "restake": {
         "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1rdyunvvqg2l3723hlyjvvsnkd4vg338uar8q2s",
+      "restake": {
+        "address": "jkl1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczggf42f",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "cyberomanov",
+  "chains": [
+    {
+      "name": "jackal",
+      "address": "jklvaloper1gr78zkvjenmp05s08d7qr4zcsdhst3ysy04h0p",
+      "restake": {
+        "address": "jkl1p2nwxuvzctx6cpkyjqxkmyj5anzn4g4tdpe0l8",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

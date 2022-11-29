@@ -30,10 +30,28 @@
          }
       },      
       {
+         "name":"rebus",
+         "address":"rebusvaloper1eg0xe4vxghww7vhkzhdhz94s52nnt4z6xkquqt",
+         "restake":{
+            "address":"rebus1eg0xe4vxghww7vhkzhdhz94s52nnt4z6cpur4g",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
          "name":"passage",
          "address":"pasgvaloper103pkk22v64manra8at55c9ygz9runtxpk89qqe",
          "restake":{
             "address":"pasg103pkk22v64manra8at55c9ygz9runtxp9m0gp9",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
+         "name":"jackal",
+         "address":"jklvaloper1p8s397aqn3qhevptfu0wpgacs5fphev40nyyyc",
+         "restake":{
+            "address":"jkl1p8s397aqn3qhevptfu0wpgacs5fphev46qydup",
             "run_time":"every 1 hour",
             "minimum_reward":10000
          }
