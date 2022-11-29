@@ -120,15 +120,6 @@
       }
     },
     {
-      "name": "sifchain",
-      "address": "sifvaloper1zn4dn9mgmud0n4avmrnxam8u94574yauv5nf2y",
-      "restake": {
-        "address": "sif1hcgxjhvv43g9z6dc58g428jgc8hdlmf73jhrdf",
-        "run_time": "12:00",
-        "minimum_reward": 10000000000000000
-      }
-    },
-    {
       "name": "stargaze",
       "address": "starsvaloper1yskcx5zfkr3nacn6f5zd08yw72zwm4s06x8tpz",
       "restake": {
