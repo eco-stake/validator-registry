@@ -19,6 +19,39 @@
         "run_time": "23:19",
         "minimum_reward": 1000000
       }
+    },
+    
+    {
+      "name": "meme",
+      "address": "memevaloper1hxpx4n84pam4nfd42ypzh9lf6cha90845ku65d",
+      "restake": {
+        "address": "meme1es8477g2krc8v7pe67xjwesjxk3vxwh8lckklz",
+        "run_time": [
+          "09:00",
+          "22:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+
+
+{
+      "name": "rebus",
+      "address": "rebusvaloper1szxeaxrla0h8kc2pc52yhlknnhylajehnq9apk",
+      "restake": {
+        "address": "rebus1es8477g2krc8v7pe67xjwesjxk3vxwh8sdr5v7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1um889kzz9gyxlwtrgs6mc9sdwwx8z2kekudytd",
+      "restake": {
+        "address": "bitsong144wh4v8z4796yy7rkjq4vsvs50h3tar4era9f5",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

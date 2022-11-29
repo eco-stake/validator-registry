@@ -210,15 +210,6 @@
         }
       },
       {
-        "name": "sifchain",
-        "address": "sifvaloper1njk3vem9kfksq0u5xtxxz254h9292gtwme9w2e",
-        "restake": {
-          "address": "sif1eml7agwd5x084ennlg6apvskufzrlvnrnd4p6j",
-          "run_time": "21:00",
-          "minimum_reward": 100000
-        }
-      },
-      {
         "name": "terra2",
         "address": "terravaloper1u53qwdgafryksqnzq3k7e5eyph7jlh8kgc3va4",
         "restake": {

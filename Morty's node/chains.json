@@ -12,6 +12,17 @@
         ],
         "minimum_reward": 10000000
       }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper16e6cpk6ycddk6208fpaya7tmmardhvr7h40yqy",
+      "restake": {
+        "address": "orai1vhpykg7qzv6cg2yh80wf8hfavwt9dtqcu5j3re",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
     }
   ]
 }

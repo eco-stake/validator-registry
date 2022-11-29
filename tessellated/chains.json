@@ -1,6 +1,6 @@
 {
 	"$schema": "../chains.schema.json",
-	"name": "Tessellated Geometry",
+	"name": "Tessellated",
 	"chains": [
 		{
 			"name": "cosmoshub",
