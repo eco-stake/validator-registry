@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "oraichain",
+      "address": "oraivaloper19qrzfv932kccqf4r44jv7xku7rndnd6vhr6t6e",
+      "restake": {
+        "address": "orai1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zjng50g",
+        "run_time": ["03:00","09:00", "15:00", "21:00"],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "kava",
       "address": "kavavaloper1nm9vrvg2q2sep0lg373r3nce0d5hsnz0yncqm5",
       "restake": {
