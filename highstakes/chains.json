@@ -156,6 +156,15 @@
          }
       },
       {
+         "name":"arable",
+         "address":"acrevaloper1fgs9uuxjwrclak88e633nw75j6ckxmdxkaalrn",
+         "restake":{
+            "address":"acre1tnghnmuf2ueqc926s8yjym2yntyvh0u3pd36lm",
+            "run_time":"every 4 hours",
+            "minimum_reward":500000
+         }
+      },
+      {
          "name":"provenance",
          "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",
          "restake":{
