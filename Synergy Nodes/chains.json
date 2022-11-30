@@ -67,10 +67,7 @@
       "address": "acrevaloper1y4pfpkwpy6myskp7pne256k6smh2rjtay37kwc",
       "restake": {
         "address": "acre1q3054e3nrzlkp4act9236lwgl6hncftfdj30n2",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
+        "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
     }
