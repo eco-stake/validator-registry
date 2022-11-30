@@ -37,7 +37,6 @@
         "run_time": "every 1 minute",
         "minimum_reward": 1
       }
-    },
-
+    }
   ]
 }
