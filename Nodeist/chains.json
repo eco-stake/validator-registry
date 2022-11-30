@@ -62,11 +62,11 @@
 	    },
 		
 		 {
-      "name": "chain4energy",
-      "address": "c4evaloper18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnuncplj",
+      "name": "acrechain",
+      "address": "acrevaloper13f794j0q0ay2kvmh9j7zzf7xu8lp3sv6jfad02",
       "restake": {
-        "address": "c4e18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnvj9t79",
-        "run_time": "22:30",
+        "address": "acre1774zxs7m8rgg5jjz80p26ylk3h8q265ee8c3fj",
+	"run_time": "every 1 hour",
         "minimum_reward": 10000
       }
 	    }
