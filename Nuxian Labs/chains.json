@@ -28,7 +28,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+	{
+      "name": "arable",
+      "address": "acrevaloper1y5gtnge83c4k4gr395n5pz7szce95pec86ruzn",
+      "restake": {
+        "address": "acre1vvumkjdmen9fsgu88zqv8eulpn79g4g0tsa8w9",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1
+      }
     }
-
   ]
 }
