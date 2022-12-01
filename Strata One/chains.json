@@ -8,7 +8,7 @@
       "restake": {
         "address": "persistence1fzwyavdvpuyh93ylkfzgl5jjsjhakhnktnu9a8",
         "run_time": ["18:05", "00.05"],
-        "minimum_reward": 0.1
+        "minimum_reward": 10000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "sent1fzwyavdvpuyh93ylkfzgl5jjsjhakhnk7yv0hv",
         "run_time": ["18:05", "00.05"],
-        "minimum_reward": 100
+        "minimum_reward": 10000
       }
      }
   ]
