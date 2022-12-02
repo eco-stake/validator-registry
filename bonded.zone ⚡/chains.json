@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "bonded.zone ⚡",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge",
+      "restake": {
+        "address": "bitsong13qhf39ptz3pk2aqfrzfxtkkng29yv4v0uldu0l",
+        "run_time": "11:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
