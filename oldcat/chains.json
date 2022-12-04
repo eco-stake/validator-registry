@@ -20,6 +20,15 @@
         "minimum_reward": 10000
       }
     },
+        {
+      "name": "osmosis",
+      "address": "osmovaloper106yua27d3dg4er6w2fkq68s5svd9hngu35nxqr",
+      "restake": {
+        "address": "osmo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zfmd8cf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
     {
       "name": "kava",
       "address": "kavavaloper1nm9vrvg2q2sep0lg373r3nce0d5hsnz0yncqm5",
