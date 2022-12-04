@@ -59,7 +59,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },    
     {
@@ -68,7 +68,16 @@
       "restake": {
         "address": "acre1q3054e3nrzlkp4act9236lwgl6hncftfdj30n2",
         "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
+      "name": "provenance",
+      "address": "pb1vkxaz042jahveq8dkumc99ptcsqe4c28p8pqw5",
+      "restake": {
+        "address": "pbvaloper170h0kkjlphjk7qg46qx7uuatfpfpr0nh70kcq4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
       }
     }
   ]
