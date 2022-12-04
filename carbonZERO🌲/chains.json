@@ -7,7 +7,7 @@
       "address": "mantlevaloper18zzddr4cqpz56z2hqvdczqvwwy4ez29z0rw4u6",
       "restake": {
         "address": "mantle1h43hjfxlz8t6y5wewma63jz7melv46gj67840u",
-        "run_time": "every 1 minutes",
+        "run_time": "every 3 minutes",
         "minimum_reward": 1000
       }
     },
@@ -25,7 +25,7 @@
       "address": "comdexvaloper14yh3sqetnphupx2r4jrjctpsqqg7jqmnmzpxc4",
       "restake": {
         "address": "comdex1h43hjfxlz8t6y5wewma63jz7melv46gjr47jfp",
-        "run_time": "every 30 minutes",
+        "run_time": "every 60 minutes",
         "minimum_reward": 1000
       }
     },
@@ -43,7 +43,7 @@
       "address": "jklvaloper1fjv9s3m2cg8few68med8wjdh2e0stvnps8mvfa",
       "restake": {
         "address": "jkl1h43hjfxlz8t6y5wewma63jz7melv46gjayjpff",
-        "run_time": "every 1 minute",
+        "run_time": "every 60 minutes",
         "minimum_reward": 1000
       }
     },
