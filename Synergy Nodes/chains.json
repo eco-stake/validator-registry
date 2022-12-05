@@ -73,9 +73,9 @@
     },    
     {
       "name": "provenance",
-      "address": "pb1vkxaz042jahveq8dkumc99ptcsqe4c28p8pqw5",
+      "address": "pbvaloper170h0kkjlphjk7qg46qx7uuatfpfpr0nh70kcq4",
       "restake": {
-        "address": "pbvaloper170h0kkjlphjk7qg46qx7uuatfpfpr0nh70kcq4",
+        "address": "pb1vkxaz042jahveq8dkumc99ptcsqe4c28p8pqw5",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000
       }
