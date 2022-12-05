@@ -3,7 +3,7 @@
   "name": "trex",
   "chains": [
     {
-      "name": "theta-testnet-001",
+      "name": "theta",
       "address": "cosmosvaloper10w45kv74rqsz6sjr0u9mqp7wvhjd3gg53xc22c",
       "restake": {
         "address": "cosmos1rdlgtz24w4zc7h5t0065ayrr7d3pqjgng7l6kq",
