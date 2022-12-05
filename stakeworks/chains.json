@@ -17,7 +17,7 @@
                 "restake": {
                 "address": "bcna1df3p2gft7hhunc0ptgxr3jy2kt2yclq66r748w",
                 "run_time": "19:00",
-                "minimum_reward": 100000
+                "minimum_reward": 10000000
                 }
         },
         {
@@ -26,7 +26,7 @@
                 "restake": {
                 "address": "bitsong1wv7x2fqzs660ys938jd57rrm6a3mjrjyx85n5g",
                 "run_time": "19:00",
-                "minimum_reward": 100000
+                "minimum_reward": 1000000
                 }
         },   
         {
