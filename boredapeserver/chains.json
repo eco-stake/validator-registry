@@ -28,6 +28,15 @@
         "run_time": "02:30",
         "minimum_reward": 10000000000000000
       }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ra9ajj3xxg04c534u79amrps65sksmcn30sppq",
+      "restake": {
+        "address": "rebus1v9qka9m6cxefx0kn754rekph883hkc9p2tg75j",
+        "run_time": "06:15",
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }
