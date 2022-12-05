@@ -30,10 +30,10 @@
       }
     },
 	{
-      "name": "arable",
+      "name": "acrechain",
       "address": "acrevaloper1y5gtnge83c4k4gr395n5pz7szce95pec86ruzn",
       "restake": {
-        "address": "acre1vvumkjdmen9fsgu88zqv8eulpn79g4g0tsa8w9",
+        "address": "acre1ygrzk0exmsk0aa8tkyx4hw5de477qe8m9zdh6a",
         "run_time": "every 1 minute",
         "minimum_reward": 1
       }
