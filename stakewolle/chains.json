@@ -42,9 +42,9 @@
       "name": "injective",
       "address": "injvaloper1kpfxtqt5cmlew46dem32fqlk5g6k4wyueh4szu",
       "restake": {
-        "address": "inj15lw5v5typyy4gx382v0gct2gfj4e2e0d5n6cjy",
-        "run_time": "every 12 hour",
-        "minimum_reward": 500000
+        "address": "inj1dms3695w76ucyxh6ezt9aauzthegzpk7prjrqt",
+        "run_time": "every 6 hour",
+        "minimum_reward": 50000
       }
     },
     {
