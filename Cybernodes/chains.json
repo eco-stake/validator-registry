@@ -7,8 +7,8 @@
       "address": "memevaloper12txey0wspwkzppue365guenmf9sun4sds5dnkh",
       "restake": {
         "address": "meme1rscy7t0s90n0wn974z0cuype62j0cvwrkkp9gg",
-        "run_time": "every 15 min",
-        "minimum_reward": 100
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]
