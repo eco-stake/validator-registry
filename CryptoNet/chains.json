@@ -73,6 +73,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "carbon",
+      "address": "swthvaloper1mf4yga2mul7ktrt6dqdw2sdnaxjpna6pvsuv6e",
+      "restake": {
+        "address": "swth1zz3wp5t24ej534nz5g7lxdazekx0aaekssc4h9",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
     }    
   ]
 }
