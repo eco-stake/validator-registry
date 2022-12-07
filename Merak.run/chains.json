@@ -28,6 +28,25 @@
         "run_time": "every 1 hour",
         "minimum_reward": 11000000
       }
-    }    
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64",
+      "restake": {
+        "address": "comdex18hnw9arscc559gqt0eake3guyyv9k6wqlxfynx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1rq0m2w9dcxajzstfeherrt9p3zxhqfw4ssk5cr",
+      "restake": {
+        "address": "axelar18hnw9arscc559gqt0eake3guyyv9k6wqu8awps",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000
+      }
+    }
+  
   ]
 }
