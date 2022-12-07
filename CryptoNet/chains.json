@@ -82,6 +82,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
       }
-    }    
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1zqwvh3amm30xyctzqkqcv2dm22sprd9vga6agl",
+      "restake": {
+        "address": "decentr1zz3wp5t24ej534nz5g7lxdazekx0aaekyq5h95",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
+    }
   ]
 }
