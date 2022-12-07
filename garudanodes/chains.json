@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Garuda Nodes",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1d5k0cxfqawjm8jwagwj0qftt32vqusx5tc9zgk",
+      "restake": {
+        "address": "",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 250000000
+      }
+    }
+  ]
+}
