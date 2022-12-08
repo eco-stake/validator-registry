@@ -192,6 +192,15 @@
       }
     },
     {
+      "name": "acrechain",
+      "address": "acrevaloper1x0m2j2xxgmsj2dmyajcx0jmyjzkd0t9nn7jh6q",
+      "restake": {
+      "address": "acre1x0m2j2xxgmsj2dmyajcx0jmyjzkd0t9n2xr8ca",
+      "run_time": "08:00",
+      "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1es8xnawedlzx9ejdpw4k5hvy4qv4genp8mkkr9",
       "restake": {
