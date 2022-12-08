@@ -66,6 +66,15 @@
       }
     },
     {
+      "name": "chain4energy",
+      "address": "c4evaloper182ylvje7rg46n053lcqkr7s5vq2tqr6j08r45t",
+      "restake": {
+        "address": "c4e1mjq48r6435aewerpruwc8up3tz3rzan20p86ct",
+        "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper13c2hcctczy695gfs5gc637tc844n6a9unlkaqv",
       "restake": {
