@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OurLink | ValidatorNode",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1x0sdgtmvdl8d6mp85sqlsh63l07jkg3fz5uaz6",
+      "restake": {
+        "address": "akash1xgcqw2flkaxffe0s5kctlnelyshe87vhnaxc49",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
