@@ -3,16 +3,6 @@
   "name": "IBCNFTs.com 🌈",
   "chains": [
     {
-      "name": "evmos",
-      "address": "evmosvaloper1m9h4m6d8nw8fjewsqjtkv9zzk7jc5cxhpn73up",
-      "restake": {
-        "address": "evmos1jsd7kf6dl475cye9dqsevx5v7jsdr2kgverrj8",
-        "run_time": "21:00",
-        "minimum_reward": 200000000000000000
-      }
-    },
-    
-    {
       "name": "stargaze",
       "address": "starsvaloper1cmu7qqjaepsngntczcdkkgcwc52zere2t78rdp",
       "restake": {
@@ -23,12 +13,12 @@
     },
     
     {
-      "name": "sifchain",
-      "address": "sifvaloper14mjxlkuwnfwthlnm8x9n80kcnwr8n996k7msml",
+      "name": "kichain",
+      "address": "kivaloper1m7e7zpa89nk5ff5t59tcvwnwfds6lzhuz8hkae",
       "restake": {
-        "address": "sif13y36asj5gyhs0g9tpenv6rx8nzk7ujxxhgrjpk",
+        "address": "ki13y36asj5gyhs0g9tpenv6rx8nzk7ujxxrcat2f",
         "run_time": "21:00",
-        "minimum_reward": 100000000
+        "minimum_reward": 10000000
       }
     },
     
