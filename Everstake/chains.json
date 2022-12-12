@@ -24,7 +24,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 20000000
+        "minimum_reward": 10000
       }
     },
 	
@@ -39,8 +39,46 @@
 	],
         "minimum_reward": 100000000000000000
       }
-    } 
+    }, 
 	  
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1jdu6zx8wpkwcwnj9dg3nslq7m66nfyh9uskw5s",
+      "restake": {
+        "address": "mantle1g3laz9zpgy8x4k3gdkydf4umnepaug4wfrudsg",
+        "run_time": [
+          "09:00",
+          "21:00"
+	],
+        "minimum_reward": 10000
+      }
+    },
+	  
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1cvqgyhk30zsypwu75f39ztp9ta68deau6sukhs",
+      "restake": {
+        "address": "cheqd1g3laz9zpgy8x4k3gdkydf4umnepaug4we9tgyn",
+        "run_time": [
+          "09:00",
+          "21:00"
+	],
+        "minimum_reward": 10000000
+      }
+    },	  
+
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
+      "restake": {
+        "address": "cosmos1g3laz9zpgy8x4k3gdkydf4umnepaug4wh88g0z",
+        "run_time": [
+          "09:00",
+          "21:00"
+	],
+        "minimum_reward": 10000
+      }
+    }	  
 	  
   ]
 }
