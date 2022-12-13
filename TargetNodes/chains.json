@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TargetNodes",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkwgjtz",
+      "restake": {
+        "address": "terra1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkpy0m3",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}
