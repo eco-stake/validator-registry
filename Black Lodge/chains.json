@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "mises",
+      "address": "misesvaloper1ew7dkdmyrj8xn2s6uvjtyvyxp3eky6z07yeu8k",
+      "restake": {
+        "address": "mises1tqajwhew3f2p3t9rffxvk9eelh283ynn93pd0m",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 0
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1xfztjfkfwg9cfldaygwyks79fpxq2x4kkgr06h",
       "restake": {
