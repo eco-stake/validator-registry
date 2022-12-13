@@ -242,7 +242,7 @@
       "restake": {
         "address": "terra1awqjfv0znyemkv8v89vyp3hte54ayrt97tng8d",
         "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
