@@ -10,6 +10,15 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 0
       }
+    },
+    {
+      "name": "mises",
+      "address": "misesvaloper15wl2vvwxaupdhw6xjxztmudnttlj0vpjr02g5z",
+      "restake": {
+        "address": "mises1gajr4nzfdez97zk7mngczw8g25qukztqs3vzf0",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 0
+      }
     }
   ]
 }
