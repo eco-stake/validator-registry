@@ -6,7 +6,7 @@
       "name": "terra",
       "address": "terravaloper1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkwgjtz",
       "restake": {
-        "address": "terra1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkpy0m3",
+        "address": "terra1z3y2h3w0mj8sjstdx3d6w7ur0fr4zg3y086uyh",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -15,7 +15,7 @@
       "name": "lambda",
       "address": "lambvaloper1zcaqxl2fy06l27t3veg6fw0ueqejz34n04mtzv",
       "restake": {
-        "address": "lamb1zcaqxl2fy06l27t3veg6fw0ueqejz34nqdnmpc",
+        "address": "terra1z3y2h3w0mj8sjstdx3d6w7ur0fr4zg3y086uyh",
         "run_time": ["05:00", "17:00"],
         "minimum_reward": 1000000000000000000
       }
@@ -24,7 +24,7 @@
       "name": "canto",
       "address": "cantovaloper10gmeeq8eelu03yvsklk8v0ddjtf0yul4zcsqet",
       "restake": {
-        "address": "canto10gmeeq8eelu03yvsklk8v0ddjtf0yul4qxhygw",
+        "address": "terra1z3y2h3w0mj8sjstdx3d6w7ur0fr4zg3y086uyh",
         "run_time": ["05:00", "17:00"],
         "minimum_reward": 1000000000000000000
       }
