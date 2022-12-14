@@ -7,9 +7,27 @@
       "address": "terravaloper1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkwgjtz",
       "restake": {
         "address": "terra1pe7y4czp9p5q8mdvr3vsl9h205s7lfxfkpy0m3",
-        "run_time": "01:15",
-        "minimum_reward": 1000000000
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1zcaqxl2fy06l27t3veg6fw0ueqejz34n04mtzv",
+      "restake": {
+        "address": "lamb1zcaqxl2fy06l27t3veg6fw0ueqejz34nqdnmpc",
+        "run_time": ["05:00", "17:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper10gmeeq8eelu03yvsklk8v0ddjtf0yul4zcsqet",
+      "restake": {
+        "address": "canto10gmeeq8eelu03yvsklk8v0ddjtf0yul4qxhygw",
+        "run_time": ["05:00", "17:00"],
+        "minimum_reward": 1000000000000000000
+      }
+     }
   ]
 }
