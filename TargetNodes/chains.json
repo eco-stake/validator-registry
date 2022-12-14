@@ -10,6 +10,24 @@
         "run_time": "01:15",
         "minimum_reward": 1000000000
       }
-    }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1zcaqxl2fy06l27t3veg6fw0ueqejz34n04mtzv",
+      "restake": {
+        "address": "lamb1zcaqxl2fy06l27t3veg6fw0ueqejz34nqdnmpc",
+        "run_time": ["05:00", “17:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper10gmeeq8eelu03yvsklk8v0ddjtf0yul4zcsqet",
+      "restake": {
+        "address": "canto10gmeeq8eelu03yvsklk8v0ddjtf0yul4qxhygw",
+        "run_time": "05:00", “17:00"],
+        "minimum_reward": 1000000000000000000
+      }
+     }
   ]
 }
