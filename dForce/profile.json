@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "dForce",
+  "identity": "AB99C8D824487B05",
+  "website": "https://dforce.network",
+  "description": {
+    "overview": "dForce is a decentralized finance protocol matrix covering decentralized stablecoin(USX), lending, and trading, serving as DeFi infrastructure in Web3. We provide affordable staking service to atom holders and to contribute to Cosmos governance."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "",
+    "telegram": "dforcenet",
+    "twitter": "dForcenet",
+    "discord": "https://discord.com/invite/c2PC8SM",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
