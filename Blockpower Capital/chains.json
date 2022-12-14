@@ -15,7 +15,7 @@
       "name": "juno",
       "address": "junovaloper179fv09z9lhsyduf5xkgyc3ytelljtddxtgylgh",
       "restake": {
-        "address": "juno1xrrfek3qpz4ja8ccrjklfy064asyqq9k9q45nn",
+        "address": "juno19jksrhmy4ddk2jzy59yhrx4rxscyrdnrgety47",
         "run_time": ["19:00"],
         "minimum_reward": 50000
       }
@@ -33,7 +33,7 @@
       "name": "persistence",
       "address": "persistencevaloper1qveej3lrv4nzw8vt57svn70y947cx7mwtu3g3d",
       "restake": {
-        "address": "osmovaloper179fv09z9lhsyduf5xkgyc3ytelljtddxst2c48",
+        "address": "persistence19jksrhmy4ddk2jzy59yhrx4rxscyrdnrs8wvux",
         "run_time": ["19:00"],
         "minimum_reward": 100000
       }
