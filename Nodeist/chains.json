@@ -65,7 +65,7 @@
       "name": "acrechain",
       "address": "acrevaloper13f794j0q0ay2kvmh9j7zzf7xu8lp3sv6jfad02",
       "restake": {
-        "address": "acre1774zxs7m8rgg5jjz80p26ylk3h8q265ee8c3fj",
+        "address": "acre1hzt3jr8tq9d2w948mcw6wzza7zvwd3vu0z6990",
 	"run_time": "every 1 hour",
         "minimum_reward": 10000
       }
