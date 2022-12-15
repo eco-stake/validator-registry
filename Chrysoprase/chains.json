@@ -7,7 +7,7 @@
         "address": "acrevaloper1csn8s4g52upaadcxum4sqnxprtc683uk6vdj56",
         "restake": {
         "address": "0x7bA26a4eb857182eb717aDD8d2F05DcB8377f226",
-        "run_time": ["09:00", "21:00"],
+        "run_time": ["every 5 minutes"],
         "minimum_reward": 100000000000000000
         }
     }
