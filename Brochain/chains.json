@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1p9dz40gk03ngjt5mtzwjyrvf3rg7vdrguf4uvf",
+      "restake": {
+        "address": "",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper1dyg6p6d3vaqfjqc7563xr4xfntjan6tcwakswx",
       "restake": {
@@ -54,6 +63,15 @@
         "address": "meme1fy8pfrsazl2wpgu8a2g8uq439amt5va7nv0u9k",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1k0pwkzsuk7xmzx57e47qxc2vwhjd8ja63wxjmx",
+      "restake": {
+        "address": "rebus1fy8pfrsazl2wpgu8a2g8uq439amt5va7ue67k2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
