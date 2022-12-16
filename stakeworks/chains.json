@@ -40,10 +40,10 @@
         },
        {
                 "name": "lumnetwork",
-                "address": "lumvaloper1axqn30kead92gdsg7pusc6ezxx8ltq465r3hv3",
+                "address": "lumvaloper16wq4nckv4asxa9uxskuuhkssd884296y8nv8wx",
                 "restake": {
-                "address": "lum1mjq48r6435aewerpruwc8up3tz3rzan2enr75p",
-                "run_time": "19:00",
+                "address": "lum1df3p2gft7hhunc0ptgxr3jy2kt2yclq64ena6g",
+                "run_time": "every 12 hours",
                 "minimum_reward": 100000
                 }
         }
