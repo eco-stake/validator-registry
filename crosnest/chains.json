@@ -295,7 +295,7 @@
       "address": "quickvaloper1q993rdek3hl6hwed3z89klf2d62d8pwv34uks5",
       "restake": {
         "address": "quick1v9vae554q55xa4pcfdm0p3kv8nxn50jk3ghq5m",
-        "run_time": "23:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
