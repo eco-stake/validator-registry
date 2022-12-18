@@ -51,7 +51,7 @@
       "name": "lumnetwork",
       "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
       "restake": {
-        "address": "lum1zz3wp5t24ej534nz5g7lxdazekx0aaek6y023g",
+        "address": "lum1xpw7qmxsc9v9vfw3v0uxy83y3ynald6mntzgy6",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 1000000
       }
