@@ -170,7 +170,7 @@
       "restake": {
         "address": "fetch1n4mmffygh8wdm8zfxxv30cg0aq9m2s07a5kmez",
         "run_time": "04:30",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -179,7 +179,7 @@
       "restake": {
         "address": "chihuahua1n4mmffygh8wdm8zfxxv30cg0aq9m2s07duj36h",
         "run_time": "04:45",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 100000
       }
     },
     {
