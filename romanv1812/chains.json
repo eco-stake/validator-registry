@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet",
+      "restake": {
+        "address": "quick1f85g9c9z92a0tlz3uec3l93yh6q40zsqvj36ty",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2",
       "restake": {
