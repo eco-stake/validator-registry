@@ -33,7 +33,7 @@
       "name": "likecoin",
       "address": "likevaloper1nsearc5dsjnk5xdvqfegj7zat6d5qntsnd4jyh",
       "restake": {
-        "address": "like1nsearc5dsjnk5xdvqfegj7zat6d5qnts9zrv5y",
+        "address": "like1l7n85dw8w7jfarnq39e8zj7x9rr8kjptaaasvl",
         "run_time": "every 60 minutes",
         "minimum_reward": 100000000
       }
