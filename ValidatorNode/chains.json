@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "OurLink | ValidatorNode",
+  "name": "ValidatorNode",
   "chains": [
     {
       "name": "akash",
