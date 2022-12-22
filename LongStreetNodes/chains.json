@@ -7,7 +7,7 @@
       "address": "bcnavaloper1gwcxmqwzjvgd9lwd3tckrvy8nj5rmxp2k0z5md",
       "restake": {
         "address": "bcna1rzmj90ucld9pkzp05flkjtjvl783982alhmz28",
-        "run_time": ["every 5 minutes"],
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000000000000000
       }
     },
