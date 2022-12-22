@@ -37,6 +37,15 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
        }
+      },
+      {
+      "name": "quicksilver",
+      "address": "quickvaloper19wp3y9h3h4yz7teevse22zpxa74skahmd6q3z6",
+      "restake": {
+        "address": "quick1059rn0ksgn4e7rp2yq48vp6s8zqy5tl94yuysv",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }    
       }
     ]
   }
