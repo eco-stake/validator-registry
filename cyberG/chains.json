@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "cyberG",
+  "chains": [
+  {
+    "name": "teritori",
+    "address": "torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g",
+    "restake": {
+      "address": "tori1jdzr4ql0kmxpljwamfqxnxhyn42tdvcl5r8zjy",
+      "run_time": [
+        "19:00"
+      ],
+      "minimum_reward": 100000
+    }
+  }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Apeiron Nodes 🔗",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1urzzga0tjwthu5aejujtgmh4kcvvpj87vk45rz",
+      "restake": {
+        "address": "terra1dnzm2lfnxusn6atezs9a75cw7f9p5da5g4wq4h",
+        "run_time": "01:18",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

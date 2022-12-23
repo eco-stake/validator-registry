@@ -7,8 +7,17 @@
       "address": "cerberusvaloper1evv5y2ake002n9l27t5qhqcwhgwd6up2m2yhcy",
       "restake": {
         "address": "cerberus1m8d834ykcy3dgrdve4xhxky3u3c2tl9dwln0sv",
-        "run_time": "every 1 hour",
+        "run_time": "every hour",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper16kctxuen3x2avvjj2mdwsl6g8n7d4vjkn45gqa",
+      "restake": {
+        "address": "bcna1m8d834ykcy3dgrdve4xhxky3u3c2tl9dggr8d4",
+        "run_time": "every hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -24,8 +33,8 @@
       "name": "sentinel",
       "address": "sentvaloper16yg44hae44lcdexmmk7wpaphny0ahmqf6zevq5",
       "restake": {
-        "address": "sent1rffg5ctm87snd4d8q2zk3rv9pk32md4p5xp9yk",
-        "run_time": "every 15 minutes",
+        "address": "sent1m8d834ykcy3dgrdve4xhxky3u3c2tl9dfr9lpg",
+        "run_time": "every hour",
         "minimum_reward": 1000000
       }
     },
@@ -33,8 +42,8 @@
       "name": "decentr",
       "address": "decentrvaloper1tk7wrqqwz5tlqw7sg4kdtultm3t6ucuf6p43m6",
       "restake": {
-        "address": "decentr1rffg5ctm87snd4d8q2zk3rv9pk32md4pyn3gp3",
-        "run_time": "every 15 minutes",
+        "address": "decentr1m8d834ykcy3dgrdve4xhxky3u3c2tl9dek4jy0",
+        "run_time": "every hour",
         "minimum_reward": 100000
       }
     },
@@ -62,6 +71,15 @@
       "restake": {
         "address": "desmos1h3g0cxusvhwkcpzxgedyvs699gyxxn9x33msua",
         "run_time": "daily",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper18qtxhdm3s5rxeau2ddwact6wczv984zs43t635",
+      "restake": {
+        "address": "jkl1m8d834ykcy3dgrdve4xhxky3u3c2tl9dtxahuc",
+        "run_time": "Every hour",
         "minimum_reward": 100000
       }
     },

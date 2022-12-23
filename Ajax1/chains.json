@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Ajax #1",
+  "chains": [
+	{
+      "name": "decentr",
+      "address": "decentrvaloper1xs269axzz664dt3tat6p6ucxj7cw3w3fs8q6n7",
+      "restake": {
+        "address": "decentr1qmwagq7g2cdantte03sdmtk596ecgwafcez665",
+          "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

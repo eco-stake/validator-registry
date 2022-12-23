@@ -181,6 +181,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name":"acrechain",
+      "address": "acrevaloper1qt6yf3fvz250uddj04rxglfd40v8nruqkmx2re",
+      "restake": {
+        "address": "acre15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4ey6rcq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name":"planq",
+      "address": "plqvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqzxjl7t",
+      "restake": {
+        "address": "plq15xjdrn6t0dyzgzfs8nagmg04yjvn8ls42ljup7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }

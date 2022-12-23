@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Classic Treasure",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1m0ra3jwgz2m0dygvqmu84y85t03g5lt7e5vt75",
+      "restake": {
+        "address": "terra1glug2c63rfj3s7zxsrrf2kpnnankfp7qhldngz",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}
