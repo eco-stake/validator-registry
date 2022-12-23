@@ -56,7 +56,6 @@
         "minimum_reward": 100000
       }
     },
-    ,
     {
       "name": "axelar",
       "address": "axelarvaloper1xy97mfxvm2qwtw7vt9e3m850eknxfwxd9l5ate",
@@ -66,7 +65,6 @@
         "minimum_reward": 100000
       }
     },
-,
     {
       "name": "passage",
       "address": "pasgvaloper10x0s5tzu6203c2zkqy37ar7pcfpdft9aepuahq",
