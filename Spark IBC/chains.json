@@ -7,7 +7,7 @@
          "address":"chihuahuavaloper149c3xwd6al6nphyvx8gkvnd9363rnc4v3uwcfu",
          "restake":{
             "address":"chihuahua1lzspks2wd9d2rz9qs4fkwlnxjemum2795adhh9",
-            "run_time":"every 15 minutes",
+            "run_time":"every 1 hour",
             "minimum_reward":100000
          }
       },
@@ -27,6 +27,15 @@
             "address":"gravity1lzspks2wd9d2rz9qs4fkwlnxjemum279ncjpn0",
             "run_time":"22:00",
             "minimum_reward":10000
+         }
+      },
+      {
+         "name": "jackal",
+         "address": "jklvaloper1enjczz55he8m2vre28gygj2qmqhcequel0cshe",
+         "restake": {
+           "address": "jkl1lzspks2wd9d2rz9qs4fkwlnxjemum279wkwg0c",
+           "run_time": "every 5 minutes",
+           "minimum_reward": 100000
          }
       },
       {

@@ -8,7 +8,7 @@
       "restake": {
         "address": "rebus1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxdl3w4p7",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -17,7 +17,16 @@
       "restake": {
         "address": "stride1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxddsdupy",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8",
+      "restake": {
+        "address": "jkl1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxdh9r3vh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
       }
     }
   ]

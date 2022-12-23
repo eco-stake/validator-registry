@@ -1,14 +1,16 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Coinstamp",
+  "name": "Morty's node",
   "chains": [
     {
-      "name": "rebus",
-      "address": "rebusvaloper1jk394yhsr3c0am9fezu7luqz3hvs2ey0dvej33",
+      "name": "decentr",
+      "address": "decentrvaloper18n2mmwq5tk226dt6duslt7z5qqsvqa89358tep",
       "restake": {
-        "address": "rebus1ryggz7lgyrqd76jthjc5d94jlaa0ekn6eeakz7",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "address": "decentr1vhpykg7qzv6cg2yh80wf8hfavwt9dtqcyfzxrz",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000000
       }
     }
   ]

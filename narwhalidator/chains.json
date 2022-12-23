@@ -6,12 +6,12 @@
 		"name": "stargaze",
 		"address": "starsvaloper17ggax30mkwwg74wsmw8h4966mdy7agwd84heqt",
 		"restake": {
-			"address": "stars17ggax30mkwwg74wsmw8h4966mdy7agwdvtrdmn",
+			"address": "stars1yrypz839yds0w7d7m8e7wljxr5yjnmqs25ryx8",
 			"run_time": [
 				"00:00",
 				"12:00"
 			],
-			"minimum_reward": 1
+			"minimum_reward": 100000
 		}
 	}]
 }

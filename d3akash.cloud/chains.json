@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "d3akash.cloud",
+  "chains": [
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1fhregy9yt8pjszzqz0u0u9ge3cfl0qp0640yas",
+      "restake": {
+        "address": "decentr1gvu0xvz0vut3xq07m87np9kns5y2pw5fv6nnz9",
+        "run_time": "15:00",
+        "minimum_reward": 20000000
+      }
+    }
+  ]
+}

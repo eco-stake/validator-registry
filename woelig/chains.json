@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Woelig Validators",
+  "chains": [
+    {
+      "name": "lambda",
+      "address": "lambvaloper1a6tn2al3l65hkf7kc3taapkx2mzru3yn02xwnu",
+      "restake": {
+        "address": "lamb1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8a2nx4h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1fgj2fdyw8cvq84jfp632f4ypjrrkrdrskms92s",
+      "restake": {
+        "address": "terra1hq43hnjd5dslplcjldw7m3zxdexeaudl9tk9ga",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "echelon",
+      "address": "echelonvaloper1tswl52qtws8lud7n8l09a7w2v5vcamzs26x9j3",
+      "restake": {
+        "address": "echelon1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8nnf76v",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1lqt34f3vtc9dywjjann4fzjvc0gwlmlwjw9g0j",
+      "restake": {
+        "address": "plq1slaaqufx2c26dxk0hy2ghvmsgd9ee8a804z5jf",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

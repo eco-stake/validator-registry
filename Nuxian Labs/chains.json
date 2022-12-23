@@ -17,9 +17,26 @@
       "restake": {
         "address": "rebus1vvumkjdmen9fsgu88zqv8eulpn79g4g0qex397",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 1000000000000000
+      }
+    },
+	{
+      "name": "osmosis",
+      "address": "osmovaloper1s0zwex6pxh3tzlvgwejparpfakh02r2atqln5e",
+      "restake": {
+        "address": "osmo1vvumkjdmen9fsgu88zqv8eulpn79g4g0egk586",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "acrechain",
+      "address": "acrevaloper1y5gtnge83c4k4gr395n5pz7szce95pec86ruzn",
+      "restake": {
+        "address": "acre1ygrzk0exmsk0aa8tkyx4hw5de477qe8m9zdh6a",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1
       }
     }
-
   ]
 }

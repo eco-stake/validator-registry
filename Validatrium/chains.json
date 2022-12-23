@@ -19,6 +19,69 @@
         "run_time": "9:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1fn9ldnvd5mt2fcn5prq2lhvcga6tmtlhugv8x3",
+      "restake": {
+        "address": "evmos12rwdetssq6l6y8ycd4py7fdwfemmck8wfpwch9",
+        "run_time": "21:00",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1u42wxen67wqcqad3fwlnvf77fagedu4k9zprsl",
+      "restake": {
+        "address": "umee1ludqm40uum3nurl80lqy9fc7dwdccj46fjqdjq",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1nqy7pllmkelu0x9zymr2jewrdadw4mag75cgyt",
+      "restake": {
+        "address": "agoric1ludqm40uum3nurl80lqy9fc7dwdccj46feldxy",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper15kt5vf67ywfrzspywqs5n9q9kzty0rhj7x6e29",
+      "restake": {
+        "address": "comdex1shheetj5xssp8pm5srfeaedd5ng5zm0kcldx44",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1xy97mfxvm2qwtw7vt9e3m850eknxfwxd9l5ate",
+      "restake": {
+        "address": "axelar1shheetj5xssp8pm5srfeaedd5ng5zm0km7ev8r",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper10x0s5tzu6203c2zkqy37ar7pcfpdft9aepuahq",
+      "restake": {
+        "address": "pasg1shheetj5xssp8pm5srfeaedd5ng5zm0kugk7pa",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chain4energy",
+      "address": "c4evaloper1ds4k2s5huy57vcvzg8qwrmfewmk4wus9464qk5",
+      "restake": {
+        "address": "c4e1uyn346pw0kekh6szelydak4ma96v5z5n0sy7y8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

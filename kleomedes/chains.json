@@ -163,6 +163,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+      {
+      "name": "stride",
+      "address": "stridevaloper128et6kpyl8ldcpklr2s2a6js2v7qk354xg5kxp",
+      "restake": {
+        "address": "stride1r8egcurpwxftegr07gjv9gwffw4fk009gv0kv0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
+    },
+      {
+      "name": "kava",
+      "address": "kavavaloper1dvjjqvkned0n7cx0ytsj8wt85xv3nnj9rkftx5",
+      "restake": {
+        "address": "kava1k8j9lw55rydg8jfcj57rq5yrfu0vvz2da0eh44",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
     }
   ]
 }

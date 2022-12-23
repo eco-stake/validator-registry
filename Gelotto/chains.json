@@ -46,6 +46,33 @@
         "run_time": "every 30 minutes",
         "minimum_reward": 100
       }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper19zcnlx080sju8yd0rne6j7eaftvjadv9j43klc",
+      "restake": {
+        "address": "jkl17htrh2z4uxpv33mg7g7k4qedwe0hljpxyc8fmj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qwpsd65",
+      "restake": {
+        "address": "chihuahua17htrh2z4uxpv33mg7g7k4qedwe0hljpx7nykr0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4q37z5fl",
+      "restake": {
+        "address": "rebus17htrh2z4uxpv33mg7g7k4qedwe0hljpxvv2dkm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
