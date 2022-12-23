@@ -3,12 +3,12 @@
   "name": "cyberomanov",
   "chains": [
     {
-      "name": "jackal",
-      "address": "jklvaloper1gr78zkvjenmp05s08d7qr4zcsdhst3ysy04h0p",
+      "name": "quicksilver",
+      "address": "quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh",
       "restake": {
-        "address": "jkl1p2nwxuvzctx6cpkyjqxkmyj5anzn4g4tdpe0l8",
+        "address": "quick1wtuflt4f8md700td4s7xst7jt6l58hnmy89asc",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 100
       }
     }
   ]
