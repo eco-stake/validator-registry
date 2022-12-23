@@ -39,27 +39,6 @@
       }
     },
     {
-      "name": "canto",
-      "address": "cantovaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw9kkdq8",
-      "restake": {
-        "address": "canto189j7qfrn9p692hj9ssv9z5j7cktwf69xv33p7x",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z90e2f5",
-      "restake": {
-        "address": "cerberus12xpq68caw2aqdu70jm4k792g0v9prhrpuyxd4n",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "cheqd",
       "address": "cheqdvaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw592tz7g5",
       "restake": {
@@ -112,18 +91,6 @@
       "address": "desmosvaloper1r0emf6ap6y5advzgtsf4uz3g68p5t5484j4alp",
       "restake": {
         "address": "desmos1nrt8va6he35w4vclr6sejkqpvsmr4vtas330me",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "dig",
-      "address": "digvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztrn4v0",
-      "restake": {
-        "address": "dig12xpq68caw2aqdu70jm4k792g0v9prhrpch00zr",
         "run_time": [
           "12:00",
           "24:00"
@@ -321,6 +288,30 @@
       }
     },
     {
+      "name": "pylons",
+      "address": "pylovaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zstf7ef",
+      "restake": {
+        "address": "pylo12xpq68caw2aqdu70jm4k792g0v9prhrpee3fyu",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zesdm36",
+      "restake": {
+        "address": "quick12xpq68caw2aqdu70jm4k792g0v9prhrpt8kke2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zryvw85",
       "restake": {
@@ -387,18 +378,6 @@
           "24:00"
         ],
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "vidulum",
-      "address": "vdlvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj280zj",
-      "restake": {
-        "address": "vdl14k57uv6ek0tmcpke3ksaapdn40rvu0l78dgfyx",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 10000
       }
     }
   ]
