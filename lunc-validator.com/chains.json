@@ -1,4 +1,8 @@
- {
+	{
+  "$schema": "../chains.schema.json",
+  "name": "MoonRunners",
+  "chains": [
+    {
       "name": "terra",
       "address": "terravaloper1der0lqp4grpnmpuefhwlj72fzccqmhmwgjh6ys",
       "restake": {
@@ -6,4 +10,6 @@
         "run_time": "01:15",
         "minimum_reward": 1000000000
       }
-    },
+    }
+  ]
+}
