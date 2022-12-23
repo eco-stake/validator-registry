@@ -50,7 +50,17 @@
         "run_time": "21:00",
         "minimum_reward": 1000
       }
-    },	  
+    },
+    
+    {
+      "name": "stride",
+      "address": "stridevaloper18g7e9hsjkl9u5papkkrfw5escqu86xtz3hft5u",
+      "restake": {
+        "address": "stride17swhfphmurxa6zyr4plx9cyc4993e7tgz9gu5h",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
 
     {
       "name": "bostrom",
