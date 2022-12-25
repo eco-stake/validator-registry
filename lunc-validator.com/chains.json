@@ -1,6 +1,6 @@
 	{
   "$schema": "../chains.schema.json",
-  "name": "MoonRunners",
+  "name": "lunc-validator.com",
   "chains": [
     {
       "name": "terra",
