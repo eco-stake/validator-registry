@@ -79,6 +79,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000
       }
+    },    
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1xesqr8vjvy34jhu027zd70ypl0nnev5ezjg5h9",
+      "restake": {
+        "address": "axelar1hhzf9u376mg8zcuvx3jsls7t805kzcrs99cusl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
