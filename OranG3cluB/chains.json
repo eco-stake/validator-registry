@@ -7,9 +7,72 @@
       "address": "junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq",
       "restake": {
         "address": "juno1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqvz4j8n",
-        "run_time": "21:00",
-        "minimum_reward": 50000
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1lmjdx68pv7yckaf9tw8py8ax6scssplvksq9qq",
+      "restake": {
+        "address": "gravity16xhmy6l3fknjadzszzye4huc8mwampznsuqxa4",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1up87cpxu86wv30k4d2g8tzhhqcka3n5mhmuf4f",
+      "restake": {
+        "address": "bitsong1k2jul50rq2ptwgajwutmfff2nka0d92mykp8s8",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1422gjxp0c343u0lypp728c48txuas8d2ywlqkq",
+      "restake": {
+        "address": "certik1422gjxp0c343u0lypp728c48txuas8d2n6mql6",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1u03aazcwhtnrplx9eeyv40y3klyusu6ztz35hc",
+      "restake": {
+        "address": "desmos1du0dt5gpuu70suvte4t7l3cw9fplj3hytzhahw",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15h93mze4d7uzls97pzy58rf9fplxmzyaw8gd4u",
+      "restake": {
+        "address": "stars16xhmy6l3fknjadzszzye4huc8mwampznqs9rnv",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+     {
+      "name": "rebus",
+      "address": "rebusvaloper1ppadxykp8x0v3m7y79w570k96fpgk4nchwacqh",
+      "restake": {
+        "address": "rebus16xhmy6l3fknjadzszzye4huc8mwampzn9x3tvt",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper14d48scv8w6rurhcd5dyeezgszmj0ucl5d5hgmq",
+      "restake": {
+        "address": "omniflix16xhmy6l3fknjadzszzye4huc8mwampznfjr80r",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
   ]
 }
