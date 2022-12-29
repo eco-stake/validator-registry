@@ -7,10 +7,7 @@
         "address": "umeevaloper12h8fpmg5qs570rmlem27km5xu4l2gv0lapuels",
         "restake": {
           "address": "umee12h8fpmg5qs570rmlem27km5xu4l2gv0la9mkw6",
-          "run_time": "every 1 hour", [
-            "00:00",
-            "12:00"
-          ],
+          "run_time": "every 1 hour",
           "minimum_reward": 100000
         }
       }
