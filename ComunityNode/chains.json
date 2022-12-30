@@ -1,0 +1,13 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ComunityNode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1qyyzwm55snqrwuchmem7yzxmxkg3lsevxmdzel",
+      "restake": {
+        "address": "plq1usrve292qwu6nma66zd8ukns98d205wn3u7w83",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },]
