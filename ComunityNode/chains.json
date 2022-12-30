@@ -7,7 +7,9 @@
       "address": "plqvaloper1qyyzwm55snqrwuchmem7yzxmxkg3lsevxmdzel",
       "restake": {
         "address": "plq1usrve292qwu6nma66zd8ukns98d205wn3u7w83",
-        "run_time": "21:00",
+        "run_time": "19:00",
         "minimum_reward": 100
-      }
-    }]}
+          }
+       } 
+    ]
+ }
