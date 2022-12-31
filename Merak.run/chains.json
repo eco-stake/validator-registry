@@ -3,6 +3,15 @@
   "name": "Merak.run",
   "chains": [
     {
+      "name": "sifchain",
+      "address": "sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x",
+      "restake": {
+        "address": "sif18hnw9arscc559gqt0eake3guyyv9k6wqa5ys96",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000000000000000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c",
       "restake": {
