@@ -1,7 +1,7 @@
 {
    "$schema":"../profile.schema.json",
    "name":"d3akash.cloud",
-   "identity":""
+   "identity":"",
    "website": "https://www.d3akash.cloud",
    "description": {
      "overview": "d3akash.cloud is an independent community infrastructure provider on the Akash Network.",
