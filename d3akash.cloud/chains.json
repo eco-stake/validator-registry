@@ -9,7 +9,7 @@
         "address": "decentr1gvu0xvz0vut3xq07m87np9kns5y2pw5fv6nnz9",
         "run_time": "15:00",
         "minimum_reward": 20000000
-      }
+       }
     },
     {
       "name": "kava",
@@ -21,16 +21,13 @@
       }
     },
     {
-      {
-        "name": "vidulum",
-        "address": "vdlvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mmx2x6s",
-        "restake": {
-          "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
-          "run_time": "10:00",
-          "minimum_reward": 100000
-        }
-      }
+      "name": "vidulum",
+      "address": "vdlvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mmx2x6s",
+      "restake": {
+        "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
+        "run_time": "10:00",
+        "minimum_reward": 100000
+     }
     }
-
   ]
 }
