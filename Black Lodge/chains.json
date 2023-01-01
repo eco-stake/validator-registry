@@ -39,6 +39,15 @@
       }
     },
     {
+      "name":"planq",
+      "address": "plqvaloper1pyxvm8dwe43xhqfynk2qzaud3r0vyc6dft4tv0",
+      "restake": {
+        "address": "plq1jdt2jqsxv7vwqthwtqyqwnz8r8w793n6mshqwl",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1xfztjfkfwg9cfldaygwyks79fpxq2x4kkgr06h",
       "restake": {
