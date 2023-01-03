@@ -21,6 +21,15 @@
            }
       },
       {
+           "name": "cheqd",
+           "address": "cheqdvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0cjfkwl",
+           "restake": {
+               "address":"cheqd1nszxyfxr5fpajlcfle0tvhptxknf5z9t6myxmq",
+               "run_time": "20:30",
+               "minimum_reward": 100000000
+           }
+      },
+      {
         "name": "rebus",
         "address": "rebusvaloper1nrx8ekdehynmxvxtl6vrhzthpm2ksa90x96ld2",
         "restake": {
