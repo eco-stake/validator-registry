@@ -24,7 +24,7 @@
       "name": "assetmantle",
       "address": "mantlevaloper1pmd5r3uu8tjfgywdksmj6st6k0s5llfw9la4cw",
       "restake": {
-        "address": "mantle1pmd5r3uu8tjfgywdksmj6st6k0s5llfw9qeprm",
+        "address": "mantle1c6p6hlfdmzq22ul5vmlty703hr02p6wlnqpgez",
         "run_time": "every 60 minutes",
         "minimum_reward": 100000
       }
