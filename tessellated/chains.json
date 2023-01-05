@@ -7,8 +7,8 @@
 			"address": "cosmosvaloper1fun809ksxh87nzf88yashp9ynjz6xkscrtvzvw",
 			"restake": {
 				"address": "cosmos1jw7a28g98q3e7ul9f78cuzxnaw67dax8xat2w3",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		},
 		{
@@ -16,8 +16,8 @@
 			"address": "evmosvaloper1mfu6uer0zatrqaz6435m2zk40ls25tt38r4t8t",
 			"restake": {
 				"address": "evmos19lxrasudzvm9dmhredcrfpme46rkutqtaqaqsy",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000000000000000
 			}
 		},
 		{
@@ -25,8 +25,8 @@
 			"address": "lumvaloper1m8rwaup0774h3pj0wrlk53cwd44jrx6nj9xkxy",
 			"restake": {
 				"address": "lum1h857x2r8dtdv68wvxm5jfwkmvpact6ntnly0f5",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		},
 		{
@@ -34,8 +34,8 @@
 			"address": "osmovaloper1n56swda49evz92zhcw2xc8esx6kzt8qm62hkep",
 			"restake": {
 				"address": "osmo1jw7a28g98q3e7ul9f78cuzxnaw67dax8wxc6cr",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		},
 		{
@@ -43,8 +43,8 @@
 			"address": "sommvaloper1n56swda49evz92zhcw2xc8esx6kzt8qm3yd5w3",
 			"restake": {
 				"address": "somm1jw7a28g98q3e7ul9f78cuzxnaw67dax82pyxlm",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		},
 		{
@@ -52,8 +52,8 @@
 			"address": "gravityvaloper1n56swda49evz92zhcw2xc8esx6kzt8qmaa8rhg",
 			"restake": {
 				"address": "gravity1jw7a28g98q3e7ul9f78cuzxnaw67dax8zdejte",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		},
 		{
@@ -61,8 +61,8 @@
 			"address": "junovaloper12udz3pg72mr3yupsguf29nj3gfqlluwq04rg0k",
 			"restake": {
 				"address": "juno1jw7a28g98q3e7ul9f78cuzxnaw67dax8s0g3fd",
-				"run_time": "9:00",
-				"minimum_reward": 10000000
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
 			}
 		}
 	]
