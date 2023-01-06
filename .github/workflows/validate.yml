@@ -5,6 +5,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - uses: batista/lint-filenames@v1
+        name: Validating filenames
+        with:
+          path: './'
+          pattern: '^[a-zA-Z0-9._-]*\/[a-zA-Z0-9._-]*$'
+
       - name: Validate profile.json schema
         uses: walbo/validate-json@v1.1.0
         with:
