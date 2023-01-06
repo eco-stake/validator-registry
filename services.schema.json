@@ -10,28 +10,26 @@
     },
     "services": {
       "type": "array",
-      "items": [
-        {
-          "type": "object",
-          "properties": {
-            "title": {
-              "type": "string"
-            },
-            "description": {
-              "type": "string"
-            },
-            "image": {
-              "type": "string"
-            },
-            "url": {
-              "type": "string"
-            }
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
           },
-          "required": [
-            "title"
-          ]
-        }
-      ]
+          "description": {
+            "type": "string"
+          },
+          "image": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "title"
+        ]
+      }
     }
   },
   "required": [
