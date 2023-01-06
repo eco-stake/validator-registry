@@ -16,19 +16,6 @@
     },
 	  
     {
-      "name": "kichain",
-      "address": "kivaloper1dm98ttse9xefpgfzvl2wnq6hcrhx8ndxd4stz8",	    
-      "restake": {
-        "address": "ki1g3laz9zpgy8x4k3gdkydf4umnepaug4wx2k8tk",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-	
-    {
       "name": "acrechain",
       "address": "acrevaloper1rvrecs7f3pdlplq75nhqtmegruthhsn8xqjr0z",
       "restake": {
@@ -54,19 +41,6 @@
       }
     },
 	  
-    {
-      "name": "cheqd",
-      "address": "cheqdvaloper1cvqgyhk30zsypwu75f39ztp9ta68deau6sukhs",
-      "restake": {
-        "address": "cheqd1g3laz9zpgy8x4k3gdkydf4umnepaug4we9tgyn",
-        "run_time": [
-          "09:00",
-          "21:00"
-	],
-        "minimum_reward": 10000000
-      }
-    },	  
-
     {
       "name": "cosmoshub",
       "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
