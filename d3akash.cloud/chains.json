@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "bandchain",
+      "address": "bandvaloper1em0rejsr2wva5flz7fv9qkx6wc755cvcqe9teq",
+      "restake": {
+        "address": "band1em0rejsr2wva5flz7fv9qkx6wc755cvcv0pgut",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },      
+    {
       "name": "vidulum",
       "address": "vdlvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mmx2x6s",
       "restake": {
