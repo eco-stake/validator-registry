@@ -12,11 +12,20 @@
       }
     },
     {
+      "name": "acrechain",
+      "address": "acrevaloper19gwnx0zr5pzn7la5j2q2mevqk53xyc80q8cgfe",
+      "restake": {
+        "address": "acre1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfy9ra84",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+       }
+	  },
+    {
       "name": "oraichain",
       "address": "oraivaloper19qrzfv932kccqf4r44jv7xku7rndnd6vhr6t6e",
       "restake": {
         "address": "orai1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zjng50g",
-        "run_time": ["03:00","09:00", "15:00", "21:00"],
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -108,15 +117,6 @@
         "address": "panacea13ls6wes07v79y33vpdxkm3yyn8gx6qhy9g3y0z",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "galaxy",
-      "address": "galaxyvaloper1nudskr0tr2nmev043dgy74p0dhkj2x782wsdf6",
-      "restake": {
-        "address": "galaxy1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zalch9f",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000000
       }
     },
     {
