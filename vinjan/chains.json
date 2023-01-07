@@ -1,0 +1,11 @@
+  {
+      "name": "planq",
+      "address": "plqvaloper1csj5g5j4r682apvjckdk3qldkup4y0745djamf",
+      "restake": {
+        "address": "plq1csj5g5j4r682apvjckdk3qldkup4y0742nl8ac",
+        "run_time": "every 60 minute",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
