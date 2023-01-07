@@ -1,12 +1,12 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Indonode",
+  "name": "adanode",
   "chains": [
     {
       "name": "planq",
-      "address": "plqvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzvqzm9w",
+      "address": "plqvaloper1wqyfhjmn37w6jp4wq23z6alnnxx7fu2rxsa7lt",
       "restake": {
-        "address": "plq1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzj70prl",
+        "address": "plq1sjvvmt7djrlv63q6h7f3hwsy3n9ulz9z4pjccm",
         "run_time": "19:00",
         "minimum_reward": 100
           }

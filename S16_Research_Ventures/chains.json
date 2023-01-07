@@ -19,7 +19,7 @@
       "restake": {
         "address": "juno1yw3j54275lz30aamjcwk67kf2fd70mtdrx9kvm",
         "run_time": [
-          "03:00"
+          "04:00"
         ],
         "minimum_reward": 10000
       }
@@ -30,7 +30,7 @@
       "restake": {
         "address": "osmo1yw3j54275lz30aamjcwk67kf2fd70mtda04aa4",
         "run_time": [
-          "03:00"
+          "05:00"
         ],
         "minimum_reward": 10000
       }
