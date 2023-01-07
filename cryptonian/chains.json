@@ -17,7 +17,7 @@
       "restake": {
         "address": "band18jqyewtnut96n5v3gyvsjdz3ql6yu78a8svd99",
         "run_time": "01:00",
-        "minimum_reward": 100000000
+        "minimum_reward": 500000
       }
     }
   ]
