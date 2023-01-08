@@ -19,6 +19,14 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
-    }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1nnygsslaytzs5ncm396j800sj5nld0hk5tyl4m",
+      "restake": {
+        "address": "plq1tjdjlytrg8mp32qzjlxp94d66yzuls9spx72ly",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
   ]
 }
