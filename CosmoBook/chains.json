@@ -28,5 +28,6 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    }
   ]
 }
