@@ -3,6 +3,33 @@
   "name": "  OtterSync",
   "chains": [
     {
+      "name": "konstellation",
+      "address": "darcvaloper1tsjm48k260ma372g3ejwjyy58lj8v4ae8mrufp",
+      "restake": {
+        "address": "darc1p0mr7h222e7ljkcmuje8gz0ayv43u50q7s3y6n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper18l70l7sy36g5zh56tuwpghuxj2gwv7gytlkdc0",
+      "restake": {
+        "address": "umee1p0mr7h222e7ljkcmuje8gz0ayv43u50qn8c2nk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1r2a26np3dj78chvtuj69y5l25gsn3k22jp9z7w",
+      "restake": {
+        "address": "acre1kwtg8cpuv2rujxcz8myx3tguw4gva83ut09d4m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper187skn7mt3phlfqc2ydp8dafyuvwgrzjtr5hzj3",
       "restake": {
