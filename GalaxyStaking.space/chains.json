@@ -41,7 +41,7 @@
       "restake": {
         "address": "XXXX",
         "run_time": "18:00",
-        "minimum_reward": XXXX
+        "minimum_reward": 1000000000000000000
       }
     }
   ]
@@ -51,7 +51,7 @@
       "address": "evmosvaloper1d6c097pmd6avh0x3spfwc0cagc690e2mmkpx4h",
       "restake": {
         "address": "evmos1gx00xtkh9pvxjkgagzarhy9q70egk64jxet3qr",
-        "run_time": "21:15",
+        "run_time": "18:00",
         "minimum_reward": 100000000000000
       }
     }
@@ -61,9 +61,9 @@
       "name": "stride",
       "address": "stridevaloper1qcduesnr70z2mdf6nqpxxlwtzvqtqhnzm5ace2",
       "restake": {
-        "address": "XXXX",
+        "address": "stride1mx4djyhd9hnenqksx8az0hvysze0eqag2ae25x",
         "run_time": "18:00",
-        "minimum_reward": XXXXX
+        "minimum_reward": 1000000
       }
     }
   ]
