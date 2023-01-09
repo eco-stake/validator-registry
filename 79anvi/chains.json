@@ -8,7 +8,16 @@
       "restake": {
         "address": "rizon1cnnq3qxad0sx9jc0m440tqt3rwhpxqw80mwraw",
         "run_time": "23:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1ppvfpcp7grhgpkvse4rk877ysuztg73r04y68z",
+      "restake": {
+        "address": "mantle1ppvfpcp7grhgpkvse4rk877ysuztg73r02qwuh",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
       }
     }
   ]
