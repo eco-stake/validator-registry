@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "GalaxyStaking.space 🌑",
+  "services": [
+    {
+      "title": "GalaxyStaking.space",
+      "description": "We provide high quality infrastructure support: statesync snapshots, IBC relayers, etc.",
+      "url": "https://galaxystaking.space"
+    }
+  ]
+}
