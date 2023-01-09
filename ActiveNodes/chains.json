@@ -147,6 +147,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper1vefejvxthndkm76y96jcnx6qfafvf75emxq6g6",
+      "restake": {
+        "address": "quick1w4du0y6705rqregfl6cktm7swds6t4dsk7znyy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "rizon",
       "address": "rizonvaloper1u4285azprzlrqpq45azsw7464ymmw4juqww8em",
       "restake": {
