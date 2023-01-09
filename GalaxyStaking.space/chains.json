@@ -10,9 +10,7 @@
         "run_time": "18:00",
         "minimum_reward": 1000000
       }
-    }
-  ]
-  "chains": [
+    },
     {
       "name": "cryptoorgchain",
       "address": "crocncl10leq9pzrgecla7kskar59zw04atft5ehwtkafz",
@@ -21,9 +19,7 @@
         "run_time": "18:00",
         "minimum_reward": 1000000
       }
-    }
-  ]
-  "chains": [
+    },
     {
       "name": "cryptoorgchain",
       "address": "crocncl16mfms4pnyrx9uzal2ulh367cudsep48wcm7fgq",
@@ -32,9 +28,7 @@
         "run_time": "18:00",
         "minimum_reward": 1000000
       }
-    }
-  ]
-  "chains": [
+    },
     {
       "name": "acrechain",
       "address": "acrevaloper17j2z96kwktql80ql9qa3ljg9zj0jvue5x2njyk",
@@ -43,9 +37,7 @@
         "run_time": "21:30",
         "minimum_reward": 1000000000000000000
       }
-    }
-  ]
-  "chains": [
+    },
     {
       "name": "evmos",
       "address": "evmosvaloper1d6c097pmd6avh0x3spfwc0cagc690e2mmkpx4h",
@@ -54,9 +46,7 @@
         "run_time": "21:30",
         "minimum_reward": 100000000000000
       }
-    }
-  ]
-  "chains": [
+    },
     {
       "name": "stride",
       "address": "stridevaloper1qcduesnr70z2mdf6nqpxxlwtzvqtqhnzm5ace2",
