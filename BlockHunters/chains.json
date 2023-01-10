@@ -13,7 +13,7 @@
     },
     {
       "name": "juno",
-      "address": "junovaloper1ss7vkqzfal7h4m8ug8lh8peqqyt7vq3s33yv7a",
+      "address": "junovaloper1symf474wnypes2d3mecllqk6l26rwz8m9fpvvx",
       "restake": {
         "address": "juno1g4v4qvnmmqhuprq0f6vvzm6hv67vet67z82j9t",
         "run_time": "every 2 hours",
@@ -111,15 +111,6 @@
       }
     },
     {
-      "name": "galaxy",
-      "address": "galaxyvaloper1symf474wnypes2d3mecllqk6l26rwz8mdcpcca",
-      "restake": {
-        "address": "galaxy1g4v4qvnmmqhuprq0f6vvzm6hv67vet67g20ff9",
-        "run_time": "every 2 hours",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "emoney",
       "address": "emoneyvaloper1ss7vkqzfal7h4m8ug8lh8peqqyt7vq3ssadctg",
       "restake": {
@@ -142,7 +133,7 @@
       "address": "torivaloper1symf474wnypes2d3mecllqk6l26rwz8mtqqwe7",
       "restake": {
         "address": "tori1g4v4qvnmmqhuprq0f6vvzm6hv67vet67kp7qe8",
-        "run_time": "every 2 hours",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1000000
       }
     },
