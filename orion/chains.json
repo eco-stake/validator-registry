@@ -1,0 +1,24 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Orion",
+	"chains": [
+		{
+			"name": "terra",
+			"address": "terravaloper1259cmu5zyklsdkmgstxhwqpe0utfe5hhyty0at",
+			"restake": {
+				"address": "terra1japzkwv6qwvf2y5gjgnxmwfm04dfqf6g78qlxc",
+				"run_time": ["09:00", "21:00"],
+				"minimum_reward": 1000000000
+			}
+		},
+		{
+			"name": "terra2",
+			"address": "terravaloper1dvl464gpzxwru4a97q6pzqv7n7rcnxwlyspnau",
+			"restake": {
+				"address": "terra1japzkwv6qwvf2y5gjgnxmwfm04dfqf6g78qlxc",
+				"run_time": ["09:00", "21:00"],
+				"minimum_reward": 1000000
+			}
+		}
+	]
+}
