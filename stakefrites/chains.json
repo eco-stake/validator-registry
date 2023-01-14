@@ -73,6 +73,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper12q5gurzhd8qnx234p8v3zrk8ypva6nxzzfjdws",
+      "restake": {
+        "address": "fetch1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6u98h34",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }
