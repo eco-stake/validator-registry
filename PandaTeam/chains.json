@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PandaTeam",
+  "chains": [
+        {
+      "name": "fetchhub",
+      "address": "fetchvaloper1q77f2plk5ay34gu2y7v5pdj8wxcmrr54n8wnw0",
+      "restake": {
+        "address": "fetch14pzkm374tq00jsr25ggfz82923u2gepysur6e3",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}
