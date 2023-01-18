@@ -1,0 +1,13 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Huginn",
+    "chains": [
+      {
+        "name": "dyson",
+        "address": "dysvaloper1t4v8l6l435k5zj4sdvz0acxhzwt4lcjf4qm03v",
+        "restake": {
+          "address": "dys12alxgv7rsq5fjjlxjmyt6qg0zepvdam5tqdh95",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1
+        }
+      },
