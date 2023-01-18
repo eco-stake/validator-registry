@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeSeeker by BTCS",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1g9kggelx2h05lrmrla44dye59a77t4axqzlufy",
+      "restake": {
+        "address": "akash1g9kggelx2h05lrmrla44dye59a77t4ax2q36ew",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+}
