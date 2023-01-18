@@ -4,9 +4,9 @@
   "chains": [
     {
       "name": "oraichain",
-      "address": "oraivaloper1mrv57zj3dpfyc9yd5xptnz2tqfez9fss4c9r85",
+      "address": "oraivaloper1udwk6dk66als6a6hkrt5qk3wnpngwz305gg75w",
       "restake": {
-        "address": "orai1fyjlpgsf2n9pgz709jx07ythk9zmcr7a2x26ct",
+        "address": "orai1nppslq3d3g87nhm45nvp4m8ctw3xuz23qwqxnf",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
