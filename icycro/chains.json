@@ -12,24 +12,6 @@
       }
     },
     {
-      "name": "cryptoorgchain",
-      "address": "crocncl1j47t9xajph8fxe87mx9n6yjz05u64vr77mxwkd",
-      "restake": {
-        "address": "cro130avwa5n55uc95v0renn5r08ksvcevq86g0es8",
-        "run_time": ["06:30", "18:30"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "cryptoorgchain",
-      "address": "crocncl19zsj3eyhk678nz5z0nxgy5fsavw9dx347r9gfr",
-      "restake": {
-        "address": "cro1lqxy94ej8jce69g82rgtl0l9ftmklxmmw9v9yp",
-        "run_time": ["07:30", "19:30"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1ukpah0340rx7k3x2njnavwyjv6pfpvn632df9q",
       "restake": {
