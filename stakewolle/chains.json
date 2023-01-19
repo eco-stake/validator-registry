@@ -239,7 +239,7 @@
     "restake": {
       "address": "like1m7xlymnpxl2d4llu67v08e8xs67dj2fz5f0f48",
       "run_time": "every 2 hours",
-      "minimum_reward": 100000
+      "minimum_reward": 10000
     }
   },
   {
