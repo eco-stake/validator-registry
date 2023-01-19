@@ -81,8 +81,9 @@
         "address": "c4e1uyn346pw0kekh6szelydak4ma96v5z5n0sy7y8",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
-      },
-    {
+      }
+     },
+     {
       "name": "Ki",
       "address": "kivaloper1ng0fz2hnln4gcyrhfjgkcedwx8yd44yezykr6t",
       "restake": {
@@ -90,6 +91,6 @@
         "run_time": "21:00",
         "minimum_reward": 10000000
       }
-    }
+    } 
   ]
 }
