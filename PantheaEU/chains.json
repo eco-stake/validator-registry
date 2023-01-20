@@ -57,6 +57,15 @@
       }
     },
     {
+      "name":"provenance",
+      "address":"pbvaloper1ux5wplu9xcazkjga0wjnlcdsdy0e3ttuxplhc9",
+      "restake":{
+        "address":"pb1t2h366ql9tuw0uufpqc7m3ce875v6q04fhsgd8",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward":1000000000
+      }
+    },
+    {
       "name": "shentu",
       "address": "certikvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lkr3q8z",
       "restake": {
