@@ -153,6 +153,14 @@
         "address": "stride1hl0jgxre5z0nkyjj07c5vfdy44yk44at65zsm3",
         "run_time": "22:30",
         "minimum_reward": 100000
+      },
+    {
+      "name": "injective",
+      "address": "injvaloper1mwerm24kce7dcl59t6n0caw7c8zxgkrjj9svwj",
+      "restake": {
+        "address": "inj135e4ecavyr73p6238edqlpwfwty3fhjnqar24f",
+        "run_time": "22:30",
+        "minimum_reward": 100000
       }
     }
   ]
