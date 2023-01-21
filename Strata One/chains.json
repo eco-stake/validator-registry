@@ -7,7 +7,7 @@
       "address": "persistencevaloper109yg6yhcyy5mfyteqmcn3pjca9nu9s39fxwh07",
       "restake": {
         "address": "persistence1fzwyavdvpuyh93ylkfzgl5jjsjhakhnktnu9a8",
-        "run_time": ["18:05", "00:05"],
+        "run_time": ["18:00", "00:00"],
 
         "minimum_reward": 10000
       }
@@ -17,10 +17,20 @@
       "address": "sentvaloper109yg6yhcyy5mfyteqmcn3pjca9nu9s392spdr9",
       "restake": {
         "address": "sent1fzwyavdvpuyh93ylkfzgl5jjsjhakhnk7yv0hv",
-        "run_time": ["18:05", "00:05"],
+        "run_time": ["18:00", "00:00"],
 
         "minimum_reward": 10000
       }
-     }
+     },
+    {
+      "name": "asset-mantle",
+      "address": "mantlevaloper109yg6yhcyy5mfyteqmcn3pjca9nu9s39s4hgvu",
+      "restake": {
+        "address": "mantle1fzwyavdvpuyh93ylkfzgl5jjsjhakhnkmmpnvf",
+        "run_time": ["18:00", "00:00"],
+
+        "minimum_reward": 10000
+      }
+    } 
   ]
 }
