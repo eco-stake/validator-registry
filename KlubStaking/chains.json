@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Klub Staking",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1guxcdkaf3s44ttlpdr3h79vwfka26h9gqusx7h",
+      "restake": {
+        "address": "tori1hp4kawlxjpzdfx4lnuy8d2u8ecrznve6dfrdm3",
+        "run_time": "every 12 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
