@@ -61,7 +61,7 @@
       "address": "plqvaloper1rsfdz4l8xyv3cqfh0wfkk8nmx72hlt980zcjye",
       "restake": {
         "address": "plq1xtfheepfhswusphmnvsrkulwcutd2wcwkkfhms",
-        "run_time": "every 15 minutes",
+        "run_time": "every 3 minutes",
         "minimum_reward": 100000000000000000
       }
     },
