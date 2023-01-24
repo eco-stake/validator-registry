@@ -35,7 +35,7 @@
       "restake": {
         "address": "acre1kwtg8cpuv2rujxcz8myx3tguw4gva83ut09d4m",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000
+        "minimum_reward": 500000000000000
       }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
         "address": "cheqd1p0mr7h222e7ljkcmuje8gz0ayv43u50q0nf4u4",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "kava1pmmp36ekdnmrf6rye2ptnwcustlh0lcgw2wgze",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -107,7 +107,7 @@
       "restake": {
         "address": "ixo1p0mr7h222e7ljkcmuje8gz0ayv43u50q7ym8nh",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -116,7 +116,7 @@
       "restake": {
         "address": "lum15cdlgzngghqtrp2ch9m0f5dc0c865a7je8mcdk",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -125,7 +125,7 @@
       "restake": {
         "address": "pb16g9gl6kxznn6xya0fkq60xpm2pteucw3c8frfe",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -143,7 +143,7 @@
       "restake": {
         "address": "kujira1p0mr7h222e7ljkcmuje8gz0ayv43u50qse8d6w",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     }
   ]
