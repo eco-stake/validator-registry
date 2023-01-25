@@ -163,6 +163,51 @@
         "run_time": "22:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper13eq8xt9nu4v4la9hc5aeevksenu3se49qxj5xu",
+      "restake": {
+        "address": "quick1hl0jgxre5z0nkyjj07c5vfdy44yk44atjmj7k0",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1wt9lh4zqe8qqe7azc943l0cyn2kzwk3ps4h00h",
+      "restake": {
+        "address": "certik1hl0jgxre5z0nkyjj07c5vfdy44yk44at7h7mwk",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1u0ch8y4ts6qxaqgw5h05mvtca0zq9rtfdwpytm",
+      "restake": {
+        "address": "omniflix1hl0jgxre5z0nkyjj07c5vfdy44yk44atypn4cr",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva14ffz956stez2kgqlvz0g342fkts25hndqcaaqf",
+      "restake": {
+        "address": "iaa1hl0jgxre5z0nkyjj07c5vfdy44yk44atvazadv",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper133snxpf4sp5zezm3vnxzx0c7078g4acue3aj92",
+      "restake": {
+        "address": "pasg1hl0jgxre5z0nkyjj07c5vfdy44yk44at68mkzz",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
