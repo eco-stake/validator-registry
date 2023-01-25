@@ -17,7 +17,7 @@
       "restake": {
         "address": "terra1hq43hnjd5dslplcjldw7m3zxdexeaudl9tk9ga",
         "run_time": "every 24 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -36,6 +36,24 @@
         "address": "plq1slaaqufx2c26dxk0hy2ghvmsgd9ee8a804z5jf",
         "run_time": "every 1 minute",
         "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper16xp908ggtnau0w7wzgmxtvxns845yflhp0eehu",
+      "restake": {
+        "address": "vdl1e762e7chsgz3aurtelcz948j8gscfr0q22js38",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1qv0jj82229n73umwx6493gd7s5sn6agmx72h09",
+      "restake": {
+        "address": "lumen1e762e7chsgz3aurtelcz948j8gscfr0q6mxuhz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
       }
     }
   ]
