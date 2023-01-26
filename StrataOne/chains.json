@@ -21,6 +21,16 @@
 
         "minimum_reward": 10000
       }
-     }
+    },
+    {
+      "name": "mantle",
+      "address": "mantlevaloper109yg6yhcyy5mfyteqmcn3pjca9nu9s39s4hgvu",
+      "restake": {
+        "address": "mantle1fzwyavdvpuyh93ylkfzgl5jjsjhakhnkmmpnvf",
+        "run_time": ["18:05", "00:05"],
+
+        "minimum_reward": 10000
+      }
+    } 
   ]
 }
