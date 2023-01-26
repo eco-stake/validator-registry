@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Forza ⚡️",
+    "chains": [
+      {
+        "name": "cryptoorgchain",
+        "address": "crocncl1qvhu7slzcdf3rer07y3au2xwxkwugr77xsylxv",
+        "restake": {
+          "address": "cro1ar35vxaasspxeqrfe59nqykp77qh85kgl6r9nt",
+          "run_time": "every 4 hours",
+          "minimum_reward": 10000000
+        }
+      }
+    ]
+}
