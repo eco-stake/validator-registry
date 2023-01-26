@@ -111,6 +111,15 @@
       }
     },
     {
+      "name": "lambda",
+      "address": "lambvaloper137jru6fph8qudzgjudynl6v8tr8wwws5pum498",
+      "restake": {
+        "address": "lamb1w37sg25lvt47yflnm6m4eky6ggdqprm7qteln5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1upm4qs3k97qn4m9f68gj099d70sa8qxjxr9ye2",
       "restake": {
