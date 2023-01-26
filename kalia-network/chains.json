@@ -147,6 +147,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper1f4tw9vx6jfpds8jx2gt75l6cq6kkcd6lcdmgc9",
+      "restake": {
+        "address": "quick1wv5zr0sfynf2d78c0u49h3kuqnhhqgcszq0wvn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1r5pu872mym6pd79lxm9wj7alm37glyzr3hsna3",
       "restake": {
