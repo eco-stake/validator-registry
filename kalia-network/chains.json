@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1a2vuwmhvs8ee92mcs7yssd4hx2qnqjhrq5c8jq",
+      "restake": {
+        "address": "jkl1wv5zr0sfynf2d78c0u49h3kuqnhhqgcss63dv7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1upm4qs3k97qn4m9f68gj099d70sa8qxjxr9ye2",
       "restake": {
