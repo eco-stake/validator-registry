@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Blockval",
+  "identity": "0F25E489A4D3C794",
+  "website": "https://www.blockval.io",
+  "description": {
+    "overview": "Blockval operates a validator node on Oraichain, but plans to expand to other Cosmos chains.",
+    "team": "Validator run by crypto enthusiasts. No surprise comission rises, constant node monitoring, community support."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@blockval.io",
+    "telegram": "https://t.me/Blockval",
+    "twitter": "https://twitter.com/blockval_io",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
