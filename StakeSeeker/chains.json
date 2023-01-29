@@ -6,7 +6,31 @@
       "name": "akash",
       "address": "akashvaloper1g9kggelx2h05lrmrla44dye59a77t4axqzlufy",
       "restake": {
-        "address": "akash1g9kggelx2h05lrmrla44dye59a77t4ax2q36ew",
+        "address": "cosmos1gx2df757m6pv93pvd9g3kc02mf2eq8azfk4agr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1wezeynt54vsmmclh6xr0l25t2ufrz5hg67yxrm",
+      "restake": {
+        "address": "cosmos1gx2df757m6pv93pvd9g3kc02mf2eq8azfk4agr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "cosmosvaloper1kyfce0nvluyhgfsdzz8hwrsf5336gsc95pyy4u",
+      "restake": {
+        "address": "cosmos1gx2df757m6pv93pvd9g3kc02mf2eq8azfk4agr",
         "run_time": [
           "09:00",
           "21:00"
