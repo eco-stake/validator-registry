@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Dwentz™|castrum",
+  "name": "Dwentz™",
   "chains": [
     {
       "name": "planq",
