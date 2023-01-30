@@ -7,7 +7,7 @@
       "address": "oraivaloper1uhcwtfntsvk8gpwfxltesyl4e28aalmq9v9z0x",
       "restake": {
         "address": "orai1r8p3thyau7qhjqlja73ccmxfr02p6e3mzsmrm0",
-        "run_time": "hourly",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
