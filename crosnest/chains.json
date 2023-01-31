@@ -304,7 +304,7 @@
       "address": "marsvaloper1ytlzdaclnxr4zxwhngu2a9vfqlmaejy9yafmda",
       "restake": {
         "address": "mars1v9vae554q55xa4pcfdm0p3kv8nxn50jk837tcj",
-        "run_time": "23:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
