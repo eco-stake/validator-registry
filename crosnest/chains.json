@@ -300,6 +300,15 @@
       }
     },
     {
+      "name": "mars",
+      "address": "marsvaloper1ytlzdaclnxr4zxwhngu2a9vfqlmaejy9yafmda",
+      "restake": {
+        "address": "mars1v9vae554q55xa4pcfdm0p3kv8nxn50jk837tcj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
