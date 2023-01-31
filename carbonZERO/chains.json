@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "canto",
+      "address": "cantovaloper15qssqkxe3lmjgpzec6sltvas4j62f4mdu090md",
+      "restake": {
+        "address": "canto1p7zjk2xd6eez2g9nzcw3wyavfphg06y8t85duc",
+        "run_time": "every 3 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1t85yx95l5pajl9hwkeztawqf8sg9uh4lglgu9w",
       "restake": {
