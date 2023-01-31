@@ -219,6 +219,15 @@
       }
     },
     {
+      "name": "mars",
+      "address": "marsvaloper1c4r6mndnmrvr9455e88nad7lg09zd89f3c0xpq",
+      "restake": {
+        "address": "mars1a0q8rqxy9npr3hysrammsegrxwekuamwc0dp8w",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1r6usxgxmrz6ynjz2y5ez5u8ts3fpmtlrl8c9xr",
       "restake": {
