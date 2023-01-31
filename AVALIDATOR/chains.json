@@ -1,7 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "⛩🥚AVALIDATOR🥚⛩
-",
+  "name": "⛩🥚AVALIDATOR🥚⛩",
   "chains": [
 {
       "name": "teritori",
