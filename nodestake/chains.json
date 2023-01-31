@@ -208,6 +208,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper19f0w9svr905fhefusyx4z8sf83j6et0gf69a2j",
+      "restake": {
+        "address": "mars1etsdevgm5ps240lrw9mg3p2j32tj96ktnzuc8k",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
