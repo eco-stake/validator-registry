@@ -60,7 +60,7 @@
       "name": "mars",
       "address": "marsvaloper1lxgmrxgczfcjtmx3p5mzfw93uwnmwh7rgvynd9",
       "restake": {
-        "address": "mars1lxgmrxgczfcjtmx3p5mzfw93uwnmwh7ruqcxfq",
+        "address": "mars1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvpun035",
         "run_time":"every 5 minutes",
         "minimum_reward": 100000
       }
