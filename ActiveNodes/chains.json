@@ -138,6 +138,15 @@
       }
     },
     {
+      "name": "panacea",
+      "address": "panaceavaloper18ucrwuvzgzmh9dlurmeq5c4hljdgnkp2fwmkcm",
+      "restake": {
+        "address": "panacea1tslafy7gnalqha8ryvp8gyf60tyslcg7rlu0hv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper1qjeasl5jgufwdm23gk5zcnlszjc3dzhu20yaxn",
       "restake": {
