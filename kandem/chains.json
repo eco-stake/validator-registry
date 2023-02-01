@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Planq Guardians",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1vsk67lclu0kwa2nr9k6n49vl8qjkguaf4lr5vy",
+      "restake": {
+        "address": "plq1vsk67lclu0kwa2nr9k6n49vl8qjkguaftpww24",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000000
+      }
+    }
+  ]
+}
