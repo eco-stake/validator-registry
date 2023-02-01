@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1xwazl8ftks4gn00y5x3c47auquc62ssucyym4v",
+      "restake": {
+        "address": "inj13craf042e76qasxu6f8vl9ds7vtcajyxntrhcj",
+        "run_time": "12:30,22:30",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1xwazl8ftks4gn00y5x3c47auquc62ssuvynw64",
       "restake": {
@@ -126,6 +135,15 @@
         "address": "lum195mm9y35sekrjk73anw2az9lv9xs5mzt0uj0fr",
         "run_time": "every 1 hour",
         "minimum_reward": 200000000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1xwazl8ftks4gn00y5x3c47auquc62ssuv6rkhw",
+      "restake": {
+        "address": "mars195mm9y35sekrjk73anw2az9lv9xs5mzt8tklfv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
