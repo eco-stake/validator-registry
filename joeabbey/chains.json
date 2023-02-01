@@ -97,7 +97,7 @@
       "address": "evmosvaloper17vze0tk7q7gwpd6jt69p4m5svrty40yw9a88e3",
       "restake": {
         "address": "evmos13craf042e76qasxu6f8vl9ds7vtcajyxmr9asz",
-        "run_time": "12:30,22:30",
+        "run_time": [ "12:30" , "22:30"],
         "minimum_reward": 100000000000000000
       }
     },
