@@ -35,7 +35,7 @@
 			"restake": {
 				"address": "mars17cunmzejjpx4xzrt6u4fmtf2g66zun3nq5dk46",
 				"run_time": ["09:00", "21:00"],
-				"minimum_reward": 1000000
+				"minimum_reward": 10000
 			}
 		}
 	]
