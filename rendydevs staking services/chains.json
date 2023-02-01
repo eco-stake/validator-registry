@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "rendydevs staking services",
+    "name": "rendydevs.services",
     "chains": [
       {
         "name": "planq",
