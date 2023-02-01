@@ -106,7 +106,7 @@
       "address": "injvaloper1xwazl8ftks4gn00y5x3c47auquc62ssucyym4v",
       "restake": {
         "address": "inj13craf042e76qasxu6f8vl9ds7vtcajyxntrhcj",
-        "run_time": "12:30,22:30",
+        "run_time": ["12:30", "22:30"],
         "minimum_reward": 100000000000000000
       }
     },
