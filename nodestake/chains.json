@@ -196,8 +196,8 @@
       "address": "plqvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqzxjl7t",
       "restake": {
         "address": "plq15xjdrn6t0dyzgzfs8nagmg04yjvn8ls42ljup7",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -207,6 +207,15 @@
         "address": "c4e1y892zal77246spfgqux33tulld3z6cnkr4d0qh",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper19f0w9svr905fhefusyx4z8sf83j6et0gf69a2j",
+      "restake": {
+        "address": "mars1etsdevgm5ps240lrw9mg3p2j32tj96ktnzuc8k",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
       }
     }
   ]

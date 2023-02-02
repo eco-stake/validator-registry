@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "kava",
-      "address": "kavavaloper1a7703nxwp9khu2z9vdeh240wlfvyftpm5unaa4",
-      "restake": {
-        "address": "kava1v9wzdmduydjrtdks8mav09pg796mp4acarutvt",
-        "run_time": "21:00",
-        "minimum_reward": 500
-      }
-    },
-    {
       "name": "bitsong",
       "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
       "restake": {

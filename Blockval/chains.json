@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Blockval",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1f6q9wjn8qp3ll8y8ztd8290vtec2yxyxxygyy2",
+      "restake": {
+        "address": "orai1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpgy9e28",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

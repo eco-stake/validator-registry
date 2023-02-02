@@ -91,6 +91,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper194j4f3yxwpmc49ffwyqua0hmrgw2szvp47njqu",
+      "restake": {
+        "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }    
   ]
 }

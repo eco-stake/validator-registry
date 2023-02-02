@@ -46,6 +46,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+	 {
+      "name": "acrechain",
+      "address": "acrevaloper1yppufjenpmk2xueazr9zysgh52f7h3rs4j72ww",
+      "restake": {
+        "address": "acre1vkrsr0ys9gpw2qx7r38e3hjtnusdftrzkxdscq",
+	"run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }

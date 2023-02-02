@@ -67,7 +67,7 @@
     },
     {
       "name": "crescent",
-      "address": "crevaloper1gkf73mx4zv3ggrf4kuc3v8jm5yv4s0jtrqzkvd",
+      "address": "crevaloper173rqm36cj5efq2yhsedd8vhfrl7rjqeftkp80f",
       "restake": {
         "address": "cre194ytn50yhh67rdha8akhs7c6zulnz4n2dl6xew",
         "run_time": "every 5 minutes",
@@ -178,6 +178,15 @@
       "address": "quickvaloper1sc802z9yvl2vdfjq5vzygrswh5nam3ddfsuupg",
       "restake": {
         "address": "quick194ytn50yhh67rdha8akhs7c6zulnz4n2zne343",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1c4r6mndnmrvr9455e88nad7lg09zd89f3c0xpq",
+      "restake": {
+        "address": "mars194ytn50yhh67rdha8akhs7c6zulnz4n252s6ec",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }

@@ -17,7 +17,7 @@
       "restake": {
         "address": "band1a2r0f6f24w3utxu5adktjqnfy8qj9drkhjkl3g",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -135,6 +135,15 @@
         "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper18ucrwuvzgzmh9dlurmeq5c4hljdgnkp2fwmkcm",
+      "restake": {
+        "address": "panacea1tslafy7gnalqha8ryvp8gyf60tyslcg7rlu0hv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

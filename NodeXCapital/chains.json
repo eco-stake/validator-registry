@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NodeX Capital",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1zsyzuw65ghx5hzet0hn3797x0c0lpj0ywmma8h",
+      "restake": {
+        "address": "plq169n5eccqtel60fun3s3rqj23rcwfq6a6h4psq3",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000000000000000
+       }
+    }
+  ]
+}

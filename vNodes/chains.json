@@ -1,5 +1,6 @@
-{
-    "name": "vNodes Validators | #IBCunderdogs",
+    {
+  "$schema": "../chains.schema.json",  
+  "name": "vNodes Validators",
     "chains": [
       {
         "name": "meme",
@@ -25,7 +26,7 @@
         "restake": {
           "address": "chihuahua1zl2wl0fryq24yug2l9jrmjx73axydfn3q986tk",
           "run_time": "every 1 hour",
-          "minimum_reward": 10000
+          "minimum_reward": 1000000
         }
       },
       { 
@@ -34,17 +35,8 @@
         "restake": {
           "address": "cheqd1zl2wl0fryq24yug2l9jrmjx73axydfn3djx5p9",
           "run_time": "every 1 hour",
-          "minimum_reward": 10000
+          "minimum_reward": 100000000
         }
-      },
-      {
-        "name": "teritori",
-        "address": "torivaloper1qd94wr24r7kggkd23jmzv9syw7vkrhmt6gtdye",
-        "restake": {
-            "address": "tori1zl2wl0fryq24yug2l9jrmjx73axydfn3pyaa3y",
-            "run_time": "every 1 hour",
-            "minimum_reward": 100000
       }
-    }
     ]
   }

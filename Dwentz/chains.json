@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dwentz™",
+  "chains": [
+    {
+      "name": "planq",
+        "address": "plqvaloper1wqwngychuh8fk3ec9whgy6khvyr9r649glmsez",
+      "restake": {
+        "address": "plq1e24pruydx903f4a4jdf4l9e8msjjdjnu0ykpem",
+        "run_time": "19:00",
+        "minimum_reward": 2
+          }
+       } 
+    ]
+ } 

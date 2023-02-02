@@ -102,15 +102,6 @@
       }
     },
     {
-      "name": "sifchain",
-      "address": "sifvaloper1r9ssdmc2xm3kv2y5m35mhrvnqms4pjw27umt2l",
-      "restake": {
-        "address": "sif1hl0jgxre5z0nkyjj07c5vfdy44yk44atuzd6qk",
-        "run_time": "22:30",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "terra",
       "address": "terravaloper108lmrztvc3pc3w774shgvpry4d3lf79k2ummna",
       "restake": {
@@ -151,6 +142,60 @@
       "address": "stridevaloper16vxc4n67usd6cvtyrz0as0kegny2t5l73y4ump",
       "restake": {
         "address": "stride1hl0jgxre5z0nkyjj07c5vfdy44yk44at65zsm3",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1mwerm24kce7dcl59t6n0caw7c8zxgkrjj9svwj",
+      "restake": {
+        "address": "inj135e4ecavyr73p6238edqlpwfwty3fhjnqar24f",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper13eq8xt9nu4v4la9hc5aeevksenu3se49qxj5xu",
+      "restake": {
+        "address": "quick1hl0jgxre5z0nkyjj07c5vfdy44yk44atjmj7k0",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1wt9lh4zqe8qqe7azc943l0cyn2kzwk3ps4h00h",
+      "restake": {
+        "address": "certik1hl0jgxre5z0nkyjj07c5vfdy44yk44at7h7mwk",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1u0ch8y4ts6qxaqgw5h05mvtca0zq9rtfdwpytm",
+      "restake": {
+        "address": "omniflix1hl0jgxre5z0nkyjj07c5vfdy44yk44atypn4cr",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva14ffz956stez2kgqlvz0g342fkts25hndqcaaqf",
+      "restake": {
+        "address": "iaa1hl0jgxre5z0nkyjj07c5vfdy44yk44atvazadv",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper133snxpf4sp5zezm3vnxzx0c7078g4acue3aj92",
+      "restake": {
+        "address": "pasg1hl0jgxre5z0nkyjj07c5vfdy44yk44at68mkzz",
         "run_time": "22:30",
         "minimum_reward": 100000
       }
