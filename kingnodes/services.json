@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "kingnodes 👑",
+  "services": [
+    {
+      "title": "kingnodes 👑",
+      "description": "The Kingnodes team are dedicated to being available to our community, providing the best service and responding to feedback, and providing the highest uptime and security.",
+      "url": "https://kingnodes.com"
+    }
+  ]
+}
