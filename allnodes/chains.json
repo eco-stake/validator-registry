@@ -244,6 +244,24 @@
         "run_time": "06:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1kxj3f8n9t3jr0chur8qr84u7kfmwe3a5wp28s3",
+      "restake": {
+        "address": "quick1n4mmffygh8wdm8zfxxv30cg0aq9m2s079d0dz8",
+        "run_time": "06:45",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper154uv3zzw86awugxejh4d6lmydfsk6wpvfjwsey",
+      "restake": {
+        "address": "mars1n4mmffygh8wdm8zfxxv30cg0aq9m2s07n5xxww",
+        "run_time": "07:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
