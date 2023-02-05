@@ -210,6 +210,15 @@
       }
     },
     {
+      "name": "mars",
+      "address": "marsvaloper1956ywsyr2uxhgy65425lkgu3fqr6lysmw26dl2",
+      "restake": {
+        "address": "mars1xrrfek3qpz4ja8ccrjklfy064asyqq9kw00kp5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4ptu64xp",
       "restake": {

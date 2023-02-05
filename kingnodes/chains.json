@@ -66,11 +66,11 @@
       }
     },
     {
-      "name": "secret",
-      "address": "secretvaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdrjxpjn",
+      "name": "mars",
+      "address": "marsvaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdepeenc",
       "restake": {
-        "address": "secret1qnlewhvdu24u53gq0zd9l59yd6wphezya4rhg8",
-        "run_time": "2x per day",
+        "address": "mars1xs023g3yj2mavwn3cjclgsh8mlk0kgsjmrh0c7",
+        "run_time": "Eevery 5 minutes",
         "minimum_reward": 100000
       }
     }

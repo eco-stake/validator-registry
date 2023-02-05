@@ -47,6 +47,15 @@
             "minimum_reward":10000
          }
       },
+          {
+      "name": "mars",
+      "address": "marsvaloper1dj5ml59qu4vyxd790h2yt62dh7hapmk8hux0da",
+      "restake": {
+        "address": "mars164e53fz34nkc03vnncdl5w9xp420lkakf5cgen",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
       {
          "name":"osmosis",
          "address":"osmovaloper16s96n9k9zztdgjy8q4qcxp4hn7ww98qk5wjn0s",

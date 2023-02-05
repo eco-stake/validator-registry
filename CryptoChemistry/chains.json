@@ -10,7 +10,7 @@
         "run_time": [
           "12:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -30,8 +30,26 @@
       "restake": {
         "address": "stride1njj830jqf0zg79w4n738c7jfr8w65e0eu0rqr0",
         "run_time": "12:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
-   }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper10d8ka27mt3t3uyrqqva3j6ztwj3jl4zxpppskf",
+      "restake": {
+        "address": "secret1amwsrnc6a96fch2yqjqz90vp5tvlgdwlmpwfu4",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5ep6swuy",
+      "restake": {
+        "address": "mars1njj830jqf0zg79w4n738c7jfr8w65e0eze69zc",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    }
   ]
 }
