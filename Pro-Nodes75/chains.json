@@ -23,5 +23,15 @@
 				"minimum_reward": 200000
 			}
 		},
+		{
+			"name": "terra2",
+			"address": "terravaloper1puzp2yjqps43x7nse33svljc550xjz35jxg432",
+			"restake": 
+			{
+				"address": "terra12tfcch3m28qy07kw6xh7nwu9g5ecerf8m7nnae",
+				"run_time": ["21:00"],
+				"minimum_reward": 100000
+			}
+		}
 	]
 }
