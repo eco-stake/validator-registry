@@ -100,6 +100,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper13ypu2s4kfstzs62v70muakk42dmlpv5u6vz2pd",
+      "restake": {
+        "address": "sent1zz3wp5t24ej534nz5g7lxdazekx0aaek54y6qn",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
     }    
   ]
 }
