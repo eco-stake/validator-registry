@@ -48,15 +48,6 @@
       }
     },
     {
-      "name": "passage",
-      "address": "pasgvaloper1k4dsje06s8dyf3k80g7x695l7wdj0z52q5l2hu",
-      "restake": {
-        "address": "pasg1yqqsskp60ru889m2ac9rtdays6pt9xfykqn6lx",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name":"provenance",
       "address":"pbvaloper1ux5wplu9xcazkjga0wjnlcdsdy0e3ttuxplhc9",
       "restake":{
