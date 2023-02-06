@@ -171,6 +171,18 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgwg3jckk",
+      "restake": {
+        "address": "inj10edr8awd0pulykvqxlwnz9n72rtngwjd2y5pgl",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "jackal",
       "address": "jklvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq5au88",
       "restake": {
@@ -196,18 +208,6 @@
       "address": "kivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfnvkpt",
       "restake": {
         "address": "ki12xpq68caw2aqdu70jm4k792g0v9prhrp3whtyv",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "konstellation",
-      "address": "darcvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zzuhj87",
-      "restake": {
-        "address": "darc12xpq68caw2aqdu70jm4k792g0v9prhrplzj4d0",
         "run_time": [
           "12:00",
           "24:00"
