@@ -12,6 +12,24 @@
         ],
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1kpstdnt5h0cgz0wwcnkdw6hec9kkfs3ckngjlw",
+      "restake": {
+        "address": "plq1xr4vhpd97h3pnd80l20slksdtejjdstc38tgz7",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1vypnkf7fler02lukfxvrjyt92uz2yylqmv9w88",
+      "restake": {
+        "address": "cheqd1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp44l6q9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
+      }
     }
   ]
 }
