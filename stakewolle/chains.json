@@ -98,7 +98,7 @@
       "restake": {
         "address": "cosmos1m7xlymnpxl2d4llu67v08e8xs67dj2fz84ntku",
         "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
