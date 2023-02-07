@@ -7,7 +7,7 @@
       "address": "terravaloper1der0lqp4grpnmpuefhwlj72fzccqmhmwgjh6ys",
       "restake": {
         "address": "terra19m47p33axzg6rgvxhs3jz7sp85l0pyrjk4rutc",
-        "run_time": ["01:15", "21:00"],
+        "run_time": "every 4 hours",
         "minimum_reward": 1000000000
       }
     }
