@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "secretnodes.com",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1hjd20hjvkx06y8p42xl0uzr3gr3ue3nkvd79jj",
+      "restake": {
+        "address": "secret1rmn3rj0pw7spvy476d5lnk8pjqvgqf8jlvraax",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,4 +1,11 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "   Goatlabs V 🐐",
-  "identity": "166E58118E8AA16A"
+  "identity": "274B9E95083E7BE0",
+  "website": "https://goatlabs.zone",
+  "contacts": {
+    "telephone": "",
+    "email": "goatlabsteam@gmail.com",
+    "twitter": "GoatlabsV"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "⚡mjolnir",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl16h4we3e903y7xe2kxfz2zfsh6g98lzdx25zh65",
+      "restake": {
+        "address": "cro1ek6w99vs2affk8xq49cztqv8q62mpyysgjk9mc",
+        "run_time": "12:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

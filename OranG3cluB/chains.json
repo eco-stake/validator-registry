@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OranG3cluB",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq",
+      "restake": {
+        "address": "juno1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqvz4j8n",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1lmjdx68pv7yckaf9tw8py8ax6scssplvksq9qq",
+      "restake": {
+        "address": "gravity1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxq7qy398",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1up87cpxu86wv30k4d2g8tzhhqcka3n5mhmuf4f",
+      "restake": {
+        "address": "bitsong1s6hrw0m5ar8pegsa3w583wpqpvy8cnr74jq6kz",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1422gjxp0c343u0lypp728c48txuas8d2ywlqkq",
+      "restake": {
+        "address": "certik1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqac27py",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1u03aazcwhtnrplx9eeyv40y3klyusu6ztz35hc",
+      "restake": {
+        "address": "desmos1u5grsjglntekexu26nn9t6deg4fefe8dysan0r",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15h93mze4d7uzls97pzy58rf9fplxmzyaw8gd4u",
+      "restake": {
+        "address": "stars1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqwvp5t7",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+     {
+      "name": "rebus",
+      "address": "rebusvaloper1ppadxykp8x0v3m7y79w570k96fpgk4nchwacqh",
+      "restake": {
+        "address": "rebus1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxqt64u5e",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+     {
+      "name": "agoric",
+      "address": "agoricvaloper1xlkrj0ye3ectee7vmhyvfcavh2cleza4yndp4j",
+      "restake": {
+        "address": "agoric15tjavu4lqx5k0nt3u9t0qf2y8xkducypspjg7w",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper14d48scv8w6rurhcd5dyeezgszmj0ucl5d5hgmq",
+      "restake": {
+        "address": "omniflix1m0zxc8dwd7afnmp3hnkjzxzjngwlsdxq8w8sh3",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

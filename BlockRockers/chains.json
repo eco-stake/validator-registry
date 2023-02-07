@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlockRockers",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1pzxzh7zrappfxav0cspftmexmeppcmt03240sh",
+      "restake": {
+        "address": "acre1dvq8t538gl6ytr7ndp5lv2l829k8ku5mgaxzhj",
+        "run_time": ["09:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ERTUGRUL GAZI",
+  "chains": [
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1d2hcrwreh2kpym2f7newl5azu2v4nzrq0c2g4g",
+      "restake": {
+        "address": "fetch1d2hcrwreh2kpym2f7newl5azu2v4nzrq2u4tx0",
+        "run_time": "00:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

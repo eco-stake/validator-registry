@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "punq",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper16623pjezpuektz3q9s63fpnrn3hnh7087ennhe",
+      "restake": {
+        "address": "rebus1yfu8lpqy0e95yln2nwykznp9rcshqmvt4rfswn",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+     },
+     {
+      "name": "quicksilver",
+      "address": "quickvaloper1gn9cjw3u495cxsz5llfqup0ymxtsf98mgnss49",
+      "restake": {
+        "address": "quick1yfu8lpqy0e95yln2nwykznp9rcshqmvt0d6hrh",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      } 
+    }
+  ]
+}

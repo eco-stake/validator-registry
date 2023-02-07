@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "SUNREN",
   "chains": [
     {
@@ -9,7 +10,7 @@
         "run_time": "every day",
         "minimum_reward": 1000000000000000000
       }
-      },
+    },
     {
       "name": "kava",
       "address": "kavavaloper1r2ea4069j7rfemtt2k6ej5glctg9qe3y86rltf",
@@ -18,6 +19,6 @@
         "run_time": "every day",
         "minimum_reward": 1000
       }
-      },
+    }
   ]
 }

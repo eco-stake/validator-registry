@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Scafire Nodes",
+  "chains": [
+    {
+      "name": "lambda",
+      "address": "lambvaloper1at4krvmfcquarfuglp0uuu2yfhw9jyp8lt4flf",
+      "restake": {
+        "address": "lamb1p7dwf33a347lwedeletzwcal7u9tgn577lucyp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1hr35jxecft8ggkdm7ps26xxf3lk398ngnhm8g2",
+      "restake": {
+        "address": "plq1p7dwf33a347lwedeletzwcal7u9tgn57vqd2rl",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

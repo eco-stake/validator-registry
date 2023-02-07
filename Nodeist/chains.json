@@ -1,0 +1,92 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Nodeist",
+	"chains": [
+		{
+			"name": "kujira",
+			"address": "kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7",
+			"restake": {
+				"address": "kujira1774zxs7m8rgg5jjz80p26ylk3h8q265ejvz2m4",
+			 	"run_time": "every 1 hour",
+				"minimum_reward": 100000
+			}
+		},
+    {
+      "name": "stride",
+      "address": "stridevaloper10dahvqtd229q8ndggjk0upcjnkjckdjal5tqz2",
+      "restake": {
+        "address": "stride1774zxs7m8rgg5jjz80p26ylk3h8q265eq0qwzn",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "rebus",
+      "address": "rebusvaloper1cvn7ldc24lvhhkyxz75x66hmmuppm2hpk44ddy",
+      "restake": {
+        "address": "rebus1774zxs7m8rgg5jjz80p26ylk3h8q265ejwr8zf",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "teritori",
+      "address": "torivaloper1dq5s7kl7285n44pqc0xacpjxy07ycur0zjy9sh",
+      "restake": {
+        "address": "tori1774zxs7m8rgg5jjz80p26ylk3h8q265epshmd0",
+	"run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+	    },
+		
+		 {
+      "name": "jackal",
+      "address": "jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a",
+      "restake": {
+        "address": "jkl1774zxs7m8rgg5jjz80p26ylk3h8q265e66wr0q",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "chain4energy",
+      "address": "c4evaloper18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnuncplj",
+      "restake": {
+        "address": "c4e1774zxs7m8rgg5jjz80p26ylk3h8q265equel0p",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    },
+		
+		 {
+      "name": "acrechain",
+      "address": "acrevaloper13f794j0q0ay2kvmh9j7zzf7xu8lp3sv6jfad02",
+      "restake": {
+        "address": "acre1hzt3jr8tq9d2w948mcw6wzza7zvwd3vu0z6990",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1phznm5menlxk2gsvm646lqeyj9shlfuu2muzt4",
+      "restake": {
+        "address": "quick1774zxs7m8rgg5jjz80p26ylk3h8q265egqsq0d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      } 
+    },
+      {
+         "name":"mars",
+         "address":"marsvaloper1dqmts6yexnmeznk9fjqxlun9p0e8343glr90va",
+         "restake":{
+            "address":"mars1774zxs7m8rgg5jjz80p26ylk3h8q265e7eetry",
+            "run_time":"every 5 minutes",
+            "minimum_reward":1000
+         }
+    }
+	]
+}

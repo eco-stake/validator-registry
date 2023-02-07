@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "heisenbug",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1q3aejvmwj9dxturgk00jv7hkwxld7ny7642tr8",
+      "restake": {
+        "address": "evmos1evr0qdly3hygy3hcyzlxf3l425s00lgdsxcefy",
+        "run_time": "18:00",
+        "minimum_reward": 500000000000000000
+      }
+    }
+  ]
+}

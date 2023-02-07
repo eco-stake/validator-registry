@@ -1,0 +1,45 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IBCNFTs.com 🌈",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1cmu7qqjaepsngntczcdkkgcwc52zere2t78rdp",
+      "restake": {
+        "address": "stars13y36asj5gyhs0g9tpenv6rx8nzk7ujxxxfme9v",
+        "run_time": "21:00",
+        "minimum_reward": 5000000
+      }
+    },
+    
+    {
+      "name": "kichain",
+      "address": "kivaloper1m7e7zpa89nk5ff5t59tcvwnwfds6lzhuz8hkae",
+      "restake": {
+        "address": "ki13y36asj5gyhs0g9tpenv6rx8nzk7ujxxrcat2f",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper17d0092763mysj7tjn0lphg34wl5qn2lwpm7er0",
+      "restake": {
+        "address": "bcna13y36asj5gyhs0g9tpenv6rx8nzk7ujxxg9u9x0",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
+    },
+    
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1p4at4vkka52llxae737929lx5pysh0ffgjff5u",
+      "restake": {
+        "address": "mantle13y36asj5gyhs0g9tpenv6rx8nzk7ujxxv3hp3h",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

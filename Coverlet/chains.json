@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Coverlet",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3udgkz9z",
+      "restake": {
+        "address": "osmo1a0elaxk2neduz5n3km9rzs3dekrve9vmeskzzk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1kualgrr9qup0983gj44fczyvcda8ea47y494mz",
+      "restake": {
+        "address": "evmos1aw3emjgy0n5n882uj6p0hz56ltllan2fakntwy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 200000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1kualgrr9qup0983gj44fczyvcda8ea47y8yppz",
+      "restake": {
+        "address": "rebus1a0elaxk2neduz5n3km9rzs3dekrve9vmqpx8qj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper15mennjck93a5v990hrngf3hxskjx6vztx6a7y0",
+      "restake": {
+        "address": "chihuahua1a0elaxk2neduz5n3km9rzs3dekrve9vmj7gu4x",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1273zsxhxd5dlgcr2zjf5x25275hjcp3ukj8ltz",
+      "restake": {
+        "address": "cerberus1a0elaxk2neduz5n3km9rzs3dekrve9vmdv9mp0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1yzg7yh4yfju8dvc9wwls7dyvaqnzj2er5sluru",
+      "restake": {
+        "address": "acre1aw3emjgy0n5n882uj6p0hz56ltllan2f956xtp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000
+      }
+    }
+  ]
+}

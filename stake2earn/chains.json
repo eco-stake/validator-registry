@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "stake2earn 🌜",
+  "chains": [
+    {
+      "name": "regen",
+      "address": "regenvaloper1xhhquwctvwm40qn3nmmqq067pc2gw22ex8vyff",
+      "restake": {
+        "address": "regen1mdhawqhhv9ryjam6fe30u3padgtpmrvmrrucjs",
+        "run_time": "12:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1dm5l7udmdc66lza5dvhtmqw0m6u640qc0c2ymg",
+      "restake": {
+        "address": "agoric1l37uk0ng4r9j63pvxcesp8654rm9rzh9leyvye",
+        "run_time": "12:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1h9ulmhqv5e2373khk6s9n0wtrfc5qavre09fxl",
+      "restake": {
+        "address": "kava1x9d3n35p67j5dnexpeceg9rslut0tnaw09pqau",
+        "run_time": "12:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1l2s8e4mjana50tx9g66kfsqwgwjy6jlv5lwrng",
+      "restake": {
+        "address": "certik1mdhawqhhv9ryjam6fe30u3padgtpmrvmmftn9l",
+        "run_time": "12:00",
+        "minimum_reward": 1000
+      }
+    }
+   ]
+}

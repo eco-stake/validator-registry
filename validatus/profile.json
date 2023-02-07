@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Validatus",
-  "identity": "812C51EBF1E60D5B"
+  "identity": "DEF3590B1DCD96A4"
 }

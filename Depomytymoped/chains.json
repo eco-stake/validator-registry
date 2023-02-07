@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Depomytymoped 🛵",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1qu6hwj678c5tm0j7q52rda8w8ftjes5ctmegy2",
+      "restake": {
+        "address": "bcna1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qewhxfn",
+        "run_time": "04:20",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

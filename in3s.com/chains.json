@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "in3s.com",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1rcp29q3hpd246n6qak7jluqep4v006cdsc2kkl",
+      "restake": {
+        "address": "cosmos1vldshr3rznnhrdm40p6d5qy2km3n799jt20ssx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1rcp29q3hpd246n6qak7jluqep4v006cd8q9sme",
+      "restake": {
+        "address": "osmo1vldshr3rznnhrdm40p6d5qy2km3n799jr3uqx5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper1478t4fltj689nqu83vsmhz27quk7uggjtjp2gl",
+      "restake": {
+        "address": "star1yf9wf545nrsyrx9ema9uavvargzkawjjw532pn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

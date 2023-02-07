@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Sunshine Validation #solarpower",
   "chains": [
     {
@@ -6,8 +7,26 @@
       "address": "osmovaloper1vmkt6ysppk8m4rhlq78tpqyh429lhlsah4mn3y",
       "restake": {
         "address": "osmo1syc66updwkat9nhmfplzzvflh5789phc3z4kgk",
-        "run_time": "21:00",
-        "minimum_reward": 1000
+        "run_time": "18:00",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1cv6hnl6sq4srccnzveqe8ggc2tepvvx45vwcwz",
+      "restake": {
+        "address": "cosmos1syc66updwkat9nhmfplzzvflh5789phceexx7y",
+        "run_time": "18:00",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1rg2u2r9e8slqvp23vkm9mnu26zdkz9emsy0d4g",
+      "restake": {
+        "address": "regen1syc66updwkat9nhmfplzzvflh5789phcxmd6gq",
+        "run_time": "18:00",
+        "minimum_reward": 50000
       }
     }
   ]

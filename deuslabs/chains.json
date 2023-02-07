@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DEUS LABS",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper17skjxhtt54prnpxcs7a5rv9znlldpe5k3x99gp",
+      "restake": {
+        "address": "juno1z5zy9axrcrv42rz3mt8ad87uu6c49rrzvvfapr",
+        "run_time": "10:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper17skjxhtt54prnpxcs7a5rv9znlldpe5k8tncyd",
+      "restake": {
+        "address": "stars1z5zy9axrcrv42rz3mt8ad87uu6c49rrzwzamdw",
+        "run_time": "10:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

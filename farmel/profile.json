@@ -1,4 +1,20 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "SF RES Land",
-  "identity": "F140C2AE946D8451"
+  "identity": "F140C2AE946D8451",
+  "description": {
+    "overview": "Samll independent validator. Deligated on the chain validating on. Always willing to learn!",
+    "team": "A small independent team in cosmos ecosystem.",
+    "security": "Nodes are located across multiple data centres and regions, with redundant nodes for all chains to ensure stability whatever happens. 24/7 monitoring."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "1.thought.hk@gmail.com",
+    "telegram": "farmerl",
+    "twitter": "farmerl__",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

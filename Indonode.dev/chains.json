@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Indonode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzvqzm9w",
+      "restake": {
+        "address": "plq1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzj70prl",
+        "run_time": "19:00",
+        "minimum_reward": 100
+          }
+       } 
+    ]
+ }

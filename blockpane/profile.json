@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "[ block pane ]",
+  "identity": "D75509198CE782A6",
+  "website": "https://blockpane.com",
+  "description": {
+    "overview": "Block Pane, LLC is dedicated to high-uptime and secure operations. Our validators use horcrux to perform threshold signing in a 2/3 configuration. By using three different providers with low-latency and a wireguard mesh for each cluster a datacenter outage should not result in downtime. Our validator nodes run exclusively on hardware and we use devops tools like Ansible to ensure our configurations are consistent and secure. To learn more about the operation and see our code of conduct, please visit: https://blockpane.com/about.html",
+    "team": "Block Pane was founded in 2018 by Todd Garrison. Todd worked in information security for over 20 years and is an avid fan of the Go programming language."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "security@blockpane.com",
+    "telegram": "blockpane",
+    "twitter": "blockpane",
+    "discord": "blockpane#9311",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

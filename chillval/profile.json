@@ -1,4 +1,20 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Chill Validation",
-  "identity": "3820B9E30B3BD99E"
+  "identity": "3820B9E30B3BD99E",
+  "website": "https://www.chillvalidation.com",
+  "description": {
+    "overview": "Chill Validation is a diversifying force for everyone! Cosmos, Juno, Secret, Sifchain, Evmos, Chihuahua, and more!",
+    "team": "Our experience as developers and system administrators helps us overcome the bumps in operations that each new team will face.  This maximizes our contribution to the ecosytem while minimizing delegator risk."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "",
+    "telegram": "",
+    "twitter": "ChillinValidtn",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

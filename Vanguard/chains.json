@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Vanguard Nodes",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1uhcwtfntsvk8gpwfxltesyl4e28aalmq9v9z0x",
+      "restake": {
+        "address": "orai1r8p3thyau7qhjqlja73ccmxfr02p6e3mzsmrm0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+	{
+      "name": "acrechain",
+      "address": "acrevaloper1chtemgelehwh5k7nqv6wpgmmn46z33gtjgl9ep",
+      "restake": {
+        "address": "acre18uxpfgk8s20qev7h4hnw2jd95t4f99yhszyara",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1000000000000000000
+       }
+	}
+  ]
+}

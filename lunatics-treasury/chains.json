@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Lunatics Treasury Validator",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper189nuq3qs6zhdh0euyrmlvadh4q2pt9jr20vzfh",
+      "restake": {
+        "address": "terra1ee2jk2nk8wg2ulxhfte54wk6satfdz4p889gw2",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

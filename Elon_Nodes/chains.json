@@ -1,0 +1,17 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Elon_Nodes",
+    "chains": [
+      {
+        "name": "genesisl1",
+        "address": "genesisvaloper1tzqmp8ed3e6rgqrfscekg87pe5hd90n0ax4ghd",
+        "restake": {
+          "address": "genesis1kphlmcmmxrdpm7assyqtx488k8es7tuxstrl2d",
+          "run_time": [
+            "16:20"
+          ],
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }

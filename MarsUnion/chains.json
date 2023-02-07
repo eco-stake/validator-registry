@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MarsUnion 👨‍🚀",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1vp087ea69gsj859fy7xa2we29wef53nzhqypfw",
+      "restake": {
+        "address": "lum1r07tytgea9m8cueuppp5krcky639jlacy3gz8g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }    
+  ]
+}

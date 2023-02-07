@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pulsr",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1el2rrzkdpwkkynmxurrqgryvt4n376555w8nhj",
+      "restake": {
+        "address": "cerberus1m7uf8ucnnurntev8w9afva84e2fu25qsxxdca6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

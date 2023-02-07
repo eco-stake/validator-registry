@@ -1,4 +1,21 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "ECO Stake 🌱",
-  "identity": "5992A6D423A406D6"
+  "identity": "5992A6D423A406D6",
+  "website": "https://ecostake.com",
+  "description": {
+    "overview": "ECO Stake is an independent, climate positive validator focussed on building useful tools for the Cosmos ecosystem. Our infrastructure is carbon neutral either through offsets or using zero carbon data centres, and an additional 10% of commission is donated to climate causes. We built REStake.app which lets you auto-compound your staking rewards with many validators, including ourselves!",
+    "team": "We are a small independent team with over a decade of experience in programming and dev-ops, running high profile applications in various sectors. We participate in various testnets and build applications in the ecosystem, giving us a good understanding of the ecosystem as a whole. We focus on Cosmos blockchains exclusively.",
+    "security": "ECO Stake maintains a robust architecture across multiple data centres and regions, with redundant nodes for all chains to ensure stability whatever happens. We are passionate about following best practices in the industry, including remote signing to protect against double signing, and 24/7 live monitoring to ensure we respond to any situation quickly and effectively."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "support@ecostake.com",
+    "telegram": "ecostake",
+    "twitter": "eco_stake",
+    "discord": "https://discord.gg/MuB7qfBncg",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "NOTs.Art",
   "chains": [
     {
@@ -6,17 +7,17 @@
       "address": "cerberusvaloper1tksh2f6fgwdpn2p73e8wvc2zkl9ey6e95vgvwd",
       "restake": {
         "address": "cerberus1v4xvyv2yar2ytrj7d78dk9e253s9g7n07qyew3",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000000
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
       }
     },
     {
-      "name": "stargaze",
-      "address": "starsvaloper162ty3nf7wd5tvqhsu486fexh832fyham0cvphg",
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1tksh2f6fgwdpn2p73e8wvc2zkl9ey6e9dc03nx",
       "restake": {
-        "address": "stars1zks5qjck40m827v2m83la5r3y6lkudw837ffgh",
-        "run_time": "08:00",
-        "minimum_reward": 1000000
+        "address": "chihuahua1v4xvyv2yar2ytrj7d78dk9e253s9g7n0pjf76c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
       }
     }
   ]

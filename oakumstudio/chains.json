@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Oakum Studio",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1zhpnjk3z8jpq0rn2awpyeyljc5fdhft356zltg",
+      "restake": {
+        "address": "cerberus1x7854p5d057pk8rtjnwu00udedlxylvwmrs5gl",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

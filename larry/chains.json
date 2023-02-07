@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "larry",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1zlymlax05tg9km9jyw496jx60v86m454a3xf3m",
+      "restake": {
+        "address": "osmo12r48dtt9cexk3430ncnj6nvm4ec63yhg0wedx7",
+        "run_time": "17:30",
+        "minimum_reward": 250000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1jlhu56rs6st0vyaneleg2lp0seqknw5j2fkpr4",
+      "restake": {
+        "address": "stars12r48dtt9cexk3430ncnj6nvm4ec63yhgnfaqma",
+        "run_time": "17:30",
+        "minimum_reward": 250000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1km3nehyxu92vu2whjqhuqkmljvcd4nwv827jqw",
+      "restake": {
+        "address": "mars12r48dtt9cexk3430ncnj6nvm4ec63yhg6gny9h",
+        "run_time": "17:30",
+        "minimum_reward": 250000
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Calibr",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15qdgx74pa7x7mvulqs0mp29n2sfxt40atmkyys",
+      "restake": {
+        "address": "stars1zkna24jpxm6gna8rwypnld8l454qvtzld8tnmy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper15qdgx74pa7x7mvulqs0mp29n2sfxt40aymc7x8",
+      "restake": {
+        "address": "chihuahua1zkna24jpxm6gna8rwypnld8l454qvtzl6w3q3h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AAA MetaHuahua",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper16x3cq3372jfjg7279prralhhdtregpgyvuj622",
+      "restake": {
+        "address": "chihuahua18e9px5aau6s22p2nrctjwapncj3y3em887n6c8",
+        "run_time": [
+          "04:00",
+          "10:00",
+          "16:00",
+          "22:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1zfjes7s4dxt6kdpj6e077heejs2ur7uhdyspxq",
+      "restake": {
+        "address": "tori18e9px5aau6s22p2nrctjwapncj3y3em8xlfaz4",
+        "run_time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

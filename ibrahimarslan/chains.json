@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ibrahimarslan",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1lgy98shrs4uyrqnmgh38su3gm08uh3srjzcqsy",
+      "restake": {
+        "address": "tori1pdw3dzzjc0deyaylhpesvg7hhtr2z5dfsvzgfx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    		 {
+      "name": "chain4energy",
+      "address": "c4evaloper1cw8xgl8utlzdufx20r3vv49vsg6sukwn0g09f8",
+      "restake": {
+        "address": "c4e1y99l38hl7l0m8lyswl9cz09dv8djh208rtemvx",
+	"run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+	    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "cyberdBot",
+  "chains": [
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper135ca8hdpy9sk0ntwqzpzsvatyl48ptx52tn60p",
+      "restake": {
+        "address": "bostrom1me2f6hz6ylfftn20mkj0pcmpd02hvqa98jn7ne",
+        "run_time": [
+          "02:00",
+          "14:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

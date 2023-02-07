@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Astroquirks",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1udp8gef365zcqhlxuepewrxuep9thjanuhxcaw",
+      "restake": {
+          "address": "osmo1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qt95hhn",
+          "run_time": "04:20",
+          "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1kekv8xqg7aj628l8av4d95cm79y8lw3clph7u7",
+      "restake": {
+          "address": "stars1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qhzs62s",
+          "run_time": "04:20",
+          "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeThat",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14suzzfw7rkz7uke8w9lhttnvewku7sd06djndg",
+      "restake": {
+        "address": "osmo194ygwl959ckr3qszh6xde7cvcpdngm2l7lvs58",
+        "run_time": "21:39",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper16df4qs7tk523gu2qlcvd505cxcf6n2jkvv0nq3",
+      "restake": {
+        "address": "chihuahua194ygwl959ckr3qszh6xde7cvcpdngm2l43jwrh",
+        "run_time": "21:59",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper19e8phdwt0gpswawkfv27h5umwp9zcf886jlqfr",
+      "restake": {
+        "address": "rebus194ygwl959ckr3qszh6xde7cvcpdngm2l8wu4kr",
+        "run_time": "22:19",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

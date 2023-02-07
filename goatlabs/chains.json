@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "   Goatlabs V 🐐",
   "chains": [
     {
@@ -17,6 +18,24 @@
         "address": "chihuahua1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrd9m05a",
         "run_time": "every 10 minutes",
         "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper189p0ze3jue9vxhm8pe3jy0gn3vkgyf2jhewtls",
+      "restake": {
+        "address": "juno1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrcz46jr",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1m4jcru5nsmtzgt4ha8fj4egau3w89cqzd9dfd2",
+      "restake": {
+        "address": "pasg1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrdg0mcq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100
       }
     }
   ]

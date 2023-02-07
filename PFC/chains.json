@@ -1,0 +1,30 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PFC",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9ugf8fk",
+      "restake": {
+        "address": "kujira1dp67gfvhsffyn42k4srsw29wm6d55u9mx45n28",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+     {
+      "name": "terra",
+      "address": "terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q",
+      "restake": {
+        "address": "terra1tyvclmg0aymjs7jmtqfqdytyrvnx22f68j5s75",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

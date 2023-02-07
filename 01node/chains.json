@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "01node",
   "chains": [
     {
@@ -74,6 +75,33 @@
       }
     },
     {
+      "name": "crescent",
+      "address": "crevaloper1pxexdsms050v35zu0vc07dk4ml647lsrjff52g",
+      "restake": {
+        "address": "cre1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5d8wm08",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+       "name": "terra2",
+       "address": "terravaloper1wdymftapg5pcvf2aqw4pd0yuuh5w9m6yqdnukv",
+       "restake": {
+         "address": "terra160n2evkw8qsf95vhvtk397fy6k3z7cg9yp50s2",
+         "run_time": "18:00",
+         "minimum_reward": 1000
+       }
+     },
+     {
+       "name": "evmos",
+       "address": "evmosvaloper1g57n4k08sk5z6ramzsgzrapgpsjsyh4t5tldw5",
+       "restake": {
+         "address": "evmos14knyxrpkfd94ra8sx9mp2q3zcw3rzl6g5g2m8v",
+         "run_time": "18:00",
+         "minimum_reward": 100000000000000000
+       }
+     },
+   {
       "name": "sentinel",
       "address": "sentvaloper1gcx3cq450dgmyha7s3x5mhjqcnxxn40tqykq20",
       "restake": {

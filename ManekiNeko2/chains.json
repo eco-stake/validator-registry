@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Maneki Neko 2",
+  "chains": [
+
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1dafx5uk2zvsz43dz05gzx78vmnq3wu9rg4lmgg",
+      "restake": {
+        "address": "fetch1vdyfg7n3rs6vzxx5ldg56mxw8enn79rrhpzr43",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

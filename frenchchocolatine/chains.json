@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "frenchchocolatine",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1e76jsstf39zanx846vptzwdegcced09afh3zzu",
+      "restake": {
+        "address": "acre1xrmg8f9qatsmaglpldd3nwdv6f939h5d830a0q",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

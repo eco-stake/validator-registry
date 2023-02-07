@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OrbitalApes.com",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1mx9nqk5agvlsvt2yc8259nwztmxq7zjqep5khu",
+      "restake": {
+        "address": "evmos1mh7r77ku43zwd07y9heetv8kzj22u7vu473hm5",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper18je2ph09a7flemkkzmvenz2eeyw5pdgeqrtekx",
+      "restake": {
+        "address": "tori12a8udcmy4yndz6xuqmrhcv09w44ncenqu3zje6",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

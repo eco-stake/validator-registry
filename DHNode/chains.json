@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "[🇮🇹 🇪🇺] DH Node",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1nr6q7nhtpef49hnud3wp8a6ysfusae4zsdgzty",
+      "restake": {
+        "address": "cro1whgw7z24mfyclq6509hfnxfzw7vjs80x4anpq0",
+        "run_time": "09:00",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Classy's Crypto Sphere",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper14xjkj5rv72fgqz3h78l883rw0njwhmzce45006",
+      "restake": {
+        "address": "terra1jq0539z3nw024aysqvrja3e2f6ncmurf42em82",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "❤️ LunaPunks.io ❤️",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg",
+      "restake": {
+        "address": "terra14na8p0zwyz8ym736kzhzvupgnz8c03txq8wp6x",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

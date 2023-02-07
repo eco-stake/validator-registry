@@ -1,11 +1,12 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "AgoraNodes",
   "chains": [
     {
       "name": "cerberus",
       "address": "cerberusvaloper1wmanxw8y2s4cauegx5lagq5gxgqzpuuccwascc",
       "restake": {
-        "address": "cerberus1uc877qk45e23hxxx364dxsp8rehu5add0uy4mn",
+        "address": "cerberus174ksezrlm8g77r0lx6q0qhxemqvze8fue5wwec",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
@@ -26,6 +27,33 @@
         "address": "darc1uc877qk45e23hxxx364dxsp8rehu5addv6sdr0",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1xmu8meef8ynlsev3a9hpl5wdxhpzzj0efmzpcj",
+      "restake": {
+        "address": "secret1ttpagwpgwlxwdctm0rwwx9jmtdtvl3vtygqzhl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1d4d8cgds89t9a9uph9hr9wp7vzkdcvn9hlkh7w",
+      "restake": {
+        "address": "evmos17rnz8vaj6dltr39ytmsfcwq7vawllmu8nr7ugn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+      {
+      "name": "idep",
+      "address": "idepvaloper1fn27558dk6flxqx3755eqrkt35elpc8e3xxsal",
+      "restake": {
+        "address": "idep174ksezrlm8g77r0lx6q0qhxemqvze8fuyncn26",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
       }
     }
   ]

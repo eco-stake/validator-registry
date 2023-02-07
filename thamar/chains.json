@@ -1,0 +1,39 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "thamar",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1d9mue6sxrxgcd8rz6cdmeamw4cey3c243ll3gj",
+      "restake": {
+        "address": "bitsong16p20vlypv4s2xtsghk5xxp3vck929dl28lk5kw",
+        "run_time": [
+          "17:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper1nvveer8gzjlm78me4zz45s4crvwf0pz0dhc5lw",
+      "restake": {
+        "address": "dig17kdv6l908jn48cpxfvf7zekdmm3vf5p7du65tp",
+        "run_time": [
+          "17:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1h5kvena7eaawjhm4w9p9fv3566dumsasq8wwyv",
+      "restake": {
+        "address": "lum17kdv6l908jn48cpxfvf7zekdmm3vf5p7qzwkuw",
+        "run_time": [
+          "17:00"
+        ],
+        "minimum_reward": 20000000
+      }
+    }
+	]
+}

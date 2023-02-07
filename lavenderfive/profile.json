@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": " Lavender.Five Nodes 🐝",
   "identity": "F87ADDB700C0CC94"
 }

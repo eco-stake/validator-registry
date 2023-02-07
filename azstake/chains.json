@@ -1,15 +1,7 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "azstake",
   "chains": [
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper18zf2m4np64ncjr2hg0plk8tjqma25farw2nac5",
-      "restake": {
-        "address": "cerberus1kxd2f28ugzwyv9twexw88kpajvgf94xgpl9hmq",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
     {
       "name": "evmos",
       "address": "evmosvaloper1r4egnngxqudu7nsxa6uygcygn36j30v7w3luh6",
@@ -25,7 +17,7 @@
       "restake": {
         "address": "gravity1kxd2f28ugzwyv9twexw88kpajvgf94xgeghxtr",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -34,7 +26,7 @@
       "restake": {
         "address": "stars1kxd2f28ugzwyv9twexw88kpajvgf94xgfyjr96",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -43,7 +35,7 @@
       "restake": {
         "address": "umee1kxd2f28ugzwyv9twexw88kpajvgf94xg0wcp2e",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     }
   ]

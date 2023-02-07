@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "spellbooks.tech 📖",
   "chains": [
     {
@@ -6,7 +7,16 @@
       "address": "cerberusvaloper15ms93f3m2h8rmzfkngxh06mklujrxprpl84pyr",
       "restake": {
         "address": "cerberus1ajvn5l50lvuy5ej5sqhwthve26au0qs56gfa0r",
-        "run_time": "every 15 minutes",
+        "run_time": "every 20 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1f865kj3ag6hsjfmmeevhn5xe68a2y596e5semv",
+      "restake": {
+        "address": "chihuahua1ajvn5l50lvuy5ej5sqhwthve26au0qs596y6m2",
+        "run_time": "every 20 minutes",
         "minimum_reward": 100000000
       }
     }

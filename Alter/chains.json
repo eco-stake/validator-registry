@@ -1,0 +1,43 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"Alter",
+   "chains":[
+      {
+         "name":"secretnetwork",
+         "address":"secretvaloper193wdevxmace2katdzpdm9l0z6t0zmeht02v95e",
+         "restake":{
+            "address":"secret1ut7mlnz4j5ul0z0cdqr9ys4kvajkdqxspu2flj",
+            "run_time":"19:00",
+            "minimum_reward":1000000
+         }
+      },
+      {
+        "name": "akash",
+        "address": "akashvaloper18jukq0lpnhx5xtrwtmm9mj3xlfcfh5eg3k0kfn",
+        "restake": {
+          "address": "akash1yjsme9964m977clg2nlltvn6yc7c7vdmr7ll2n",
+          "run_time": "19:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "agoric",
+        "address": "agoricvaloper1l5uc9shzdgph8da3ntdzeewyheh3ry9a65ynwj",
+        "restake": {
+          "address": "agoric16g6s9kmqfw62suqhuw89z8fgjawkq9q4r29av9",
+          "run_time": "19:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "juno",
+        "address": "junovaloper1gsjfwpfskfzkwl97tlsph8n2ap0gyjucp0j72x",
+        "restake": {
+          "address": "juno1yjsme9964m977clg2nlltvn6yc7c7vdmch3r54",
+          "run_time": "19:00",
+          "minimum_reward": 1000000
+        }
+      }
+
+   ]
+}

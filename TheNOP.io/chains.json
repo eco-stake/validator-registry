@@ -1,0 +1,24 @@
+{
+  "$schema":"../chains.schema.json",
+  "name": "TheNOP.io",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper17k4wstnvtyt7pt8qnfamrdpkkj7f5qqvf6heg3",
+      "restake": {
+        "address": "agoric1rjkw3wu0fcms5cdvl7faqqlxrtfg06un0v5e7r",
+        "run_time": "every 12 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1jhn0mats4dgy7x9lk4m30yfcx5mkkezuaarkv0",
+      "restake": {
+        "address": "stars10j5puj76ua0aycwz37rq0lqnymvxfprqfveqaz",
+        "run_time": "every 12 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

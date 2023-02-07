@@ -1,0 +1,69 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"D-stake",
+   "chains":[
+      {
+         "name":"stargaze",
+         "address":"starsvaloper1tk057sckr9yf94a0ndn66ye8d9zgn860qmww8y",
+         "restake":{
+            "address":"stars1tk057sckr9yf94a0ndn66ye8d9zgn860t966uu",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },
+      {
+         "name":"galaxy",
+         "address":"galaxyvaloper1e2mx0upghd79l6y0j7pwzw6ldapwl94rh7aj0u",
+         "restake":{
+            "address":"galaxy1e2mx0upghd79l6y0j7pwzw6ldapwl94r2lwjvs",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
+         "name":"chronicnetwork",
+         "address":"chronicvaloper1v3wjkc94lpq5g7k26d9y87ehh36fm4mx7ld6w6",
+         "restake":{
+            "address":"chronic1v3wjkc94lpq5g7k26d9y87ehh36fm4mxwfnygc",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
+         "name":"rebus",
+         "address":"rebusvaloper1eg0xe4vxghww7vhkzhdhz94s52nnt4z6xkquqt",
+         "restake":{
+            "address":"rebus1eg0xe4vxghww7vhkzhdhz94s52nnt4z6cpur4g",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
+         "name":"passage",
+         "address":"pasgvaloper103pkk22v64manra8at55c9ygz9runtxpk89qqe",
+         "restake":{
+            "address":"pasg103pkk22v64manra8at55c9ygz9runtxp9m0gp9",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },      
+      {
+         "name":"jackal",
+         "address":"jklvaloper1p8s397aqn3qhevptfu0wpgacs5fphev40nyyyc",
+         "restake":{
+            "address":"jkl1p8s397aqn3qhevptfu0wpgacs5fphev46qydup",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfyscxa",
+      "restake": {
+        "address": "mantle1cqwtg4zu3fx0vask9gx6xxecy29mrmtwfm5vag",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+   ]
+}

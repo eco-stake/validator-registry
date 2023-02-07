@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Long Street Nodes.",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1gwcxmqwzjvgd9lwd3tckrvy8nj5rmxp2k0z5md",
+      "restake": {
+        "address": "bcna1rzmj90ucld9pkzp05flkjtjvl783982alhmz28",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1s5u7zzcrklkfe4wdmxt080e5u58sknevrpkmuw",
+      "restake": {
+        "address": "acre13qg7urur85u3g0l0097pwl9ap3vkgzykynlnk3",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

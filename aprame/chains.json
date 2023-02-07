@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "aprame",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper14rdske5dhn5xzcvn0dscvhegr0s8fuhvzu5g6q",
+      "restake": {
+        "address": "plq14rdske5dhn5xzcvn0dscvhegr0s8fuhvuzeju3",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    }
+   ]
+}

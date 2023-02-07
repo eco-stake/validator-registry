@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": " CyberDuck",
   "chains": [
     {
@@ -8,6 +9,15 @@
         "address": "cerberus1fat08u2m6a4nqqqh55agp82gx4r6hzwwh0705f",
         "run_time": "every 10 minutes",
         "minimum_reward": 25000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1d6kn7u40yhm4gdqzjegpzv2kqndf2yk4m0z74m",
+      "restake": {
+        "address": "chihuahua1fat08u2m6a4nqqqh55agp82gx4r6hzwwgangqq",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
       }
     }
   ]

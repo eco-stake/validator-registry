@@ -1,4 +1,5 @@
 {
-  "name": "FreshATOMS.com",
+  "$schema": "../profile.schema.json",
+  "name": "FreshSTAKING",
   "identity": "63575EE3F0F9FAFC"
 }

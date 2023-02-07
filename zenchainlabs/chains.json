@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ZenChainLabs",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper12fzv0wrkllkzkwfv9tch07s3gj9ajhye0y4llv",
+      "restake": {
+        "address": "juno16pykdaup2f5e75j4y79q095hu7qpchnwrlzy3z",
+        "run_time": "22:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper184almu6c7s56rn0mlfevh9dlk62696uglq0l5q",
+      "restake": {
+        "address": "tori16pykdaup2f5e75j4y79q095hu7qpchnwhekkdw",
+        "run_time": "17:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper18gvfxet58ylyryrktxa9uzmyvfa9ew4d3fsyfg",
+      "restake": {
+        "address": "sif16pykdaup2f5e75j4y79q095hu7qpchnwsswfe4",
+        "run_time": "23:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1flsq5dcypwrf6pjlr2vw0ws5ratv45dfysfv74",
+      "restake": {
+        "address": "comdex16pykdaup2f5e75j4y79q095hu7qpchnwjzra0f",
+        "run_time": "21:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1wr4p6kt9tljyykgmzs3vhgywutpkjee2z6jnxg",
+      "restake": {
+        "address": "pasg16pykdaup2f5e75j4y79q095hu7qpchnwk4c9mp",
+        "run_time": "20:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper10j0utjntrpcrq32ksa95ktyjevnqugvcdafkzn",
+      "restake": {
+        "address": "desmos1s2rukvygssamz59053s78rw72t7cn00pc7vl8c",
+        "run_time": "19:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper1z0xp2gq0xryx4z6wxhlw5zdtuhs8qw6gc98czr",
+      "restake": {
+        "address": "dig16pykdaup2f5e75j4y79q095hu7qpchnwdeg559",
+        "run_time": "18:22",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

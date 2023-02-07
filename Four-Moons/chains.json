@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Four Moons",
+  "chains": [    
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1adm6z5krjhu527v8y9umvye9vf04efgya5f2wk",
+      "restake": {
+        "address": "osmo1x7mts3utel5l639fwvuxtpuelsdm509cjg9mw3",
+        "run_time": "11:30",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

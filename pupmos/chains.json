@@ -1,0 +1,86 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PUPMØS",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1ka8v934kgrw6679fs9cuu0kesyl0ljjy2kdtrl",
+      "restake": {
+        "address": "juno1ka6r58g5h27x6gyyjkzxtpdk95k2yurf4ge0fl",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1vygmh344ldv9qefss9ek7ggsnxparljlmj56q5",
+      "restake": {
+        "address": "cosmos1ka6r58g5h27x6gyyjkzxtpdk95k2yurfr665wr",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper15sr5ugya95q0ps9qet03ujsten8z05atamhcvy",
+      "restake": {
+        "address": "stars1ka6r58g5h27x6gyyjkzxtpdk95k2yurfhxdf9j",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1q9k3uh0xl6ss5dwqyq4j4jthdkke8daqp5kzlc",
+      "restake": {
+        "address": "meme1ka6r58g5h27x6gyyjkzxtpdk95k2yurfa9vrff",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper12ghdy3n809dpxr7kkdtyt3xrf8rse8pyhzlazc",
+      "restake": {
+        "address": "somm1ka6r58g5h27x6gyyjkzxtpdk95k2yurf0x4clf",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1hnjtaayu056h9wjdcn5dj3wxs3tqgajyv8dvzq",
+      "restake": {
+        "address": "cre1ka6r58g5h27x6gyyjkzxtpdk95k2yurf8jf3mw",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper18kxmuftxkg4jyuu5meuxqcg54g38qf69h8w5pd",
+      "restake": {
+        "address": "tori19wkyxq2u0dru5nmpxl7aqwyquhs0n45el4munz",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1tmjgvv2g4arkt224urtn967nlr0s6908vwe24q",
+      "restake": {
+        "address": "chihuahua1ka6r58g5h27x6gyyjkzxtpdk95k2yurfq0h60p",
+        "run_time": "01:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1kj5k9pme7djeqs4m9wtv7weccpevlnajnwsva4"
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper1qzpq3qcp7j5hpg49l04ylrmut07xypu8dn5luy"
+    }
+  ]
+}

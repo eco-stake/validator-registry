@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Validator McValidatyFace",
+  "chains": [    
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper162dw6l8qcejyhaq5sq73ah4ld3g4r0ngvwpmfq",
+      "restake": {
+        "address": "cerberus1t039x9exu8mcrrnsjwsfqvwvpv6k7a5rfxupvq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

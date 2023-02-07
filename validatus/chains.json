@@ -1,14 +1,35 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Validatus",
   "chains": [
-    {
-      "name": "osmosis",
-      "address": "osmovaloper19v94c3z7ckarwsum76kaagma0wqsqhh54xucdk",
+  {
+      "name": "evmos",
+      "address": "evmosvaloper15fezptqfn3rmxtl4006ze9plealy4w9xdfamnv",
       "restake": {
-        "address": "osmo1yuukehecl8czrd28q0tmxpvwce9lzt23pj35zp",
-        "run_time": "21:00",
-        "minimum_reward": 10000
+        "address": "evmos1uuxz3efh5d4hmelpnqkfyjmg7skk0hagzzkqwh",
+          "run_time": [
+          "21:00", "09:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
-    }
+  },
+  {
+        "name": "chihuahua",
+        "address": "chihuahuavaloper1u2yppff4ana76x8r5nsgf7szf0szetfur8auu0",
+        "restake": {
+          "address": "chihuahua1s28a2pa75quffuxht9evaecr56d3js4kfdn3uv",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000000
+        }
+  },
+  {
+        "name": "osmosis",
+        "address": "osmovaloper19v94c3z7ckarwsum76kaagma0wqsqhh54xucdk",
+        "restake": {
+          "address": "osmo1s28a2pa75quffuxht9evaecr56d3js4kzrd0tu",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000
+  }
+  }
   ]
 }
