@@ -1,4 +1,4 @@
-{
+	{
     "$schema":"../chains.schema.json",
     "name":"5.0 Validator",
     "chains":[
@@ -10,6 +10,15 @@
              "run_time":"19:00",
              "minimum_reward":100000
           }
+       },
+       {
+         "name":"decentr",
+         "address":"decentrvaloper1zp6t8qlewy8d2ve0jq8lpl3u96pdaqy60ph58f",
+         "restake":{
+            "address":"decentr1yjsme9964m977clg2nlltvn6yc7c7vdm9t5vjp",
+            "run_time":"19:00",
+            "minimum_reward":100000
+         }
        } 
     ]
  }
