@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "impacthub",
+      "address": "ixovaloper10rmrvtch8f0nparv3g9hm4nl5u88dp5a07nc7v",
+      "restake": {
+        "address": "ixo1e762e7chsgz3aurtelcz948j8gscfr0qsmu9cj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "vidulum",
       "address": "vdlvaloper16xp908ggtnau0w7wzgmxtvxns845yflhp0eehu",
       "restake": {
