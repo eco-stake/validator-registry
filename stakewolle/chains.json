@@ -260,7 +260,7 @@
       "restake": {
         "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 2000000
       }
     },
     {
