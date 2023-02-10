@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Wefinance-node1",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1w4rf2jn8za0hpqsec5nh97ykauwl6t9fvdcq26",
+      "restake": {
+        "address": "rebus1pgfyn2l2aszqv27r68mf79e4u7vpf5rjhudezf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
