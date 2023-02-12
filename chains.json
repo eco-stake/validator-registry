@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "refangga",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper14d6g2ue7fdjjpffdprtg4tjtdslwrx9mla69v3",
+      "restake": {
+        "address": "plq14d6g2ue7fdjjpffdprtg4tjtdslwrx9mprhl2q",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
