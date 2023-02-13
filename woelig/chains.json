@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1nnx79egv278zvh7f5pr3y523q5msfcadhkayss",
+      "restake": {
+        "address": "bluzelle1hk86qqk574q5pjdsr43z3wpa4g3h0zk35k2hay",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "vidulum",
       "address": "vdlvaloper16xp908ggtnau0w7wzgmxtvxns845yflhp0eehu",
       "restake": {
