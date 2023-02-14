@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "genznodes",
+  "chains": [
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1xlkz3muzvkfjwlpaxt427eqxw4vmgrfcxc6vwy",
+      "restake": {
+        "address": "bluzelle1hxvlp6l3dntqnzayrul6w6n4y72gyzydyh2743",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+          }
+       } 
+    ]
+ }
