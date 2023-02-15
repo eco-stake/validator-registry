@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Nodine.id",
+  "name": "Nodine.ID",
   "chains": [
     {
       "name": "planq",
