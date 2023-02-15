@@ -30,6 +30,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1jhj3pf7psypvz7v3smxeu45xuljkqmqy5vmeuw",
+      "restake": {
+        "address": "certik1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpul0d2l",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
