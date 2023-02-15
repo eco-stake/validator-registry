@@ -2,11 +2,47 @@
   "$schema": "../chains.schema.json",
   "name": "PFC",
   "chains": [
+     {
+      "name": "acrechain",
+      "address": "acrevaloper12mq0cjukdx3v2texmg07pr9c4v0ca67ces4e55",
+      "restake": {
+        "address": "acre10tx7fadungwfffhjcln3k6rzk39l2kwxg3k4qt",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "kujira",
       "address": "kujiravaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9ugf8fk",
       "restake": {
         "address": "kujira1dp67gfvhsffyn42k4srsw29wm6d55u9mx45n28",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9ryaqfd",
+      "restake": {
+        "address": "mars1dp67gfvhsffyn42k4srsw29wm6d55u9m2q0jjk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx92tuvq6",
+      "restake": {
+        "address": "stride1dp67gfvhsffyn42k4srsw29wm6d55u9m5kkhnp",
         "run_time": [
           "09:00",
           "21:00"
