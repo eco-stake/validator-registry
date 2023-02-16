@@ -44,7 +44,7 @@
       "restake": {
         "address": "lamb1x8zysrq0jw6vq87h207ecv2m3yguv9rfj7wxzd",
         "run_time": ["03:00","15:00"],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -99,6 +99,15 @@
         "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper13ypu2s4kfstzs62v70muakk42dmlpv5u6vz2pd",
+      "restake": {
+        "address": "sent1zz3wp5t24ej534nz5g7lxdazekx0aaek54y6qn",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
       }
     }    
   ]

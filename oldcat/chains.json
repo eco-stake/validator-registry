@@ -44,7 +44,7 @@
       "restake": {
         "address": "kava1lxz2fmreqs4r4qu4w4q6c29e7p5gnzs6r07am4",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 50000
       }
     },
     {

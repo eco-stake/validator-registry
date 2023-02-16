@@ -52,7 +52,32 @@
 	],
         "minimum_reward": 10000
       }
-    }	  
-	  
+    },	  
+    
+    {
+      "name": "injective",
+      "address": "injvaloper134dct56cq5v7uerxcy2cn4m06mqf4dxrlgpp24",
+      "restake": {
+        "address": "inj186u3vpyt6zxvyk7a4yv7h7cggtnexn93q8n5gc",
+        "run_time": [
+	  "09:00", 
+	  "21:00"
+	],
+        "minimum_reward": 100000000000000
+      }
+    },
+	
+    {
+      "name": "stride",
+      "address": "stridevaloper19nktvlnhd7j2tsyt97jyfnv3kdemx8cqx25ng7",
+      "restake": {
+        "address": "stride1g3laz9zpgy8x4k3gdkydf4umnepaug4w5v85mw",
+        "run_time": [
+	  "09:00", 
+	  "21:00"
+	],
+        "minimum_reward": 1000
+      }
+    }
   ]
 }

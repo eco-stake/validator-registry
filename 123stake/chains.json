@@ -29,15 +29,7 @@
         "minimum_reward": 100000
       }
     },
-               {
-      "name": "juno",
-      "address": "junovaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
-      "restake": {
-        "address": "juno1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
-        "run_time": "every 3 minutes",
-        "minimum_reward": 100000
-      }
-    },
+
            {
       "name": "chihuahua",
       "address": "chihuahuavaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
@@ -62,7 +54,7 @@
       "restake": {
         "address": "plq1xtfheepfhswusphmnvsrkulwcutd2wcwkkfhms",
         "run_time": "every 3 minutes",
-        "minimum_reward": 10000000
+        "minimum_reward": 10000000000000000
       }
     },
                {

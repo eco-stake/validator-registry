@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper10g284y7qkk4ecee896hnukw2wa8s3u0t4js57m",
-      "restake": {
-        "address": "cerberus1yqqsskp60ru889m2ac9rtdays6pt9xfyfl2f8j",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "desmos",
       "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
       "restake": {
@@ -45,24 +36,6 @@
         "address": "lum1yqqsskp60ru889m2ac9rtdays6pt9xfyqjhf8d",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "passage",
-      "address": "pasgvaloper1k4dsje06s8dyf3k80g7x695l7wdj0z52q5l2hu",
-      "restake": {
-        "address": "pasg1yqqsskp60ru889m2ac9rtdays6pt9xfykqn6lx",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name":"provenance",
-      "address":"pbvaloper1ux5wplu9xcazkjga0wjnlcdsdy0e3ttuxplhc9",
-      "restake":{
-        "address":"pb1t2h366ql9tuw0uufpqc7m3ce875v6q04fhsgd8",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward":1000000000
       }
     },
     {
