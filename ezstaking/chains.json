@@ -325,6 +325,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawm6kh6u",
+      "restake": {
+        "address": "stride1fs7lu28hx5m9akm7rp0c2422cn8r2f7glguwr9",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

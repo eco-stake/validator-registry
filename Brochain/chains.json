@@ -33,7 +33,16 @@
       "name": "dig",
       "address": "digvaloper18yvd0x0xr3xu43qdk0ldlmzpufzrtzzxfrpjhc",
       "restake": {
-        "address": "",
+        "address": "dig1fy8pfrsazl2wpgu8a2g8uq439amt5va748sqq8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1p9dz40gk03ngjt5mtzwjyrvf3rg7vdrguf4uvf",
+      "restake": {
+        "address": "jkl1fy8pfrsazl2wpgu8a2g8uq439amt5va75dh6mr",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -52,6 +61,15 @@
       "address": "memevaloper1p667p39m5ggzczua46q8fexeegjg7akxn9el6r",
       "restake": {
         "address": "meme1fy8pfrsazl2wpgu8a2g8uq439amt5va7nv0u9k",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1k0pwkzsuk7xmzx57e47qxc2vwhjd8ja63wxjmx",
+      "restake": {
+        "address": "quick1fy8pfrsazl2wpgu8a2g8uq439amt5va7xhfemw",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

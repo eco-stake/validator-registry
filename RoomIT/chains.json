@@ -1,0 +1,25 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "RoomIT",
+  "chains": [
+   {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1ssduj8c0cc8kquljvw3ygq9hduvcysnf590lmz",
+      "restake": {
+        "address": "gravity10lhel2eexpz2j6uam8klr64uacg9rcqhj6wc9f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+   },
+   {
+    "name": "comdex",
+    "address": "comdexvaloper1psy3gmflujcvcnm7d7palh3ywjxc00dms2x2wd",
+    "restake": {
+      "address": "comdex10lhel2eexpz2j6uam8klr64uacg9rcqh397zek",
+      "run_time": "every 24 hour",
+      "minimum_reward": 3000000
+    }
+   }
+  ]
+}
+

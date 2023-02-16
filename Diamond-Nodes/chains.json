@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Diamond Nodes",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1fvj38kgxhf3hqa8yxrartuguqjd4er5jfmmf7y",
+      "restake": {
+        "address": "terra17vp75m005xqamrntpca6pvyc4v22t933raxt8n",
+        "run_time": "Every 6 Hours",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

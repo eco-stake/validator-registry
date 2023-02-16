@@ -37,6 +37,42 @@
         ],
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper14f0uuyvumwx9ml6vflk3zx8tsfhzxefq8m4z22",
+      "restake": {
+        "address": "stars1vf336tp2wua20nc8lf8za7jtp757ujj3dvvr9l",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1rjfcgqrgmlmrptramcjy7kymnc5k6j7qet5spr",
+      "restake": {
+        "address": "persistence1vf336tp2wua20nc8lf8za7jtp757ujj3huadq2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper182d2cjt4al2qxkrgx2kp3v8rvm2jc50ft8wz57",
+      "restake": {
+        "address": "osmo1vf336tp2wua20nc8lf8za7jtp757ujj33tgwcu",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
     }
   ]
 }

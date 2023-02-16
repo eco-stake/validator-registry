@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Fina.cash",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1xyvlmw93ytmcju4suuk8tpuhzu6rtnnwqc6a7y",
+      "restake": {
+        "address": "secret19q758ccrc9hpmyqkhanwtzjly9vy2vr9pyezm4",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

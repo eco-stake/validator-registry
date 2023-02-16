@@ -13,11 +13,20 @@
       },
       {
            "name": "jackal",
-           "address": "jklvaloper1cj500uet7ssegwsmh24kt0hjw89ugez09h4gz2",
+           "address": "jklvaloper16x8acruey6sm0mvjz0tunz6w96eakws607j70w",
            "restake": {
                "address":"jkl1nszxyfxr5fpajlcfle0tvhptxknf5z9td8xhfw",
                "run_time": "20:30",
                "minimum_reward": 100000
+           }
+      },
+      {
+           "name": "cheqd",
+           "address": "cheqdvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0cjfkwl",
+           "restake": {
+               "address":"cheqd1nszxyfxr5fpajlcfle0tvhptxknf5z9t6myxmq",
+               "run_time": "20:30",
+               "minimum_reward": 3000000000
            }
       },
       {

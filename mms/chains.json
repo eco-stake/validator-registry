@@ -93,12 +93,12 @@
       }
     },
     {
-      "name": "echelon",
-      "address": "echelonvaloper1pt06tu30ly99t3qt48ppyh2wst432aygdh3qwe",
+      "name": "planq",
+      "address": "plqvaloper1zxktq5qjl3987czfxqfpgfx4w5ymvw92pysp9s",
       "restake": {
-        "address": "echelon1s6m3ux225d48kkkmkdnmuscfhfws9yckp54q85",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
+        "address": "plq1s6m3ux225d48kkkmkdnmuscfhfws9yckaj7203",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {

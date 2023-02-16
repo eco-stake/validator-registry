@@ -91,6 +91,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "restake": {
+        "address": "jkl1ksx5yarsdjw8wcgkqn4v5demdszzx9er32u70a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
+      "restake": {
+        "address": "stride1ksx5yarsdjw8wcgkqn4v5demdszzx9ertljnzw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }    
   ]
 }

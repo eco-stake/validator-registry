@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "StakeHub",
+    "chains": [
+      {
+        "name": "persistence",
+        "address": "persistencevaloper18f84d9qp23jynmz269p2ekd0zhc8rrvk469z22",
+        "restake": {
+          "address": "persistence1r4lq0v6mwwquhvhtuh5pd4e4ka6gnm2sqygc88",
+          "run_time": "21:00",
+          "minimum_reward": 1000
+        }
+      }
+    ]
+  }
