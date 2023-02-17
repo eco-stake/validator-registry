@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "migaloo",
+      "address": "migaloovaloper1ra2wpswcmrl02cdaskvfyvjersusl8uz0h6scm",
+      "restake": {
+        "address": "migaloo1h43hjfxlz8t6y5wewma63jz7melv46gjfw429c",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomicvaloper1mfppqwyz36vp2khwnrrjs60txcah82fwkmg7hh",
       "restake": {
