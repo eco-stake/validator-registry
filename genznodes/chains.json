@@ -37,6 +37,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
           }
+       },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper12ut50ert29hrq2nvtmagdts9aq988frcq7usew",
+      "restake": {
+        "address": "8ball19tzqk0kp67mx4wcedvmefhvk9r2xcxudfcderh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+          }
        }
     ]
  }
