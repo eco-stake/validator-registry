@@ -4,7 +4,7 @@
   "chains": [
     {
       "name": "agoric",
-      "address": "agoricvaloper1thl5syhmscgnj7whdyrydw3w6vy80044srysxn",
+      "address": "agoricvaloper1thl5syhmscgnj7whdyrydw3w6vy80044srysxn"
     },
     {
       "name": "axelar",
