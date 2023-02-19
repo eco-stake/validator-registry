@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "1% MAX fee",
+  "name": "1_percent_MAX_fee",
   "chains": [
     {
       "name": "terra",
