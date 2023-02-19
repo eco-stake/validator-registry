@@ -10,6 +10,24 @@
         "run_time": "19:00",
         "minimum_reward": 100
           }
-       } 
+       },
+          {
+         "name":"acre",
+         "address":"acrevaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzcakwcu",
+         "restake":{
+            "address":"acre1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzp9876p",
+            "run_time":"every 1 hour",
+            "minimum_reward":100
+         }
+      },
+          {
+         "name":"8ball",
+         "address":"8ballvaloper1fcx24gvx3at5y8xvjryy36zc3yjtuuw00wpyfq",
+         "restake":{
+            "address":"8ball1fcx24gvx3at5y8xvjryy36zc3yjtuuw0f4nfvm",
+            "run_time":"every 1 hour",
+            "minimum_reward":100
+         }
+      }
     ]
  }
