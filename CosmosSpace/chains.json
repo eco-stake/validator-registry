@@ -3,6 +3,24 @@
   "name": "Cosmos Spaces ☮️ 💜 ⚛️",
   "chains": [
     {
+      "name": "stargaze",
+      "address": "starsvaloper1gpnmdeytnjqekqt559dqzdv2gwjefcsvv0sarg",
+      "restake": {
+        "address": "stars1w4kz22p4j7294u6446lhz0lud4s5nl5wpv39c3",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1rspxjsr30u4kvnfegavpu7r43erw7gxavsgw6n",
+      "restake": {
+        "address": "migaloo1w4kz22p4j7294u6446lhz0lud4s5nl5wcy0zxw",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper13p5ckpmc9g2v8ez5qsxs00wadqvcc7q0qheh26",
       "restake": {
