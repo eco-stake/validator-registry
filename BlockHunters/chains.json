@@ -235,6 +235,33 @@
         "run_time": "every 2 hours",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1nqz5ksxeyldnztgths8hey7klvqqfhpgvpwupu",
+      "restake": {
+        "address": "plq1cguhp05y0rd6tshsgaf8htl3eux5sfs6f8fkux",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1xak2zj9pjz0l5th3etwucjv4dlk7sjmgkzk6ym",
+      "restake": {
+        "address": "canto1cguhp05y0rd6tshsgaf8htl3eux5sfs6jfc6wa",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1ss7vkqzfal7h4m8ug8lh8peqqyt7vq3sdtp8pl",
+      "restake": {
+        "address": "bluzelle1r55ccy36y4v7f3nxxprukvsdljp8ga4pfqre7h",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
