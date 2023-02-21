@@ -181,6 +181,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 2000000
       }
+    },
+      {
+      "name": "migaloo",
+      "address": "migaloovaloper1u7u8jee62a37k5ru4eqf3psfzkxpw46rx3fd0s",
+      "restake": {
+        "address": "migaloo1r8egcurpwxftegr07gjv9gwffw4fk009xnxsdd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
