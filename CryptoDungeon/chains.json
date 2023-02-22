@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoDungeon",
+  "chains": [
+    {
+      "name": "desmos",
+      "address": "desmosvaloper15hkyq65xxastrnts2rep84lmysuy3k6qyk9k5c",
+      "restake": {
+        "address": "desmos1pauy7kedg4mjq8wevz3tmzgv46xrmzs2uh9gqa",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj0m9tz2",
+      "restake": {
+        "address": "stars1w6su2zgdsvufhwl8pdcuephttz2vjw294eusld",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjeknkwx",
+      "restake": {
+        "address": "juno1w6su2zgdsvufhwl8pdcuephttz2vjw29hhgknq",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    }
+  ]
+}
