@@ -50,10 +50,10 @@
       }
     },
     {
-      "name": "jackal",
-      "address": "jklvaloper1cecxmg2c087asjcs4n4pt0zyha2wthm8qydw0f",
+      "name": "kichain",
+      "address": "kivaloper1c0knmf2c75fytksnt63ytv3n2376dzaynetyse",
       "restake": {
-        "address": "jkl1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpzfatjt",
+        "address": "ki1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp26z40q",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
