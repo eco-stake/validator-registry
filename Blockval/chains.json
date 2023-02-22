@@ -66,6 +66,15 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 10000000
       }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1yrkme34styedn56wmltlttj94lkk38d6jztyvr",
+      "restake": {
+        "address": "desmos1pu7eqnae5fmcrxgarldfqu53y7cksle59ppl0r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
