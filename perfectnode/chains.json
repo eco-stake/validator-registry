@@ -1,0 +1,26 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Nodine.ID",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1cyxq5wp2cd5p309rxc84hag8qcpqft45ezwp3h",
+      "restake":
+      {
+        "address": "plq1rarwwmt8xezcdjz6cu9pawehnh2pxhs9px24pd",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper18ft56vxrr0rc9hpxlrd563yv4wwlcztqwnuhdy",
+      "restake":
+      {
+        "address": "8ball17makzkpwp3t0dvgk92a8lyqaqgphukg685pux6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}

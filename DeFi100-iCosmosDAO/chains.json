@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1d5hmn9es40tlmdaljepz8xwxh83sypxclkmyyg",
+      "restake": {
+        "address": "osmo13acw5m4sjh54cnar3rghgjx0sh5rnct848nee4",
+        "run_time": "16:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1675zynd76yeteugp33hexjjszwlqx753r43xzl",
       "restake": {

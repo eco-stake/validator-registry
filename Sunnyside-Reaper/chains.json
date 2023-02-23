@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sunnyside Reaper",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1g5n9zek5wthnls4jk59k6up06xd3p583ute7r5",
+      "restake": {
+        "address": "tori1hshmnfalrktydpxhdsc8rmn82xkrf36393kzax",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

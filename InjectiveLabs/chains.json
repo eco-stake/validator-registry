@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Injective Labs",
+  "chains": [
+    {
+      "name": "mars",
+      "address": "marsvaloper1mvdau3mafeyf7xga5w76t636lwcyf5s0jx7zmk",
+      "restake": {
+        "address": "mars12jryjmur05k460xsxleg2a3e7tfvt42gksawws",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1948raua2qwgn6rcstgdtk4wyg2zypc2680lej7",
+      "restake": {
+        "address": "band1vhwjfg8quv7t7ppwamm752rmapsq4hy9c2qwnw",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

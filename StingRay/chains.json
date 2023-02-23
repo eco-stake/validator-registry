@@ -1,0 +1,132 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StingRay",
+  "chains": [
+    {
+      "name": "jackal",
+      "address": "jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh",
+      "restake": {
+        "address": "jkl1k8np53qv6dppzaudd28vjuc8pj309zq8yqwazq",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0xxqwy",
+      "restake": {
+        "address": "meme1k8np53qv6dppzaudd28vjuc8pj309zq8rpkmu4",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu",
+      "restake": {
+        "address": "tori1k8np53qv6dppzaudd28vjuc8pj309zq8l2h9q0",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq",
+      "restake": {
+        "address": "bze1wh8v5l3fnazzr0mw7dd6j6yzj0rtgzqn5429l4",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper1mjfnpcx4yw3fz48vueh2ycjky95k6t48qcmr4l",
+      "restake": {
+        "address": "vdl1wh8v5l3fnazzr0mw7dd6j6yzj0rtgzqnv4kfqy",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1kyhhvx47wuj7n894xswcjp70xwa3rtxf9vds6a",
+      "restake": {
+        "address": "canto19cctrhaxs58tt5lmx2m27kl66sr7w2maxplqzx",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543",
+      "restake": {
+        "address": "genesis1k8np53qv6dppzaudd28vjuc8pj309zq8rh56l2",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm",
+      "restake": {
+        "address": "gravity1k8np53qv6dppzaudd28vjuc8pj309zq8ewj57h",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "idep",
+      "address": "idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt9djgczr",
+      "restake": {
+        "address": "idep1k8np53qv6dppzaudd28vjuc8pj309zq8u7kcak",
+        "run_time":  ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1z5lnfyrw7net36geh4l5h7upglctzv4ypjsvvv",
+      "restake": {
+        "address": "darc1k8np53qv6dppzaudd28vjuc8pj309zq8zl5akg",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1ungevjyce3ghrxpfv7hs36rhm5sdzprw2fqgue",
+      "restake": {
+        "address": "lamb1pgcuaq7lsvvcx4k5j5n6xm3lty0jnl0zjk7fry",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "mises",
+      "address": "misesvaloper1c3rs90uxqu0ewlrkp2lfy5u9krlqtcxpfvnwk0",
+      "restake": {
+        "address": "mises1k8np53qv6dppzaudd28vjuc8pj309zq8jwwv7n",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l",
+      "restake": {
+        "address": "omniflix1k8np53qv6dppzaudd28vjuc8pj309zq8qq34vp",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs",
+      "restake": {
+        "address": "pb1cxleemee6reg0qk5fvshkkutpsmges76yscfw5",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

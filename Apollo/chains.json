@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Apollo",
+  "chains": [
+    {
+      "name": "stride",
+      "address": "stridevaloper1d5pp3uxkdr66x6y8uevl3ek8s5htew83k2tdnu",
+      "restake": {
+        "address": "stride142yyjq5l70fs4tdcqew7xfzjclr89mr3603w3z",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+	 {
+      "name": "rebus",
+      "address": "rebusvaloper1w6mslqt7zs63uuu0un7z0hx79we7jk4q69d239",
+      "restake": {
+        "address": "rebus142yyjq5l70fs4tdcqew7xfzjclr89mr3gwj83c",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

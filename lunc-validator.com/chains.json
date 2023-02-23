@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LUNC-VALIDATOr 0%Fees ⚡️ +Auto-Restake & High Availability Server",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1der0lqp4grpnmpuefhwlj72fzccqmhmwgjh6ys",
+      "restake": {
+        "address": "terra19m47p33axzg6rgvxhs3jz7sp85l0pyrjk4rutc",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

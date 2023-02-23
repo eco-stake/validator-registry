@@ -1,0 +1,118 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Notional",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1083svrca4t350mphfv9x45wq9asrs60c0k5a63"
+    },
+    {
+      "name": "band",
+      "address": "bandvaloper19huytqr8srz9wcdhvas5cvxddg8dtqcv6tce0s"
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1dl7w3myyfmnarh0t5uxmy7qe6szagz3kyhzq07"
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1je872m97uce2ttztkh8pdx6zezw5kr03dj3lff"
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1h6vcu4r2hx70x5f0l3du3ey2g98u9ut2tafnnv"
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper16dc379m0qj64g4pr4nkl7ewak52qy2srpe6lxp"
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1083svrca4t350mphfv9x45wq9asrs60cdmrflj"  
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1rv94jqhlhx6makfwl6qs390e4shg32m6w6dxzy"      
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1s9myentgxavnpw7648an2v6zvvpza0axa6dd0x"      
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1083svrca4t350mphfv9x45wq9asrs60cpqzg0y"      
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper16eg6wf2k6v0lzwu2vsrhxhe0tcycgr7jm98nyz"      
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1083svrca4t350mphfv9x45wq9asrs60camel0h"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1083svrca4t350mphfv9x45wq9asrs60c6rv0j5"      
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper14npnd73z5qjwz4az2dpw6vcdvkj29qg0cgar4j"      
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1083svrca4t350mphfv9x45wq9asrs60ct2p9a5"    
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1083svrca4t350mphfv9x45wq9asrs60cyssqu6"      
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1kvwpcr45lh7wn53wp9ac42ypr3t8zjqy6ks9au"
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper13jyqfhak8mu4c7pydjm3eu4qla7g06a9u6xf8g"     
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1lmkzaxztjpesh0mf7qy76l5npqwc7fk3l2k57g"     
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1fndgrsqmmq68ppl42wjkxh32nwpuj7vqtgep38"     
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper16dc379m0qj64g4pr4nkl7ewak52qy2srvfvrue"     
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper15wshq6lmxmcn9vxky2mxf8zhstpn9ywmfc5ke5"     
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper10ap9fj9uq50cardmlzdj367kqg5x3ghjdp2v6p"     
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper18rchk5exp2vzcwrwuret5sjwpxhf4sq22ze4dr"     
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1083svrca4t350mphfv9x45wq9asrs60cv37gc8"     
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1v8yp5x5kfex4wep2pfuuyw68cn2lst3ksl0gss"     
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper1pdqlmncych8uzsfdnsptv7s0wpazc0rgv7zc6h"     
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1dmahqt84r9je3sqvljzjrttjj78cmrf39k5zhs"     
+    }
+  ]
+}

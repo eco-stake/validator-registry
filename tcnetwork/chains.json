@@ -28,6 +28,33 @@
         "run_time": "21:00",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper15kmvdnvgmcghxfvzev86wc3rh47a9la3d975hz",
+      "restake": {
+        "address": "rebus1j9us0qyye0reyudw2w07t7r2zwrp7d7x4zrpdp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1jwrvrptsqv40vk057n3cvpe7dvfdr7y7xf0nmr",
+      "restake": {
+        "address": "plq1j9us0qyye0reyudw2w07t7r2zwrp7d7xdssgly",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper10mwndz506nr6rsct0ludv3q6fjyfzva0c0yahr",
+      "restake": {
+        "address": "tori19a9vcvzc8ld33psnq8dm0h4lh5v8seuwdx7jru",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

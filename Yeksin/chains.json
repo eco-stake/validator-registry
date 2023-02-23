@@ -1,0 +1,15 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Yeksin",
+	"chains": [
+		{
+			"name": "8ball",
+			"address": "8ballvaloper199ncjactnlzlzgr2kvahnscr2h7u8vd0nd2w0n",
+			"restake": {
+				"address": "8ball1q8h7kqaf6q9sxygrjnzf9jm5x5ma2yz8apd46n",
+				"run_time": "every 30 minutes",
+				"minimum_reward": 1000
+			}
+		}
+	]
+}

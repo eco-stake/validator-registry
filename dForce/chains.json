@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dForce",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1cc99d3xcukhedg4wcw53j7a9q68uza707vpfe7",
+      "restake": {
+        "address": "cosmos1cp8gg653uclq3mzepvl8pn97sp066cac5szpk7",
+        "run_time": ["20:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1rurj7z2xgr9dk7xadep6ly84xqgzlc543eq58r",
+      "restake": {
+        "address": "persistence1cp8gg653uclq3mzepvl8pn97sp066cac6uyjc6",
+        "run_time": ["20:00"],
+        "minimum_reward": 100000
+      }
+    } 
+    ]
+}

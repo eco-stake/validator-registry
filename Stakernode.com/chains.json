@@ -11,6 +11,15 @@
         "minimum_reward": 100000
       }
     },
+     {
+      "name": "stride",
+      "address": "stridevaloper1h4ya59vgv7f78755saqts4lq2nky8s0tndvgv8",
+      "restake": {
+        "address": "stride1p4ecg8y2mcr247rtgjp4960d2zleavca54ck0c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+      }
+    },
     {
       "name": "sifchain",
       "address": "sifvaloper1e4l8durzh4hxmndv0vu43nayazedt0dk6fpx90",

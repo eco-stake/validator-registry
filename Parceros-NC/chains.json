@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NacionCrypto - Parceros",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1uwm8vhauj6wfj8ydlty3nr6ffeu9lg6j3ma59s",
+      "restake": {
+        "address": "juno1vmhzkmgzxrlq24099jhh6q9upzcge5ynevw8rg",
+        "run_time": ["23:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1skc8aut895jvg4hdxx7q89sus5x63ede5dsla0",
+      "restake": {
+        "address": "stars1vmhzkmgzxrlq24099jhh6q9upzcge5ynmz6p09",
+        "run_time": ["23:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

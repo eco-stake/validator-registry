@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Alien.rest",
+  "services": [
+    {
+      "title": "Alien.rest",
+      "description": "Alien running nodes",
+      "url": "https://Alien.rest"
+    }
+  ]
+}

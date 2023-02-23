@@ -47,6 +47,15 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper1neqdrj7tl6pwv3flckhajkgtvt5tee8tu8zr68",
+      "restake": {
+        "address": "fetch1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sfa0lup",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1wj4jhrll90knap3vt8z4qs5rrm9cla2kpc5944",
       "restake": {

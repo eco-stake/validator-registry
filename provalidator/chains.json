@@ -107,7 +107,16 @@
       "restake": {
         "address": "umee1330aewfwzu30vznhxw7aevaz0kn35fdyvfrjqm",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1hw06c3nsx4a577x45kc4ln5dzct3wk0qf9zcsh",
+      "restake": {
+        "address": "stride1330aewfwzu30vznhxw7aevaz0kn35fdya573s9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]

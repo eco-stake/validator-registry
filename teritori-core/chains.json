@@ -1,0 +1,28 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Teritori Core Team",
+    "chains": [
+        {
+            "name": "teritori",
+            "address": "torivaloper1gtz5v838vf7ucnn0jnqr3crs5099g9p2vpzxhv",
+            "restake": {
+                "address": "tori1ec28knsg2lmyqcctt2u4mzpu4ghfd085havx8j",
+                "run_time": [
+                    "14:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "teritori",
+            "address": "torivaloper1vxmq5epj83z8en5h0zul624nrmfxzmhk7ucyej",
+            "restake": {
+                "address": "tori1k8z63qxg564vvkwsk4un7lgtwgz0aq662ldp4f",
+                "run_time": [
+                    "14:00"
+                ],
+                "minimum_reward": 1000
+            }
+        }
+    ]
+}

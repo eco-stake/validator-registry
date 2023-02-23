@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MZONDER",
+  "chains": [
+     {
+      "name": "umee",
+      "address": "umeevaloper1nlsvx2cl4wksknfx9dk7svn0rushylzj4g8l6z",
+      "restake": {
+        "address": "umee1wf60jx7lrgt6xjp3lk8vq4fcjh24s507s8dfx9",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1ahw9u2j08u6fms7xmxcnm8wjp7mkprsjmchf49",
+      "restake": {
+        "address": "ki1wf60jx7lrgt6xjp3lk8vq4fcjh24s507nupexr",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },	
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1wdee5gxsm25v6f2k6rtwxqsk64gyp29u3rual4",
+      "restake": {
+        "address": "gravity1wf60jx7lrgt6xjp3lk8vq4fcjh24s507xpzw8l",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper12uakue3hu437thzcf7v9lj38yfayg84zgtkgvc",
+      "restake": {
+        "address": "stride1wf60jx7lrgt6xjp3lk8vq4fcjh24s507p6s2km",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1zk0sx2e677293wfmhxngpexu50vps3sdwyef92",
+      "restake": {
+        "address": "evmos104uwgvkxtc7fhdnacp2lje9e97w5kdrynkqg72",
+        "run_time": "18:30",
+        "minimum_reward": 500000000000000000
+      }  
+    }
+  ]
+}

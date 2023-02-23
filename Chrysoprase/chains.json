@@ -1,0 +1,16 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Chrysoprase",
+    "chains": [
+    {
+        "name": "acrechain",
+        "address": "acrevaloper1csn8s4g52upaadcxum4sqnxprtc683uk6vdj56",
+        "restake": {
+        "address": "acre10w3x5n4c2uvzadch4hvd9uzaewph0u3xv4n0ev",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 100000000000000000
+        }
+    }
+    ]
+}
+

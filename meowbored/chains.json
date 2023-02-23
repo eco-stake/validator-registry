@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Meowbored",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1fagquqac5q43k8juchhlq4z42tzz757k4yqgy4",
+      "restake": {
+        "address": "rebus1fagquqac5q43k8juchhlq4z42tzz757ktnuh3k",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

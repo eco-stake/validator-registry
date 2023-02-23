@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "libra",
+  "chains": [
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1zp8sxgn58p5htqgcl0ce90gusrxzdh0mqv7j6z",
+      "restake": {
+        "address": "firma1cs82h2snnvwk00cs3wm6mwe3vx5tr52hk6f7eq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

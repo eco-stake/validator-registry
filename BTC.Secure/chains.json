@@ -1,0 +1,21 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BTC.Secure",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1ya23p5cxtxwcfdrq4dmd2h0p5nc0vcl96yhjra"
+    },
+    {
+     "name": "irisnet",
+      "address": "iva18clrjdxeg3ule5aprt85mt7h4q3zj0ecn77qvz"
+    }, 
+    {
+     "name": "terra2",
+      "address": "terravaloper15389y60f0rk596tm38qewqycr8ztt8hshsf2mk"
+    },
+    {
+     "name": "minter",
+      "address": "Mp01cc99ae5a349ecaeef187dcbb12816bf2b3d8eae80f654034b21213aa445b2c"
+    }]
+}

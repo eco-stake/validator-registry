@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Junkers",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper17zr98cwzfqdwh69r8v5nrktsalmgs5sa83gpd9",
+      "restake": {
+        "address": "orai1pkyh8srjnwdtpd93adup2rljpluz63fe3f8f2v",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+    ]
+}

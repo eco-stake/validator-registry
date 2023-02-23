@@ -8,8 +8,7 @@
         "restake": {
           "address": "genesis1kphlmcmmxrdpm7assyqtx488k8es7tuxstrl2d",
           "run_time": [
-            "09:00",
-            "21:00"
+            "16:20"
           ],
           "minimum_reward": 100000000000000000
         }
