@@ -78,6 +78,19 @@
 	],
         "minimum_reward": 1000
       }
+    },
+	  
+    {
+      "name": "xpla",
+      "address": "xplavaloper18kfshm0wzsfz699llgst00a7rjqryj4n653aew",
+      "restake": {
+        "address": "xpla186u3vpyt6zxvyk7a4yv7h7cggtnexn935fuv3n",
+        "run_time": [
+	  "09:00", 
+	  "21:00"
+	],
+        "minimum_reward": 10000000000000000000
+      }
     }
   ]
 }
