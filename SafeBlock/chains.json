@@ -6,7 +6,7 @@
       "name": "planq",
       "address": "plqvaloper1r3j34ch40555kgukc7xy8u45jnr3rnpapslpk7",
       "restake": {
-        "address": "plq1r3j34ch40555kgukc7xy8u45jnr3rnpalwjms0",
+        "address": "plq1408uk4pmf4gdwxelrz3wgfks3ttxujwwztx28p",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000
       }
