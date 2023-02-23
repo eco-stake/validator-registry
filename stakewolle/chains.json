@@ -264,6 +264,15 @@
       }
     },
     {
+      "name": "mars",
+      "address": "marsvaloper18cgfu8xre33nuz7pkrwy6e4s3jd9fqk0zdtskr",
+      "restake": {
+        "address": "mars18cgfu8xre33nuz7pkrwy6e4s3jd9fqk0kph9jx",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "meme",
       "address": "memevaloper1dshysamgzd0d7meftn6npf9pxyskxh49mdc68a",
       "restake": {
