@@ -31,9 +31,9 @@
     },
     {
        "name": "evmos",
-       "address": "evmosvaloper17jyfw78xztc8crq4t8znjlg8ld76lkzkg2hny3",
+       "address": "evmosvaloper1nfx47fqnqpcarqwt7qn4fk0llc57vvh3wgg35c",
        "restake": {
-         "address": "evmosvaloper1nfx47fqnqpcarqwt7qn4fk0llc57vvh3wgg35c",
+         "address": "evmos1gat59ad56d8r7qgkw6run8y252qhrws4kl8tqz",
          "run_time": "21:00",
          "minimum_reward": 100000000000000000
        }
