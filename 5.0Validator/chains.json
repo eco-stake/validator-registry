@@ -19,6 +19,15 @@
             "run_time":"19:00",
             "minimum_reward":100000
          }
+       },
+	{
+         "name":"cudos",
+         "address":"cudosvaloper1r2kfvyhf3hl2juurrete54lzvtgscmhgc80dch",
+         "restake":{
+            "address":"cudos1yjsme9964m977clg2nlltvn6yc7c7vdm05m8du",
+            "run_time":"19:00",
+            "minimum_reward":100000
+         }
        } 
     ]
  }
