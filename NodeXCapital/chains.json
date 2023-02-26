@@ -19,6 +19,15 @@
             "run_time":"every 1 hour",
             "minimum_reward":10000
          }
+    },
+      {
+         "name":"arkh",
+         "address":"arkhvaloper1l52f295r6hvc5q3jgxjlwgx3pw7t6pxhp52kml",
+         "restake":{
+            "address":"arkh1gutzy7wd6hqh64tn49u9zy96tqtq84sv902fvn",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
+         }
     }
   ]
 }
