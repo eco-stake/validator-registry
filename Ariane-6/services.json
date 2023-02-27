@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Ariane 6",
+  "services": [
+    {
+      "title": "With a portuguese charm",
+      "description": "We provide a combined expertise of the top contributors to the Crypto.org Mainnet and Cronos chains a World-Class Validator. Granting to all CRO holders and investors the opportunity to stake alongside with us, accessing the chain with a staggering and dedicated Service.",
+      "url": "https://www.ariane6.pt"
+    }
+  ]
+}
