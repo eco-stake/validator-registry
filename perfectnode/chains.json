@@ -5,11 +5,63 @@
     {
       "name": "planq",
       "address": "plqvaloper1cyxq5wp2cd5p309rxc84hag8qcpqft45ezwp3h",
-      "restake": {
+      "restake":
+      {
         "address": "plq1rarwwmt8xezcdjz6cu9pawehnh2pxhs9px24pd",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper18ft56vxrr0rc9hpxlrd563yv4wwlcztqwnuhdy",
+      "restake":
+      {
+        "address": "8ball17makzkpwp3t0dvgk92a8lyqaqgphukg685pux6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "Arkh",
+      "address": "arkhvaloper1n4s24h75d7xpgspragssuty85xflkjfccxn256",
+      "restake":
+      {
+        "address": "arkh17makzkpwp3t0dvgk92a8lyqaqgphukg6r0adte",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+      {
+      "name": "decentr",
+      "address": "decentrvaloper17yh2vfrzt3d4yqkax7m22yqkv2gcl2jsen9ppf",
+      "restake":
+      {
+        "address": "decentr17makzkpwp3t0dvgk92a8lyqaqgphukg6y089yd",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+      {
+      "name": "vidulum",
+      "address": "vdlvaloper1ta4fpn2fc4465s282ky4h0nqq86tzg5x4uqeq9",
+      "restake":
+      {
+        "address": "vdl1ndaefewt9g0z56ks020uy2qjcsayezmly75wux",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+      {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1935lw9qx42v74whr3usv2kkya436f3p3y435xp",
+      "restake":
+      {
+        "address": "bluzelle1hpw84fqcjsmle54v6f7p2sqgg3wqv5fctexmhj",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
     }
+
   ]
 }

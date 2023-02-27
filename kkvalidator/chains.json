@@ -1,0 +1,24 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "KK Validator",
+    "chains": [
+        {
+            "name": "terra",
+            "address": "terravaloper1svcgzkp4lhvvltce5uk73tnwxfrj6nlka4vm3x",
+            "restake": {
+                "address": "terra139vjkdc8gpzm97fs64kqlxdswhd7talcuur7nv",
+                "run_time": "21:00",
+                "minimum_reward": 1000000000
+            }
+        },
+        {
+            "name": "terra2",
+            "address": "terravaloper1lnlasdy5r2hdjz3ta2r86ufkz309zdjvqshec4",
+            "restake": {
+                "address": "terra139vjkdc8gpzm97fs64kqlxdswhd7talcuur7nv",
+                "run_time": "21:00",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

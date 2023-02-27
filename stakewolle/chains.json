@@ -242,7 +242,7 @@
       "restake": {
         "address": "like1m7xlymnpxl2d4llu67v08e8xs67dj2fz5f0f48",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -261,6 +261,15 @@
         "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
         "run_time": "every 5 minutes",
         "minimum_reward": 2000000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper18cgfu8xre33nuz7pkrwy6e4s3jd9fqk0zdtskr",
+      "restake": {
+        "address": "mars18cgfu8xre33nuz7pkrwy6e4s3jd9fqk0kph9jx",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     },
     {

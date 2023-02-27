@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlockFarms",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1vyy5s54ev3r0p23qv5uxda9pl2qs6etus2gr6u",
+      "restake": {
+        "address": "acre1hzn4z59jzczm2y8fls7fmxgwvj4nanuz5x6u2m",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

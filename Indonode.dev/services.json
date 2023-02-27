@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Indonode",
+  "services": [
+    {
+      "title": "Indonode IBC / Node Services",
+      "description": "We provide every tool and contribution for validators and community only at : ",
+      "url": "https://indonode.net/"
+    }
+  ]
+}
