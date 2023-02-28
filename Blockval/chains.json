@@ -85,15 +85,14 @@
         "minimum_reward": 1000000
       }
     },
-    ,
-      {
-         "name":"provenance",
-         "address":"pbvaloper1azljqnv2wnckuefj4nxmpe69sgm8mqet3v255f",
-         "restake":{
-            "address":"pb1pv3etaj2m2amvct0ceyzdctph0yknm58qqn6pp",
-            "run_time":"every 1 hour",
-            "minimum_reward":1000000000
-         }
-      }
+    {
+       "name":"provenance",
+       "address":"pbvaloper1azljqnv2wnckuefj4nxmpe69sgm8mqet3v255f",
+       "restake":{
+          "address":"pb1pv3etaj2m2amvct0ceyzdctph0yknm58qqn6pp",
+          "run_time":"every 1 hour",
+          "minimum_reward":1000000000
+       }
+    }
   ]
 }
