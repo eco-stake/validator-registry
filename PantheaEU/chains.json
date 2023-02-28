@@ -26,7 +26,7 @@
       "restake": {
         "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
