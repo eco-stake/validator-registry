@@ -16,7 +16,7 @@
       "address": "crevaloper130s7v7zrqkytcpp68uac36kxj0km3lj984xqm4",
       "restake": {
         "address": "cre1fy8pfrsazl2wpgu8a2g8uq439amt5va7fm2wh3",
-        "run_time": "every 1 hour",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
