@@ -73,6 +73,15 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1jxtgnfw3tatfh90ju9j76dfrt3yea0zw2vnr8v",
+      "restake": {
+        "address": "migaloo1murx57yjv5r5gvspcxxd8d3w0mmy52xt6q6za3",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
