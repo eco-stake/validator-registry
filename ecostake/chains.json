@@ -102,6 +102,18 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1vqz7mgm47xhx25xu5g9qagnz48naks6pk6fmg2",
+      "restake": {
+        "address": "inj18fzq4nac28gfma6gqfvkpwrgpm5ctar22davpp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper19ur8r2l25qhsy9xvej5zgpuc5cpn6syydmwtrt",
       "restake": {
