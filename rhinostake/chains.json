@@ -63,6 +63,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1xfr6dkt0gszrafvyn9ez5g20hte96p7h7pdx9p",
+      "restake": {
+        "address": "mars1d72r4aaxkv2cpnxjh6xuklv9z4prcj2qjgz33f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1y5jq37hlz0rf5rqce3f4fdhax48gnn9nkjfqqc",
+      "restake": {
+        "address": "migaloo1d72r4aaxkv2cpnxjh6xuklv9z4prcj2qzpjj3u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SPT-ALRIZKI",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1vcw425hmfwj4xwqre3neqqd62rz08gg8gamxfz",
+      "restake": {
+        "address": "plq1ktpvvuxvz0ry2xmjlly2vrj7htdvjdlqgm2m33",
+        "run_time": "19:00",
+        "minimum_reward": 100
+          }
+       } 
+    ]
+ }

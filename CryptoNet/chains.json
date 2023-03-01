@@ -3,15 +3,6 @@
   "name": "CryptoNet",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper106na43ryp064u4whh6xux865z8yad8ka2s5u2v",
-      "restake": {
-        "address": "cerberus1zz3wp5t24ej534nz5g7lxdazekx0aaeknfj23h",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "rizon",
       "address": "rizonvaloper1q8vxdwn6zdd5fudtjrx46c0q0a66u7n3dxdtc9",
       "restake": {
@@ -26,7 +17,7 @@
       "restake": {
         "address": "pb1zj8q3x2sk9jsjav3q2m3zt79acz5e2cqvxk7h6",
         "run_time": ["03:00","15:00"],
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -44,14 +35,14 @@
       "restake": {
         "address": "lamb1x8zysrq0jw6vq87h207ecv2m3yguv9rfj7wxzd",
         "run_time": ["03:00","15:00"],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
       "name": "lumnetwork",
       "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
       "restake": {
-        "address": "lum1zz3wp5t24ej534nz5g7lxdazekx0aaek6y023g",
+        "address": "lum1xpw7qmxsc9v9vfw3v0uxy83y3ynald6mntzgy6",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 1000000
       }
@@ -80,7 +71,7 @@
       "restake": {
         "address": "swth1zz3wp5t24ej534nz5g7lxdazekx0aaekssc4h9",
         "run_time": ["03:00","15:00"],
-        "minimum_reward": 10000000
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -89,8 +80,26 @@
       "restake": {
         "address": "decentr1zz3wp5t24ej534nz5g7lxdazekx0aaekyq5h95",
         "run_time": ["03:00","15:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper194j4f3yxwpmc49ffwyqua0hmrgw2szvp47njqu",
+      "restake": {
+        "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper13ypu2s4kfstzs62v70muakk42dmlpv5u6vz2pd",
+      "restake": {
+        "address": "sent1zz3wp5t24ej534nz5g7lxdazekx0aaek54y6qn",
+        "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
       }
-    }
+    }    
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TestnetPride",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr",
+      "restake": {
+        "address": "umee1evpem0qvhp7wusypz5qxurqxvgkdlqg050h4pz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

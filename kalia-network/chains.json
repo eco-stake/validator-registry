@@ -3,6 +3,15 @@
   "name": "Kalia Network",
   "chains": [    
     {
+      "name": "acrechain",
+      "address": "acrevaloper1llprqt8prvf364tgggx8as6yxcw46g4mt6pkpx",
+      "restake": {
+        "address": "acre1w37sg25lvt47yflnm6m4eky6ggdqprm7p0qjd5",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "akash",
       "address": "akashvaloper1skc28275u3dzwggtj8vmlqw3xpl86ry0r9tc5p",
       "restake": {
@@ -27,6 +36,15 @@
         "address": "bcna1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsn50aan",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name":"chain4energy",
+      "address": "c4evaloper1u95atesfpgrcnfs24x2n4jgvpn8jzw9k85pqhy",
+      "restake": {
+        "address": "c4e1l8zv60wlmq2jy4usqdfw54vlac8luchl8c77s8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -75,12 +93,30 @@
       }
     },
     {
-      "name": "ixo",
+      "name": "impacthub",
       "address": "ixovaloper1y7wlzm52y2nnt4404kaz403zcewgees506rdk6",
       "restake": {
         "address": "ixo1wv5zr0sfynf2d78c0u49h3kuqnhhqgcsk3pw3j",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1a2vuwmhvs8ee92mcs7yssd4hx2qnqjhrq5c8jq",
+      "restake": {
+        "address": "jkl1wv5zr0sfynf2d78c0u49h3kuqnhhqgcss63dv7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper137jru6fph8qudzgjudynl6v8tr8wwws5pum498",
+      "restake": {
+        "address": "lamb1w37sg25lvt47yflnm6m4eky6ggdqprm7qteln5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -108,6 +144,15 @@
         "address": "pb1ajtfdkt9lds4dw97qqmxkmcx4zp05zdgdq3aum",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1f4tw9vx6jfpds8jx2gt75l6cq6kkcd6lcdmgc9",
+      "restake": {
+        "address": "quick1wv5zr0sfynf2d78c0u49h3kuqnhhqgcszq0wvn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {

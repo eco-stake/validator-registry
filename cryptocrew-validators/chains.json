@@ -201,6 +201,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
+      "restake": {
+        "address": "quick1305e92ng6a9pdh3ttc3ld459ckxupxt3ug23r4",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk"
     },

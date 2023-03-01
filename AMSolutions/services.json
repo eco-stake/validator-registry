@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "AM Solutions",
+  "services": [
+    {
+      "title": "AM Solutions RPC / Snapshot services ",
+      "description": "For all projects we involved, we provide node / validator support services to keep chains save and stable.",
+      "url": "https://github.com/AlexToTheMoon/AM-Solutions"
+    }
+  ]
+}

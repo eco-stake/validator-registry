@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Panthea EU",
+  "identity": "ABC82233B8A1D838",
+  "website": "https://www.panthea.eu",
+  "description": {
+    "overview": "Highly trusted, reliable and secure Proof-of-Stake infrastructure provider and validator.",
+    "team": "",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "validator@panthea.eu",
+    "telegram": "PantheaEU",
+    "twitter": "PantheaEU",
+    "discord": "https://discordapp.com/users/469507772887728129",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

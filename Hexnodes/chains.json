@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Hexnodes",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1c39cs3cujsgmp5aqeqracf7m66fuc5c7rhr4dg",
+      "restake": {
+        "address": "acre1hd8jznyd90hwp74ep0e4wx8p57yqy99xax5p5s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+          }
+    },
+    {
+      "name": "arkh",
+      "address": "arkhvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8qu223r",
+      "restake": {
+        "address": "arkh1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p839p5sc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+          }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p856cy06",
+      "restake": {
+        "address": "mars1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8qky3tl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+         }
+    }
+    ]
+ }

@@ -12,6 +12,24 @@
         ],
         "minimum_reward": 100000000000000000
       }
-    }
+  },
+  {
+        "name": "chihuahua",
+        "address": "chihuahuavaloper1u2yppff4ana76x8r5nsgf7szf0szetfur8auu0",
+        "restake": {
+          "address": "chihuahua1s28a2pa75quffuxht9evaecr56d3js4kfdn3uv",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000000
+        }
+  },
+  {
+        "name": "osmosis",
+        "address": "osmovaloper19v94c3z7ckarwsum76kaagma0wqsqhh54xucdk",
+        "restake": {
+          "address": "osmo1s28a2pa75quffuxht9evaecr56d3js4kzrd0tu",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000
+  }
+  }
   ]
 }
