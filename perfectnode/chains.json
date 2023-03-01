@@ -62,7 +62,7 @@
         "minimum_reward": 1000
       }
     },
-          {
+    {
       "name": "desmos",
       "address": "desmosvaloper1yzsmc8xl3ygjt55wnrvjj43dzlqjl0cy9x8vlp",
       "restake":
@@ -70,6 +70,26 @@
         "address": "desmos1jl6t57tlxe3qhwmpnrj58qxruxh32c738w0vae",
         "run_time": "every 15 minutes",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1mng0hdmpph8g3pkmphd3mlvnp3q6elp9cu6fl7",
+      "restake":
+      {
+        "address": "lumen17makzkpwp3t0dvgk92a8lyqaqgphukg66596wx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1q439raz9vpgfwr3gt7l7awj0xzk932rqhzlckj",
+      "restake":
+      {
+        "address": "orai17makzkpwp3t0dvgk92a8lyqaqgphukg6ujhjyk",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
       }
     }
 
