@@ -246,6 +246,15 @@
       }
     },
     {
+      "name": "sommelier",
+      "address": "sommvaloper1tl6jl7ecqwvgagsc4w46n9nm470cwjyg24hlw3",
+      "restake": {
+        "address": "somm194ytn50yhh67rdha8akhs7c6zulnz4n29tx0af",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper1lnhxf6war6qlldemkqzp0t3g57hpe9a6nh3tyv",
       "restake": {
