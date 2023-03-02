@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakePool",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1a0qd36kpdkqzzuqnxyg9mryvttv6mm5wnp5hg0",
+      "restake": {
+        "address": "acre1m0xzss3xm9rnxzcut3lxdwa0w99jj0haz4n3fq",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
