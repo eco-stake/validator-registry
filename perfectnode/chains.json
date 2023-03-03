@@ -108,7 +108,7 @@
       "restake":
       {
         "address": "echelon1rarwwmt8xezcdjz6cu9pawehnh2pxhs9aqplfg",
-        "run_time": "every 21:00PM UTC",
+        "run_time": "21:00",
         "minimum_reward": 10000
       }
     }
