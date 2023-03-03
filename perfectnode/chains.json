@@ -98,7 +98,7 @@
       "restake":
       {
         "address": "somm17makzkpwp3t0dvgk92a8lyqaqgphukg6rawa50",
-        "run_time": "every 21:00PM UTC",
+        "run_time": "21:00",
         "minimum_reward": 10000
       }
     },
