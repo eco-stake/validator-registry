@@ -28,6 +28,15 @@
         "run_time": "every 2 hours",
         "minimum_reward": 100000
       }
+    },
+     {
+      "name": "lumenx",
+      "address": "lumenvaloper1sndjaty3lz0u653xgk76c3rkpujjtx2902xdga",
+      "restake": {
+        "address": "lumen1saf8gwlajkc2hhvsug6hkn80jad30saz8kaux0",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+      }
     }
 ]
   }
