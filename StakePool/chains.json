@@ -37,6 +37,15 @@
         "run_time": ["07:00", "19:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "persistencia",
+      "address": "persistencevaloper1s4yf5ks8ynmealpa0qq7rc4psu89ym3v942e2s",
+      "restake": {
+        "address": "persistence1758fa5ltjeeq4jkjt9v2yh0n4c45pqkc6ld6nk",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
