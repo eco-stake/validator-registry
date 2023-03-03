@@ -39,7 +39,7 @@
       }
     },
     {
-      "name": "persistencia",
+      "name": "persistence",
       "address": "persistencevaloper1s4yf5ks8ynmealpa0qq7rc4psu89ym3v942e2s",
       "restake": {
         "address": "persistence1758fa5ltjeeq4jkjt9v2yh0n4c45pqkc6ld6nk",
