@@ -10,6 +10,15 @@
         "run_time": ["07:00", "19:00"],
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1gg2a6n0whtu589294grn9cs2lf4gjp0zss3f5x",
+      "restake": {
+        "address": "comdex1wfke92wrvkqtwq7pl8l0xuuhnkxfzegnjf4vkq",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
