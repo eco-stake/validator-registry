@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Crypto Lion 🦁",
+  "name": "Crypto Lion",
   "chains": [
     {
       "name": "bandchain",
