@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper184zw8fpfhvgerfgwwa5gueqcw9ruj9qgyca3f2",
+      "restake": {
+        "address": "chihuahua194ytn50yhh67rdha8akhs7c6zulnz4n22zyddp",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper195re7mhwh9urewm3rvaj9r7vm6j63c4sd78njd",
       "restake": {
@@ -223,6 +232,15 @@
       "address": "rebusvaloper1nt4cah7mjf63yaw2a4fzevtcmppx2sy29w5z2y",
       "restake": {
         "address": "rebus194ytn50yhh67rdha8akhs7c6zulnz4n2ca2kc4",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper19geuzlxa7mvlagensfehgdeuwhcjyeamdfexlh",
+      "restake": {
+        "address": "regen194ytn50yhh67rdha8akhs7c6zulnz4n2k4zl68",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
