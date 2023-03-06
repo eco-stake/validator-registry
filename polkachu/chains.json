@@ -273,12 +273,12 @@
       }
     },
     {
-      "name": "plaq",
+      "name": "planq",
       "address": "plqvaloper1w60p4ujcn566tce2kwt5pne5jx3v2wjy9z9vrk",
       "restake": {
         "address": "plq1spdlljxpvgzn52qky7hafsdqxpchpydqz35adg",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
