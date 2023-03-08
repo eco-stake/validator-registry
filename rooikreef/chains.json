@@ -34,7 +34,7 @@
       "address": "plqvaloper1hr35jxecft8ggkdm7ps26xxf3lk398ngnhm8g2",
       "restake": {
         "address": "plq1p7dwf33a347lwedeletzwcal7u9tgn57vqd2rl",
-        "run_time": "every 1 minute",
+        "run_time": "every 30 seconds",
         "minimum_reward": 1000000000000000000
       }
     }
