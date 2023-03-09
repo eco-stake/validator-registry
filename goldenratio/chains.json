@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "migaloo",
+      "address": "migaloovaloper1yndxzm3tdn62vz2px0yj9yx6lrt4xccpjks55z",
+      "restake": {
+        "address": "migaloo106n92ygqknaw5wcgl2e9v0duxxux6nttmtq579",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper16n0t7lmy4wnhjytzkncjdkxrsu9yfjm3ex7hxr",
       "restake": {
