@@ -3,7 +3,6 @@
   "name": "White Whale",
   "identity": "CE2C5C02D96391AA",
   "website": "https://whitewhale.money/",
-  "apps": ["https://app.whitewhale.money/terra/swap"],
   "description": {
     "overview": "Interchain Liquidity Protocol"
   },
