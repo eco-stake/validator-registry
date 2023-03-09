@@ -1,0 +1,16 @@
+
+{
+  "$schema": "../chains.schema.json",
+  "name": "123stake.com",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1vwzu4td0lwqydtmta995k2c0drzsej00mp2rly",
+      "restake": {
+        "address": "gravity1vwzu4td0lwqydtmta995k2c0drzsej0022na4s",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    }
+   ]
+}
