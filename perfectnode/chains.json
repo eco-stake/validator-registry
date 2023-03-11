@@ -121,6 +121,16 @@
         "run_time": "21:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "Rebus",
+      "address": "rebusvaloper16jgvk2vkn9l7a0kq0juucjgq55w0ymp4rjx7v8",
+      "restake":
+      {
+        "address": "rebus16jgvk2vkn9l7a0kq0juucjgq55w0ymp4a96pey",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
     }
 
   ]
