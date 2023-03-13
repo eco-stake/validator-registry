@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Papa Smurf",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper10qxrwsw00smv2j277lelxjfvrrpkv207msdvwz",
+      "restake": {
+        "address": "acre1lk099ugpw7pcmr9wrxaaxr3wjpzt2smz22fzd3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
