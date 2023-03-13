@@ -26,7 +26,7 @@
       "address": "memevaloper1vw4swxh6ynef7zej7v3l6dnesdl0q6y372wywn",
       "restake": {
         "address": "meme1vw4swxh6ynef7zej7v3l6dnesdl0q6y3wy0g9v",
-        "run_time": "every 5 minuts",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1000000
       }
     }
