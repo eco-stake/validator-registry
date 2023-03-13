@@ -20,5 +20,23 @@
         "minimum_reward": 1000000
       }
     }
+    {
+      "name": "meme",
+      "address": "memevaloper17llwevy05lp2azx4qqe3q39v4zgr5hpreltuqk",
+      "restake": {
+        "address": "meme1pgzv79hxav3qwnl9cvyyv962f6k2yzud9x06pm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1n7jt63x5yw7w28a39xa8vs55dk5s3kqw33fmul",
+      "restake": {
+        "address": "bitsong1x8xzulx407az6ffufkswlffrujx00pwflqz5n7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
   ]
 }
