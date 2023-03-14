@@ -21,13 +21,22 @@
           }
     },
     {
+      "name": "decentr",
+      "address": "decentrvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8f2sszm",
+      "restake": {
+        "address": "decentr14ty5h7dhnses6smx5zwck5kh4j27rrgw5dj4nw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+          }
+     },
+    {
       "name":"chain4energy",
       "address": "c4evaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8wje0xd",
       "restake": {
         "address": "c4e14ty5h7dhnses6smx5zwck5kh4j27rrgwumdvtc",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
-      }
+          }
     },
     {
       "name": "echelon",
