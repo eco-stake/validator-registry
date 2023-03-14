@@ -7,7 +7,7 @@
 			"address": "8ballvaloper199ncjactnlzlzgr2kvahnscr2h7u8vd0nd2w0n",
 			"restake": {
 				"address": "8ball1q8h7kqaf6q9sxygrjnzf9jm5x5ma2yz8apd46n",
-				"run_time": "every 30 minutes",
+				"run_time": "every 15 minutes",
 				"minimum_reward": 1000
 			}
 		},
@@ -16,7 +16,16 @@
 			"address": "arkhvaloper19sfxsgu0d3u885z7wc5azd7s5df0j79qjsp6wl",
 			"restake": {
 				"address": "arkh1q8h7kqaf6q9sxygrjnzf9jm5x5ma2yz8e63yhs",
-				"run_time": "every 30 minutes",
+				"run_time": "every 15 minutes",
+				"minimum_reward": 10000
+			}
+		},
+    {
+			"name": "kyve",
+			"address": "kyvevaloper17nlmwdmsphnaeepyq0qgkc44vgwcqk7qm0000f",
+			"restake": {
+				"address": "kyve1q8h7kqaf6q9sxygrjnzf9jm5x5ma2yz8z6qwjg",
+				"run_time": "every 15 minutes",
 				"minimum_reward": 10000
 			}
 		}
