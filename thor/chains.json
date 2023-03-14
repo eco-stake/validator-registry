@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "thor",
+  "chains": [
+     {
+      "name": "odin",
+      "address": "odinvaloper1s009mue6fg6usnd8dfyvtvcckndtxsxjd5shs7",
+      "restake": {
+        "address": "odin1p8f9z9dukdm603gsstja2jhf4mt9yvp2vza43j",
+        "run_time": "Every 4 Hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

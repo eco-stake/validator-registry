@@ -66,6 +66,15 @@
       }
     },
     {
+      "name": "jackal",
+      "address": "jklvaloper1p9vt93vk6jzc0hlw7cywzh7tdc6t48xen7ceyl",
+      "restake": {
+        "address": "jkl1r8egcurpwxftegr07gjv9gwffw4fk009jepmpu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper1x8u2ypdr35802tjyjqyxan8x85fzxe6sk0qmh8",
       "restake": {
@@ -151,6 +160,33 @@
       "address": "torivaloper16zqd7zvg2tpzp0rcfr3ky33dwunkprrf85fq06",
       "restake": {
         "address": "tori1r8egcurpwxftegr07gjv9gwffw4fk009fncrrn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "stride",
+      "address": "stridevaloper128et6kpyl8ldcpklr2s2a6js2v7qk354xg5kxp",
+      "restake": {
+        "address": "stride1r8egcurpwxftegr07gjv9gwffw4fk009gv0kv0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
+    },
+      {
+      "name": "kava",
+      "address": "kavavaloper1dvjjqvkned0n7cx0ytsj8wt85xv3nnj9rkftx5",
+      "restake": {
+        "address": "kava1k8j9lw55rydg8jfcj57rq5yrfu0vvz2da0eh44",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
+    },
+      {
+      "name": "migaloo",
+      "address": "migaloovaloper1u7u8jee62a37k5ru4eqf3psfzkxpw46rx3fd0s",
+      "restake": {
+        "address": "migaloo1r8egcurpwxftegr07gjv9gwffw4fk009xnxsdd",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

@@ -8,7 +8,7 @@
       "restake": {
         "address": "cosmos1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvup2ky0",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 50000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "evmos14q8vu02v3npvnrxkt7te05tx6ral53rx4hh80f",
         "run_time": "21:00",
-        "minimum_reward": 1000000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "juno1rjvyczwh5akp2ylg06dr4s2vlx0jmdwv2nfdrn",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
         "address": "osmo1rjvyczwh5akp2ylg06dr4s2vlx0jmdwv56exja",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -53,7 +53,25 @@
       "restake": {
         "address": "umee1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvwhhfqa",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1lxgmrxgczfcjtmx3p5mzfw93uwnmwh7rgvynd9",
+      "restake": {
+        "address": "mars1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvpun035",
+        "run_time":"every 5 minutes",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1r4lvwh0pmkmjewa76rem7ndr0z8zg3pseyfpux",
+      "restake": {
+        "address": "inj14q8vu02v3npvnrxkt7te05tx6ral53rxal3d8e",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
       }
     }
   ]

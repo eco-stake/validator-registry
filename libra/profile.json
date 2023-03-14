@@ -1,0 +1,12 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "libra",
+  "identity": "8CDCBFBDD9120ADA",
+  "website": "https://github.com/libra422",
+  "description": {
+    "overview": "The Best Proof-of-Stake Networks Validator"
+  },
+  "contacts": {
+    "email": "libra.validator@gmail.com"
+  }
+}

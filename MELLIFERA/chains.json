@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MELLIFERA",
+  "chains": [
+    {
+      "name": "odin",
+      "address": "odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7",
+      "restake": {
+        "address": "odin1l5n7cg3l8q7hq92z2rr2yk3cp8xj0c6mvkkqmm",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

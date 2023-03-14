@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "bigbro",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper15dzhcydux0nzkns2patua6f7ev30dcef9gpyf5",
+      "restake": {
+        "address": "gravity1hq9nlqzmnrkzu2vg80y5t7295r047mhctrlya3",
+        "run_time": [
+        "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

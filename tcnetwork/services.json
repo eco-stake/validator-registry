@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "TC Network",
+  "services": [
+    {
+      "title": "TC Network",
+      "description": "#Cosmos validator, #Web3 builder, Staking & Tracking service provider. Profile: https://lnk.bio/tcnetwork. Explorer: https://explorer.tcnetwork.io",
+      "url": "https://tcnetwork.io"
+    }
+  ]
+}

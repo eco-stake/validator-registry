@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeMate \uD83C\uDFAF",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1f27llq3637ve6gjyfmlkrn3z5juj7rwlaahrpk",
+      "restake": {
+        "address": "rebus1e88wx94mtxcgfu8vkaejf4tzugcr5ppwwuzaru",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1f27llq3637ve6gjyfmlkrn3z5juj7rwl4xulf7",
+      "restake": {
+        "address": "tori1e88wx94mtxcgfu8vkaejf4tzugcr5ppwazkpv6",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

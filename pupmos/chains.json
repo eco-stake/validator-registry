@@ -55,6 +55,32 @@
         "run_time": "01:00",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper18kxmuftxkg4jyuu5meuxqcg54g38qf69h8w5pd",
+      "restake": {
+        "address": "tori19wkyxq2u0dru5nmpxl7aqwyquhs0n45el4munz",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1tmjgvv2g4arkt224urtn967nlr0s6908vwe24q",
+      "restake": {
+        "address": "chihuahua1ka6r58g5h27x6gyyjkzxtpdk95k2yurfq0h60p",
+        "run_time": "01:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1kj5k9pme7djeqs4m9wtv7weccpevlnajnwsva4"
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper1qzpq3qcp7j5hpg49l04ylrmut07xypu8dn5luy"
     }
   ]
 }

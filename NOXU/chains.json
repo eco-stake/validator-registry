@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NOXU",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1yhzcegcldrncw8rdjlh6q5wwhvj84478pz9a0y",
+      "restake": {
+        "address": "rebus1mcfdn6nlz64t0rtdz53lrxkszaqea0s2uvxqvs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

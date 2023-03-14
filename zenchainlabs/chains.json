@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "teritori",
+      "address": "torivaloper184almu6c7s56rn0mlfevh9dlk62696uglq0l5q",
+      "restake": {
+        "address": "tori16pykdaup2f5e75j4y79q095hu7qpchnwhekkdw",
+        "run_time": "17:22",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "sifchain",
       "address": "sifvaloper18gvfxet58ylyryrktxa9uzmyvfa9ew4d3fsyfg",
       "restake": {

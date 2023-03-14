@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "NacionCrypto - Parceros",
+  "identity": "9A70E4445A7A5B0C",
+  "website": "https://www.decry.io",
+  "description": {
+    "overview": "Los parceros de NacionCrypto https://www.youtube.com/c/nacioncrypto"},
+  "contacts": {
+    "email": "elprofe@decry.io",
+    "telegram": "https://t.me/+S2jS3oJiopsZij7k",
+    "twitter": "Parceros_NC",
+    "discord": "https://discord.gg/6mbByFnt"
+  }
+}

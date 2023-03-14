@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "RoomIT",
+  "chains": [
+   {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1ssduj8c0cc8kquljvw3ygq9hduvcysnf590lmz",
+      "restake": {
+        "address": "gravity10lhel2eexpz2j6uam8klr64uacg9rcqhj6wc9f",
+        "run_time": "every 8 hour",
+        "minimum_reward": 1000000
+      }
+   },
+   {
+   "name": "planq",
+   "address": "plqvaloper1fqnr328nlndkxek2jaz8teec0euyr5yh26q26l",
+   "restake": {
+      "address": "plq15nsufxhvu56xyp2ngzsprslj5w57jn6ry3rtch",
+      "run_time": "19:00",
+      "minimum_reward": 100
+       }
+   },
+   {
+   "name":"8ball",
+   "address":"8ballvaloper1999ptelp4fw8u9pgy5w2z2wpsy96xy3k2cg0uu",
+   "restake":{
+       "address":"8ball10lhel2eexpz2j6uam8klr64uacg9rcqh7ludr7",
+       "run_time":"every 1 hour",
+       "minimum_reward": 100
+    }
+   }
+  ]
+}

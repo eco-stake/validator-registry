@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Empower Validator ♻️",
+  "chains": [
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1evy53dmn765sx4ekpmwc9psflc83scfe8jp4m8",
+      "restake": {
+        "address": "cheqd1xmn2sefnqw8j8etk8z6sfx4swukfxrhvzh672g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 420000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1f4tj483qfrt3yemjdlx5e577h7e3r52ydyqd3s",
+      "restake": {
+        "address": "stars1xmn2sefnqw8j8etk8z6sfx4swukfxrhvcfpr2g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 420000
+      }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1hfer80f4vac438gz4upjmxsr4slx0pf9lqp2ru",
+      "restake": {
+        "address": "ixo1xmn2sefnqw8j8etk8z6sfx4swukfxrhvnqgv92",
+        "run_time": "every 1 hour",
+        "minimum_reward": 420000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1exenx9cyg49y6zj84r7l29xff9eu7jx9ygwnv5",
+      "restake": {
+        "address": "regen1xmn2sefnqw8j8etk8z6sfx4swukfxrhvnhazha",
+        "run_time": "every 1 hour",
+        "minimum_reward": 420000
+      } 
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1f6agnryranttqppe9mv5znqmlc5c8qrkq7jjrr",
+      "restake": {
+        "address": "jkl1xmn2sefnqw8j8etk8z6sfx4swukfxrhv4tc0cx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 420000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ccnodes.net",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1x06h5mnw3m3dpzuphjrj9j9kwanxdaxqfrchef",
+      "restake": {
+        "address": "lum1jcnvzahmqw9m0u8q5t5ra76t6g8wzl860sgtyq",
+        "run_time": "every 2 hours",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "JambulMerah | Cosmos⚛️Lovers❤️",
+  "chains": [
+    {
+      "name": "lambda",
+      "address": "lambvaloper1xeflsuf609zxfmz6lqwcujla28kd5ht64a8qca",
+      "restake": {
+        "address": "lamb1e84kpn3yvsn43nh64f8vq28x76zuw7tujmsy77",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 0
+      }
+    },
+    {
+      "name": "mises",
+      "address": "misesvaloper15wl2vvwxaupdhw6xjxztmudnttlj0vpjr02g5z",
+      "restake": {
+        "address": "mises1jzxj6ksss5u85dyk2p4mc6mxmugujvpcg43ev3",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 0
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1fzzcczepa6hzcfh6l8wg6h5prjc37zf6vxcjjm",
+      "restake": {
+        "address": "quick1jzxj6ksss5u85dyk2p4mc6mxmugujvpcvp0ts0",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 0
+      }
+    },
+    {
+      "name": "dyson",
+      "address": "dysvaloper1y4ssd0ty4ghvhcpqq7mf5v9hpqkvz55ae8chh3",
+      "restake": {
+        "address": "dys1jzxj6ksss5u85dyk2p4mc6mxmugujvpccyhjh7",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1f3xljkl9vhkjmncqlsaq5qx0mhd3tp6h0l0dez",
+      "restake": {
+        "address": "plq1e84kpn3yvsn43nh64f8vq28x76zuw7tuqypkeq",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000001000000000
+      }
+    }
+  ]
+}

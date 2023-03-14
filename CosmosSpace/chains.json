@@ -1,0 +1,66 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cosmos Spaces ☮️ 💜 ⚛️",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1gpnmdeytnjqekqt559dqzdv2gwjefcsvv0sarg",
+      "restake": {
+        "address": "stars1w4kz22p4j7294u6446lhz0lud4s5nl5wpv39c3",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1rspxjsr30u4kvnfegavpu7r43erw7gxavsgw6n",
+      "restake": {
+        "address": "migaloo1w4kz22p4j7294u6446lhz0lud4s5nl5wcy0zxw",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13p5ckpmc9g2v8ez5qsxs00wadqvcc7q0qheh26",
+      "restake": {
+        "address": "cosmos1us2kmxl8dqptawf9kmlf77mwupr4epq3kqft60",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1t48236ajss9wswamwll4nj7up2gqdns52gvyaa",
+      "restake": {
+        "address": "osmo1422yhuqth90luw5h7zqfe7rs4nm8r0uxcwwak0",
+        "run_time": [
+          "05:30",
+          "17:30"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1836fhsg6yqpu98vezfc7caakchqe8pvske7t8q",
+      "restake": {
+        "address": "juno1quavx8ra7cmnhwuyv0z5g5lgz5acj92sarqtwt",
+        "run_time": [
+          "05:45",
+          "17:45"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper17z0xyw6vwjn6gqj86s3axs7mjsngdl6sncdwga",
+      "restake": {
+        "address": "evmos1ptf4ert5phqzvp0hyf7dgdc0lnlzraaxwvyzae",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

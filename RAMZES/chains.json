@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "RAMZES",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1c4z34d2g2tuxv4tk30zpgsu8w6ewcnxyje34cu",
+      "restake": {
+        "address": "tori1f3dghqz2y2wgvw722fetv02aex4d27w57pfnal",
+        "run_time": "every 1 hour", 
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

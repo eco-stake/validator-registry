@@ -1,0 +1,93 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Synergy Nodes",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzmcyxvj9",
+      "restake": {
+        "address": "kujira1hhzf9u376mg8zcuvx3jsls7t805kzcrssrvvk5",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzmw8n8mf",
+      "restake": {
+        "address": "stride1hhzf9u376mg8zcuvx3jsls7t805kzcrszqwg0j",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "terra",
+      "address": "terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4",
+      "restake": {
+        "address": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "terra2",
+      "address": "terravaloper1tm0xkark2ufecmdhgaaw7gqsycyt4qag6py8x6",
+      "restake": {
+        "address": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1xesqr8vjvy34jhu027zd70ypl0nnev5euy9nyl",
+      "restake": {
+        "address": "orai1hhzf9u376mg8zcuvx3jsls7t805kzcrsjcch6d",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1y4pfpkwpy6myskp7pne256k6smh2rjtay37kwc",
+      "restake": {
+        "address": "acre1q3054e3nrzlkp4act9236lwgl6hncftfdj30n2",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
+      "name": "provenance",
+      "address": "pbvaloper170h0kkjlphjk7qg46qx7uuatfpfpr0nh70kcq4",
+      "restake": {
+        "address": "pb1vkxaz042jahveq8dkumc99ptcsqe4c28p8pqw5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000
+      }
+    },    
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1xesqr8vjvy34jhu027zd70ypl0nnev5ezjg5h9",
+      "restake": {
+        "address": "axelar1hhzf9u376mg8zcuvx3jsls7t805kzcrs99cusl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
