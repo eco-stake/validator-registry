@@ -103,6 +103,14 @@
             "address":"arkh1774zxs7m8rgg5jjz80p26ylk3h8q265e02uwcr",
             "run_time":"every 1 hour",
             "minimum_reward":10000
+         },
+      {
+         "name":"kyve",
+         "address":"kyvevaloper1nrfm9qw7s3xvra0t9xdxc0vhh6l7why5dgv267",
+         "restake":{
+            "address":"kyve1774zxs7m8rgg5jjz80p26ylk3h8q265e52dyam",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
          }
     }
 	]
