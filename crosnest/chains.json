@@ -318,6 +318,15 @@
       }
     },
     {
+      "name": "kyve",
+      "address": "kyvevaloper199403h5jgfr64r9ewv83zx7q4xphhc4wku8mer",
+      "restake": {
+        "address": "kyve1v9vae554q55xa4pcfdm0p3kv8nxn50jkdz2yxd",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
