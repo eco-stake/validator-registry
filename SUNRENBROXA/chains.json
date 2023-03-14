@@ -3,12 +3,12 @@
   "name": "SUNREN 🐳 | BROXA ⚛️😸",
   "chains": [
     {
-      "name": "umee",
-      "address": "umeevaloper1t6x3s6std4uw5h0epmeexuldj3jvdgmpnttf4t",
+      "name": "bitsong",
+      "address": "bitsongvaloper1zy9xd2lz6df6gf55nq0ldase9sxtxlksdvfum2",
       "restake": {
-        "address": "umee1xllz2yrx4llfwm792geccfz7rey72m0d49p9q4",
+        "address": "bitsong1x8xzulx407az6ffufkswlffrujx00pwflqz5n7",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -26,16 +26,16 @@
       "restake": {
         "address": "meme1pgzv79hxav3qwnl9cvyyv962f6k2yzud9x06pm",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
-      "name": "bitsong",
-      "address": "bitsongvaloper1n7jt63x5yw7w28a39xa8vs55dk5s3kqw33fmul",
+      "name": "umee",
+      "address": "umeevaloper1t6x3s6std4uw5h0epmeexuldj3jvdgmpnttf4t",
       "restake": {
-        "address": "bitsong1x8xzulx407az6ffufkswlffrujx00pwflqz5n7",
+        "address": "umee1xllz2yrx4llfwm792geccfz7rey72m0d49p9q4",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     }
   ]
