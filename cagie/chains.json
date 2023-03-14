@@ -10,6 +10,15 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper160rp4z97ng990qf7mt4kgw6h924lf6ztwssw6t",
+      "restake": {
+        "address": "kyve1ae7engy62y24jftq9y5xgp5krzpt7fu72ezvvj",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
