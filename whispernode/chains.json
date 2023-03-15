@@ -79,6 +79,15 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1cutynk8xve9lqmwt4nn575x95v9849zj6p9564",
+      "restake": {
+        "address": "inj1k0fpumkxl35p3se0n52e6dc3mh8vy24km862cc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "jackal",
       "address": "jklvaloper1upt02z2a64m00rh087q8r2esy7mg9yeq29j8gz",
       "restake": {
@@ -213,14 +222,5 @@
         "minimum_reward": 100000
       }
     },
-    {
-      "name": "whitewhale",
-      "address": "migaloovaloper1z2zhers48wdczszz3utd9gphuw6pp5zdwuhqg4",
-      "restake": {
-        "address": "migaloo1e44rluarkdw56dy2turnwjtvtg4wqvs0llu7zt",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    }
   ]
 }
