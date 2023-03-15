@@ -100,6 +100,24 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
       }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1gkdjuw7yap6eumrcr8mrfg4c4840mj0x79sy8j",
+      "restake": {
+        "address": "lumen1zz3wp5t24ej534nz5g7lxdazekx0aaek6mkg0l",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1w40wm0hzakvekxfq93mncjcd7ss30futm5jqjg",
+      "restake": {
+        "address": "bitsong13swg0ma3ve6ahve3u7cyc4at4yjw790xg4nv8s",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
     }    
   ]
 }
