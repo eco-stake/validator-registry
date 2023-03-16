@@ -35,7 +35,7 @@
        "restake": {
          "address": "evmos1gat59ad56d8r7qgkw6run8y252qhrws4kl8tqz",
          "run_time": "21:00",
-         "minimum_reward": 100000000000000000
+         "minimum_reward": 1000000000000000000
        }
      }
   ]
