@@ -64,6 +64,15 @@
         "run_time": "00:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1w3wse8cx2al5947ke0hnd2tgphjt43dy9gwn0f",
+      "restake": {
+        "address": "tori1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktzgssyj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
