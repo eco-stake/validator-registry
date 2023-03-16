@@ -37,6 +37,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1jf7rmj9nh9xw6f5acdyaksslv4uzlqe2x7kdgd",
+      "restake": {
+        "address": "kava16kfdy4uksjxjjdsar5mj6cdu8q8ju25ayvuzuz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
     }
   ]
 }
