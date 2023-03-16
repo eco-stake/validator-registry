@@ -10,16 +10,16 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
           }
-       },
+    },
     {
       "name": "mars",
       "address": "marsvaloper1k9dpqcw2fhnfyjgq8awszp4a6rlzdwn9jd9q73",
       "restake": {
         "address": "mars19tzqk0kp67mx4wcedvmefhvk9r2xcxudus5d4n",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
           }
-       },
+    },
     {
       "name": "acrechain",
       "address": "acrevaloper15ju4sxlr76lc9r9weka3url6t8qfarhnwgstzg",
@@ -28,7 +28,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
           }
-       },
+    },
     {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
@@ -46,6 +46,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
           }
-       }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper188cum5v5esnlmxtfv4a0lkq6ej8els7cxmr3zz",
+      "restake": {
+        "address": "meme19tzqk0kp67mx4wcedvmefhvk9r2xcxudljmr8z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1gfrxhsdleg4v3vqqd0h8pv6ln96jrsyyx6swxy",
+      "restake": {
+        "address": "bitsong1pwuwhyslyqml8vxhgxl5kyd58mpfxm5pjzrcdn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1ulwlmzz73gajev5pr0czmd5chgmxyd9j66x568",
+      "restake": {
+        "address": "lum19tzqk0kp67mx4wcedvmefhvk9r2xcxud58sa4u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
+    }
     ]
  }

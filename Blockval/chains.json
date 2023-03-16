@@ -7,10 +7,8 @@
       "address": "oraivaloper1f6q9wjn8qp3ll8y8ztd8290vtec2yxyxxygyy2",
       "restake": {
         "address": "orai1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpgy9e28",
-        "run_time": [
-          "21:00"
-        ],
-        "minimum_reward": 10000
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -18,7 +16,7 @@
       "address": "plqvaloper1kpstdnt5h0cgz0wwcnkdw6hec9kkfs3ckngjlw",
       "restake": {
         "address": "plq1xr4vhpd97h3pnd80l20slksdtejjdstc38tgz7",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
     },
@@ -74,6 +72,33 @@
         "address": "desmos1pu7eqnae5fmcrxgarldfqu53y7cksle59ppl0r",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper19wdjtygrj2tn6y3syp8a4z9m272fnk8qlrfq04",
+      "restake": {
+        "address": "lum1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpwawn7q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+       "name":"provenance",
+       "address":"pbvaloper1azljqnv2wnckuefj4nxmpe69sgm8mqet3v255f",
+       "restake":{
+          "address":"pb1pv3etaj2m2amvct0ceyzdctph0yknm58qqn6pp",
+          "run_time":"every 1 hour",
+          "minimum_reward":1000000000
+       }
+    },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1rv3r9jqsg67avmn8dqfgf4wvdtf4e7ag5sp9qq",
+      "restake": {
+        "address": "lamb1xr4vhpd97h3pnd80l20slksdtejjdstcrc669q",
+        "run_time":"every 1 hour",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

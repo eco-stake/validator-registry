@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1xjgspyv73d3k3ewygu0v2gcwwplwxkxg03reqy",
-      "restake": {
-        "address": "cerberus1m7xlymnpxl2d4llu67v08e8xs67dj2fzmjnzrh",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "cheqd",
       "address": "cheqdvaloper1ny8gd9tsyqhm56agp4vkpa6fldr2n4guthcvfj",
       "restake": {
@@ -260,7 +251,16 @@
       "restake": {
         "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
         "run_time": "every 5 minutes",
-        "minimum_reward": 2000000
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper18cgfu8xre33nuz7pkrwy6e4s3jd9fqk0zdtskr",
+      "restake": {
+        "address": "mars1m7xlymnpxl2d4llu67v08e8xs67dj2fz6g2jr8",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -411,7 +411,7 @@
       "name": "vidulum",
       "address": "vdlvaloper12mzd08n2ut7qwfmchezk2hqkh644lvd2tngequ",
       "restake": {
-        "address": "vdl1u8twlktq6l2r9cx9gfdwgwm7vpzej8zeanzkrq",
+        "address": "vdl12mzd08n2ut7qwfmchezk2hqkh644lvd2syv4ff",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }

@@ -39,6 +39,15 @@
          }
       },
       {
+         "name":"injective",
+         "address":"injvaloper1f566hkhdhf9s3hskd43nggj7qsc7g0xxtqylr7",
+         "restake":{
+            "address":"inj1t08fz5qygf6v47p2nzlmetz69xla3jtnmqssl6",
+            "run_time":"every 6 hour",
+            "minimum_reward":10000
+         }
+      },
+      {
          "name":"kujira",
          "address":"kujiravaloper1azdfljp04ptlazs95e5gscweavmaszw5nqgrpz",
          "restake":{

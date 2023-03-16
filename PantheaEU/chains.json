@@ -26,6 +26,15 @@
       "restake": {
         "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
         "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1zry437s3jj4gqedsn9xxar74d4rmwcy3t7m7pz",
+      "restake": {
+        "address": "ki1yqqsskp60ru889m2ac9rtdays6pt9xfyy4m0kd",
+        "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
     },
