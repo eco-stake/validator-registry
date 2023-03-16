@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Head & Shoulders ",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper105n93es4uwupr0p2ph33za82wlzgx2rm4x8s6a",
+            "restake": {
+                "address": "echelon13dc96cyw8yffeq6u90srnr4j3538tngddw6tt0",
+                "run_time": "01:00",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}
