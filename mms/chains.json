@@ -129,6 +129,24 @@
       }
     },
     {
+      "name": "kyve",
+      "address": "kyvevaloper1p85vaaa0h7lrc4n5ezp9squesd7vnw7wnl6ctw",
+      "restake": {
+        "address": "kyve17j4r042dcvqpqdzxnw8eky02zv6gslrx5xajcj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1m8rv7shlgy93cxcd64dgs7859nqq8wuqr8y796",
+      "restake": {
+        "address": "quick17j4r042dcvqpqdzxnw8eky02zv6gslrxgvqk2y",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {
