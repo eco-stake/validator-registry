@@ -179,7 +179,7 @@
       "restake": {
         "address": "osmo194ytn50yhh67rdha8akhs7c6zulnz4n2pv6n63",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100
       }
     },
     {
