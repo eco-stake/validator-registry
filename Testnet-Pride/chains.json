@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "0base.vc",
+  "chains": [
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled",
+      "restake": {
+        "address": "kyve1t64t4cdyd34w86fp9ccjg2yva3tj5e06qqa8j7",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
