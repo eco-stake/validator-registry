@@ -3,15 +3,6 @@
   "name": "Cros-nest",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1y3thykrje2fmdcf8wva8l8kphmwpx89ur4erq3",
-      "restake": {
-        "address": "cerberus1v9vae554q55xa4pcfdm0p3kv8nxn50jkxt8mcz",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper18jlk0pkpr8cnnpjtgu3dqxjvpvlnj6r4e2dtvf",
       "restake": {
