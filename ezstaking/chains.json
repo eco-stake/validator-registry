@@ -337,9 +337,9 @@
     },
     {
       "name": "kyve",
-      "address": "stridevaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9wawm6kh6u",
+      "address": "kyvevaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9waw76lp8n",
       "restake": {
-        "address": "kyvevaloper1gjtvly9lel6zskvwtvlg5vhwpu9c9waw76lp8n",
+        "address": "kyve1fs7lu28hx5m9akm7rp0c2422cn8r2f7gtd3yud",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
