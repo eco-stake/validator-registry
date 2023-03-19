@@ -3,6 +3,15 @@
   "name": "ChainTools",
   "chains": [
     {
+      "name": "acrechain",
+      "address": "acrevaloper1jw8vaqyj5rphyxdf3etlmk65m2qnhpj57jajfp",
+      "restake": {
+        "address": "acre1spv5z9f2fyfmdhseeduzcj7u0c0l44g09jzpm6",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper1x2slrjfmgxq7qx3xwmsjue73t5ynmwy7jgpdtr",
       "restake": {
@@ -155,6 +164,15 @@
         "minimum_reward": 100000
       }
     },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1attre5tlzcf5yzgsrq4ta38q7rz9cc2uga03wx",
+      "restake": {
+        "address": "lumen1tj0t93t6xjwe5dqptr62ej4pqvy2es0rqtvv5s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },      
     {
       "name": "meme",
       "address": "memevaloper12auz95c5949rna5e84eum9qrwwf3wkqpnmjsud",

@@ -75,14 +75,32 @@
       }
     },
      {
-      "name": "canto",
-      "address": "cantovaloper1srknurs500rkl54379avdjx7j5p3kkkj6p9t55",
+      "name": "quicksilver",
+      "address": "quickvaloper1a89k43uwxhqshaxkh3feql0a0scfqtrz4xyuph",
       "restake": {
-        "address": "canto1tycj5llp8gjw00zxgf2wqt682ukx36q6tmu946",
+        "address": "quick12pt2ds9cu80yruy5t86fuuz5t6tm37ajkyp0ww",
         "run_time": ["00:00", "12:00"],
-        "minimum_reward": 10000000000000000000
+        "minimum_reward": 100000
       }
     },
+     {
+      "name": "jackal",
+      "address": "jklvaloper1pqwtmugy6erymtyml2ax4fvdfl248lcdl5zmrq",
+      "restake": {
+        "address": "jkl12pt2ds9cu80yruy5t86fuuz5t6tm37ajy7lvwr",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000
+      }
+    },
+     {
+      "name": "chain4energy",
+      "address": "c4evaloper1zd68np56482yp68udw7vpz2z756cvqzvw70ntm",
+      "restake": {
+        "address": "c4e12pt2ds9cu80yruy5t86fuuz5t6tm37aj7cgswz",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000
+      }
+    },    
      {
       "name": "beezee",
       "address": "bzevaloper1jv9wveqgmuwje2qlaxd6jv4n488uyzfwr2gsyt",

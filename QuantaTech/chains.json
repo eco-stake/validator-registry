@@ -1,0 +1,34 @@
+
+{
+  "$schema": "../chains.schema.json",
+  "name": "123stake.com",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1vwzu4td0lwqydtmta995k2c0drzsej00mp2rly",
+      "restake": {
+        "address": "gravity1vwzu4td0lwqydtmta995k2c0drzsej0022na4s",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "odin",
+      "address": "odinvaloper1xlc3yn9j9fc8wpnkdn70y2ps04nqn8ln0g60q8",
+      "restake": {
+        "address": "odin1xlc3yn9j9fc8wpnkdn70y2ps04nqn8lnz4w3fn",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1vw4swxh6ynef7zej7v3l6dnesdl0q6y372wywn",
+      "restake": {
+        "address": "meme1vw4swxh6ynef7zej7v3l6dnesdl0q6y3wy0g9v",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+   ]
+}

@@ -82,6 +82,15 @@
         "run_time": ["07:00", "19:00"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1e7f0pv2glp5mslqze5cnv4vrwv52rtmllv4ker",
+      "restake": {
+        "address": "mars1jsmtq9z9qpeda0pyff9w8u66mkxrtzsezapze7",
+        "run_time": "22:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

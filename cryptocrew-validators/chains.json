@@ -111,15 +111,6 @@
       }
     },
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
-      "restake": {
-        "address": "cerberus1305e92ng6a9pdh3ttc3ld459ckxupxt3tt620v",
-        "run_time": "every 20 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "crescent",
       "address": "crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se",
       "restake": {
@@ -197,6 +188,15 @@
       "restake": {
         "address": "chihuahua1305e92ng6a9pdh3ttc3ld459ckxupxt35ehdm9",
         "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
+      "restake": {
+        "address": "quick1305e92ng6a9pdh3ttc3ld459ckxupxt3ug23r4",
+        "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
     },

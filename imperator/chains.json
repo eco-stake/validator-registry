@@ -75,15 +75,6 @@
         }
       },
       {
-        "name": "rizon",
-        "address": "rizonvaloper1g4ye0fm5fl4vrtn68fl7ylzwteln08mueqlk94",
-        "restake": {
-          "address": "rizon1eml7agwd5x084ennlg6apvskufzrlvnr4dxxep",
-          "run_time": "21:00",
-          "minimum_reward": 100000
-        }
-      },
-      {
         "name": "evmos",
         "address": "evmosvaloper1fqeezech7r9mr20aggde4a36qf4zy57r5qm0dm",
         "restake": {
@@ -165,15 +156,6 @@
         }
       },
       {
-        "name": "bitsong",
-        "address": "bitsongvaloper1stxt50ygdlfwu7erkyps3j4wfq6vx935ry53ne",
-        "restake": {
-          "address": "bitsong1z5grnlx5nan0pytsxtvy79m58zsp62klxyluez",
-          "run_time": "21:00",
-          "minimum_reward": 100000
-        }
-      },
-      {
         "name": "comdex",
         "address": "comdexvaloper16y4mtrncceq0e543cx3ylhv2m89lh98cwatsqp",
         "restake": {
@@ -192,15 +174,6 @@
         }
       },
       {
-        "name": "impacthub",
-        "address": "ixovaloper13zr4hl0775hpfxqfhrc6y2z38u9zqpqj99vt4q",
-        "restake": {
-          "address": "ixo1eml7agwd5x084ennlg6apvskufzrlvnrf9y932",
-          "run_time": "21:00",
-          "minimum_reward": 100000
-        }
-      },
-      {
         "name": "panacea",
         "address": "panaceavaloper1y2556eud32xkpl6pnkq23r2wqd5flz26tpy8y3",
         "restake": {
@@ -214,15 +187,6 @@
         "address": "terravaloper1u53qwdgafryksqnzq3k7e5eyph7jlh8kgc3va4",
         "restake": {
           "address": "terra1eml7agwd5x084ennlg6apvskufzrlvnrs5qhhe",
-          "run_time": "21:00",
-          "minimum_reward": 100000
-        }
-      },
-      {
-        "name": "idep",
-        "address": "idepvaloper1mw7m8m2jujfl7eqr075qklvptxxcezm2zncc0u",
-        "restake": {
-          "address": "idep1eml7agwd5x084ennlg6apvskufzrlvnrhsvrns",
           "run_time": "21:00",
           "minimum_reward": 100000
         }
@@ -259,6 +223,24 @@
         "address": "omniflixvaloper1939tmw40j06sj8glnkmy04jd35u3cacy8kllsu",
         "restake": {
           "address": "omniflix1eml7agwd5x084ennlg6apvskufzrlvnrtwtwz8",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "injective",
+        "address": "injvaloper1esud09zs5754g5nlkmrgxsfdj276xm64cgmd3w",
+        "restake": {
+          "address": "inj1xtk2ex5zmw7xk9s3vklz8nv8pq3cngagpx8qzm",
+          "run_time": "21:00",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "mars",
+        "address": "marsvaloper17s96kckqgumhwl26hd3ek580m0fkk008an2nx0",
+        "restake": {
+          "address": "mars1eml7agwd5x084ennlg6apvskufzrlvnrtdrwqz",
           "run_time": "21:00",
           "minimum_reward": 100000
         }

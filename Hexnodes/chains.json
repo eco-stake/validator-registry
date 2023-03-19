@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Hexnodes",
+  "chains": [
+    {
+      "name": "arkh",
+      "address": "arkhvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8qu223r",
+      "restake": {
+        "address": "arkh14ty5h7dhnses6smx5zwck5kh4j27rrgwndgau6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+          }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8f2sszm",
+      "restake": {
+        "address": "decentr14ty5h7dhnses6smx5zwck5kh4j27rrgw5dj4nw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+          }
+     },
+    {
+      "name":"chain4energy",
+      "address": "c4evaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8wje0xd",
+      "restake": {
+        "address": "c4e14ty5h7dhnses6smx5zwck5kh4j27rrgwumdvtc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+          }
+    },
+    {
+      "name": "echelon",
+      "address": "echelonvaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xp4thgm",
+      "restake": {
+        "address": "echelon1c39cs3cujsgmp5aqeqracf7m66fuc5c74j3s7w",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+          }
+    }
+    ]
+ }

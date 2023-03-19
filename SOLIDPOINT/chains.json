@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SOLID POINT",
+  "chains": [
+    {
+      "name": "kichain",
+      "address": "kivaloper1jpuwhhraayfajg8xpp8fvzvh0lcfm5q906kva2",
+      "restake": {
+        "address": "ki1vlrtu4tka2rc2cu7cpat27xl6xzwauge9ngpsg",
+        "run_time": "21:13",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1dakqss8uc32a5ds5ru596xw8lq3vn7dqwzcyhz",
+      "restake": {
+        "address": "firma10xh8jxx2gk3zxcy5fu3q7v3t0afqz4n4crz5yv",
+        "run_time": "21:13",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper17qncaqfgyj5rldhx0ef5a8p9q3lm9ghg0qpmsl",
+      "restake": {
+        "address": "kyve1vlrtu4tka2rc2cu7cpat27xl6xzwaugers5clc",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

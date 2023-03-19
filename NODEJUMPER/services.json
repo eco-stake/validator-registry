@@ -1,0 +1,12 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "NODEJUMPER",
+  "services": [
+    {
+      "title": "NODEJUMPER app",
+      "description": "Nodejumper is a multi tool for cosmos based networks. It provides a whole bunch of helpful support features for cosmos blockchains.",
+      "image": "https://raw.githubusercontent.com/nodejumper-org/.github/master/nj_logo_blue.svg",
+      "url": "https://nodejumper.io"
+    }
+  ]
+}

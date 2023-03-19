@@ -164,6 +164,15 @@
             "minimum_reward":500000
          }
       },
+       {
+      "name": "migaloo",
+      "address": "migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp",
+      "restake": {
+        "address": "migaloo1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnklwhwy",
+        "run_time":"every 4 hours",
+         "minimum_reward": 100000
+      }
+    },
       {
          "name":"provenance",
          "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",

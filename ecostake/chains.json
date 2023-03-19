@@ -24,15 +24,6 @@
       }
     },
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1tat2cy3f9djtq9z7ly262sqngcarvaktr0w78f",
-      "restake": {
-        "address": "cerberus1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczd38dxa",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
       "restake": {
@@ -102,6 +93,27 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1vqz7mgm47xhx25xu5g9qagnz48naks6pk6fmg2",
+      "restake": {
+        "address": "inj18fzq4nac28gfma6gqfvkpwrgpm5ctar22davpp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1rdyunvvqg2l3723hlyjvvsnkd4vg338uar8q2s",
+      "restake": {
+        "address": "jkl1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczggf42f",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper19ur8r2l25qhsy9xvej5zgpuc5cpn6syydmwtrt",
       "restake": {
@@ -122,6 +134,24 @@
           "09:00",
           "21:00"
         ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1egqphd8yjdfv84fl825grwgna0pf2emagdmnz8",
+      "restake": {
+        "address": "kyve1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxc2jcj",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1hvtaqw9mlwc0a4cdx6g3klk8acfc6z3yazzk8a",
+      "restake": {
+        "address": "mars1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczvt7axd",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -182,15 +212,6 @@
       "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
       "restake": {
         "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "jackal",
-      "address": "jklvaloper1rdyunvvqg2l3723hlyjvvsnkd4vg338uar8q2s",
-      "restake": {
-        "address": "jkl1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczggf42f",
         "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }

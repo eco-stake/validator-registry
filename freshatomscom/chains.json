@@ -73,6 +73,24 @@
         "run_time": "17:28",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1ygwhuksjq3nymd9n8kmceaxd3vxv97u7ja33aj",
+      "restake": {
+        "address": "terra14gra89zm8753pfuhvujjulmtkf2qq70flqvcl5",
+        "run_time": "17:28",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj2latjp",
+      "restake": {
+        "address": "somm14gra89zm8753pfuhvujjulmtkf2qq70f4ce5v7",
+        "run_time": "17:28",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
