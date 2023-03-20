@@ -1,0 +1,30 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "w3coins",
+  "chains": [
+    {
+      "name": "band",
+      "address": "bandvaloper1hdw8pzr79y4at0teak0mwcrjhv3e6n3wegfv2m",
+      "restake": {
+        "address": "band1h7akj8cckfrjhndvxtl3ql62ru0kgvxplrpdam",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper15w6ra6m68c63t0sv2hzmkngwr9t88e23r8vtg5",
+      "restake": {
+        "address": "cosmos19gq7zduyt7ga7wvafej5gnz5tj5phjrkc2gaq5",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1tly62qxj2t8wz2zw4d7p37jcysvgasqa0zjtlk",
+      "restake": {
+        "address": "inj12ly9dy36srw5crnj8335cjnungq7l4tdzh2a4s",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000000000000    
+    }
+  ]
+}
