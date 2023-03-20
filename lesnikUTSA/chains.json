@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper1sztng2ln0wq7thqqyrjd02tc4hh6yu36m4l67x",
+      "restake": {
+        "address": "quick1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uywv93ny",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy",
       "restake": {
