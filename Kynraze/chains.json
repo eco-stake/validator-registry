@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Enodex",
+    "name": "Kynraze",
     "chains": [
       {
         "name": "dyson",
