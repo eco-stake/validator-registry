@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1z8qlzq3ag2mzccg4xr2n805swr5rl3ugdh3euf",
+      "restake": {
+        "address": "aura194ytn50yhh67rdha8akhs7c6zulnz4n2jp7pw6",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper1kafxdlrq8svz68j2tn8qtqk74j4yhylyf364pt",
       "restake": {
@@ -179,7 +188,7 @@
       "restake": {
         "address": "osmo194ytn50yhh67rdha8akhs7c6zulnz4n2pv6n63",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100
+        "minimum_reward": 10000
       }
     },
     {
