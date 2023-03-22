@@ -13,7 +13,7 @@
     },
     {
       "name": "planq",
-      "address": "plqvaloper1kpstdnt5h0cgz0wwcnkdw6hec9kkfs3ckngjlw",
+      "address": "plqvaloper1my2zjyuuxghp9dndngf5fs3s0qhsqpdsnxs2t0",
       "restake": {
         "address": "plq1xr4vhpd97h3pnd80l20slksdtejjdstc38tgz7",
         "run_time": "every 1 hour",
@@ -85,7 +85,7 @@
     },
     {
        "name":"provenance",
-       "address":"pbvaloper1azljqnv2wnckuefj4nxmpe69sgm8mqet3v255f",
+       "address":"pbvaloper1jjlna8ge2wj9v2xp8ta7xxclgpskjm8uqjkyy4",
        "restake":{
           "address":"pb1pv3etaj2m2amvct0ceyzdctph0yknm58qqn6pp",
           "run_time":"every 1 hour",
