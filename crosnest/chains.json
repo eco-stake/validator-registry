@@ -318,6 +318,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1p9feg9sae2n4mydpefs6jpdwu7da36wn98rzuw",
+      "restake": {
+        "address": "aura1v9vae554q55xa4pcfdm0p3kv8nxn50jkp6ss0s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
