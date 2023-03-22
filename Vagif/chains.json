@@ -1,13 +1,13 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Vagif",
+  "name": "𝐕𝐚𝐠𝐢𝐟",
   "chains": [
     {
       "name": "kyve",
       "address": "kyvevaloper1qayvxwsdkgq896ysl8h62jw95sy54gzttrluwe",
       "restake": {
         "address": "kyve163y0306r5zyyuhpruxt9u2zz4gt4hf6zaznl47",
-        "run_time": "00:00",
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     }
