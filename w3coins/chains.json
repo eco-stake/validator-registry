@@ -9,6 +9,7 @@
         "address": "band1h7akj8cckfrjhndvxtl3ql62ru0kgvxplrpdam",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
+      }
     },
     {
       "name": "cosmoshub",
@@ -17,6 +18,7 @@
         "address": "cosmos19gq7zduyt7ga7wvafej5gnz5tj5phjrkc2gaq5",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
+      }
     },
     {
       "name": "injective",
@@ -24,7 +26,8 @@
       "restake": {
         "address": "inj12ly9dy36srw5crnj8335cjnungq7l4tdzh2a4s",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000000000000000    
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
