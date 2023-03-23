@@ -28,6 +28,15 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000000000000000
       }
-    }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva18x27mzk6xchwynyqa35hrknfwxet82ass5987a",
+      "restake": {
+        "address": "iaa19gq7zduyt7ga7wvafej5gnz5tj5phjrkdggvz9",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }    
   ]
 }
