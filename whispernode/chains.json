@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1dyw4kvnfzj9geh75jlw4z2tgmj5g9f35wu63pp",
+      "restake": {
+        "address": "aura1e44rluarkdw56dy2turnwjtvtg4wqvs0fazx4u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper1j5vxzfx74xlml73e2mz9nn2ultz9jhzxjsakxw",
       "restake": {
@@ -66,7 +75,7 @@
       "restake": {
         "address": "desmos1e44rluarkdw56dy2turnwjtvtg4wqvs0xnc5qa",
         "run_time": "20:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -160,6 +169,15 @@
         "address": "pasg1e44rluarkdw56dy2turnwjtvtg4wqvs03nv766",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1qpr2ezeut3xmarqsxddyld0sdlkrppgpq6alhj",
+      "restake": {
+        "address": "quasar1e44rluarkdw56dy2turnwjtvtg4wqvs0ug0e6q",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
       }
     },
     {
