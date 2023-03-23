@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper19ysyq74gkf8lv3l4suu3rlqadg4txp3sqxkhss",
+      "restake": {
+        "address": "axelar1m7xlymnpxl2d4llu67v08e8xs67dj2fzrm9raa",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper1hcu2spr3r80v36us40mg938f5qhaqq2qeajtfv",
       "restake": {
@@ -106,6 +115,15 @@
       "address": "desmosvaloper1zngdx77g9ywnwmwpwvj9w2eqcs6fhw78gn02d8",
       "restake": {
         "address": "desmos1pu0pmlvakgdn7lzrwx2rgj6xjvcyln0l4cdfl2",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper1039h52c70xlqwfqh29gmqq70zwwf8xrs3t9mps",
+      "restake": {
+        "address": "emoney1m7xlymnpxl2d4llu67v08e8xs67dj2fzgkflpp",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
@@ -327,6 +345,15 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1d0nmxrauasvat6fjz436p44xxtrzjr0cx20x7v",
+      "restake": {
+        "address": "stride1m7xlymnpxl2d4llu67v08e8xs67dj2fzy7nhzs",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1dpp64ckvfg4860zllkf8ceyrpm2nnlsw2pyge9",
       "restake": {
@@ -340,6 +367,15 @@
       "address": "umeevaloper1wusrw8nzgs6d8d47xqej5xqttvsu2geftfgu5f",
       "restake": {
         "address": "umee1m7xlymnpxl2d4llu67v08e8xs67dj2fz4rw5jw",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper12mzd08n2ut7qwfmchezk2hqkh644lvd2tngequ",
+      "restake": {
+        "address": "vdl12mzd08n2ut7qwfmchezk2hqkh644lvd2syv4ff",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
