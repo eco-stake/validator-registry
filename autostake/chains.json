@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "fetchub",
+      "address": "fetchvaloper1ph02ux2dujl7uv4lzv6vy2y6vjstd4eplfznuw",
+      "restake": {
+        "address": "fetch194ytn50yhh67rdha8akhs7c6zulnz4n262q8w5",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts",
       "restake": {
