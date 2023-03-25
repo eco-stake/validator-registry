@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "velo",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1c9470vsmsvqstk0qfsh2vl4rwx0kyk5sgdhqah",
+      "restake": {
+        "address": "plq1c9470vsmsvqstk0qfsh2vl4rwx0kyk5skn66mx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
