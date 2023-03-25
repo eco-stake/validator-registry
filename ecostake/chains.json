@@ -48,6 +48,18 @@
       }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1py9v5f7e4aaka55lwtthk30scxhnqfa6agwxt8",
+      "restake": {
+        "address": "core106ttvplphxccfq4vfu8fu3r24mnf7v5h32qdsp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1a37ze3yrr2y9nn98l6frhjskmufvd40cpyd0gq",
       "restake": {
