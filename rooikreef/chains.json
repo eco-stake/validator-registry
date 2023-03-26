@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "lumenx",
+      "address": "lumen1npq5uy6gdntr6tdl7vj7ssn45g9aw8wlj78vje",
+      "restake": {
+        "address": "lumen10eumq5yvapfdan5nxsfkc3arskff3l9v54kt3j",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {
