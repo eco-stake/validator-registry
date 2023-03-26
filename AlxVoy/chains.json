@@ -71,7 +71,7 @@
       "restake": {
         "address": "cheqd1a96tk40kwfpppxg8neer35qxnsjxqgvj4938zd",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000
       }
     },
 		{
@@ -179,7 +179,7 @@
       "restake": {
         "address": "meme1a96tk40kwfpppxg8neer35qxnsjxqgvj9ctswk",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
 		{
@@ -215,7 +215,7 @@
       "restake": {
         "address": "sif1a96tk40kwfpppxg8neer35qxnsjxqgvj76j3xh",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
