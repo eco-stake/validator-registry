@@ -74,18 +74,6 @@
       }
     },
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvv38ydq",
-      "restake": {
-        "address": "lum1ltd3ynqjvy39r3lc48p4zlqa59hvam5tqeh6u5",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 1000
-      }
-    },
-    {
       "name": "bandchain",
       "address": "bandvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn4hl7n",
       "restake": {
@@ -182,15 +170,15 @@
       }
     },
     {
-      "name": "sifchain",
-      "address": "sifvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqv2n5zvt",
+      "name": "quicksilver",
+      "address": "quickvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn9dp5t",
       "restake": {
-        "address": "sif1ltd3ynqjvy39r3lc48p4zlqa59hvam5tsw99xt",
+        "address": "quick1ltd3ynqjvy39r3lc48p4zlqa59hvam5t7h6psj",
         "run_time": [
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 1000
       }
     }
   ]
