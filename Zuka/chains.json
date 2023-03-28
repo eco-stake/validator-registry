@@ -8,7 +8,7 @@
       "restake": {
         "address": "stride1fg4wh7eurgz7q080lnf306jz90sttza9a74344",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "quick1fg4wh7eurgz7q080lnf306jz90sttza9439lct",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
