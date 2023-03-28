@@ -235,6 +235,24 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper19f0w9svr905fhefusyx4z8sf83j6et0gq0xmpt",
+      "restake": {
+        "address": "aura1etsdevgm5ps240lrw9mg3p2j32tj96kt4fjrs5",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    },	  
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper19f0w9svr905fhefusyx4z8sf83j6et0glwd8vf",
+      "restake": {
+        "address": "migaloo1etsdevgm5ps240lrw9mg3p2j32tj96ktrtvm8r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

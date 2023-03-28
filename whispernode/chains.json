@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1dyw4kvnfzj9geh75jlw4z2tgmj5g9f35wu63pp",
+      "restake": {
+        "address": "aura1e44rluarkdw56dy2turnwjtvtg4wqvs0fazx4u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "axelar",
       "address": "axelarvaloper1j5vxzfx74xlml73e2mz9nn2ultz9jhzxjsakxw",
       "restake": {
@@ -66,7 +75,7 @@
       "restake": {
         "address": "desmos1e44rluarkdw56dy2turnwjtvtg4wqvs0xnc5qa",
         "run_time": "20:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -76,6 +85,15 @@
         "address": "evmos1k0fpumkxl35p3se0n52e6dc3mh8vy24kn0uqsg",
         "run_time": "19:05",
         "minimum_reward": 100000000000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1cutynk8xve9lqmwt4nn575x95v9849zj6p9564",
+      "restake": {
+        "address": "inj1k0fpumkxl35p3se0n52e6dc3mh8vy24km862cc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -154,6 +172,15 @@
       }
     },
     {
+      "name": "quasar",
+      "address": "quasarvaloper1qpr2ezeut3xmarqsxddyld0sdlkrppgpq6alhj",
+      "restake": {
+        "address": "quasar1e44rluarkdw56dy2turnwjtvtg4wqvs0ug0e6q",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper16k26akna7h295rfjx3278s7xusnt736vy437y8",
       "restake": {
@@ -209,15 +236,6 @@
       "address": "terravaloper1pwum4swah9t5mjynalk3f334v4ztxc66k29v25",
       "restake": {
         "address": "terra1e44rluarkdw56dy2turnwjtvtg4wqvs0500y49",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "whitewhale",
-      "address": "migaloovaloper1z2zhers48wdczszz3utd9gphuw6pp5zdwuhqg4",
-      "restake": {
-        "address": "migaloo1e44rluarkdw56dy2turnwjtvtg4wqvs0llu7zt",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

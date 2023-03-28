@@ -1,0 +1,24 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Kynraze",
+    "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1slh5eh4y80p8lcl6vnnncft6sswtcquppfelhh",
+      "restake": {
+        "address": "plq1aukc6sntt2kq6hxpsq8re8qzq5qqqvg3zltx0e",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+     {
+      "name": "lumenx",
+      "address": "lumenvaloper1sndjaty3lz0u653xgk76c3rkpujjtx2902xdga",
+      "restake": {
+        "address": "lumen12alxgv7rsq5fjjlxjmyt6qg0zepvdam5p5phs5",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+      }
+    }
+]
+  }

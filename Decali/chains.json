@@ -2,14 +2,14 @@
   "$schema": "../chains.schema.json",
   "name": "DECALI.io",
   "chains": [
-    {
+{
       "name": "decentr",
       "address": "decentrvaloper1th4h3j6fu9kffyhqly52uy0ku9c5f0shmskp68",
       "restake": {
       "address": "decentr1edq7tuggx7ex6t5vuf5ltltenmtg4r29g8r7x3",
       "run_time": "every 12 hour",
       "minimum_reward": 1000000
-      }
+  }
     },
 {
       "name": "fetchhub",
@@ -20,7 +20,17 @@
       "minimum_reward": 1000000
   }
     },
-	{
+{
+      "name": "cheqd",
+      "address": "cheqdvaloper1scj052xwfajrpyydqkcq23j8zc8nsavw7mvxhq",
+      "restake": {
+      "address": "cheqd1edq7tuggx7ex6t5vuf5ltltenmtg4r29dtf2vg",
+      "run_time": "every 12 hour",
+      "minimum_reward": 1000000
+  }
+    },
+	  
+{
       "name": "chain4energy",
       "address": "c4evaloper1n6pu3hj0pzg6x25sf03v2gn3874e9kll9dxy2a",
       "restake": {
@@ -36,7 +46,7 @@
       "address": "band12grr3yyhvss6ck60czdnqse0fs257ayhqak9m5",
       "run_time": "every 12 hour",
       "minimum_reward": 1000000
-      }
-	}
+    }
+   }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Coinbase Cloud",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1h62qm8qcctvcdd8t3jwm9jcc9cwleqjgnsn7ry",
+      "restake": {
+        "address": "evmos1wn2kmmkae3rlzvjesdgfmy9v858tjgpxvs9k64",
+        "run_time": "12:00",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

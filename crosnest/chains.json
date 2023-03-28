@@ -3,15 +3,6 @@
   "name": "Cros-nest",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1y3thykrje2fmdcf8wva8l8kphmwpx89ur4erq3",
-      "restake": {
-        "address": "cerberus1v9vae554q55xa4pcfdm0p3kv8nxn50jkxt8mcz",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper18jlk0pkpr8cnnpjtgu3dqxjvpvlnj6r4e2dtvf",
       "restake": {
@@ -313,8 +304,26 @@
       "address": "migaloovaloper19v7ydxh2scq65jqlgtdyctfatvw0fnnsrnx4dg",
       "restake": {
         "address": "migaloo1v9vae554q55xa4pcfdm0p3kv8nxn50jkhcwgc8",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 1
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper199403h5jgfr64r9ewv83zx7q4xphhc4wku8mer",
+      "restake": {
+        "address": "kyve1v9vae554q55xa4pcfdm0p3kv8nxn50jkdz2yxd",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1p9feg9sae2n4mydpefs6jpdwu7da36wn98rzuw",
+      "restake": {
+        "address": "aura1v9vae554q55xa4pcfdm0p3kv8nxn50jkp6ss0s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
       }
     },
     {

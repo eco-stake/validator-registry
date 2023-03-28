@@ -26,7 +26,7 @@
       "restake": {
         "address": "sent17kxwsh0pnu25lqa97vdsc3f59mn3uswjqyfx9v",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -36,6 +36,15 @@
         "address": "bitsong1r7gnrrkks3e7uu8zz2mmwuhm0dmxxhj2guy4c2",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper1l3cdl8yujt22hcpahaje5j42nyltysa6g98mph",
+      "restake": {
+        "address": "like17kxwsh0pnu25lqa97vdsc3f59mn3uswjgrrazc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000
       }
     }
   ]
