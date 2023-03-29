@@ -100,6 +100,24 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper17q4k3j6kcslrcuxtj9mxdcgez7kw7jdma8ykjs",
+      "restake": {
+        "address": "aura1murx57yjv5r5gvspcxxd8d3w0mmy52xtvzy62x",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1jqpaf0vgzlxvjx5meq8huweuv2nguqe20seefq",
+      "restake": {
+        "address": "uptick1dw0pf9g4uzyra6jehntjrypru9hha20csm5t4w",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
