@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoCats.Pro",
+  "chains": [
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1q0xxcx68t2znndsucywj3rp6rmtw97q8vs95cx",
+      "restake": {
+        "address": "quick14rwmmev65scy4wm562q9ya9t5jjdumdmaznncc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
