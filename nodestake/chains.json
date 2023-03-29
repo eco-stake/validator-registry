@@ -244,7 +244,16 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
-    },	  
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq47xkt5",
+      "restake": {
+        "address": "uptick15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4sp7m7u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
     {
       "name": "migaloo",
       "address": "migaloovaloper19f0w9svr905fhefusyx4z8sf83j6et0glwd8vf",
