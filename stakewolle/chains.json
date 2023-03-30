@@ -242,7 +242,7 @@
       "restake": {
         "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
         "run_time": "every 5 minutes",
-        "minimum_reward": 20000000
+        "minimum_reward": 15000000
       }
     },
     {
@@ -327,6 +327,15 @@
       }
     },
     {
+      "name": "sifchain",
+      "address": "sifvaloper1ecv3sdx8h54ckv8q8u67cyk0nj37rffwpj7cdx",
+      "restake": {
+        "address": "sif1m7xlymnpxl2d4llu67v08e8xs67dj2fzzguaeh",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "sommelier",
       "address": "sommvaloper1dlpuptu8k8rps38u9wdjmkwte69v27593alh5s",
       "restake": {
@@ -358,6 +367,15 @@
       "address": "torivaloper1dpp64ckvfg4860zllkf8ceyrpm2nnlsw2pyge9",
       "restake": {
         "address": "tori1m7xlymnpxl2d4llu67v08e8xs67dj2fz9pyzdv",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "tgrade",
+      "address": "tgrade1cf5rncss587qs0raqgvz8klgnhtujxdquqce04",
+      "restake": {
+        "address": "tgrade1m7xlymnpxl2d4llu67v08e8xs67dj2fzv4m4cv",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
