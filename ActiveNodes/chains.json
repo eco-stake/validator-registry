@@ -89,7 +89,7 @@
       "restake": {
         "address": "ixo1w4du0y6705rqregfl6cktm7swds6t4dsz0vne9",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
