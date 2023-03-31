@@ -246,6 +246,15 @@
       }
     },
     {
+      "name": "nois",
+      "address": "noisvaloper1z8jthusnem2h2qfa43gzv2eqv3zqmwf633cswz",
+      "restake": {
+        "address": "nois1xrrfek3qpz4ja8ccrjklfy064asyqq9kz6t9ch",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1pp0a0v0s8ps2exaaex40e7mf5hq58vtn8s4hhv",
       "restake": {
