@@ -10,6 +10,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1088zdc7lxqvh7mwyv46cr6s3asydvwe2ndcqx6",
+      "restake": {
+        "address": "nois14rwmmev65scy4wm562q9ya9t5jjdumdm8w7tdj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
