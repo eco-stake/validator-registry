@@ -55,6 +55,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1n8d8eaeyenz6aktsdhsn94u0mwqtunfgr6uv57",
+      "restake": {
+        "address": "aura19a9vcvzc8ld33psnq8dm0h4lh5v8seuw5y7e64",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
