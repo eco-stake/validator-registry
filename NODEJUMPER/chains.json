@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
+      "restake": {
+        "address": "aura1ksx5yarsdjw8wcgkqn4v5demdszzx9ernz9d5m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y",
       "restake": {
@@ -34,6 +43,15 @@
       "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
       "restake": {
         "address": "jkl1ksx5yarsdjw8wcgkqn4v5demdszzx9er32u70a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "restake": {
+        "address": "nois1ksx5yarsdjw8wcgkqn4v5demdszzx9ereu0966",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -97,6 +115,15 @@
       "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
       "restake": {
         "address": "tori1ksx5yarsdjw8wcgkqn4v5demdszzx9er2q9xdj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+      "restake": {
+        "address": "uptick1ms0600tflhmva37zv6s47tl8hhfurf3csaeeq8",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
