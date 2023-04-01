@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🔥STAVR🔥",
+  "chains": [
+    {
+      "name": "jackal",
+      "address": "jklvaloper1us3q2ytkn9zyn99gvf66u6nsn3wnq0n3kxpyvm",
+      "restake": {
+        "address": "jkl1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn6yukqv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn",
+      "restake": {
+        "address": "stride1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnq3jmdl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d",
+      "restake": {
+        "address": "kyve1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn55l3jh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1sqk72uwf6tg867ssuu7whxfu9pfcyrpeqwa92c",
+      "restake": {
+        "address": "tori1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnpw9wzr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
