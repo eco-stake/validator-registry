@@ -8,7 +8,7 @@
       "restake": {
         "address": "band1h7akj8cckfrjhndvxtl3ql62ru0kgvxplrpdam",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -36,6 +36,15 @@
         "address": "iaa19gq7zduyt7ga7wvafej5gnz5tj5phjrkdggvz9",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper19z74520tdw5gps5sp5tr8y2mxr40artly6rsw3",
+      "restake": {
+        "address": "secret13mpqnfg59tsvypsy5a0rlpjpv84n8k3xzkaw9r",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
       }
     }    
   ]
