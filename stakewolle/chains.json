@@ -264,6 +264,15 @@
       }
     },
     {
+      "name": "migaloo",
+      "address": "migaloovaloper1zq6tlkn08rlg82g7au4n3pqczzw9ulxstxzk75",
+      "restake": {
+        "address": "migaloo1m7xlymnpxl2d4llu67v08e8xs67dj2fz2p63rj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper122yaxffys6rmv03nwwkmn3rvr5skzxl9lry2a5",
       "restake": {
@@ -386,7 +395,7 @@
       "restake": {
         "address": "umee1m7xlymnpxl2d4llu67v08e8xs67dj2fz4rw5jw",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 3000000
       }
     },
     {
