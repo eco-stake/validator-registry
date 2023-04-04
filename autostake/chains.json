@@ -277,8 +277,8 @@
       "address": "secretvaloper12y30xefd0wg53xtyv9lw7mjcdvf8nxgzzva3sr",
       "restake": {
         "address": "secret194ytn50yhh67rdha8akhs7c6zulnz4n2tja23l",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
       }
     },
     {
