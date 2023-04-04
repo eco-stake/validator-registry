@@ -70,7 +70,15 @@
       "address": "marsvaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdepeenc",
       "restake": {
         "address": "mars1xs023g3yj2mavwn3cjclgsh8mlk0kgsjmrh0c7",
-        "run_time": "Eevery 5 minutes",
+        "run_time": "2x per day",
+        "minimum_reward": 100000
+      },
+      {
+      "name": "nois",
+      "address": "noisvaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdqcn7h2",
+      "restake": {
+        "address": "nois1xs023g3yj2mavwn3cjclgsh8mlk0kgsjhknupa",
+        "run_time": "2x per day",
         "minimum_reward": 100000
       }
     }
