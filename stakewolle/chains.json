@@ -120,15 +120,6 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper1vm6m78glgfjaepaxwcdg6py380q7yasds2k2t8",
-      "restake": {
-        "address": "dig1m7xlymnpxl2d4llu67v08e8xs67dj2fzlp6q58",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "emoney",
       "address": "emoneyvaloper1039h52c70xlqwfqh29gmqq70zwwf8xrs3t9mps",
       "restake": {
@@ -251,7 +242,7 @@
       "restake": {
         "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
         "run_time": "every 5 minutes",
-        "minimum_reward": 5000000
+        "minimum_reward": 15000000
       }
     },
     {
@@ -268,6 +259,15 @@
       "address": "memevaloper1dshysamgzd0d7meftn6npf9pxyskxh49mdc68a",
       "restake": {
         "address": "meme1m7xlymnpxl2d4llu67v08e8xs67dj2fze29u3k",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1zq6tlkn08rlg82g7au4n3pqczzw9ulxstxzk75",
+      "restake": {
+        "address": "migaloo1m7xlymnpxl2d4llu67v08e8xs67dj2fz2p63rj",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
@@ -297,15 +297,6 @@
         "address": "rebus1m7xlymnpxl2d4llu67v08e8xs67dj2fzkls7z2",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "regen",
-      "address": "regenvaloper1fum4x3zqawngk3stfzffe46expjft3lm2as82l",
-      "restake": {
-        "address": "regen1m7xlymnpxl2d4llu67v08e8xs67dj2fzchchqc",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
       }
     },
     {
@@ -404,7 +395,7 @@
       "restake": {
         "address": "umee1m7xlymnpxl2d4llu67v08e8xs67dj2fz4rw5jw",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 3000000
       }
     },
     {

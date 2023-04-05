@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper1ph02ux2dujl7uv4lzv6vy2y6vjstd4eplfznuw",
+      "restake": {
+        "address": "fetch194ytn50yhh67rdha8akhs7c6zulnz4n262q8w5",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts",
       "restake": {
@@ -171,6 +180,15 @@
         "address": "kujira194ytn50yhh67rdha8akhs7c6zulnz4n2cltmpf",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1ymh63hmdpp2ymhgqv24q7d0736yeycn95c6evz",
+      "restake": {
+        "address": "nois194ytn50yhh67rdha8akhs7c6zulnz4n2cl5fqm",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
       }
     },
     {
@@ -259,8 +277,8 @@
       "address": "secretvaloper12y30xefd0wg53xtyv9lw7mjcdvf8nxgzzva3sr",
       "restake": {
         "address": "secret194ytn50yhh67rdha8akhs7c6zulnz4n2tja23l",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
       }
     },
     {

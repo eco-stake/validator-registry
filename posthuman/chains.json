@@ -154,6 +154,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    }, 
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd",
+      "restake": {
+        "address": "quick1k9888fzemeujc7j5t6jgesfhtm6cdg90gft048",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7",
+      "restake": {
+        "address": "kyve1k9888fzemeujc7j5t6jgesfhtm6cdg905rkt83",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a",
+      "restake": {
+        "address": "aura1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjmd3lxv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

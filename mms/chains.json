@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper1zdrahpddwl893lytke8sdmd6gmxyxk7umrahwj",
+      "restake": {
+        "address": "aura17j4r042dcvqpqdzxnw8eky02zv6gslrxc78x30",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "konstellation",
       "address": "darcvaloper17w25mz7gvf8f84fevy3akzhaugjewp4dd8f5rj",
       "restake": {
@@ -144,6 +153,15 @@
         "address": "quick17j4r042dcvqpqdzxnw8eky02zv6gslrxgvqk2y",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1juxekgtqx84adpml38lkwgz00y3pvkk3f4dd4p",
+      "restake": {
+        "address": "uptick1s6m3ux225d48kkkmkdnmuscfhfws9yck8vjdsn",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {

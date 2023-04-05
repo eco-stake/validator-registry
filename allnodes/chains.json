@@ -262,6 +262,33 @@
         "run_time": "07:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1pzypmn2t8zm4h3mugj6gtg2pfx3cyq7f5fphtv",
+      "restake": {
+        "address": "quasar1n4mmffygh8wdm8zfxxv30cg0aq9m2s07q29zks",
+        "run_time": "07:15",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper14w4qu60azpz5zkw5yrcvmaxqh6xg5sny7qm6rm",
+      "restake": {
+        "address": "inj1yyt52xdduwmlrym3ecu0z5636lx5et366nce52",
+        "run_time": "07:30",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "coreum",
+      "address": "corevaloper1wg7d740544xvvp75hcjd7t6p6sh3xq8tsxkqtt",
+      "restake": {
+        "address": "core1m7kpngaq3z99xulkl6m9xcqk9c27zk4u4u44mn",
+        "run_time": "07:45",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

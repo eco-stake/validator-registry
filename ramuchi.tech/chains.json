@@ -39,6 +39,15 @@
       }
     },
 	{
+      "name": "aura",
+      "address": "auravaloper1qwya9ry4ypnu6py00we3rgf4jpzpkq5jj8ammu",
+      "restake": {
+        "address": "aura1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpjafkjt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	{
       "name": "shentu",
       "address": "certikvaloper18fa7lgnhr9v27vxqgxz5aa7r8mzmhe6v0k4sy0",
       "restake": {

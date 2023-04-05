@@ -93,6 +93,15 @@
       }
     },
     {
+      "name": "uptick",
+      "address": "uptickvaloper1dmymduyzhve2qlexaaatdcz26e5t7vpkm320cf",
+      "restake": {
+        "address": "uptick1zh5j4v6skwdqvn73lc82000wpetmlk98n38daw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "vidulum",
       "address": "vdlvaloper1ta66fa4p9jafjhd4ks3yc2a7u7c0x2jygt2685",
       "restake": {

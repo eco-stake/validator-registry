@@ -70,7 +70,7 @@
       "address": "quickvaloper1d63y7hku5zf3exjtd3a8jwgq2g0pmt30rtmghq",
       "restake": {
         "address": "quick1zf8gz27gs5py3ua9lpu958w24j0jyj0tf3jq0y",
-        "run_time": "every 6 hour",
+        "run_time": "22:00",
         "minimum_reward": 1000000
       }
     },

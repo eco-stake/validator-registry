@@ -82,6 +82,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
         }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper12hz4namlerwv4plm4q98rj5j95g4htap9hrdas",
+      "restake": {
+        "address": "aura19tzqk0kp67mx4wcedvmefhvk9r2xcxud6m6kz3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1vcqv7am3uyxw8m0jw5n46dzuqj3e0h3emxq32z",
+      "restake": {
+        "address": "ixo19tzqk0kp67mx4wcedvmefhvk9r2xcxud7cnxym",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
     }
-    ]
- }
+  ]
+}

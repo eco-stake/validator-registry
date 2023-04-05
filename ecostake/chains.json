@@ -48,6 +48,18 @@
       }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1py9v5f7e4aaka55lwtthk30scxhnqfa6agwxt8",
+      "restake": {
+        "address": "core106ttvplphxccfq4vfu8fu3r24mnf7v5h32qdsp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1a37ze3yrr2y9nn98l6frhjskmufvd40cpyd0gq",
       "restake": {
@@ -158,6 +170,18 @@
     {
       "name": "nomic",
       "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper198un95fs7wxqkv53zhc8hjcyga8qgswtv82x9w",
+      "restake": {
+        "address": "nois1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq76wlw",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
     },
     {
       "name": "osmosis",

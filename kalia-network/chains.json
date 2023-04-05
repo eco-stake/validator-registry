@@ -190,6 +190,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1285us3m5ryzklnjv6wwn3lk9xx0cg0t0l3xq2p",
+      "restake": {
+        "address": "uptick1w37sg25lvt47yflnm6m4eky6ggdqprm7g2y2tg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
