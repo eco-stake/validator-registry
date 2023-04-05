@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.5.2
       - name: Fetch upstream changes
         run: git fetch upstream
       - name: Merge upstream changes
