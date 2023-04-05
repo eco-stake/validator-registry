@@ -190,6 +190,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+      {
+      "name": "cudos",
+      "address": "cudosvaloper19d3xeaa6fjpz262nvjlj68cdd7kkxlnmzfwjnk",
+      "restake": {
+        "address": "cudos1r8egcurpwxftegr07gjv9gwffw4fk0092kx4xk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
     }
   ]
 }
