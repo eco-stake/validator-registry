@@ -1,7 +1,7 @@
 name: Sync with Upstream
 on:
   schedule:
-    - cron: '@hourly' # Schedule the workflow to run once a day
+    - cron: '0 */1 * * *' # Schedule the workflow to run once a day
 jobs:
   sync:
     runs-on: ubuntu-latest
