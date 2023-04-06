@@ -51,7 +51,7 @@
       "name": "secretnetwork",
       "address": "secretvaloper19z74520tdw5gps5sp5tr8y2mxr40artly6rsw3",
       "restake": {
-        "address": "secret13mpqnfg59tsvypsy5a0rlpjpv84n8k3xzkaw9r",
+        "address": "secret12mxjd7ws857kf9e0cjfn5kek9dvkj0plcafd2y",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
