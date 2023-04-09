@@ -2,6 +2,15 @@
   "$schema": "../chains.schema.json",
   "name": "SerGo",
   "chains": [
+      {
+      "name": "aura",
+      "address": "auravaloper1hx623n48w57vvy2fj04f7nfa9jymnvsnm2vay9",
+      "restake": {
+        "address": "aura1mgwft0dpeqmracgy64rz52gss6zwpp3zj87jgf",
+        "run_time":"every 6 hours",
+         "minimum_reward": 100000
+      }
+    },	  
     {
       "name": "sifchain",
       "address": "sifvaloper1x04g9ameendpemes5zm6a78sx69664xe7ldn7f",
