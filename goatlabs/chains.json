@@ -39,12 +39,12 @@
       }
     },
     {
-      "name": "8ball",
-      "address": "8ballvaloper1wcddcyc7clr42g3mxr0xhkx7dspw37g8hpsyfn",
+      "name": "jackal",
+      "address": "jklvaloper13trlt0dp6ttwqgaaru3fn265n8vjf7826uje4d",
       "restake": {
-        "address": "8ball1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrx9kvkq",
+        "address": "jkl1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrhwcsvq",
         "run_time": "every 12 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 100
       }
     }
   ]
