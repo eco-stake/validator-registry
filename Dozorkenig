@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dozorkenig",
+  "chains": [
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1vfjs8rvst79x3zhkc2a0m66t5tksdw7jtyafr9",
+      "restake": {
+        "address": "kyve16kr35jq2rwfz3dnfgs05flxhrt2vsm09wv3sns",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
