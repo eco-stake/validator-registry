@@ -61,8 +61,8 @@
       "address": "cantovaloper1z2gk5exs2ysh24cwg57eg99wy03y95khjl2qyz",
       "restake": {
         "address": "canto163g9c65kv5v8lgvvwner3ruxntrdr50ykx282j",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000000000000000
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {
