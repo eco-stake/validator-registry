@@ -19,6 +19,42 @@
         "run_time": "every 2 hour",
         "minimum_reward": 1000000
         }
+      },
+      {
+      "name": "aura",
+      "address": "auravaloper1cmh2uud0mw5e06aexvghzga0m23j3vaymxxj64",
+      "restake": {
+        "address": "aura1e8dhejyszhkcrz9ts0tgltwcj7vh4awdc0308a",
+        "run_time": ["every 2 hours"],
+        "minimum_reward": 1000000
+        }
+      },
+      {
+      "name": "uptick",
+      "address": "uptickvaloper1f2kazk6p0ctc64c6qgkl4ds53k4zaxnv9v0ptd",
+      "restake": {
+        "address": "uptick1zcvz6dg7uauxfchmylp4mm37rcv4esec7na7q8",
+        "run_time": ["every 2 hours"],
+        "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+      "name": "acrechain",
+      "address": "acrevaloper1p9v6j7hage0djea9rjtwgjfext7r2q5wd838em",
+      "restake": {
+        "address": "acre1zcvz6dg7uauxfchmylp4mm37rcv4esechkexxm",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+      "name":"planq",
+      "address": "plqvaloper1drd2kcy9ywqrdmk9apqskkrq0f9qu7ctqmw7qy",
+      "restake": {
+        "address": "plq1zcvz6dg7uauxfchmylp4mm37rcv4esecyd3el9",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000000000000000
+        }
       }
     ]
 }
