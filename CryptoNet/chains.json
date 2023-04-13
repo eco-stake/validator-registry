@@ -85,7 +85,7 @@
     },
     {
       "name": "acrechain",
-      "address": "acrevaloper194j4f3yxwpmc49ffwyqua0hmrgw2szvp47njqu",
+      "address": "acrevaloper12tcx53axdy0pl7yvdd5gns3cwd9np4nkyjn00h",
       "restake": {
         "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
         "run_time": ["03:00","15:00"],
