@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "firmachain",
+      "address": "firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
+      "restake": {
+        "address": "firma1swgtza0nt52velwuw3zagvxgllyrv7f9qa6gcf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "jackal",
       "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
       "restake": {
