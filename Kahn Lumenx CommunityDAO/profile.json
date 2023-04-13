@@ -1,0 +1,16 @@
+
+{
+    "$schema": "../profile.schema.json",
+    "name": "Kahn LumenX CommunityDAO",
+    "identity": "90CEB5E4D3FDB910",
+    "website": "https://www.lumenx.app/",
+    "contacts": {
+      "telephone": "",
+      "email": "",
+      "telegram": "KosmosKahn",
+      "twitter": "",
+      "others": {
+        "emergency": ""
+      }
+    }
+  }

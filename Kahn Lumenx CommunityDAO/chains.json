@@ -1,0 +1,9 @@
+{
+    "name": "lumenx",
+    "address": "lumenvaloper1vpr0xrahf0quhzfwkpas3eplnuna07u7w7ln06",
+    "restake": {
+        "address": "lumen1r09fawzuy88xgt6z2w2c53et85cgrls0ahwhvp",
+        "run_time": "every hour",
+        "minimum_reward": 1000000
+    }
+}
