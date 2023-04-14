@@ -26,7 +26,7 @@
       "restake": {
         "address": "stars1xllz2yrx4llfwm792geccfz7rey72m0dn0t80k",
         "run_time": "every 5 minutes",
-        "minimum_reward": 3000000
+        "minimum_reward": 1000000
       }
     },
     {
