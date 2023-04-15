@@ -13,13 +13,23 @@
         "minimum_reward": 100000
       }
     },
+	  {
+      "name": "acre",
+      "address": "acrevaloper1qsj8tdm7lk7gjds560xw7c0e996f4nrjpcng3l",
+      "restake": {
+        "address": "acre1ku34l688j5qxqrvcz0hc2s4yrmyz8e4kd3qv9y",
+        "run_time": [
+          "18:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
 	{
       "name": "decentr",
       "address": "decentrvaloper10guelklwjure8zwyrmhaslxf73jn5ur8ejm5s7",
       "restake": {
-        "address": "decentr1cs4jxnxjl54y3xnk4aud5g4n334nxsnn9g4alf",
+        "address": "decentr1r79rj5q3ff56hg0n58v3jcjpc9qh85j0l4hy4c",
         "run_time": [
-          "09:00",
           "21:00"
         ],
         "minimum_reward": 1000000
