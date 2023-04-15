@@ -24,7 +24,7 @@
       "name": "bandchain",
       "address": "bandvaloper1em0rejsr2wva5flz7fv9qkx6wc755cvcqe9teq",
       "restake": {
-        "address": "band1em0rejsr2wva5flz7fv9qkx6wc755cvcv0pgut",
+        "address": "band1vwqhy297vj906z9j0de527wyp8xndmu6gz3qh4",
         "run_time": "12:00",
         "minimum_reward": 10000
       }
