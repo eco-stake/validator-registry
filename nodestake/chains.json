@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "terpnetwork",
+      "address": "terpvaloper19f0w9svr905fhefusyx4z8sf83j6et0gk7vf3w",
+      "restake": {
+        "address": "terp1etsdevgm5ps240lrw9mg3p2j32tj96ktf4vdc7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nois",
       "address": "noisvaloper19f0w9svr905fhefusyx4z8sf83j6et0gsr06wq",
       "restake": {
