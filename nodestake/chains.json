@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "nois",
+      "address": "noisvaloper19f0w9svr905fhefusyx4z8sf83j6et0gsr06wq",
+      "restake": {
+        "address": "nois1etsdevgm5ps240lrw9mg3p2j32tj96ktlhct74",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper19f0w9svr905fhefusyx4z8sf83j6et0g9l5yhl",
       "restake": {
