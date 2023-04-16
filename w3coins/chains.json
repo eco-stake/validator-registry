@@ -48,10 +48,28 @@
       }
     },
     {
+      "name": "regen",
+      "address": "regenvaloper139el73jc3jca4atp7rvgc6lupk2na6rqhl4r9f",
+      "restake": {
+        "address": "regen19gq7zduyt7ga7wvafej5gnz5tj5phjrk8grpks",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },    
+    {
       "name": "secretnetwork",
       "address": "secretvaloper19z74520tdw5gps5sp5tr8y2mxr40artly6rsw3",
       "restake": {
-        "address": "secret12mxjd7ws857kf9e0cjfn5kek9dvkj0plcafd2y",
+        "address": "secret13mpqnfg59tsvypsy5a0rlpjpv84n8k3xzkaw9r",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1cv2qlz78j5d8fs75lxnystu2lsprvt64yrgfap",
+      "restake": {
+        "address": "umee19gq7zduyt7ga7wvafej5gnz5tj5phjrk2u4zyx",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
