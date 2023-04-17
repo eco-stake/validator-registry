@@ -118,6 +118,15 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1fe7ju873fkknmfrmytaft93y5rlf0xcrqtp39k",
+      "restake": {
+        "address": "nois1murx57yjv5r5gvspcxxd8d3w0mmy52xtxuwjy8",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
