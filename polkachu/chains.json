@@ -264,6 +264,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1sd2dhys298zrxcr9qlmejmkw7aws4ngg74tfu2",
+      "restake": {
+        "address": "omniflix1xrrfek3qpz4ja8ccrjklfy064asyqq9kwv8kr3",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4phpkatp",
       "restake": {
