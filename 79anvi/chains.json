@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1ykaxmd7wsgv6v6hsncq3uwwduwtkld228lgggy",
+      "restake": {
+        "address": "omniflix1cnnq3qxad0sx9jc0m440tqt3rwhpxqw83crtxg",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper1ppvfpcp7grhgpkvse4rk877ysuztg73r04y68z",
       "restake": {
