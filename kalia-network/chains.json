@@ -129,6 +129,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1l64n6sruv94vvcsdtw3pldn4rslkjkyqzf62fm",
+      "restake": {
+        "address": "omniflix1wv5zr0sfynf2d78c0u49h3kuqnhhqgcs56w9zl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper1lwgy4hkuwwy7qem6c8m4z0t4dw4uv2pz2m5ljc",
       "restake": {
