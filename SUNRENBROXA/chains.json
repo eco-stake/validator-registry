@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "omniflix",
+      "address": "omniflixvaloper1wh0whaxlfgjjvn2gu900tgv5fxrpfl3epgp5ku",
+      "restake": {
+        "address": "omniflix1xllz2yrx4llfwm792geccfz7rey72m0d6ddrne",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1tylme70t04tua5pd2my6zvzwavs02guvd837ug",
       "restake": {
