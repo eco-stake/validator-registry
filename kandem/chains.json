@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Planq Guardians",
+  "name": "Guardians",
   "chains": [
     {
       "name": "planq",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "name": "Quicksilver Guardians",
+      "name": "quicksilver",
       "address": "quickvaloper1cnh8lj9dx0spv3s8mcws3j47td636cn2y44dcy",
       "restake": {
         "address": "quick16wwsheydhzcjkk3v8wrk7vaq52wk7g2nh36pum",
