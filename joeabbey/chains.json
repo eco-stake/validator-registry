@@ -165,11 +165,11 @@
       }
     },
     {
-      "name": "omniflix",
+      "name": "omniflixhub",
       "address": "omniflixvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu489zsx",
       "restake": {
         "address": "omniflix195mm9y35sekrjk73anw2az9lv9xs5mzt8g7ltf",
-        "run_time": "every 1 hour",
+        "run_time": "every 1 minute",
         "minimum_reward": 10000
       }
     },
