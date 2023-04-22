@@ -165,6 +165,15 @@
       }
     },
     {
+      "name": "omniflix",
+      "address": "omniflixvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu489zsx",
+      "restake": {
+        "address": "omniflix195mm9y35sekrjk73anw2az9lv9xs5mzt8g7ltf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1xwazl8ftks4gn00y5x3c47auquc62ssuh8af89",
       "restake": {
