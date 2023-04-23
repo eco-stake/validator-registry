@@ -46,6 +46,15 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
        }    
+      },
+      {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1nxhlmhaeme4j25d5vac6tk4wgy092xdsu77h4x",
+      "restake": {
+        "address": "omniflix1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9r7a07q",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }
       }
     ]
   }

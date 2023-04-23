@@ -181,7 +181,16 @@
         "run_time":"every 4 hours",
          "minimum_reward": 10000
       }
-    },      
+    },
+    {
+      "name": "terpnetwork",
+      "address": "terpvaloper1uc52al69sqxa76r5qea5yct9lwszng8zcvj8mf",
+      "restake": {
+        "address": "terp1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnupwp3e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },  
       {
          "name":"provenance",
          "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",

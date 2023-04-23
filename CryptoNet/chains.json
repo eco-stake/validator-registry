@@ -85,7 +85,7 @@
     },
     {
       "name": "acrechain",
-      "address": "acrevaloper194j4f3yxwpmc49ffwyqua0hmrgw2szvp47njqu",
+      "address": "acrevaloper12tcx53axdy0pl7yvdd5gns3cwd9np4nkyjn00h",
       "restake": {
         "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
         "run_time": ["03:00","15:00"],
@@ -117,6 +117,15 @@
         "address": "bitsong13swg0ma3ve6ahve3u7cyc4at4yjw790xg4nv8s",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1wpqrc0jcjwxry4r70lh354qdkuc60d4m78z7qw",
+      "restake": {
+        "address": "omniflix1zz3wp5t24ej534nz5g7lxdazekx0aaekjsr6nz",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
       }
     }    
   ]

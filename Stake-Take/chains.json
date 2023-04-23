@@ -78,7 +78,7 @@
       "name": "aura",
       "address": "auravaloper1wkpfyw4cutnh86jr987nqjzyh2e5far6dszelv",
       "restake": {
-        "address": "aura1qsxe8cvx9ddx0w0jmdsepuchltgv89wkqs9pjj",
+        "address": "aura1yst38x6zz5jra2ad3gct68fwf92v8s7cnslm27",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

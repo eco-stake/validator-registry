@@ -1,0 +1,15 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"Tecnodes",
+   "chains":[
+      {
+         "name":"quicksilver",
+         "address":"quickvaloper15edk9n3g7h052uen6rm99ckpc75p3vlfh0wsld",
+         "restake":{
+            "address":"quick12838d9fr5eya88xvjglc42rm5wtzlf39hwundp",
+            "run_time":"10:00",
+            "minimum_reward":5000000
+         }
+      }
+   ]
+}
