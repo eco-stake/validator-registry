@@ -211,9 +211,9 @@
     },
       {
       "name": "akash",
-      "address": "akash1r8egcurpwxftegr07gjv9gwffw4fk009xuzdpe",
+      "address": "akashvaloper10xzfwyvguf6eepfewjlptwzz2ylh37a25xzeqt",
       "restake": {
-        "address": "akashvaloper10xzfwyvguf6eepfewjlptwzz2ylh37a25xzeqt",
+        "address": "akash1r8egcurpwxftegr07gjv9gwffw4fk009xuzdpe",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
