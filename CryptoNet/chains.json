@@ -127,6 +127,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1d8gxfnh9chw4pxty3eelet94a8e7qak5jsq6p7",
+      "restake": {
+        "address": "mantle1zz3wp5t24ej534nz5g7lxdazekx0aaek32fxmk",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
