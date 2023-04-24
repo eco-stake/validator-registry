@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "gravitybridge",
-      "address": "gravityvaloper1nw3uavthnjwsgrrjzav2wdg9m0pw7k4fc7hvlz",
-      "restake": {
-        "address": "gravity1murx57yjv5r5gvspcxxd8d3w0mmy52xtnypqdh",
-        "run_time": ["every 5 minutes"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper1tnuqj73jfn3724lqz34c27tuv80nv336sadqym",
       "restake": {
@@ -45,15 +36,6 @@
         "address": "tori1murx57yjv5r5gvspcxxd8d3w0mmy52xt4qy3n0",
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "rebus",
-      "address": "rebusvaloper1vndzy8y55ylgpmmsc34uy8rm6kqlml6ffs9lrv",
-      "restake": {
-        "address": "rebus1murx57yjv5r5gvspcxxd8d3w0mmy52xtx7sduf",
-        "run_time": ["every 5 minutes"],
-        "minimum_reward": 1000000000000000000
       }
     },
     {
