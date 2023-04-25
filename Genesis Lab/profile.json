@@ -1,0 +1,16 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "Genesis Lab",
+    "identity": "C1A123F2723041F0",
+    "website": "https://genesislab.net/",
+    "description": {
+      "overview": "Genesis Lab is a blockchain-focused development company and validation nodes operator in PoS networks."
+    },
+    "contacts": {
+      "telephone": "",
+      "email": "team@genesislab.net",
+      "others": {
+        "emergency": ""
+      }
+    }
+  }

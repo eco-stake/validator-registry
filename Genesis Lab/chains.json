@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "poorbuthappy",
+    "chains": [
+      {
+        "name": "umee",
+        "address": "umeevaloper1mkv4myppz2w0d3nr2dh9fv5kcwaaqnzfvnm6qf",
+        "restake": {
+          "address": "umee1nlq3spfcqscxj3a8hesc4uqx0dd2ljd67jdu7m",
+          "run_time": "Every 6 hours",
+          "minimum_reward": 5000000
+        }
+      }
+    ]
+  }
