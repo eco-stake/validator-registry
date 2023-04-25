@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "crescent",
+      "address": "crevaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4npa9ln",
+      "restake": {
+        "address": "cre16lhapna7nfm0j3pnwt7tn4lxtx3q7hs434a2je",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cryptoorgchain",
       "address": "crocncl17xjefmgzd9k2k065289nktklj706zhk4nr7495",
       "restake": {
