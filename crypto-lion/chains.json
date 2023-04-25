@@ -133,7 +133,7 @@
       "address": "panaceavaloper1yr03eaz9ejndc4rt9244m6kcuva3ahfdkca377",
       "restake": {
         "address": "panacea102snugmpm8f9csr7y8me4tzj0cqxuu2muttgl0",
-        "run_time": "every day",
+        "run_time": "00:00",
         "minimum_reward": 100000
       }
     },
