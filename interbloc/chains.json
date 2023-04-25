@@ -1,6 +1,6 @@
 {
 	"$schema": "../chains.schema.json",
-	"name": "coldy",
+	"name": "Interbloc",
 	"chains": [{
 			"name": "osmosis",
 			"address": "osmovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfv6t4y9y",
@@ -44,20 +44,6 @@
 				],
 				"minimum_reward": 1000000
 			}
-		},
-		{
-			"name": "stride",
-			"address": "stridevaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfvge2huc",
-			"restake": {
-				"address": "stride1cs4jxnxjl54y3xnk4aud5g4n334nxsnnddn42d",
-				"run_time": [
-					"06:00",
-					"12:00",
-					"18:00"
-				],
-				"minimum_reward": 100000
-			}
-
 		}
 	]
 }

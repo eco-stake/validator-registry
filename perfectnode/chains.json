@@ -93,16 +93,6 @@
       }
     },
     {
-      "name": "sommelier",
-      "address": "sommvaloper1rdx3wwxcmth8k64y8h2a49uggjge6rda9q3wrq",
-      "restake":
-      {
-        "address": "somm17makzkpwp3t0dvgk92a8lyqaqgphukg6rawa50",
-        "run_time": "21:00",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "echelon",
       "address": "echelonvaloper12n5t55n8wyk5gxryex3h8tdznuc24pyl9c0qas",
       "restake":

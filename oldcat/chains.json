@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1df8frt02t7a3xtne3dud8udxuylrm6tg47tyeh",
+      "restake": {
+        "address": "omniflix1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zu70we9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "acrechain",
       "address": "acrevaloper19gwnx0zr5pzn7la5j2q2mevqk53xyc80q8cgfe",
       "restake": {

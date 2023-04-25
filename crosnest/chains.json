@@ -223,7 +223,7 @@
       "address": "omniflixvaloper1gvgjg4fu7jy9ll2paas54ml66hxt929p0udzaw",
       "restake": {
         "address": "omniflix1v9vae554q55xa4pcfdm0p3kv8nxn50jk8jkt6h",
-        "run_time": "23:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     },
@@ -322,6 +322,15 @@
       "address": "auravaloper1p9feg9sae2n4mydpefs6jpdwu7da36wn98rzuw",
       "restake": {
         "address": "aura1v9vae554q55xa4pcfdm0p3kv8nxn50jkp6ss0s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1au4axasl3agzl9smd9zhqlx5hpg2ezdy873tp9",
+      "restake": {
+        "address": "nois1v9vae554q55xa4pcfdm0p3kv8nxn50jkty6cp3",
         "run_time": "every 1 hour",
         "minimum_reward": 1000
       }

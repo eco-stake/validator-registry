@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1qwpvet2h2a7lw8ycmwhcp03ccql0ljjj2hxp4c",
+      "restake": {
+        "address": "omniflix10eumq5yvapfdan5nxsfkc3arskff3l9vu7red0",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {
