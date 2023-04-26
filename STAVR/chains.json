@@ -219,6 +219,15 @@
       }
     },
     {
+      "name": "terpnetwork",
+      "address": "terpvaloper19f0w9svr905fhefusyx4z8sf83j6et0gk7vf3w",
+      "restake": {
+        "address": "terp1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnysmtnq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "kyve",
       "address": "kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d",
       "restake": {
