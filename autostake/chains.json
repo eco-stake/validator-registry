@@ -93,6 +93,15 @@
       }
     },
     {
+      "name": "cudos",
+      "address": "cudosvaloper1ctcrpuyumt60733u0yd5htwzedgfae0n8gql5n",
+      "restake": {
+        "address": "cudos194ytn50yhh67rdha8akhs7c6zulnz4n2gxqujk",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "crescent",
       "address": "crevaloper173rqm36cj5efq2yhsedd8vhfrl7rjqeftkp80f",
       "restake": {
