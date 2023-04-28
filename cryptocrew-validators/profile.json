@@ -1,5 +1,19 @@
 {
   "$schema": "../profile.schema.json",
   "name": "✅ CryptoCrew Validators #IBCgang",
-  "identity": "9AE70F9E3EDA8956"
+  "identity": "9AE70F9E3EDA8956",
+  "website": "https://ccvalidators.com",
+  "description": {
+    "overview": "CryptoCrew offers non-custodial staking solutions for a selected set of dPOS ledgers. As a trusted blockchain infrastructure provider, we operate bare-metal servers in partnering datacenters, we utilize remote key-management systems, sentry node architecture, private connections and a dedicated 24/7 monitoring & alert system."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "support@ccvalidators.com",
+    "telegram": "cryptocrew_validators",
+    "twitter": "crypto_crew",
+    "discord": "",
+    "others": {
+      "emergency": "support@ccvalidators.com"
+    }
+  }
 }
