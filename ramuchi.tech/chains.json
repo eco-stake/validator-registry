@@ -43,7 +43,7 @@
       "address": "auravaloper1qwya9ry4ypnu6py00we3rgf4jpzpkq5jj8ammu",
       "restake": {
         "address": "aura1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpjafkjt",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
