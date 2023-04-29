@@ -8,7 +8,7 @@
       "restake": {
         "address": "decentr1709spkwudstcnlpvt6cpwhh6lylxxylym9h60j",
         "run_time": [
-          "every 12 hour"
+          "every 1 hour"
         ],
         "minimum_reward": 1000000
       }
@@ -19,21 +19,21 @@
       "restake": {
         "address": "echelon1htypggxzv5t9pkesu9la2d0urlvafgeyxsrzcu",
         "run_time": [
-          "every 12 hour"
+          "every 1 hour"
         ],
         "minimum_reward": 20000000
       }
     },
-    {
-      "name": "jackal",
-      "address": "jklvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqgv02cvl",
-      "restake": {
-        "address": "jkl1709spkwudstcnlpvt6cpwhh6lylxxylyf4llh9",
-        "run_time": [
-          "every 12 hour"
-        ],
-        "minimum_reward": 1000000
-      }
+ //  {
+ //     "name": "jackal",
+ //    "address": "jklvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqgv02cvl",
+//      "restake": {
+//        "address": "jkl1709spkwudstcnlpvt6cpwhh6lylxxylyf4llh9",
+//        "run_time": [
+//          "every 12 hour"
+//        ],
+//        "minimum_reward": 1000000
+//      }
     },
     {
       "name": "lumenxtestnet",
@@ -52,7 +52,7 @@
       "restake": {
         "address": "lumen1709spkwudstcnlpvt6cpwhh6lylxxyly97499e",
         "run_time": [
-          "every 12 hour"
+          "every 1 hour"
         ],
         "minimum_reward": 100000000
       }
@@ -63,7 +63,7 @@
       "restake": {
         "address": "sent1709spkwudstcnlpvt6cpwhh6lylxxylyts8h24",
         "run_time": [
-          "every 12 hour"
+          "every 1 hour"
         ],
         "minimum_reward": 500000000
       }
