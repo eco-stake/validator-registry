@@ -59,7 +59,7 @@
           "12:00",
           "24:00"
         ],
-        "minimum_reward": 10000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -71,7 +71,7 @@
           "12:00",
           "24:00"
         ],
-        "minimum_reward": 10000000000000
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -352,10 +352,7 @@
       "address": "omniflixvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zu4sush",
       "restake": {
         "address": "omniflix12xpq68caw2aqdu70jm4k792g0v9prhrpaahahx",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -486,6 +483,18 @@
           "24:00"
         ],
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw6ytlpy",
+      "restake": {
+        "address": "xpla10edr8awd0pulykvqxlwnz9n72rtngwjd72me35",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
       }
     }
   ]
