@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "desmos",
+      "address": "desmosvaloper15rdlss4cny2l6eaq2nq4e3h00urhkd5yyh8jvg",
+      "restake": {
+        "address": "desmos14tu8jyky83f0fklku3g4ytx2g5z5t3qv695pyh",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "planq",
       "address": "plqvaloper1r3j34ch40555kgukc7xy8u45jnr3rnpapslpk7",
       "restake": {
