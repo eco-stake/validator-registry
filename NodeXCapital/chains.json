@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "⚡NodeX Validator⚡",
+  "name": "NodeX Validator",
   "chains": [
     {
       "name": "planq",
@@ -84,12 +84,12 @@
         }
     },
     {
-         "name":"pointnetwork",
+         "name":"point",
          "address":"pointvaloper1z8375t03vdyag7lkm2gkeg0k7eumpetvch2vef",
          "restake":{
             "address":"point169n5eccqtel60fun3s3rqj23rcwfq6a6xtwhpk",
             "run_time":"every 1 hour",
-            "minimum_reward":1000000000000000000
+            "minimum_reward":100000000000000000
         }
     }
   ]
