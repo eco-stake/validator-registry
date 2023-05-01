@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "canto",
+      "address": "cantovaloper1xn5h73dw565qu9puft6vj5r64h5gfdevd9e9xd",
+      "restake": {
+        "address": "canto1wcjn4f2evmjesgzx2m7u3h2cay9mehfg2t6avn",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1ny8gd9tsyqhm56agp4vkpa6fldr2n4guthcvfj",
       "restake": {
@@ -93,11 +102,20 @@
       }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1fq63eks78npnsgtja8m8nvvv5qmahqxawgpafz",
+      "restake": {
+        "address": "core1wcjn4f2evmjesgzx2m7u3h2cay9mehfgtnrklq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "crescent",
       "address": "crevaloper1sx88pppqz998p6sq84hjvrx5qrgq7ezqdtmfxt",
       "restake": {
         "address": "cre1m7xlymnpxl2d4llu67v08e8xs67dj2fzraqwr3",
-        "run_time": "every 2 hour",
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
     },
