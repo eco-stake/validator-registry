@@ -90,6 +90,7 @@
         "address": "ki1ludqm40uum3nurl80lqy9fc7dwdccj462fvajx",
         "run_time": "21:00",
         "minimum_reward": 10000000
+        }
       },
       {
       "name": "kava",
@@ -98,7 +99,7 @@
         "address": "kava1ludqm40uum3nurl80lqy9fc7dwdccj4683f0q4",
         "run_time": "21:00",
         "minimum_reward": 10000000
+        }
       }
-    } 
   ]
 }
