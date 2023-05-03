@@ -90,6 +90,14 @@
         "address": "ki1ludqm40uum3nurl80lqy9fc7dwdccj462fvajx",
         "run_time": "21:00",
         "minimum_reward": 10000000
+      },
+      {
+      "name": "kava",
+      "address": "kavavaloper1akfnl69lug7w9anxpphag2yyjw5s7ceaa39av7",
+      "restake": {
+        "address": "kava1ludqm40uum3nurl80lqy9fc7dwdccj4683f0q4",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
       }
     } 
   ]
