@@ -3,7 +3,7 @@
   "name": "Pandora",
   "chains": [
     {
-      "name": "bitcanna-dev-1",
+      "name": "bitcannadev",
       "address": "bcnavaloper153hxvnx24h07aptul43fsuyeq7kgt2erqad6xy",
       "restake": {
         "address": "bcna16u4r85a3ha9u6ppkjeycsjgw2tehm9z2n2gwzz",
