@@ -6,12 +6,12 @@
       "name": "bitcannadev",
       "address": "bcnavaloper153hxvnx24h07aptul43fsuyeq7kgt2erqad6xy",
       "restake": {
-        "address": "bcna16u4r85a3ha9u6ppkjeycsjgw2tehm9z2n2gwzz",
+        "address": "bcna1dsyj5nq2ky94wwf5axqghl02h0vy6jnakcr6g7",
         "run_time": [
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 1000000
       }
     }
   ]
