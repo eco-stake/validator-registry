@@ -3,10 +3,10 @@
   "name": "Pandora",
   "chains": [
     {
-      "name": "bitcannadev",
-      "address": "bcnavaloper1dwyk6ppcaw9zhs4keljnfce62lu5n38zqd7thc",
+      "name": "bitcanna-dev-1",
+      "address": "bcnavaloper153hxvnx24h07aptul43fsuyeq7kgt2erqad6xy",
       "restake": {
-        "address": "bcna1dsyj5nq2ky94wwf5axqghl02h0vy6jnakcr6g7",
+        "address": "bcna16u4r85a3ha9u6ppkjeycsjgw2tehm9z2n2gwzz",
         "run_time": [
           "09:00",
           "21:00"
