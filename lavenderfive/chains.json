@@ -183,18 +183,6 @@
       }
     },
     {
-      "name": "idep",
-      "address": "idepvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zty00ld",
-      "restake": {
-        "address": "idep12xpq68caw2aqdu70jm4k792g0v9prhrpprssx3",
-        "run_time": [
-          "12:00",
-          "24:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "impacthub",
       "address": "ixovaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw59wh7me3",
       "restake": {
