@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Chainnodes",
+    "chains": [
+        {
+            "name": "gravitybridge",
+            "address": "gravityvaloper1mnaax82pagsuv8gejn5ran2wk3tjc4qevtz0gp",
+            "restake": {
+                "address": "gravity10zt2x5x20jfa0lem0yyrmrg2f9kmrxf9h5h2jz",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}
