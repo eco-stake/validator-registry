@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dexanode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper17nevjuc3n9sald8qwg2vq75t3k8ucmtg6ydazq",
+      "restake": {
+        "address": "plq17nevjuc3n9sald8qwg2vq75t3k8ucmtgy6q8y3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
