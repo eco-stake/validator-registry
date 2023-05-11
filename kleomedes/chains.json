@@ -217,6 +217,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+      {
+      "name": "sommelier",
+      "address": "sommvaloper199xpf884lrfsg7jyfjwh50e2zpy27qfejafssk",
+      "restake": {
+        "address": "somm1r8egcurpwxftegr07gjv9gwffw4fk0098mqxff",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
