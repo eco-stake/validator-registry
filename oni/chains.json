@@ -7,8 +7,8 @@
          "address":"comdexvaloper1azdfljp04ptlazs95e5gscweavmaszw539pch3",
          "restake":{
             "address":"comdex164e53fz34nkc03vnncdl5w9xp420lkaknxrn4l",
-            "run_time":"every 1 hour",
-            "minimum_reward":10000
+            "run_time":"every 12 hour",
+            "minimum_reward":100000
          }
       },
       {
@@ -17,7 +17,7 @@
          "restake":{
             "address":"cosmos164e53fz34nkc03vnncdl5w9xp420lkak5fp3vg",
             "run_time":"every 8 hour",
-            "minimum_reward":10000
+            "minimum_reward":100000
          }
       },
       {
@@ -35,7 +35,7 @@
          "restake":{
             "address":"juno164e53fz34nkc03vnncdl5w9xp420lkakzmz2t5",
             "run_time":"every 4 hour",
-            "minimum_reward":10000
+            "minimum_reward":100000
          }
       },
       {
@@ -43,8 +43,8 @@
          "address":"injvaloper1f566hkhdhf9s3hskd43nggj7qsc7g0xxtqylr7",
          "restake":{
             "address":"inj1t08fz5qygf6v47p2nzlmetz69xla3jtnmqssl6",
-            "run_time":"every 6 hour",
-            "minimum_reward":10000
+            "run_time":"every 8 hour",
+            "minimum_reward":100000
          }
       },
       {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "mars164e53fz34nkc03vnncdl5w9xp420lkakf5cgen",
         "run_time": "every 2 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
       {
@@ -71,7 +71,7 @@
          "restake":{
             "address":"osmo164e53fz34nkc03vnncdl5w9xp420lkakujjp66",
             "run_time":"20:00",
-            "minimum_reward":10000
+            "minimum_reward":100000
          }
       },
       {
@@ -89,7 +89,7 @@
          "restake":{
             "address":"stars164e53fz34nkc03vnncdl5w9xp420lkakq4kv8e",
             "run_time":"every 3 hour",
-            "minimum_reward":10000
+            "minimum_reward":100000
          }
       },
       {
@@ -102,7 +102,7 @@
          "restake":{
             "address":"stride164e53fz34nkc03vnncdl5w9xp420lkakhzpdcy",
             "run_time":"every 8 hour",
-            "minimum_reward":10000
+            "minimum_reward":100000
          }
       },
       {
@@ -110,8 +110,8 @@
          "address":"torivaloper1azdfljp04ptlazs95e5gscweavmaszw5zmd7e6",
          "restake":{
             "address":"tori164e53fz34nkc03vnncdl5w9xp420lkakkakchc",
-            "run_time":"every 60 seconds",
-            "minimum_reward":10000
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
          }
       },
       {
@@ -119,8 +119,8 @@
       "address": "migaloovaloper160khm5whjg4hfuznjfqetmp95kpy04sg6q5chd",
       "restake": {
         "address": "migaloo164e53fz34nkc03vnncdl5w9xp420lkakeagtex",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
       }
     }
    ]
