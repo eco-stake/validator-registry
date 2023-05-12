@@ -176,10 +176,7 @@
       "address": "noisvaloper198un95fs7wxqkv53zhc8hjcyga8qgswtv82x9w",
       "restake": {
         "address": "nois1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq76wlw",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
