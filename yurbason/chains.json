@@ -46,7 +46,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 5000000
       }
-    }
+    },
 	{
       "name": "acrechain",
       "address": "acrevaloper1sn80um2chzav6mytlfjthlvaf97ta77hspf234",
@@ -55,7 +55,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000000
       }
-    }
+    },
 	{
       "name": "aura",
       "address": "auravaloper1k8melpa8jvz7wy5c27qzdtkzd3d9d2c6eq67gp",
