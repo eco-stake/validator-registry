@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Tosif Core",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "testcorevaloper17hmu3d7sy4344r05pn85z8f572a004pt6f6c63",
+            "restake": {
+                "address": "testcore1ypeka6w5vyxvtxpuwty3cqk4t6kmm8uf3wey6a",
+                "run_time": "20:00",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
