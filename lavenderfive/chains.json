@@ -453,6 +453,18 @@
       }
     },
     {
+      "name": "tenet",
+      "address": "tenetvaloper1ksyy7fwlevkphanrddpqkk0d4qre2dmfpjpqs3",
+      "restake": {
+        "address": "tenet10edr8awd0pulykvqxlwnz9n72rtngwjda47y6a",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztl8j0u",
       "restake": {
