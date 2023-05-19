@@ -171,22 +171,21 @@
       }
     },
     {
-      "name": "gravitybridge",
-      "address": "gravityvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zezczfa",
+      "name": "gitopia",
+      "address": "gitopiavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z6msrfe",
       "restake": {
-        "address": "gravity12xpq68caw2aqdu70jm4k792g0v9prhrpyn5u9s",
+        "address": "gitopia12xpq68caw2aqdu70jm4k792g0v9prhrp7mpn0m",
         "run_time": [
-          "12:00",
-          "24:00"
+          "every 15 minutes"
         ],
         "minimum_reward": 10000
       }
     },
     {
-      "name": "idep",
-      "address": "idepvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zty00ld",
+      "name": "gravitybridge",
+      "address": "gravityvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zezczfa",
       "restake": {
-        "address": "idep12xpq68caw2aqdu70jm4k792g0v9prhrpprssx3",
+        "address": "gravity12xpq68caw2aqdu70jm4k792g0v9prhrpyn5u9s",
         "run_time": [
           "12:00",
           "24:00"
@@ -462,6 +461,18 @@
           "24:00"
         ],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1ksyy7fwlevkphanrddpqkk0d4qre2dmfpjpqs3",
+      "restake": {
+        "address": "tenet10edr8awd0pulykvqxlwnz9n72rtngwjda47y6a",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
     },
     {

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BIERFORGE Validators",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1lxxztm0m6q8e623k6ecagwv0xl0pq8kk7pvj42",
+      "restake": {
+        "address": "plq1ayttg2punr4v75hsjnt223x0xmp9fs64zwp7g7",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper12598aagy2a3k2deere78her90u09xqs5unz5fz",
+      "restake": {
+        "address": "lumen1pchsyu3d8c0fezekqmh7ymkesv3gr0scujh237",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

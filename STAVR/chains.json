@@ -220,9 +220,18 @@
     },
     {
       "name": "terpnetwork",
-      "address": "terpvaloper19f0w9svr905fhefusyx4z8sf83j6et0gk7vf3w",
+      "address": "terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8",
       "restake": {
         "address": "terp1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnysmtnq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4",
+      "restake": {
+        "address": "realio17q3zwm3qfcfjs2pvp472tmqsae8n97pnu2kcn9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

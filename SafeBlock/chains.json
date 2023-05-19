@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "realio",
+      "address": "realiovaloper10hdq53q08h0l5ded593aa6zazympxrwlyn4qh6",
+      "restake": {
+        "address": "realio1408uk4pmf4gdwxelrz3wgfks3ttxujwwzxjuag",
+        "run_time": "21:00",
+        "minimum_reward": 2000000000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1a0qn2yydg9gd0xmzmxh6yd6d3gmdg43l6jtj6d",
       "restake": {

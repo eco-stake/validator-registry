@@ -138,6 +138,15 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1d5ac6xpa20hq3vuxkeef732p4rcrc30rg0sce9",
+      "restake": {
+        "address": "gitopia194ytn50yhh67rdha8akhs7c6zulnz4n2h0w5rq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts",
       "restake": {
@@ -214,7 +223,7 @@
       "address": "omniflixvaloper1a5khn752000mepl97qm7t2u4g865mdqzxpscph",
       "restake": {
         "address": "omniflix194ytn50yhh67rdha8akhs7c6zulnz4n25fc6ma",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },
