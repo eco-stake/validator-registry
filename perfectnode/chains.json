@@ -3,16 +3,6 @@
   "name": "Nodine.ID",
   "chains": [
     {
-      "name": "planq",
-      "address": "plqvaloper1cyxq5wp2cd5p309rxc84hag8qcpqft45ezwp3h",
-      "restake":
-      {
-        "address": "plq1rarwwmt8xezcdjz6cu9pawehnh2pxhs9px24pd",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "8ball",
       "address": "8ballvaloper18ft56vxrr0rc9hpxlrd563yv4wwlcztqwnuhdy",
       "restake":
@@ -100,26 +90,6 @@
         "address": "echelon1rarwwmt8xezcdjz6cu9pawehnh2pxhs9aqplfg",
         "run_time": "21:00",
         "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "chain4energy",
-      "address": "c4evaloper15qyt6d23a2pjugylq3w4vjhlq65dg9mf4xfvce",
-      "restake":
-      {
-        "address": "c4e15qyt6d23a2pjugylq3w4vjhlq65dg9mf985xew",
-        "run_time": "21:00",
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "rebus",
-      "address": "rebusvaloper16jgvk2vkn9l7a0kq0juucjgq55w0ymp4rjx7v8",
-      "restake":
-      {
-        "address": "rebus16jgvk2vkn9l7a0kq0juucjgq55w0ymp4a96pey",
-        "run_time": "21:00",
-        "minimum_reward": 1000
       }
     }
       
