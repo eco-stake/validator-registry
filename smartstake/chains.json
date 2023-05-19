@@ -104,7 +104,7 @@
       "name": "persistence",
       "address": "persistencevaloper1qtggtsmexluvzulehxs7ypsfl82yk5aznrr2zd",
       "restake": {
-        "address": "persistence1uaryheka9uvh29kj4qqrvpsja0ht4jj63fdlae",
+        "address": "persistence1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s5vqgsj",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -167,7 +167,7 @@
       "name": "canto",
       "address": "cantovaloper1erlzkmu9ajkap5lgx7gs4sxtz0k0swjhqytv39",
       "restake": {
-        "address": "canto1lwu58mywx0qe706u9hssgu48pz50gvnuf44lrd",
+        "address": "canto18fm9rxkmrnnx3auzpq4mvjh7vgvnnvw2dvtewd",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
@@ -176,7 +176,7 @@
       "name": "coreum",
       "address": "corevaloper1zv3rz855lan7mznzlmzycf0a3tslar4lntsxk2",
       "restake": {
-        "address": "core1lwu58mywx0qe706u9hssgu48pz50gvnugdv5s7",
+        "address": "core14pfk7jyqx9rztejpyujzngdxm06akgqatxxes2",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
