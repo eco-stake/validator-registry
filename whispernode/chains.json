@@ -88,12 +88,21 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1p804l07cxwmscgs9xy46kfua3sv06jfj7q7dxj",
+      "restake": {
+        "address": "gitopia1e44rluarkdw56dy2turnwjtvtg4wqvs0vnjncx",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1cutynk8xve9lqmwt4nn575x95v9849zj6p9564",
       "restake": {
         "address": "inj1k0fpumkxl35p3se0n52e6dc3mh8vy24km862cc",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 100000000000000
       }
     },
     {
@@ -139,6 +148,19 @@
         "address": "migaloo1e44rluarkdw56dy2turnwjtvtg4wqvs0llu7zt",
         "run_time": "2x daily",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper19ecn7ljwp6el2pc5lldyauwv05ufwut9qd4fny",
+      "restake": {
+        "address": "neutron1e44rluarkdw56dy2turnwjtvtg4wqvs0k5uxdz",
+        "run_time": [
+          "05:00",
+          "13:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
       }
     },
     {
