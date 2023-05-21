@@ -151,8 +151,8 @@
       "address": "starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy",
       "restake": {
         "address": "stars1k9888fzemeujc7j5t6jgesfhtm6cdg90h3vq8y",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "run_time": "every 1 day",
+        "minimum_reward": 10000000
       }
     }, 
     {
@@ -178,6 +178,33 @@
       "address": "auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a",
       "restake": {
         "address": "aura1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjmd3lxv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk",
+      "restake": {
+        "address": "akash1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjdqt6a0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q",
+      "restake": {
+        "address": "stride1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjrsxpse",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl",
+      "restake": {
+        "address": "omniflix1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgja9hynt",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

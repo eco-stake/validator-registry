@@ -172,6 +172,24 @@
       "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
     },
     {
+      "name": "nois",
+      "address": "noisvaloper198un95fs7wxqkv53zhc8hjcyga8qgswtv82x9w",
+      "restake": {
+        "address": "nois1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq76wlw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper19d782trtcj4yq9lm7nxy3xs3xjg8vjktn3sjsd",
+      "restake": {
+        "address": "omniflix1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczvgkayg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1u5v0m74mql5nzfx2yh43s2tke4mvzghr6m2n5t",
       "restake": {

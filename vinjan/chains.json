@@ -19,6 +19,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100
        }
+       },
+    {
+"name": "realio",
+      "address": "realiovaloper1csj5g5j4r682apvjckdk3qldkup4y07472gtkh",
+      "restake": {
+        "address": "realio1csj5g5j4r682apvjckdk3qldkup4y07427t383",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100
+       }
+      },
+    {
+"name": "terp-network",
+      "address": "terpvaloper1zj70sat2fevu68hstfl0le5e0c5efg5mjk823u",
+      "restake": {
+        "address": "terp1zj70sat2fevu68hstfl0le5e0c5efg5mrfz73d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100
+       }
+      },
+    {
+"name": "decentr",
+      "address": "decentrvaloper18yze7cvnep7d2yj3cs4zfpvd4juphxrw3djwsz",
+      "restake": {
+        "address": "decentr18yze7cvnep7d2yj3cs4zfpvd4juphxrwwzezd4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100
+       }
      }
   ]
 }

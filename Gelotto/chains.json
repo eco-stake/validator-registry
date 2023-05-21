@@ -66,6 +66,18 @@
       }
     },
     {
+      "name": "nois",
+      "address": "noisvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qwtj4ax",
+      "restake": {
+        "address": "nois17htrh2z4uxpv33mg7g7k4qedwe0hljpxvw5jw4",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4q37z5fl",
       "restake": {

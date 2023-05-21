@@ -1,0 +1,49 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Interbloc",
+	"chains": [{
+			"name": "osmosis",
+			"address": "osmovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfv6t4y9y",
+			"restake": {
+				"address": "osmo1cs4jxnxjl54y3xnk4aud5g4n334nxsnnxaqegn",
+				"run_time": "18:00",
+				"minimum_reward": 100000
+			}
+		},
+		{
+			"name": "bitsong",
+			"address": "bitsongvaloper1wq3hjdygz9n84z826p56zft0e45kmlfrnsy4p4",
+			"restake": {
+				"address": "bitsong1cs4jxnxjl54y3xnk4aud5g4n334nxsnnz0ppuw",
+				"run_time": [
+					"06:00",
+					"12:00",
+					"18:00"
+				],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "evmos",
+			"address": "evmosvaloper148hpdcvge7jgjr4xxjufcq56w5k4rr0pnnqxla",
+			"restake": {
+				"address": "evmos15sr3ygx636kazkrv8rh3u4d7xyyferejdsvvq3",
+				"run_time": "19:30",
+				"minimum_reward": 100000000000000000
+			}
+		},
+		{
+			"name": "juno",
+			"address": "junovaloper15004ysvmqnqzkvt7x6s4cd53flmmvgfvpgmrc5",
+			"restake": {
+				"address": "juno1cs4jxnxjl54y3xnk4aud5g4n334nxsnnc5sjea",
+				"run_time": [
+					"06:00",
+					"12:00",
+					"18:00"
+				],
+				"minimum_reward": 1000000
+			}
+		}
+	]
+}

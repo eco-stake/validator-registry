@@ -71,7 +71,7 @@
       "restake": {
         "address": "swth1zz3wp5t24ej534nz5g7lxdazekx0aaekssc4h9",
         "run_time": ["03:00","15:00"],
-        "minimum_reward": 1000000000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "name": "acrechain",
-      "address": "acrevaloper194j4f3yxwpmc49ffwyqua0hmrgw2szvp47njqu",
+      "address": "acrevaloper12tcx53axdy0pl7yvdd5gns3cwd9np4nkyjn00h",
       "restake": {
         "address": "acre1x8zysrq0jw6vq87h207ecv2m3yguv9rfn6htud",
         "run_time": ["03:00","15:00"],
@@ -118,6 +118,33 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
       }
-    }    
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1wpqrc0jcjwxry4r70lh354qdkuc60d4m78z7qw",
+      "restake": {
+        "address": "omniflix1zz3wp5t24ej534nz5g7lxdazekx0aaekjsr6nz",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1d8gxfnh9chw4pxty3eelet94a8e7qak5jsq6p7",
+      "restake": {
+        "address": "mantle1zz3wp5t24ej534nz5g7lxdazekx0aaek32fxmk",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper1wc4v5kufn0yv2qrlfk78s7g5f22jpwx9m86wnv",
+      "restake": {
+        "address": "8ball1zz3wp5t24ej534nz5g7lxdazekx0aaek8mjw8r",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    }
   ]
 }

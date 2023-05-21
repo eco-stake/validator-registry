@@ -190,6 +190,42 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+      {
+      "name": "cudos",
+      "address": "cudosvaloper19d3xeaa6fjpz262nvjlj68cdd7kkxlnmzfwjnk",
+      "restake": {
+        "address": "cudos1r8egcurpwxftegr07gjv9gwffw4fk0092kx4xk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+      {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper17ft2d3hmg694kct5vg4rk06ejaa3pp7t0aa5yx",
+      "restake": {
+        "address": "omniflix1r8egcurpwxftegr07gjv9gwffw4fk009ke7n0a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "akash",
+      "address": "akashvaloper10xzfwyvguf6eepfewjlptwzz2ylh37a25xzeqt",
+      "restake": {
+        "address": "akash1r8egcurpwxftegr07gjv9gwffw4fk009xuzdpe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "sommelier",
+      "address": "sommvaloper199xpf884lrfsg7jyfjwh50e2zpy27qfejafssk",
+      "restake": {
+        "address": "somm1r8egcurpwxftegr07gjv9gwffw4fk0098mqxff",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

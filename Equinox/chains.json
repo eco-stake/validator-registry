@@ -15,8 +15,8 @@
       "name": "quicksilver",
       "address": "quickvaloper1puwcmvnduh5l25a85f8lrpga7rv5ngp2yqrkw9",
       "restake": {
-        "address": "quick1wc3n8devf6ckmx05m6ewc7vp78qkp5w7n8gh4h",
-        "run_time": "every 10 minutes",
+        "address": "quick1phrmgzu6hvgnt9d36esxk7dq4n5m7wuvu5z0st",
+        "run_time": "every 30 minutes",
         "minimum_reward": 10000
       }
     }

@@ -100,6 +100,24 @@
         "run_time":"every 1 hour",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "point",
+      "address": "pointvaloper1ux4enayftyw2m6y7cred4uj3due9je5utgj4s4",
+      "restake": {
+        "address": "point1xr4vhpd97h3pnd80l20slksdtejjdstcqey0re",
+        "run_time":"every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper108lcxcaje8y5kyq7ggwzcmh04m2088y7extcv2",
+      "restake": {
+        "address": "xpla1xr4vhpd97h3pnd80l20slksdtejjdstcxcrg07",
+        "run_time":"every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }

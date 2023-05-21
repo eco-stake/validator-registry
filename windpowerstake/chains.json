@@ -3,12 +3,12 @@
   "name": "windpowerstake",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhrar9g9",
+      "name": "acrechain",
+      "address": "acrevaloper1hvn8advpjvhkdldjqfayqz54p6sgm5djsfklye",
       "restake": {
-        "address": "cerberus1hpwxnnrtsc6zjx4glup77tfe5z54lmtqe3tusv",
-        "run_time": "every 17 minutes",
-        "minimum_reward": 1000000
+        "address": "acre1z5mwcgf7ekjze4tpelueu9hjz9whyj6ex8rhzv",
+        "run_time": "every 8 hours",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -48,11 +48,20 @@
       }
     },
     {
+      "name": "migaloo",
+      "address": "migaloovaloper1esv20mwvedun93ysekdeyk3x5ckeqcnjdjql4w",
+      "restake": {
+        "address": "migaloo1hpwxnnrtsc6zjx4glup77tfe5z54lmtqgzz0sf",
+        "run_time": "every 6 hours",
+        "minimum_reward": 500000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1y0luntvuau05hnqv3xhec2fnhs8hw93e0wnuhm",
       "restake": {
         "address": "rebus1hpwxnnrtsc6zjx4glup77tfe5z54lmtq5ugq33",
-        "run_time": "every 6 hours",
+        "run_time": "every 4 hours",
         "minimum_reward": 100000000000000000
       }
     },
