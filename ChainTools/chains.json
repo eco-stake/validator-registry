@@ -201,6 +201,24 @@
       }
     },
     {
+      "name": "nois",
+      "address": "noisvaloper1ysszgcfrl8tnq3yu4pd6dkzzs0awljqnnd5pe4",
+      "restake": {
+        "address": "nois1tj0t93t6xjwe5dqptr62ej4pqvy2es0ryk4dnt",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1hf9z8fdfle62xv466w2y5frwsuf5c5qes9rj5g",
+      "restake": {
+        "address": "omniflix1tj0t93t6xjwe5dqptr62ej4pqvy2es0rgqe7gd",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },     
+    {
       "name": "panacea",
       "address": "panaceavaloper1567xwcxjjfdje4q8r4d76ek52xmsspr4t4fc89",
       "restake": {

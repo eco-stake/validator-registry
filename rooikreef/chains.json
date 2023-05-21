@@ -40,11 +40,29 @@
     },
     {
       "name": "lumenx",
-      "address": "lumen1npq5uy6gdntr6tdl7vj7ssn45g9aw8wlj78vje",
+      "address": "lumenvaloper1npq5uy6gdntr6tdl7vj7ssn45g9aw8wlz2wsuq",
       "restake": {
         "address": "lumen10eumq5yvapfdan5nxsfkc3arskff3l9v54kt3j",
         "run_time": "every 30 seconds",
         "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper130t5gf5xg9dy3qq5a42p0435qlc33t0ggvtq8p",
+      "restake": {
+        "address": "8ball10eumq5yvapfdan5nxsfkc3arskff3l9vf4jdew",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1qwpvet2h2a7lw8ycmwhcp03ccql0ljjj2hxp4c",
+      "restake": {
+        "address": "omniflix10eumq5yvapfdan5nxsfkc3arskff3l9vu7red0",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000
       }
     },
     {

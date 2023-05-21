@@ -7,7 +7,7 @@
       "address": "osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6",
       "restake": {
         "address": "osmo1305e92ng6a9pdh3ttc3ld459ckxupxt3lhfnv4",
-        "run_time": "18:00",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
@@ -178,7 +178,7 @@
       "address": "torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct",
       "restake": {
         "address": "tori1305e92ng6a9pdh3ttc3ld459ckxupxt34cd2ph",
-        "run_time": "every 1 hour",
+        "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
     },
@@ -187,7 +187,7 @@
       "address": "chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8",
       "restake": {
         "address": "chihuahua1305e92ng6a9pdh3ttc3ld459ckxupxt35ehdm9",
-        "run_time": "every 1 hour",
+        "run_time": "every 6 hours",
         "minimum_reward": 10000
       }
     },
@@ -196,17 +196,27 @@
       "address": "quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58",
       "restake": {
         "address": "quick1305e92ng6a9pdh3ttc3ld459ckxupxt3ug23r4",
-        "run_time": "every 10 minutes",
+        "run_time": "every 6 hours",
         "minimum_reward": 10000
       }
     },
     {
-      "name": "axelar",
-      "address": "axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk"
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme",
+      "restake": {
+        "address": "omniflix1305e92ng6a9pdh3ttc3ld459ckxupxt32jt6de",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
     },
     {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme"
+      "name": "migaloo",
+      "address": "migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj",
+      "restake": {
+        "address": "migaloo1305e92ng6a9pdh3ttc3ld459ckxupxt36cne0f",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
     },
     {
       "name": "bandchain",

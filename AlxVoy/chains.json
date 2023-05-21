@@ -182,7 +182,16 @@
         "minimum_reward": 1000000
       }
     },
-		{
+    {
+      "name": "nois",
+      "address": "noisvaloper1cd3d6zh2yp0me78r4kwhfyvg6psm5y569m6tpx",
+      "restake": {
+        "address": "nois1a96tk40kwfpppxg8neer35qxnsjxqgvj20qd9y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "point",
       "address": "pointvaloper17veuvlh8zd84yfhmrstpfwgnd2kkv5jp508xn3",
       "restake": {
@@ -191,7 +200,25 @@
         "minimum_reward": 100000000000000000
       }
     },
-		{
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1jdc79gn5h6q44aqss72a70eyvlrzcxrlpuqxfr",
+      "restake": {
+        "address": "quick1a96tk40kwfpppxg8neer35qxnsjxqgvjsrd4sw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1xnevqtg5uj4sd399wrmhlwz6s2hyh2euhvq3dq",
+      "restake": {
+        "address": "realio1z2c4d7yva7v0rcl4ewgkjqhg90ggsmmef99awd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "rizon",
       "address": "rizonvaloper1smwdgjhvtznrr60ckxtc3pwzy0hpfrdl8klv5x",
       "restake": {
@@ -227,7 +254,16 @@
         "minimum_reward": 100000
       }
     },
-		{
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1tztp0sp047zxxj2j3pzhtr67w2nmn2a8q0dxse",
+      "restake": {
+        "address": "uptickvaloper1tztp0sp047zxxj2j3pzhtr67w2nmn2a8q0dxse",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "vidulum",
       "address": "vdlvaloper1cgq0vdp6vs5ggntjf93wy88e236ky634d2me7a",
       "restake": {

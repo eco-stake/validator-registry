@@ -49,7 +49,7 @@
     },
     {
       "name": "comdex",
-      "address": "comdexvaloper15kt5vf67ywfrzspywqs5n9q9kzty0rhj7x6e29",
+      "address": "comdexvaloper1wg8m5kkhrrszyvgqq2d5t9c4fd0cqqhy04tlud",
       "restake": {
         "address": "comdex1shheetj5xssp8pm5srfeaedd5ng5zm0kcldx44",
         "run_time": "every 6 hours",
@@ -90,7 +90,16 @@
         "address": "ki1ludqm40uum3nurl80lqy9fc7dwdccj462fvajx",
         "run_time": "21:00",
         "minimum_reward": 10000000
+        }
+      },
+      {
+      "name": "kava",
+      "address": "kavavaloper1akfnl69lug7w9anxpphag2yyjw5s7ceaa39av7",
+      "restake": {
+        "address": "kava1ludqm40uum3nurl80lqy9fc7dwdccj4683f0q4",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+        }
       }
-    } 
   ]
 }

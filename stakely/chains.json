@@ -199,6 +199,15 @@
         "run_time": "22:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1cavnsvlvcs9j9xwdt7w5xm2glllmghksq7x5l0",
+      "restake": {
+        "address": "quasar1hl0jgxre5z0nkyjj07c5vfdy44yk44athuc3zc",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

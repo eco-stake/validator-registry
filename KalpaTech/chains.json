@@ -121,6 +121,18 @@
                 ],
                 "minimum_reward": 100000
             }
+        },
+        {
+            "name": "omniflixhub",
+            "address": "omniflixvaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670tetaar",
+            "restake": {
+                "address": "omniflix1yhv74ymxxaurxug490hnadh9467y3q27khlqlf",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
         }
     ]
 }
