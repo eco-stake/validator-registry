@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "canto",
+      "address": "cantovaloper1dwezh5d2d79te83u63cr9h8gce02c84t9hmvua",
+      "restake": {
+        "address": "canto1nkvdrc05qjgj4dumk83puu79uarjrp920ff5qs",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4p9klqz",
       "restake": {
@@ -120,6 +129,15 @@
       }
     },
     {
+      "name": "lumnetwork",
+      "address": "lumvaloper1cvgcj5e944aezjye0rxvw7urae9k6v0lf7zsn9",
+      "restake": {
+        "address": "lum1mwysqcvvhjcntajus2vuezgc5su7kha408wwn7",
+        "run_time": "every 4 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "mars",
       "address": "marsvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4uvtrk2",
       "restake": {
@@ -153,6 +171,15 @@
         "address": "stride1mwysqcvvhjcntajus2vuezgc5su7kha4exnmjx",
         "run_time": "every 4 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper1dwezh5d2d79te83u63cr9h8gce02c84t69x7a7",
+      "restake": {
+        "address": "xpla1nkvdrc05qjgj4dumk83puu79uarjrp92rcsclt",
+        "run_time": "00:00",
+        "minimum_reward": 10000000000000000000
       }
     }
   ]
