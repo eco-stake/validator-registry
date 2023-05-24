@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "juno",
+      "address": "junovaloper1mzxz7c8ek62zpk5vwp5fg7u7dx39uxj8ts0gdv",
+      "restake": {
+        "address": "juno1r64t7u292f5d0ck4pt6ate6880ufwffme5uz4h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper15rdlss4cny2l6eaq2nq4e3h00urhkd5yyh8jvg",
       "restake": {
