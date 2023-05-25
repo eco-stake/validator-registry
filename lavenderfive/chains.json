@@ -171,6 +171,17 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z6msrfe",
+      "restake": {
+        "address": "gitopia12xpq68caw2aqdu70jm4k792g0v9prhrp7mpn0m",
+        "run_time": [
+          "every 15 minutes"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zezczfa",
       "restake": {
@@ -324,6 +335,18 @@
       }
     },
     {
+      "name": "nolus",
+      "address": "nolusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zrek78e",
+      "restake": {
+        "address": "nolus12xpq68caw2aqdu70jm4k792g0v9prhrpknkmza",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "odin",
       "address": "odinvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z9yperl",
       "restake": {
@@ -450,6 +473,18 @@
           "24:00"
         ],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1ksyy7fwlevkphanrddpqkk0d4qre2dmfpjpqs3",
+      "restake": {
+        "address": "tenet10edr8awd0pulykvqxlwnz9n72rtngwjda47y6a",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
     },
     {
