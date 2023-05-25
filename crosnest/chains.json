@@ -336,6 +336,18 @@
       }
     },
     {
+      "name": "secret",
+      "address": "secretvaloper1wg085tj9xtv84q9l2zgdml46n6ju3mryun4fsu",
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper1fsg635n5vgc7jazz9sx5725wnc3xqgr7xczndc",
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1ldp9kthjxl6hun23ghlwg5szf297sz5a0pf3xe",
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
