@@ -57,6 +57,15 @@
         }
     },
     {
+         "name":"bitcanna",
+         "address":"bcnavaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p87xufvz",
+         "restake":{
+            "address":"bcna14ty5h7dhnses6smx5zwck5kh4j27rrgw9nyq65",
+            "run_time":"every 1 hour",
+            "minimum_reward":1000000
+        }
+    },
+    {
       "name": "echelon",
       "address": "echelonvaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xp4thgm",
       "restake": {
