@@ -125,7 +125,16 @@
       "restake": {
         "address": "nois1murx57yjv5r5gvspcxxd8d3w0mmy52xtxuwjy8",
         "run_time": ["every 5 minutes"],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper126szq5tqtwrmd4guk4wxejxry4c55507d0vh3g",
+      "restake": {
+        "address": "nolus1murx57yjv5r5gvspcxxd8d3w0mmy52xtpyr826",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
       }
     }
   ]
