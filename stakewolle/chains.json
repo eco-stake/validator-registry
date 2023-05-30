@@ -67,9 +67,9 @@
     },
     {
       "name": "cheqd",
-      "address": "cheqdvaloper1ny8gd9tsyqhm56agp4vkpa6fldr2n4guthcvfj",
+      "address": "",
       "restake": {
-        "address": "cheqd1m7xlymnpxl2d4llu67v08e8xs67dj2fzfhltad",
+        "address": "cheqdvaloper17jmj8pkp6s497n0kj50yhm0pt36hsyc2xe82na",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000000
       }
