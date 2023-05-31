@@ -67,7 +67,7 @@
     },
     {
       "name": "cheqd",
-      "address": "cheqdvaloper1ny8gd9tsyqhm56agp4vkpa6fldr2n4guthcvfj",
+      "address": "cheqdvaloper17jmj8pkp6s497n0kj50yhm0pt36hsyc2xe82na",
       "restake": {
         "address": "cheqd1m7xlymnpxl2d4llu67v08e8xs67dj2fzfhltad",
         "run_time": "every 5 minutes",
@@ -286,6 +286,15 @@
       "address": "migaloovaloper1zq6tlkn08rlg82g7au4n3pqczzw9ulxstxzk75",
       "restake": {
         "address": "migaloo1m7xlymnpxl2d4llu67v08e8xs67dj2fz2p63rj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1f7q0amzd3ug5f9tcw4a435gkmc687zr2k7luj6",
+      "restake": {
+        "address": "nolus1m7xlymnpxl2d4llu67v08e8xs67dj2fz39r55e",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
