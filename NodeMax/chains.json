@@ -43,7 +43,7 @@
       "address": "rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug",
       "restake": {
         "address": "rebus12r4lcwej7p0f62p0e9gtpvgqdwhet34qgm882k",
-        "run_time": "00:00,
+        "run_time": "00:00",
         "minimum_reward": 1000000000000000000
       }
     }
