@@ -64,6 +64,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1xr5980r6e7cy3u3pfm5xq2ruh5d3xy6ah6w98y",
+      "restake": {
+        "address": "gitopia19a9vcvzc8ld33psnq8dm0h4lh5v8seuw32wvh0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
