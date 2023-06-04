@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Medium Power",
+  "name": "Basement Nodes ⚡",
   "chains": [
 	{
       "name": "juno",
@@ -11,17 +11,6 @@
           "09:00"
         ],
         "minimum_reward": 50000
-      }
-    },
-	  {
-      "name": "acrechain",
-      "address": "acrevaloper1qsj8tdm7lk7gjds560xw7c0e996f4nrjpcng3l",
-      "restake": {
-        "address": "acre1ku34l688j5qxqrvcz0hc2s4yrmyz8e4kd3qv9y",
-        "run_time": [
-          "09:00"
-        ],
-        "minimum_reward": 500000
       }
     },
 	{
