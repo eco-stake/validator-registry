@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Medium Power",
+  "name": "Basement Nodes⚡",
   "chains": [
 	{
       "name": "juno",
