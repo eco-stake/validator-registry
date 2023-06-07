@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "comdex",
-      "address": "comdexvaloper14hvm03g4dfysk8r2u0dnhrn60vdpc5ltspgegp",
-      "restake": {
-        "address": "comdex1t25n9292faqg4am3nja4zkejyfp5fxg073c5tt",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1njdzhprrhncjyr9agd2ns6qu2a3cxrw7eptfuj",
       "restake": {
@@ -28,6 +19,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper13hwrxg5my3rcwe6ks3x5sn3eaxtad8kkgec2x8",
+      "restake": {
+        "address": "gitopia1t25n9292faqg4am3nja4zkejyfp5fxg08xapal",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
   ]
 }
