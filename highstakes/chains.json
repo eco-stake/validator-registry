@@ -199,7 +199,25 @@
         "run_time": "every 4 hours",
         "minimum_reward": 400000
       }
-    },  
+    }, 
+    {
+      "name": "umee",
+      "address": "umeevaloper1rtdcc3ukvf80xzqk00nsj5v06edf39q0yxe2ve",
+      "restake": {
+        "address": "umee1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnfa6jlc",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper168nzml66rvh8ay93j63jptn6l9yqnk7k8r5fgd",
+      "restake": {
+        "address": "panacea1re3zyq66pv3ayktl6f86h2afh2zz8g43jr00yc",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000
+      }
+    },     
       {
          "name":"provenance",
          "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",
