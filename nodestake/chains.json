@@ -124,7 +124,7 @@
       "address": "omniflixvaloper1x70l4dcj30nr4x52ph3jmkpgz79qgktxe0w4tl",
       "restake": {
         "address": "omniflix1etsdevgm5ps240lrw9mg3p2j32tj96ktnp5c9n",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
