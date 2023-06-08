@@ -19,15 +19,6 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    },	
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper1tnmjjj5ugcunyy75q3c3pn62qpwnf50pnf2xm0",
-      "restake": {
-        "address": "cerberus1330aewfwzu30vznhxw7aevaz0kn35fdyzc7y3z",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000000
-      }
     },
     {
       "name": "chihuahua",
