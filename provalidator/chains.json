@@ -1,6 +1,3 @@
-// 20230609204640
-// https://raw.githubusercontent.com/Zenon-provalidator/validator-registry/master/provalidator/chains.json
-
 {
   "$schema": "../chains.schema.json",
   "name": "Provalidator",
