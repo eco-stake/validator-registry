@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cosmonaut Stakes",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1rzauu3undh97yvdnj7wu2wwstm9wj8hee30rk0",
+      "restake": {
+        "address": "akash1mvwwy6rvqprfzsmwk9qfqesaexs9jzy85n40rg",
+        "run_time": ["21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1rzauu3undh97yvdnj7wu2wwstm9wj8heeq2vcz",
+      "restake": {
+        "address": "persistence1mvwwy6rvqprfzsmwk9qfqesaexs9jzy8hy7m5k",
+        "run_time": ["21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1y6rsppgz9wwp83y906grhfq7gynshxknn4tmq9",
+      "restake": {
+        "address": "certik1mvwwy6rvqprfzsmwk9qfqesaexs9jzy87qylme",
+        "run_time": ["21:00"],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
