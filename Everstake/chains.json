@@ -26,19 +26,6 @@
 	],
         "minimum_reward": 100000000000000000
       }
-    }, 
-	  
-    {
-      "name": "assetmantle",
-      "address": "mantlevaloper1jdu6zx8wpkwcwnj9dg3nslq7m66nfyh9uskw5s",
-      "restake": {
-        "address": "mantle1g3laz9zpgy8x4k3gdkydf4umnepaug4wfrudsg",
-        "run_time": [
-          "09:00",
-          "21:00"
-	],
-        "minimum_reward": 10000
-      }
     },
 	  
     {
