@@ -13,11 +13,20 @@
     },
     {
       "name": "agoric",
-      "address": "agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2",
+      "address": "gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym",
       "restake": {
-        "address": "agoric1z7gmtu0ej0675ykplqj3hs3sly0shy4h73srr5",
+        "address": "gitopia1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnaz4sks",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1d5ac6xpa20hq3vuxkeef732p4rcrc30rg0sce9",
+      "restake": {
+        "address": "gitopia194ytn50yhh67rdha8akhs7c6zulnz4n2h0w5rq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
       }
     },
     {
