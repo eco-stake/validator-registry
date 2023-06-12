@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Cosmonaut Stakes",
+  "services": [
+    {
+      "title": "Cosmonaut Stakes",
+      "description": "If decentralization, security, and community involvement are important to YOU, then delegate with Cosmonaut Stakes - an independent validator run by a Cosmos bull.",
+      "url": "https://twitter.com/CosmonautStakes"
+    }
+  ]
+}
