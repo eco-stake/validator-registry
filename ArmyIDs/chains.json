@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "comdex",
+      "address": "comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k",
+      "restake": {
+        "address": "comdex1jy7r24psygg39pcrrs6aq4c75gexyctnhmk7xu",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs",
       "restake": {
