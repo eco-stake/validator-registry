@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BwareLabs",
+  "chains": [
+    {
+    "name": "uptick",
+    "address": "uptickvaloper1vt5zgzp4e0pq59rapf0tf5xk5pvesvxwyndfex",
+    "restake": {
+      "address": "uptick155tmm6vh886lemp3ptxktl6ut2hrkldfvsfcm5",
+      "run_time": ["09:00", "21:00"],
+      "minimum_reward": 1000000000000000000
+	   }
+	},
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1tvm8g9wmqvg369mufan8vaen0ua7s98x8wntdd",
+      "restake": {
+        "address": "nolus12fxqz0vnh6vtpucsfzwfauamj6vpey2twna0xv",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+]
+}
