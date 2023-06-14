@@ -21,24 +21,6 @@
           }
     },
     {
-      "name": "arkh",
-      "address": "arkhvaloper1q4a2jjcm9zltpyfdawgwpe6atcw72ake8x390n",
-      "restake": {
-        "address": "arkh19tzqk0kp67mx4wcedvmefhvk9r2xcxuddr3gw5",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-          }
-    },
-    {
-      "name": "aura",
-      "address": "auravaloper12hz4namlerwv4plm4q98rj5j95g4htap9hrdas",
-      "restake": {
-        "address": "aura19tzqk0kp67mx4wcedvmefhvk9r2xcxud6m6kz3",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1t94xah65ydrped7m94pxyjmt2lakpnee7gumq7",
       "restake": {
@@ -46,15 +28,6 @@
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
       }
-    },
-    {
-      "name": "bitsong",
-      "address": "bitsongvaloper1gfrxhsdleg4v3vqqd0h8pv6ln96jrsyyx6swxy",
-      "restake": {
-        "address": "bitsong1pwuwhyslyqml8vxhgxl5kyd58mpfxm5pjzrcdn",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
     },
     {
       "name": "bluzelle",
@@ -84,28 +57,10 @@
         }
     },
     {
-      "name": "dyson",
-      "address": "dysvaloper14xwlmv7n8rf0qdjut6tqhrv8gu3dr03cfcg5sx",
-      "restake": {
-        "address": "dys19tzqk0kp67mx4wcedvmefhvk9r2xcxud7v9l7t",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000
-        }
-    },
-    {
       "name": "impacthub",
       "address": "ixovaloper1vcqv7am3uyxw8m0jw5n46dzuqj3e0h3emxq32z",
       "restake": {
         "address": "ixo19tzqk0kp67mx4wcedvmefhvk9r2xcxud7cnxym",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper1m5srh9e8jcawst0flj08xuu403sd2wstqyskeh",
-      "restake": {
-        "address": "ki19tzqk0kp67mx4wcedvmefhvk9r2xcxudsqumyu",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
         }
@@ -172,6 +127,24 @@
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000000000
         }
+    },
+    {
+      "name": "ununifi",
+      "address": "ununifivaloper1eeueyzew2hvt9vn8226sjjh6ukuwhqszjpklgk",
+      "restake": {
+        "address": "ununifi19tzqk0kp67mx4wcedvmefhvk9r2xcxudh07x6x",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1l4qyk52chyeerlhg7ly2lkud49ca9qds3xngh6",
+      "restake": {
+        "address": "tenet1ggzpjmk46lv4ulng7p04k98mg038xk96lv7fet",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
