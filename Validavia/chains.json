@@ -12,13 +12,13 @@
         }
       },
       {
-           "name": "jackal",
-           "address": "jklvaloper16x8acruey6sm0mvjz0tunz6w96eakws607j70w",
-           "restake": {
-               "address":"jkl1nszxyfxr5fpajlcfle0tvhptxknf5z9td8xhfw",
-               "run_time": "20:30",
-               "minimum_reward": 100000
-           }
+      	"name": "juno",
+      	"address": "junovaloper1cj500uet7ssegwsmh24kt0hjw89ugez0q4wylf",
+      	"restake": {
+      	  "address": "juno1nszxyfxr5fpajlcfle0tvhptxknf5z9tzttahd",
+      	  "run_time": "20:30",
+      	  "minimun_reward": 100000
+      	}
       },
       {
            "name": "cheqd",
