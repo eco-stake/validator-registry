@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "** pixiF validator **",
+  "chains": [
+    {
+      "name": "panacea",
+      "address": "panaceavaloper12xzqggqy3y5avjkc30q2m7eay8vrzl795dp29d",
+      "restake": {
+        "address": "panacea1fphlewq82mkag3ltm7l7m0p2jtrelt38f58a5s",
+        "run_time": [
+          "15:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

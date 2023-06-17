@@ -335,6 +335,18 @@
       }
     },
     {
+      "name": "nolus",
+      "address": "nolusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zrek78e",
+      "restake": {
+        "address": "nolus12xpq68caw2aqdu70jm4k792g0v9prhrpknkmza",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "odin",
       "address": "odinvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z9yperl",
       "restake": {
@@ -408,6 +420,18 @@
       "address": "quickvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zesdm36",
       "restake": {
         "address": "quick12xpq68caw2aqdu70jm4k792g0v9prhrpt8kke2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "qwoyn",
+      "address": "qwoynvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z5cmjqu",
+      "restake": {
+        "address": "qwoyn12xpq68caw2aqdu70jm4k792g0v9prhrpar868e",
         "run_time": [
           "12:00",
           "24:00"

@@ -4,9 +4,9 @@
   "chains": [
     {
       "name": "planq",
-      "address": "plqvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzvqzm9w",
+      "address": "plqvaloper1pn6ee9kzxczk03pv96mep8r8t79ptxvf7f67sd",
       "restake": {
-        "address": "plq1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzj70prl",
+        "address": "plq1pn6ee9kzxczk03pv96mep8r8t79ptxvfqhhyku",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000
           }

@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Evmos Guardians",
+  "name": "Perseverance Staking",
   "chains": [
     {
       "name": "evmos",
