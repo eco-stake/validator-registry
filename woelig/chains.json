@@ -93,6 +93,15 @@
       }
     },
     {
+      "name": "tenet",
+      "address": "tenetvaloper1t4t080udhwducg7yv98stvmn9mnlh8hsyqa947",
+      "restake": {
+        "address": "tenet1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8m40f5q",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
       "name": "omniflixhub",
       "address": "omniflixvaloper1007jaws5fwa72l0w5xaazvr6ng3d70peteqd0l",
       "restake": {
