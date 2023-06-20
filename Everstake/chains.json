@@ -16,19 +16,6 @@
     },
 	  
     {
-      "name": "acrechain",
-      "address": "acrevaloper1rvrecs7f3pdlplq75nhqtmegruthhsn8xqjr0z",
-      "restake": {
-        "address": "acre186u3vpyt6zxvyk7a4yv7h7cggtnexn93sdun9d",
-        "run_time": [
-          "09:00",
-          "21:00"
-	],
-        "minimum_reward": 100000000000000000
-      }
-    },
-	  
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
       "restake": {
