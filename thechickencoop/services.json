@@ -4,7 +4,7 @@
   "services": [
     {
       "title": "🐔 The Chicken Coop 🦝",
-      "description": "We run validator nodes and IBC relayers for Cosmos chains.",
+      "description": "We run validator nodes and IBC relayers for Cosmos chains using our own bare metal hardware located on our own private property.",
       "url": "https://explorer.sopko.net"
     }
   ]
