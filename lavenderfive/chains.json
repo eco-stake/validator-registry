@@ -405,9 +405,9 @@
     },
     {
       "name": "quasar",
-      "address": "quasar12xpq68caw2aqdu70jm4k792g0v9prhrpwqueda",
+      "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
       "restake": {
-        "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
+        "address": "quasar12xpq68caw2aqdu70jm4k792g0v9prhrpwqueda",
         "run_time": [
           "12:00",
           "24:00"
