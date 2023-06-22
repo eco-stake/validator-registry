@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "validatorName",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "validatorAddress",
+            "restake": {
+                "address": "botaddress",
+                "run_time": "every 32 hours",
+                "minimum_reward": 33
+            }
+        }
+    ]
+}
