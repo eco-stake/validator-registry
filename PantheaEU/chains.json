@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "osmosis",
-      "address": "osmovaloper1p5m9xvddrlpe9rqu85wz5wy4uau7fq55w5frnv",
-      "restake": {
-        "address": "osmo1yqqsskp60ru889m2ac9rtdays6pt9xfyaresyt",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "shentu",
       "address": "certikvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lkr3q8z",
       "restake": {
