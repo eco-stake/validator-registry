@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "stargaze",
+      "address": "starsvaloper14mc5h4qy8udss5c9mk8r7kz2xywk00ptuhfwac",
+      "restake": {
+        "address": "stars1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z4uf292",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "omniflixhub",
       "address": "omniflixvaloper1df8frt02t7a3xtne3dud8udxuylrm6tg47tyeh",
       "restake": {
@@ -28,7 +37,7 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
        }
-	  },
+    },
     {
       "name": "oraichain",
       "address": "oraivaloper19qrzfv932kccqf4r44jv7xku7rndnd6vhr6t6e",
