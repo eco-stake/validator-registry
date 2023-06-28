@@ -111,6 +111,18 @@
       }
     },
     {
+      "name": "composable",
+      "address": "centaurivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj55qlt",
+      "restake": {
+        "address": "centauri12xpq68caw2aqdu70jm4k792g0v9prhrpyftcyt",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j",
       "restake": {
