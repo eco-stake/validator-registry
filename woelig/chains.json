@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "terra",
-      "address": "terravaloper1fgj2fdyw8cvq84jfp632f4ypjrrkrdrskms92s",
-      "restake": {
-        "address": "terra1hq43hnjd5dslplcjldw7m3zxdexeaudl9tk9ga",
-        "run_time": "every 1 minute",
-        "minimum_reward": 1000000000
-      }
-    },
-    {
       "name": "echelon",
       "address": "echelonvaloper1tswl52qtws8lud7n8l09a7w2v5vcamzs26x9j3",
       "restake": {
@@ -36,15 +27,6 @@
         "address": "plq1slaaqufx2c26dxk0hy2ghvmsgd9ee8a804z5jf",
         "run_time": "every 1 minute",
         "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "bluzelle",
-      "address": "bluzellevaloper1nnx79egv278zvh7f5pr3y523q5msfcadhkayss",
-      "restake": {
-        "address": "bluzelle1hk86qqk574q5pjdsr43z3wpa4g3h0zk35k2hay",
-        "run_time": "every 1 minute",
-        "minimum_reward": 1000000
       }
     },
     {
@@ -99,15 +81,6 @@
         "address": "tenet1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8m40f5q",
         "run_time": "every 1 minutes",
         "minimum_reward": 10000000000000000
-      }
-    },
-    {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper1007jaws5fwa72l0w5xaazvr6ng3d70peteqd0l",
-      "restake": {
-        "address": "omniflix1e762e7chsgz3aurtelcz948j8gscfr0qjsnwtl",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
       }
     }
   ]
