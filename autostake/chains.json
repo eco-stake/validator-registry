@@ -85,9 +85,9 @@
     },
     {
       "name": "composable",
-      "address": "banksyvaloper1kl9e4jghxftmamrmset4yhuhwmf2uu63qzvpej",
+      "address": "centaurivaloper1kl9e4jghxftmamrmset4yhuhwmf2uu632hgrht",
       "restake": {
-        "address": "banksy194ytn50yhh67rdha8akhs7c6zulnz4n2rskkkg",
+        "address": "centauri194ytn50yhh67rdha8akhs7c6zulnz4n2daylgs",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
