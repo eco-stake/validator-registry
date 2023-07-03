@@ -17,7 +17,16 @@
       "restake": {
         "address": "chihuahua1hpwxnnrtsc6zjx4glup77tfe5z54lmtqxrxmy9",
         "run_time": "every 1 hour",
-        "minimum_reward": 50000000
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhwun0nm",
+      "restake": {
+        "address": "empower1hpwxnnrtsc6zjx4glup77tfe5z54lmtqe607le",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
       }
     },
     {
