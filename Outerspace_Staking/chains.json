@@ -1,15 +1,15 @@
 {
-  "$schema": "../chains.schema.json",
-  "name": "Outerspace Staking",
-  "chains": [
-    {
-      "name": "archway",
-      "address": "archwayvaloper1dzlykd5g05lqemtshuvxj5w2urf4mz64g59p75",
-      "restake": {
-        "address": "archway1taxvzyh09xz0lmf9hl5zu8q2egzzdmcjrw3nuc",
-        "run_time":"every 1 hour",
-        "minimum_reward": 10000
-            }
-        }
-    ]
+   "$schema":"../chains.schema.json",
+   "name":"Outerspace Staking",
+   "chains":[
+      {
+         "name":"archway",
+         "address":"archwayvaloper1dzlykd5g05lqemtshuvxj5w2urf4mz64g59p75",
+         "restake":{
+            "address":"archway1taxvzyh09xz0lmf9hl5zu8q2egzzdmcjrw3nuc",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+      }
+   ]
 }
