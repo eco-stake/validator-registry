@@ -22,6 +22,15 @@
     },
     {
       "name": "composable",
+      "address": "centaurivaloper19f0w9svr905fhefusyx4z8sf83j6et0g7x84zx",
+      "restake": {
+        "address": "centauri1etsdevgm5ps240lrw9mg3p2j32tj96kt24gak7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "composable",
       "address": "banksyvaloper19f0w9svr905fhefusyx4z8sf83j6et0g5nrhvl",
       "restake": {
         "address": "banksy1etsdevgm5ps240lrw9mg3p2j32tj96ktyc65gx",
