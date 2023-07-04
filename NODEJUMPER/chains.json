@@ -44,7 +44,7 @@
       "restake": {
         "address": "centauri1ksx5yarsdjw8wcgkqn4v5demdszzx9erv7lnj3",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -52,6 +52,15 @@
       "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
       "restake": {
         "address": "desmos1dd4rrjm8cd89hg9eh5j3jauw7yd38pljr6hu5k",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+      "restake": {
+        "address": "empower1ksx5yarsdjw8wcgkqn4v5demdszzx9er5ckyvu",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
