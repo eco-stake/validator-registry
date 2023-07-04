@@ -62,7 +62,7 @@
       "restake": {
         "address": "juno1hl0jgxre5z0nkyjj07c5vfdy44yk44at0dphgp",
         "run_time": "22:30",
-        "minimum_reward": 50000
+        "minimum_reward": 100000
       }
     },
     {
