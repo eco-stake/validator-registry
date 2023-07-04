@@ -208,6 +208,15 @@
         "run_time": "22:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper16yupepagywvlk7uhpfchtwa0stu5f8cyvpsme6",
+      "restake": {
+        "address": "neutron1hl0jgxre5z0nkyjj07c5vfdy44yk44ataqtw46",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
