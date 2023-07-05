@@ -3,15 +3,15 @@
   "name": "Pandora",
   "chains": [
     {
-      "name": "bitcannadev",
-      "address": "bcnavaloper1dwyk6ppcaw9zhs4keljnfce62lu5n38zqd7thc",
+      "name": "bitcannadevnet",
+      "address": "bcnavaloper153hxvnx24h07aptul43fsuyeq7kgt2erqad6xy",
       "restake": {
         "address": "bcna1dsyj5nq2ky94wwf5axqghl02h0vy6jnakcr6g7",
         "run_time": [
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 1000000
       }
     }
   ]

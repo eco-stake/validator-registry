@@ -3,6 +3,15 @@
   "name": "w3coins",
   "chains": [
     {
+			"name": "agoric",
+			"address": "agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5",
+			"restake": {
+				"address": "agoric1cxh29u6xdfz87xj9tm0h4r8evcnsu8qrggqnpp",
+        "run_time": ["09:00", "21:00"],
+				"minimum_reward": 100000
+			}
+		},    
+    {
       "name": "akash",
       "address": "akashvaloper14jz04wwvwkpjzezq8zvrl5yv4qq3p5lqct7plh",
       "restake": {
@@ -30,6 +39,15 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper14gtl0dgam6cqvjkuh6kfcnszchwzk0ghumdmhw",
+      "restake": {
+        "address": "fetch19gq7zduyt7ga7wvafej5gnz5tj5phjrkthpezr",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1tly62qxj2t8wz2zw4d7p37jcysvgasqa0zjtlk",
       "restake": {
@@ -45,6 +63,15 @@
         "address": "iaa19gq7zduyt7ga7wvafej5gnz5tj5phjrkdggvz9",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper14uhx3rrqy5wat52ed663jyte70jm93335qfak0",
+      "restake": {
+        "address": "nolus19gq7zduyt7ga7wvafej5gnz5tj5phjrkw6czz3",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
       }
     },
     {

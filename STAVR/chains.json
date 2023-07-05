@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym",
+      "restake": {
+        "address": "gitopia1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnaz4sks",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+      }
+    },
+        {
+      "name": "composable",
+      "address": "centaurivaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzar2p69",
+      "restake": {
+        "address": "centauri1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn8slmaq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "agoric",
       "address": "agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2",
       "restake": {
@@ -214,6 +232,24 @@
       "address": "arkhvaloper1x5zx3tlcmy323jg6jnzt6qfxy5wgq587sx90fw",
       "restake": {
         "address": "arkh1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn05wmh0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terpnetwork",
+      "address": "terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8",
+      "restake": {
+        "address": "terp1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnysmtnq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4",
+      "restake": {
+        "address": "realio17q3zwm3qfcfjs2pvp472tmqsae8n97pnu2kcn9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

@@ -46,6 +46,51 @@
            "run_time": "every 1 hour",
            "minimum_reward": 1000000
        }
+    },
+     {
+         "name":"sommelier",
+         "address":"sommvaloper1328yrqc6fmffctnd8r8qsac8mpnxf5g9gackpa",
+         "restake":{
+            "address":"somm1gutzy7wd6hqh64tn49u9zy96tqtq84sv9aeen9",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
+        }
+    },
+     {
+         "name":"lumenx",
+         "address":"lumenvaloper1ff3nrvhzefzvllmh8l6l2uswqz9zvj7lsj0h5e",
+         "restake":{
+            "address":"lumen1gutzy7wd6hqh64tn49u9zy96tqtq84svu5j7fv",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
+        }
+    },
+     {
+         "name":"terpnetwork",
+         "address":"terpvaloper15p8v9yldc3f6r60z7046atyvvyh7njd8zh82kq",
+         "restake":{
+            "address":"terp1gutzy7wd6hqh64tn49u9zy96tqtq84svwtlegu",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
+        }
+    },
+    {
+         "name":"stride",
+         "address":"stridevaloper1px4a0kuncw9jcrah4ahqjnv4pq50nx2w0g4sx8",
+         "restake":{
+            "address":"stride1gutzy7wd6hqh64tn49u9zy96tqtq84sv22kfkr",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000
+        }
+    },
+    {
+         "name":"point",
+         "address":"pointvaloper1z8375t03vdyag7lkm2gkeg0k7eumpetvch2vef",
+         "restake":{
+            "address":"point169n5eccqtel60fun3s3rqj23rcwfq6a6xtwhpk",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000000000000000
+        }
     }
   ]
 }

@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1jdq7efmzmc8smscwmaw77vul7wptww74dmtssd",
+      "restake": {
+        "address": "gitopia1tqajwhew3f2p3t9rffxvk9eelh283ynn5eg695",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "mars",
       "address": "marsvaloper1r43jnxypczzptr5g9n248y5l9c7ppwkdlq9cva",
       "restake": {

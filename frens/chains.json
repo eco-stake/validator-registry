@@ -53,7 +53,7 @@
       "restake": {
         "address": "evmos1xul3g9w27tlns7k3d2reqjxqdsgyknkx74prwv",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 500000000000000000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "juno1gvgcxwdk4j46gx3knhuackvqr2hta29zudcf56",
         "run_time": "every 30 minutes",
-        "minimum_reward": 50000
+        "minimum_reward": 3000000
       }
     },
     {
@@ -80,7 +80,7 @@
       "restake": {
         "address": "osmo1gvgcxwdk4j46gx3knhuackvqr2hta29zzygz95",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 3000000
       }
     },
     {
@@ -163,6 +163,42 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 1
       }
-    }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1m4pj2y9qrm77m9gsa8uu7xj6xjyy7du5hg2t2d",
+      "restake": {
+        "address": "inj1xul3g9w27tlns7k3d2reqjxqdsgyknkxka8fxu",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wxvcxpc",
+      "restake": {
+        "address": "kyve1gvgcxwdk4j46gx3knhuackvqr2hta29za3kycz",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1qsmrzvrhzr9n2puguy42v8lgtm7rxvvuzlh2s6",
+      "restake": {
+        "address": "quick1gvgcxwdk4j46gx3knhuackvqr2hta29zpmtq25",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1qsmrzvrhzr9n2puguy42v8lgtm7rxvvu78vekl",
+      "restake": {
+        "address": "mars1gvgcxwdk4j46gx3knhuackvqr2hta29zhzztxa",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    }  
   ]
 }

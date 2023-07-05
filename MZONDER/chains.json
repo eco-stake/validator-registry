@@ -55,6 +55,24 @@
         "run_time": "18:30",
         "minimum_reward": 1000000
       }  
-    } 
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1tghky2sezwgppvthztg66r8au8x02qjacn4nmc",
+      "restake": {
+        "address": "omniflix1wf60jx7lrgt6xjp3lk8vq4fcjh24s507l0p04f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1wwsc82zk5tueuflx5yq9jylg5zz4v7m07zmgvg",
+      "restake": {
+        "address": "gitopia1wf60jx7lrgt6xjp3lk8vq4fcjh24s507ufhpd5",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    }
   ]
 }

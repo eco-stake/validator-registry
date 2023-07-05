@@ -3,6 +3,15 @@
   "name": "Golden Ratio Staking",
   "chains": [
     {
+      "name": "archway",
+      "address": "archwayvaloper1n3fjzmr2kd9jy8rd2k9c9j30w5zrf3w4s3clvd",
+      "restake": {
+        "address": "archway106n92ygqknaw5wcgl2e9v0duxxux6nttr542pu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1glk94taeyhfpje4zaz8dsfxmn4yr3g8kkzv4x5",
       "restake": {
@@ -133,6 +142,15 @@
       "address": "rebusvaloper1t0tx95v684rv2vqr4czp5gkt4vgj68zqzz385t",
       "restake": {
         "address": "rebus106n92ygqknaw5wcgl2e9v0duxxux6ntt842mla",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1fpwexrflqq066c80qfgs875qq39ws3t689gj28",
+      "restake": {
+        "address": "somm106n92ygqknaw5wcgl2e9v0duxxux6ntt6rxz6p",
         "run_time": "every 1 hour",
         "minimum_reward": 1618000
       }

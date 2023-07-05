@@ -1,0 +1,52 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "😉NodeMax😉",
+  "chains": [
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1glr9qj3htg0n27z3au9kzq5xpgsym92sqk02xw",
+      "restake": {
+        "address": "rizon12r4lcwej7p0f62p0e9gtpvgqdwhet34q6vcrjc",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1x77p6m3w6xddqy253jtup32n97fr8mdwrlgzez",
+      "restake": {
+        "address": "cre12r4lcwej7p0f62p0e9gtpvgqdwhet34qaehhtd",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1v4m3g2njdlnap5hthz0fslwyvkujjx8djkdy57",
+      "restake": {
+        "address": "bcna12r4lcwej7p0f62p0e9gtpvgqdwhet34qrp5nkj",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1lqjzccauwa0wn93nu04q337h6q44yxpmfc6kl7",
+      "restake": {
+        "address": "desmos1c5c4qfvwy2x7jwza9a0zzkjlw20sqvy2p8hexm",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+       {
+      "name": "rebus",
+      "address": "rebusvaloper10qqt5qhf447ukj2lve7cfcmxqst04hnqyfn8ug",
+      "restake": {
+        "address": "rebus12r4lcwej7p0f62p0e9gtpvgqdwhet34qgm882k",
+        "run_time": "00:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+   
+  ]
+}

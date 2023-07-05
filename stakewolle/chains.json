@@ -57,8 +57,17 @@
       }
     },
     {
+      "name": "canto",
+      "address": "cantovaloper1xn5h73dw565qu9puft6vj5r64h5gfdevd9e9xd",
+      "restake": {
+        "address": "canto1wcjn4f2evmjesgzx2m7u3h2cay9mehfg2t6avn",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "cheqd",
-      "address": "cheqdvaloper1ny8gd9tsyqhm56agp4vkpa6fldr2n4guthcvfj",
+      "address": "cheqdvaloper17jmj8pkp6s497n0kj50yhm0pt36hsyc2xe82na",
       "restake": {
         "address": "cheqd1m7xlymnpxl2d4llu67v08e8xs67dj2fzfhltad",
         "run_time": "every 5 minutes",
@@ -93,11 +102,20 @@
       }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1fq63eks78npnsgtja8m8nvvv5qmahqxawgpafz",
+      "restake": {
+        "address": "core1wcjn4f2evmjesgzx2m7u3h2cay9mehfgtnrklq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "crescent",
       "address": "crevaloper1sx88pppqz998p6sq84hjvrx5qrgq7ezqdtmfxt",
       "restake": {
         "address": "cre1m7xlymnpxl2d4llu67v08e8xs67dj2fzraqwr3",
-        "run_time": "every 2 hour",
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
     },
@@ -188,7 +206,7 @@
       "restake": {
         "address": "juno1m7xlymnpxl2d4llu67v08e8xs67dj2fz38ss3q",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -268,6 +286,15 @@
       "address": "migaloovaloper1zq6tlkn08rlg82g7au4n3pqczzw9ulxstxzk75",
       "restake": {
         "address": "migaloo1m7xlymnpxl2d4llu67v08e8xs67dj2fz2p63rj",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1f7q0amzd3ug5f9tcw4a435gkmc687zr2k7luj6",
+      "restake": {
+        "address": "nolus1m7xlymnpxl2d4llu67v08e8xs67dj2fz39r55e",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
@@ -359,7 +386,7 @@
       "restake": {
         "address": "stars1m7xlymnpxl2d4llu67v08e8xs67dj2fznfykad",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 2000000
       }
     },
     {

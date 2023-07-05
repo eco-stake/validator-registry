@@ -3,6 +3,30 @@
   "name": "Coinbase Cloud",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper152haa2ekhkefu0xauj92hn54etaqsl4g2908mz",
+      "restake": {
+        "address": "cosmos1kuwvqh77f68fkpqjk86pk2hc96hdz9tgg6mgzq",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1q4mlwtw3ncve72na65xacck557wcknc8j0lmke",
+      "restake": {
+        "address": "osmo1swr033hmmknrreg9wt0tausnxyedramteyyr6g",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1h62qm8qcctvcdd8t3jwm9jcc9cwleqjgnsn7ry",
       "restake": {

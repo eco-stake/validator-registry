@@ -40,7 +40,7 @@
     },
     {
       "name": "lumnetwork",
-      "address": "lumvaloper1rerg93s6fvzslje9aulv4uuh575um5wak34wq6",
+      "address": "lumvaloper1sfda636cw2jj4yeqn8wrdhfwd95a34x93hd3er",
       "restake": {
         "address": "lum1xpw7qmxsc9v9vfw3v0uxy83y3ynald6mntzgy6",
         "run_time": ["03:00","15:00"],
@@ -118,6 +118,33 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 10000000
       }
-    }    
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1wpqrc0jcjwxry4r70lh354qdkuc60d4m78z7qw",
+      "restake": {
+        "address": "omniflix1zz3wp5t24ej534nz5g7lxdazekx0aaekjsr6nz",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1d8gxfnh9chw4pxty3eelet94a8e7qak5jsq6p7",
+      "restake": {
+        "address": "mantle1zz3wp5t24ej534nz5g7lxdazekx0aaek32fxmk",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper1wc4v5kufn0yv2qrlfk78s7g5f22jpwx9m86wnv",
+      "restake": {
+        "address": "8ball1zz3wp5t24ej534nz5g7lxdazekx0aaek8mjw8r",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    }
   ]
 }

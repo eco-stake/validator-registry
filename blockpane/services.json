@@ -27,20 +27,8 @@
       "url": "https://osmosis-stats.blockpane.com/"
     },
     {
-      "title": "Secret network monitor",
-      "url": "https://secret-stats.blockpane.com/"
-    },
-    {
-      "title": "Sifchain network monitor",
-      "url": "https://sif-stats.blockpane.com/"
-    },
-    {
-      "title": "Terra2 network monitor",
-      "url": "https://terra-stats.blockpane.com/"
-    },
-    {
-      "title": "Stargaze network monitor",
-      "url": "https://stars-stats.blockpane.com/"
+      "title": "Injective network monitor",
+      "url": "https://inj-stats.blockpane.com/"
     },
     {
       "title": "",

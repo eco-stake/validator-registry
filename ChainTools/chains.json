@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1l0x5q3s8wqutxxl8ect9jd6mpfc4xz0y072s2j",
+      "restake": {
+        "address": "gitopia1tj0t93t6xjwe5dqptr62ej4pqvy2es0rtx0sss",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },     
+    {
       "name": "jackal",
       "address": "jklvaloper1e6cr9u82wyy0ed7hf0m3s64mc8lyydf6crrzkz",
       "restake": {

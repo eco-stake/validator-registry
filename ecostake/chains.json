@@ -11,7 +11,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -32,7 +32,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -44,7 +44,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -56,7 +56,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -68,7 +68,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -80,7 +80,16 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1msjwmclw77h5j0t69n7j2p9ur5ra46uxqaedxz",
+      "restake": {
+        "address": "empower1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczd6r0fg",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -90,18 +99,6 @@
         "address": "evmos18fzq4nac28gfma6gqfvkpwrgpm5ctar2z9mxf3",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "harpoon",
-      "address": "kujiravaloper1vue5lawr3s0au9zj0aqeft5aknx6cjq6w5ghca",
-      "restake": {
-        "address": "kujira1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq79u7u",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 10000
       }
     },
     {
@@ -122,7 +119,7 @@
       "restake": {
         "address": "jkl1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczggf42f",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -134,7 +131,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -146,7 +143,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -155,7 +152,7 @@
       "restake": {
         "address": "kyve1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxc2jcj",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -164,7 +161,7 @@
       "restake": {
         "address": "mars1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczvt7axd",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -176,11 +173,17 @@
       "address": "noisvaloper198un95fs7wxqkv53zhc8hjcyga8qgswtv82x9w",
       "restake": {
         "address": "nois1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczq76wlw",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 10000
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper19d782trtcj4yq9lm7nxy3xs3xjg8vjktn3sjsd",
+      "restake": {
+        "address": "omniflix1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczvgkayg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -192,7 +195,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -204,7 +207,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -216,7 +219,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -228,7 +231,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -237,7 +240,7 @@
       "restake": {
         "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     }
   ]

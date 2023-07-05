@@ -190,6 +190,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kvgnmm",
+      "restake": {
+        "address": "mars1jrjdqzxchlt09gj6qvn4ds8suxh9aqwy27r6m0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42jcedm",
+      "restake": {
+        "address": "archway1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyzgx8yr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
