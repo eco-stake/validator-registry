@@ -335,6 +335,10 @@
       }
     },
     {
+      "name": "neutron",
+      "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
+    },
+    {
       "name": "nomic",
       "address": "nomicvaloper13dmmz4936yyh42xuc4rlacyjxelpsldpp8u6e5",
       "restake": {
