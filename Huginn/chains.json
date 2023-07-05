@@ -55,6 +55,33 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
        }
-      }
+      },
+      {
+      "name": "archway",
+      "address": "archwayvaloper18xqqw8nfrc7zm9286fcl0w64semwxlzgr93gjp",
+      "restake": {
+        "address": "archway1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9ttsjrf",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }
+      },
+      {
+      "name": "gitopia",
+      "address": "gitopiavaloper13w3z8f4emzuqtgda5crgyq6j4juayv4fdps57x",
+      "restake": {
+        "address": "gitopia1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9qctpxa",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000 
+       }
+      },
+      {
+      "name": "aura",
+      "address": "auravaloper1l62cza9x0j2vjs57mujg3agrc8j6m254w3g8se",
+      "restake": {
+        "address": "aura1059rn0ksgn4e7rp2yq48vp6s8zqy5tl99km5t8",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }    
+      }    
     ]
   }
