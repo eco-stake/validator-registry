@@ -217,6 +217,15 @@
         "run_time": "22:30",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper17qv63dpkg2zwxj5mypgh9ryldpmvsew4pfnvva",
+      "restake": {
+        "address": "archway1hl0jgxre5z0nkyjj07c5vfdy44yk44atv57g92",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
