@@ -1,0 +1,132 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "StakeCraft",
+    "chains": [
+      {
+        "name": "agoric",
+        "address": "agoricvaloper1avjyymefy3wzepse09q3hrgnla3fjr72av43e9",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "aura",
+        "address": "auravaloper19mr8r5t0p4yruxjj2x5ydey9jyxdqfjc3vgpal",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "bandchain",
+        "address": "bandvaloper1unfg2zhnssl07tql8d85zc6rx7zsfs5qh206av",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "bitsong",
+        "address": "bitsongvaloper1rgtyd3uj3m0rr684hy3590y3vjcm9enhamsm6r",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "desmos",
+        "address": "desmosvaloper1tnyhte3fa4qjsu57qmrkyss776v8rset4mmyks",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "emoney",
+        "address": "emoneyvaloper1q2kc675fw536jq74f6ekwae2pr5pksued2k80s",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "impacthub",
+        "address": "ixovaloper1lggwrmcah6e4yze4le470vjv93ydpc36lha05s",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "juno",
+        "address": "junovaloper1345rra7x6uswe2z708zx3q7wj04e6wsykw2mk6",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "kava",
+        "address": "kavavaloper1k760ypy9tzhp6l2rmg06sq4n74z0d3rejwwaa0",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "kichain",
+        "address": "kivaloper1emn7g3wkzdm59ndplscrzsk7hllms6wtwdq47q",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "lumnetwork",
+        "address": "lumvaloper1qzu5mwrm7hk6sh3g93m60qjn4gavkrlyv66w2h",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "tgrade",
+        "address": "tgrade1n5s3tepr6a7dr0n4lzjq2x5jqn0a0hqngzn2dv",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "stargaze",
+        "address": "starsvaloper1wvh8n82r4alqhxs45m8jtf536sqc5nzzgfzs7x",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      },
+      {
+        "name": "qwoyn",
+        "address": "qwoynvaloper1u4zhfk4xzle5w9ugpnm32ra4tuaqffyttm4tpc",
+        "restake": {
+          "address": "",
+          "run_time": [],
+          "minimum_reward": 0
+        }
+      }
+    ]
+}
