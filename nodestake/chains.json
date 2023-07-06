@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper19f0w9svr905fhefusyx4z8sf83j6et0g4y4huj",
+      "restake": {
+        "address": "archway1etsdevgm5ps240lrw9mg3p2j32tj96ktm5e9c6",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000000000000
+      }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper19f0w9svr905fhefusyx4z8sf83j6et0g7x84zx",
+      "restake": {
+        "address": "centauri1etsdevgm5ps240lrw9mg3p2j32tj96kt24gak7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "composable",
       "address": "banksyvaloper19f0w9svr905fhefusyx4z8sf83j6et0g5nrhvl",
       "restake": {
@@ -34,7 +52,7 @@
       "address": "gitopiavaloper19f0w9svr905fhefusyx4z8sf83j6et0gkfrk55",
       "restake": {
         "address": "gitopia1etsdevgm5ps240lrw9mg3p2j32tj96kts8zkaw",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -268,7 +286,7 @@
       "address": "kyvevaloper19f0w9svr905fhefusyx4z8sf83j6et0g94d872",
       "restake": {
         "address": "kyve1etsdevgm5ps240lrw9mg3p2j32tj96kte3ghef",
-        "run_time": "every 10 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -277,7 +295,7 @@
       "address": "auravaloper19f0w9svr905fhefusyx4z8sf83j6et0gq0xmpt",
       "restake": {
         "address": "aura1etsdevgm5ps240lrw9mg3p2j32tj96kt4fjrs5",
-        "run_time": "every 10 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -286,7 +304,7 @@
       "address": "uptickvaloper1qt6yf3fvz250uddj04rxglfd40v8nruq47xkt5",
       "restake": {
         "address": "uptick15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4sp7m7u",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },

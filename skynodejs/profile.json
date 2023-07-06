@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "skynodejs",
+  "identity": "078F5410FD08B19E ",
+  "website": "https://www.skynodejs.net",
+  "description": {
+    "overview": "Skynodejs - where validation meets statistical modeling for optimal results."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "gokmenkesenn@gmail.com",
+    "telegram": "gokmenkesen",
+    "twitter": "gokmen_kesen",
+    "discord": "skyman3991#9130",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

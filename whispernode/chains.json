@@ -3,6 +3,18 @@
   "name": " WhisperNode🤐",
   "chains": [
     {
+      "name": "archway",
+      "address": "archwayvaloper1xjyw0swav97upg2f5trvuxrmzympm0gu092alx",
+      "restake": {
+        "address": "archway1e44rluarkdw56dy2turnwjtvtg4wqvs08qfqaj",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper170ef5gajk5q8t90cv6qcmfv4ljwzuqtsklsgn6",
       "restake": {
@@ -57,6 +69,15 @@
       }
     },
     {
+      "name": "composable",
+      "address": "centaurivaloper1c3npqc23h0rw0s2s5la0umel4w0uff94elq0am",
+      "restake": {
+        "address": "centauri1e44rluarkdw56dy2turnwjtvtg4wqvs0kpccnk",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper19ecn7ljwp6el2pc5lldyauwv05ufwut9mm38r5",
       "restake": {
@@ -75,6 +96,15 @@
       "restake": {
         "address": "desmos1e44rluarkdw56dy2turnwjtvtg4wqvs0xnc5qa",
         "run_time": "20:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1u2urd0ta23k0acwhpwka4370qv0wt92knwdxnw",
+      "restake": {
+        "address": "empower1e44rluarkdw56dy2turnwjtvtg4wqvs0w830dm",
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     },
@@ -133,12 +163,12 @@
       }
     },
     {
-       "name":"mars",
-       "address":"marsvaloper14vngc0z9ymvjfdusxt9v4g5we9tckzg2637a44",
-       "restake":{
-          "address":"mars1e44rluarkdw56dy2turnwjtvtg4wqvs00kvaz7",
-          "run_time":"every 5 minutes",
-          "minimum_reward":100000
+      "name": "mars",
+      "address": "marsvaloper14vngc0z9ymvjfdusxt9v4g5we9tckzg2637a44",
+      "restake": {
+        "address": "mars1e44rluarkdw56dy2turnwjtvtg4wqvs00kvaz7",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -210,7 +240,7 @@
         "run_time": [
           "03:00",
           "15:00"
-         ],
+        ],
         "minimum_reward": 100000
       }
     },

@@ -27,6 +27,18 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zekxzpl",
+      "restake": {
+        "address": "archway12xpq68caw2aqdu70jm4k792g0v9prhrp4g6q20",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper16cm4ew7zrzaa7rf250jhwq2lcz3a60xmw0h5v8",
       "restake": {
@@ -321,6 +333,10 @@
         ],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
     },
     {
       "name": "nomic",
