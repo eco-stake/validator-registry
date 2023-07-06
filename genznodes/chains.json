@@ -48,6 +48,15 @@
           }
     },
     {
+      "name": "composable",
+      "address": "centaurivaloper1fg9m8zcjrhvzw2kkrdjvppw255n3z7metpjqjt",
+      "restake": {
+        "address": "centauri19tzqk0kp67mx4wcedvmefhvk9r2xcxud98qgym",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000
+          }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper167ye7qvwmz7gfexpud03n7uva6n89k2y3ljzu2",
       "restake": {
