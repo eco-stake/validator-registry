@@ -66,6 +66,15 @@
         }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z",
+      "restake": {
+        "address": "gitopia19tzqk0kp67mx4wcedvmefhvk9r2xcxudl42r0t",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "impacthub",
       "address": "ixovaloper1vcqv7am3uyxw8m0jw5n46dzuqj3e0h3emxq32z",
       "restake": {
