@@ -120,15 +120,6 @@
       }
     },
     {
-      "name": "point",
-      "address": "pointvaloper158mdmd5uvwfl6akttk4pdjq4glhtvm0gh2rrnn",
-      "restake": {
-        "address": "point1ggzpjmk46lv4ulng7p04k98mg038xk966jun79",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
       "restake": {
