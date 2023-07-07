@@ -48,12 +48,12 @@
       }
     },
     {
-      "name": "cosmoshub",
-      "address": "cosmosvaloper1l634uf3kmyrtg6pl2dpfar9fdkjgtcmqjscd86",
+      "name": "composable",
+      "address": "centaurivaloper19an8yzr5lvs0npr78k6hkt3dxjjpr05nh0cgxz",
       "restake": {
-        "address": "cosmos1tj0t93t6xjwe5dqptr62ej4pqvy2es0r47g8ln",
+        "address": "centauri1tj0t93t6xjwe5dqptr62ej4pqvy2es0r359mmq",
         "run_time": "21:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
