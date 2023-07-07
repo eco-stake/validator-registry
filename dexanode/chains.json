@@ -19,7 +19,7 @@
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
-    }
+    },
     {
         "name": "decentr",
         "address": "decentrvaloper1tnvur9kdpp78jg2y4w3mhtgwf2aekpl8sc9au4",
