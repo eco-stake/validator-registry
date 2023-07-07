@@ -15,7 +15,7 @@
          "name":"archway",
          "address":"archwayvaloper1809mz86cnxuk6f3pusglthszgxh5k9wv0g9afm",
          "restake":{
-            "address":"akash164e53fz34nkc03vnncdl5w9xp420lkakejvk4j",
+            "address":"archway164e53fz34nkc03vnncdl5w9xp420lkakpza4xl",
             "run_time":"every 12 hour",
             "minimum_reward":100000000000000000
          }
