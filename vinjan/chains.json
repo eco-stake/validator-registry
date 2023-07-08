@@ -62,7 +62,16 @@
       "restake": {
         "address": "arkh1caclqqep2jprjn0evwyt3jkn6q3zxx4ckkguef",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000         
+        "minimum_reward": 100000000000000000
+       }
+      },
+    { 
+ "name": "composable",
+      "address": "centaurivaloper1a8w58zq9266ved6g6yga2ag05mvlecyau25e7g",
+      "restake": {
+        "address": "centauri1a8w58zq9266ved6g6yga2ag05mvlecyaxd7pr3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000      
        }
      }
   ]
