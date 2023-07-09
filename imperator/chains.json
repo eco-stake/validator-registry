@@ -278,7 +278,7 @@
         "restake": {
           "address": "archway1eml7agwd5x084ennlg6apvskufzrlvnrrmxnlw",
           "run_time": "21:00",
-          "minimum_reward": 100000
+          "minimum_reward": 100000000000000
         }
       }
     ]
