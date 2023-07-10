@@ -145,6 +145,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1ewvh80umgq5l38ujju49vm22sl534x99meh6e2",
+      "restake": {
+        "address": "plq1x8zysrq0jw6vq87h207ecv2m3yguv9rfqpl59n",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }
