@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BccNodes",
+  "chains": [
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1lk27ezwxru27wg9arlhaw7psz89hj003ha0hv2",
+      "restake": {
+        "address": "uptick1gnlmw0dlcnx6srzxsh24rekvjnhcp74ytg2h36",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
