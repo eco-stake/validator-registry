@@ -174,6 +174,15 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper10j0jzlpuqkjujrpd5k2qr9j53p3d3w3xlldvk5",
+      "restake": {
+        "address": "archway17j4r042dcvqpqdzxnw8eky02zv6gslrxkrvqep",
+        "run_time": "every 24 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper1sm5a00zlr5wkhr2259shqk9lk3w307jazmf0e5",
       "restake": {
