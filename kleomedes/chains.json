@@ -226,6 +226,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1840nktnf92adg4jgt4xthy6sf3y6amefk9uhl2",
+      "restake": {
+        "address": "quasar1r8egcurpwxftegr07gjv9gwffw4fk0099y4h4x",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1kztn4xapr3mah9nc05wvvqhsg60t2l6txr3472",
+      "restake": {
+        "address": "stars1r8egcurpwxftegr07gjv9gwffw4fk009lmchnj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
