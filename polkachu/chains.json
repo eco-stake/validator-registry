@@ -264,6 +264,15 @@
       }
     },
     {
+      "name": "nolus",
+      "address": "nolusvaloper1k3wysw06xty072y8pvra2vtwxxc6sjmf4w20sx",
+      "restake": {
+        "address": "nolus1xrrfek3qpz4ja8ccrjklfy064asyqq9k9zxsk2",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1pp0a0v0s8ps2exaaex40e7mf5hq58vtn8s4hhv",
       "restake": {
