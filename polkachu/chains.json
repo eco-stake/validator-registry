@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper1p4n7pw4rdfyn3rgc4cndcqedwmcu3dt6kfdwpt",
+      "restake": {
+        "address": "archway1xrrfek3qpz4ja8ccrjklfy064asyqq9kxe2t7c",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pmkjlwt",
       "restake": {
