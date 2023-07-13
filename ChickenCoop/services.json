@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "🐔 The Chicken Coop 🦝",
+  "services": [
+    {
+      "title": "🐔 The Chicken Coop 🦝",
+      "description": "Delegate to 🐔 The Chicken Coop 🦝 to support true decentralization",
+      "url": "https://explorer.sopko.net"
+    }
+  ]
+}
