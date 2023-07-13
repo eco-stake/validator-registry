@@ -17,7 +17,7 @@
       "restake": {
         "address": "8ball1jf02c7l9ezy30eflx0kgp54d0tpsj2zzhef7zv",
         "run_time": "every 1 hour",
-        "minimum_reward": 100
+        "minimum_reward": 1000
        }
        },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "realio1csj5g5j4r682apvjckdk3qldkup4y07427t383",
         "run_time": "every 1 hour",
-        "minimum_reward": 100
+        "minimum_reward": 1000
        }
       },
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "terp1zj70sat2fevu68hstfl0le5e0c5efg5mrfz73d",
         "run_time": "every 1 hour",
-        "minimum_reward": 100
+        "minimum_reward": 1000
        }
       },
     {
@@ -44,7 +44,34 @@
       "restake": {
         "address": "decentr18yze7cvnep7d2yj3cs4zfpvd4juphxrwwzezd4",
         "run_time": "every 1 hour",
-        "minimum_reward": 100
+        "minimum_reward": 1000
+       }
+      },
+    { 
+ "name": "empowerchain",
+      "address": "empowervaloper1mrh485xmr5hhgnshl33qa2k66esfmdvg25cg2e",
+      "restake": {
+        "address": "empower1mrh485xmr5hhgnshl33qa2k66esfmdvgj0x8yv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+       }
+      },
+    { 
+ "name": "arkh",
+      "address": "arkhvaloper1caclqqep2jprjn0evwyt3jkn6q3zxx4c80rzcj",
+      "restake": {
+        "address": "arkh1caclqqep2jprjn0evwyt3jkn6q3zxx4ckkguef",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+       }
+      },
+    { 
+ "name": "composable",
+      "address": "centaurivaloper1a8w58zq9266ved6g6yga2ag05mvlecyau25e7g",
+      "restake": {
+        "address": "centauri1a8w58zq9266ved6g6yga2ag05mvlecyaxd7pr3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000      
        }
      }
   ]
