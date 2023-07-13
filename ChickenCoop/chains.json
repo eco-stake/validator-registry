@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "cheqd",
+      "address": "cheqdvaloper1d5qlkfvg7j5uwhkn7t56dwlumuhns6r0suqt6j",
+      "restake": {
+        "address": "cheqd1h6edel4fj7rg66x9rmpy6y6eq9tr288g38s8pv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper157huuv2wzznygehepahrdmh7evhnu58j340vsp",
       "restake": {
