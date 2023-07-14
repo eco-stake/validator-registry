@@ -91,6 +91,15 @@
         "run_time":"18:30",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name":"qwoyn",
+      "address":"qwoynvaloper1f93g48h2tk9tvpteyx2wfjrwal2x6wyvktrhwu",
+      "restake":{
+        "address":"qwoyn1wf60jx7lrgt6xjp3lk8vq4fcjh24s507l33g9k",
+        "run_time":"18:30",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
