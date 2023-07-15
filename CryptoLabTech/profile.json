@@ -1,7 +1,7 @@
 {
   "$schema": "../profile.schema.json",
   "name": "Crypto Lab Tech",
-  "identity": "6C5EA8F661D27643"
+  "identity": "6C5EA8F661D27643",
   "website": "https://cryptolabtech.net",
   "description": {
   "overview": "Our goal is to educate and help newcomers to crypto."
