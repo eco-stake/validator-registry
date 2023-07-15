@@ -1,0 +1,20 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Crypto Lab Tech",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgp7x3vc7",
+      "restake": {
+        "address": "akash1fnfufmfkddv3s0vynp5sdkge7qkdk7wmhfx0ld",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    ...
+}
