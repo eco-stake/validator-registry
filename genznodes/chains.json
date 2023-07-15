@@ -75,15 +75,6 @@
         }
     },
     {
-      "name": "impacthub",
-      "address": "ixovaloper1vcqv7am3uyxw8m0jw5n46dzuqj3e0h3emxq32z",
-      "restake": {
-        "address": "ixo19tzqk0kp67mx4wcedvmefhvk9r2xcxud7cnxym",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
       "name": "lumnetwork",
       "address": "lumvaloper1ulwlmzz73gajev5pr0czmd5chgmxyd9j66x568",
       "restake": {
@@ -111,15 +102,6 @@
         }
     },
     {
-      "name": "nolus",
-      "address": "nolusvaloper1j77sz8yenvnyzvu0k0x9l7zh8u3wpa3jm3y2lp",
-      "restake": {
-        "address": "nolus19tzqk0kp67mx4wcedvmefhvk9r2xcxudhaatzd",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
       "restake": {
@@ -142,15 +124,6 @@
       "address": "ununifivaloper1eeueyzew2hvt9vn8226sjjh6ukuwhqszjpklgk",
       "restake": {
         "address": "ununifi19tzqk0kp67mx4wcedvmefhvk9r2xcxudh07x6x",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "tenet",
-      "address": "tenetvaloper1l4qyk52chyeerlhg7ly2lkud49ca9qds3xngh6",
-      "restake": {
-        "address": "tenet1ggzpjmk46lv4ulng7p04k98mg038xk96lv7fet",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
       }
