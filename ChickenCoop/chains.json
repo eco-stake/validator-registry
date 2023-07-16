@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "bitsong",
+      "address": "bitsongvaloper14yxgr6tpsta2lnuxtrqd4ajqnqdgcffnvzer4n",
+      "restake": {
+        "address": "bitsong1dqfh9k8dkg0r759cskjn72gwh936z3ce7nl325",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "canto",
       "address": "cantovaloper1esqlwtn6hgdprry94zxu9vn9jt5vs7gl2c9cxn",
       "restake": {
