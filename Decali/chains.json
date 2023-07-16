@@ -3,6 +3,15 @@
   "name": "DECALI.io",
   "chains": [
 {
+      "name": "centauri",
+      "address": "centaurivaloper1ugxfpz7x6c4zesanh2vv6u925trpm2xewg20vu",
+      "restake": {
+      "address": "centauri1edq7tuggx7ex6t5vuf5ltltenmtg4r298rgkr2",
+      "run_time": "every 12 hour",
+      "minimum_reward": 1000000
+  }
+    },	  
+{
       "name": "decentr",
       "address": "decentrvaloper1th4h3j6fu9kffyhqly52uy0ku9c5f0shmskp68",
       "restake": {
