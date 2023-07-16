@@ -65,6 +65,15 @@
         "minimum_reward": 100000
       }
     },
+     {
+      "name": "cheqd",
+      "address": "cheqdvaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8vr0wnh",
+      "restake": {
+        "address": "cheqd14ty5h7dhnses6smx5zwck5kh4j27rrgw3pcpeh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
     {
       "name": "planq",
       "address": "plqvaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xsr3ytl",
