@@ -1,10 +1,10 @@
 {
   "$schema": "../profile.schema.json",
-  "name": "🐔 The Chicken Coop 🦝",
+  "name": "The Chicken Coop",
   "identity": "EA70527EE3B8AE8D",
   "website": "https://sopko.net",
   "description": {
-    "overview": "Delegate to 🐔 The Chicken Coop 🦝 to support true decentralization",
+    "overview": "Delegate to The Chicken Coop to support true decentralization",
     "team": "Our servers are running on a homestead in rural Western Pennsylvania. Our own bare metal maintained by 27 years of professional IT experience. If you would like to support true decentralization as well as our family, please stake with us. Thank you!"
   },
   "contacts": {

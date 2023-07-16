@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "🐔 The Chicken Coop 🦝",
+  "name": "The Chicken Coop",
   "chains": [
     {
       "name": "bitcanna",
