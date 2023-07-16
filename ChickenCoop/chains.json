@@ -35,7 +35,7 @@
       "restake": {
         "address": "bitsong1dqfh9k8dkg0r759cskjn72gwh936z3ce7nl325",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 10000
       }
     },
     {
