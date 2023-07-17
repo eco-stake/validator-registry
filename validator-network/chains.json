@@ -1,0 +1,28 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "validator.network",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1sxx9mszve0gaedz5ld7qdkjkfv8z992ax69k08",
+      "restake": {
+        "address": "cosmos1jvy9d6ug7m3f8lsdakkt9c7sc06y3p52gz9qna",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1sxx9mszve0gaedz5ld7qdkjkfv8z992a3z2szp",
+      "restake": {
+        "address": "osmo1jvy9d6ug7m3f8lsdakkt9c7sc06y3p52qeks90",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
