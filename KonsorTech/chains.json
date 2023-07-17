@@ -58,7 +58,7 @@
       },
       {
       "name":"empowerchain",
-      "address": "empower1neujyc4kvxja3zn93j4kkwwxt843st7utq07nm",
+      "address": "empowervaloper1neujyc4kvxja3zn93j4kkwwxt843st7unm33aw",
       "restake": {
         "address": "empower1e8dhejyszhkcrz9ts0tgltwcj7vh4awdl4zxl6",
         "run_time": "every 2 hours",
