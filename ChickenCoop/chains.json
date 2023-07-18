@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "beezee",
+      "address": "bzevaloper1dnhhhhge8qphr5w7mz0cvp5ukxgr6drpw6ludu",
+      "restake": {
+        "address": "bze1lpmfdfzknt3kg4l4ujkduzn245zj85xf77ty4s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1farn4n6qy3g68u6arehdqtdquc57km735gauzt",
       "restake": {
@@ -126,6 +135,15 @@
         "address": "sif1lpmfdfzknt3kg4l4ujkduzn245zj85xfx8gegv",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "starname",
+      "address": "starvaloper1htdspw9ta77dy25at076ea8xfff5z99khr4ddc",
+      "restake": {
+        "address": "star1jj8katzf2hj08ydmwskkthase49eqjewzumf54",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
