@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "empowerchain",
+      "address": "empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0",
+      "restake": {
+        "address": "empower1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnlkkvrd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn",
+      "restake": {
+        "address": "haqq17q3zwm3qfcfjs2pvp472tmqsae8n97pnhc8p3f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "gitopia",
       "address": "gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym",
       "restake": {
