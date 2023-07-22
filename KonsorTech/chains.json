@@ -62,7 +62,7 @@
       "restake": {
         "address": "empower1e8dhejyszhkcrz9ts0tgltwcj7vh4awdl4zxl6",
         "run_time": "every 2 hours",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 1000000
         }
       },
       {
