@@ -6,7 +6,7 @@
       "name": "coreum",
       "address": "corevaloper1uhrrdv6g6v9t38v4qghjucunnxyk8xt30vr8za",
       "restake": {
-        "address": "core1men0tqdtdcze83lem5m25ksry058rpduk4pw6e",
+        "address": "core13ku0s7gtzgxl2560l8ld7czmskvwcn5dkk4w29",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 10000
       }
