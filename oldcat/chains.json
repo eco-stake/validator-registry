@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "empowerchain",
+      "address": "empowervaloper1dm8n6c3jf7jzs92ewgfq6236xzw67xhn7rmcxe",
+      "restake": {
+        "address": "empower1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zav6u59",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper14mc5h4qy8udss5c9mk8r7kz2xywk00ptuhfwac",
       "restake": {
