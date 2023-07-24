@@ -8,7 +8,7 @@
       "restake": {
         "address": "acre1tzkyfvkfv33j5lv8xgm6msg90hjgdnelta9mn9",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000000000000000000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "aura1lpmfdfzknt3kg4l4ujkduzn245zj85xfcvsd97",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "bze1lpmfdfzknt3kg4l4ujkduzn245zj85xf77ty4s",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "bcna1lpmfdfzknt3kg4l4ujkduzn245zj85xfe2hw04",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 25000000
       }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
         "address": "bitsong1dqfh9k8dkg0r759cskjn72gwh936z3ce7nl325",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 25000000
       }
     },
     {
@@ -53,7 +53,7 @@
       "restake": {
         "address": "canto1tzkyfvkfv33j5lv8xgm6msg90hjgdnelrgugcq",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 5000000000000000000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "cheqd1lpmfdfzknt3kg4l4ujkduzn245zj85xfdct0vk",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -71,7 +71,7 @@
       "restake": {
         "address": "chihuahua1lpmfdfzknt3kg4l4ujkduzn245zj85xfq02px9",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -80,7 +80,7 @@
       "restake": {
         "address": "cosmos1lpmfdfzknt3kg4l4ujkduzn245zj85xfr68088",
         "run_time": "every 1 hour",
-        "minimum_reward": 50000
+        "minimum_reward": 100000
       }
     },
     {
@@ -89,7 +89,7 @@
       "restake":{
          "address":"decentr1lpmfdfzknt3kg4l4ujkduzn245zj85xfg5pmx0",
          "run_time":"every 1 hour",
-         "minimum_reward":100000
+         "minimum_reward":10000000
       }
     },
     {
@@ -107,7 +107,7 @@
       "restake": {
         "address": "jkl1lpmfdfzknt3kg4l4ujkduzn245zj85xf6yf77c",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -116,7 +116,7 @@
       "restake": {
         "address": "like1lpmfdfzknt3kg4l4ujkduzn245zj85xfsxmdyu",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000000
+        "minimum_reward": 50000000000
       }
     },
     {
@@ -125,7 +125,7 @@
       "restake": {
         "address": "regen1lpmfdfzknt3kg4l4ujkduzn245zj85xfucvn3r",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -134,7 +134,7 @@
       "restake": {
         "address": "certik1lpmfdfzknt3kg4l4ujkduzn245zj85xfyjmcxv",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -143,7 +143,7 @@
       "restake": {
         "address": "sif1lpmfdfzknt3kg4l4ujkduzn245zj85xfx8gegv",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000000
+        "minimum_reward": 1000000000000000000000
       }
     },
     {
@@ -152,7 +152,7 @@
       "restake": {
         "address": "star1jj8katzf2hj08ydmwskkthase49eqjewzumf54",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 25000000
       }
     },
     {
@@ -161,7 +161,7 @@
       "restake": {
         "address": "tori1lpmfdfzknt3kg4l4ujkduzn245zj85xfpwsxuh",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 5000000
       }
     }
   ]
