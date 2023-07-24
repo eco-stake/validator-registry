@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "impacthub",
+      "address": "ixovaloper1wudw7wc0wrm7yc38phef6f8gckqkapvgqa6npu",
+      "restake": {
+        "address": "ixo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z74q92g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper1yyk36d3027vak2s65v8jfjwmmczy928h4he9a2",
       "restake": {
