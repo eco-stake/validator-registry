@@ -74,7 +74,7 @@
         "minimum_reward": 100000
         }
       },
-	  {
+      {
       "name": "gitopia",
       "address": "gitopiavaloper1luqvpv2xnqc9lwnk2g2fnyh3nrumczh3w2vhn6",
       "restake": {
@@ -83,7 +83,7 @@
         "minimum_reward": 10000
         }
       },
-	  {
+      {
       "name": "bitcanna",
       "address": "bcnavaloper1q2admwmtqfdav0m2lljp54ravq3fvxzfau29eg",
       "restake": {
@@ -92,7 +92,7 @@
         "minimum_reward": 1000000
         }
       },
-	  {
+      {
       "name": "decentr",
       "address": "decentrvaloper1dcqfhe7h0zpu0rpgdujkxuv2yj5x4aycc35t4g",
       "restake": {
@@ -101,7 +101,7 @@
         "minimum_reward": 1000000
         }
       },
-	  {
+      {
       "name": "realio",
       "address": "realiovaloper17chr7jgcgaaavvdplyz486gcyh03qw4kx99fk4",
       "restake": {
@@ -109,6 +109,15 @@
         "run_time": "every 2 hour",
         "minimum_reward": 1000000000000000000
         }
-      }
+      },
+      {
+      "name":"haqq",
+      "address": "haqqvaloper1qujkgnaxmy5ngyudunh04j6ctpt8dp4u8h9rk8",
+      "restake": {
+        "address": "haqq1zcvz6dg7uauxfchmylp4mm37rcv4esec0j5k8q",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+        }
+       }
     ]
 }
