@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cakra Labs",
+  "chains": [
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1ft8rpsax06kuvs8lyc38nqnkmm4teua8wxkflq",
+      "restake": {
+        "address": "uptick1yuhcl6d8ewkgfhg844gxz6htxv3y3fwu58tw0t",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
