@@ -80,7 +80,7 @@
       "restake": {
         "address": "juno1r8egcurpwxftegr07gjv9gwffw4fk009a4v3ll",
         "run_time": "every 1 hour",
-        "minimum_reward": 20000
+        "minimum_reward": 200000
       }
     },
     {
@@ -89,7 +89,7 @@
       "restake": {
         "address": "kujira1r8egcurpwxftegr07gjv9gwffw4fk00960dj4f",
         "run_time": "every 1 hour",
-        "minimum_reward": 20000
+        "minimum_reward": 1000000
       }
     },
     {
