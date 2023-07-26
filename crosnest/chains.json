@@ -62,7 +62,7 @@
       "restake": {
         "address": "evmos1ksh2uvrvq7gftgdc8jd2n67pcwcztdxupe9y4u",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 40000000000
       }
     },
     {
@@ -372,7 +372,7 @@
       "restake": {
         "address": "archway1v9vae554q55xa4pcfdm0p3kv8nxn50jk08mk87",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {

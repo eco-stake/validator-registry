@@ -386,7 +386,7 @@
       "restake": {
         "address": "stars1m7xlymnpxl2d4llu67v08e8xs67dj2fznfykad",
         "run_time": "every 5 minutes",
-        "minimum_reward": 2000000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -404,7 +404,7 @@
       "restake": {
         "address": "tori1m7xlymnpxl2d4llu67v08e8xs67dj2fz9pyzdv",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
