@@ -3,6 +3,15 @@
   "name": "blockscape",
   "chains": [
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1eufkuusyvgl4lxyhlh92lll9g0nzceylnacr22",
+      "restake": {
+        "address": "mantle152thyyusslc48metpf9tpt3r8d4krc2q869d3p",
+        "run_time": "18:00",
+        "minimum_reward": 200000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper13x77yexvf6qexfjg9czp6jhpv7vpjdwwkyhe4p",
       "restake": {

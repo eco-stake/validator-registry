@@ -8,10 +8,20 @@
       "restake": {
         "address": "kujira1njj830jqf0zg79w4n738c7jfr8w65e0ewvpy6f",
         "run_time": [
-          "12:00",
-          "24:00"
+          "12:00"
         ],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5eyxm6vu",
+      "restake": {
+        "address": "jkl1njj830jqf0zg79w4n738c7jfr8w65e0ex6ddwu",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
       }
     }
   ]

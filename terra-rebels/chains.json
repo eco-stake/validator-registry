@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Terra Rebels",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1aa6f2qeu0hrqpsxe4rggz0k7e43jfce43arz82",
+      "restake": {
+        "address": "terra17r93ahyg5uxprl3r7yrz8s3sph3ssdd2ypp8ae",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

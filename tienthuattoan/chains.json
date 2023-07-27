@@ -91,6 +91,15 @@
         "run_time": "every 30 minutes",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper12p4k84atxs7h8jcltgg4637h7x0ynexm3lfswm",
+      "restake": {
+        "address": "osmo15hfak84jamn59229c7r6umg2purgd9cydvf6dc",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
     }	
   ]
 }

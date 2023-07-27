@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sr20de",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1ghvq5uqrlyazehqjcqn2u4atsj20sg9p9xxt8f",
+      "restake": {
+        "address": "cerberus18p7sulmgnaxwwzyukftgtkufr24npeegkd9ypc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	 {
+      "name": "lambda",
+      "address": "lambvaloper13rg0fxs3jmvl8uyqpx7cn4mjpcu5c5mswt8ygk",
+      "restake": {
+        "address": "lamb1s2gswyh8r979cg4ytpqyglx27zdnpk9udn56uj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+    ]
+}

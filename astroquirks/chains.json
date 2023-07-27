@@ -1,0 +1,17 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Astroquirks",
+	"chains": [{
+			"name": "osmosis",
+			"address": "osmovaloper1udp8gef365zcqhlxuepewrxuep9thjanuhxcaw",
+			"restake": {
+				"address": "osmo1ctfwwaxgwu4u45wvzxe5cky2zw8k9t6qt95hhn",
+				"run_time": [
+					"04:20",
+					"16:20"
+				],
+				"minimum_reward": 100000
+			}
+		}
+	]
+}

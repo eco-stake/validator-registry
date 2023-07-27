@@ -1,0 +1,54 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "nodes.expert",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1wpjtpuqde0825ghd5whjz4k9ehx9u60ntm87pe",
+      "restake": {
+        "address": "bcna1pcak9l55k5sk3ulgumhaxkf5xcl4xtd3u6785g",
+        "run_time": [
+          "08:00",
+          "20:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+	{
+	"name": "genesisl1",
+      "address": "genesisvaloper1t04gj7prg8ucz3ljmqgmqcleru9w04al7w5snf",
+      "restake": {
+        "address": "genesis1pcak9l55k5sk3ulgumhaxkf5xcl4xtd3cr6sc0",
+        "run_time": [
+          "08:00",
+          "20:00"
+        ],
+        "minimum_reward": 100000000000000000
+		}
+	},
+	{ 
+      "name": "point",
+      "address": "pointvaloper1v9dzyugcpancay2wxv32l484zsn6autm9rkajg",
+      "restake": {
+        "address": "point1503538k0t6409lf0uy306as4s4akwzh0ftfjhe",
+        "run_time":  [
+          "08:00",
+          "20:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+	},
+	{
+      "name": "canto",
+      "address": "cantovaloper1v33j8kcj6meugn37vysjn42ntnztcxggrl45zg",
+      "restake": {
+        "address": "canto1503538k0t6409lf0uy306as4s4akwzh0rmhey9",
+        "run_time":  [
+          "08:00",
+          "20:00"
+        ],
+        "minimum_reward": 1000000000000000000
+      }
+	}
+  ]
+}

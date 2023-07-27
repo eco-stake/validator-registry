@@ -183,6 +183,15 @@
       }
     },
     {
+      "name": "teritori",
+      "address": "torivaloper1tje7a8g30lyew9nax4nufece0stnyg6crh2t6s",
+      "restake": {
+        "address": "tori1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh54vz3q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper12xx74t5sx3vgyew7es9h8e9py4ttts6zcg3vxk",
       "restake": {

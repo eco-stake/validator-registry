@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "🌞Nicolas🔥",
+    "chains": [
+        {
+            "name": "teritori",
+            "address": "torivaloper1hgdpf06ju96z6nwc508dkpkg72mkg236m6y8cl",
+            "restake": {
+              "address": "tori1vvv7nqtlpcf7pmuppmne5qjr5a4zx080cdja2n",
+              "run_time": ["09:00", "21:00"],
+              "minimum_reward": 100000
+            }
+        }
+    ]
+}

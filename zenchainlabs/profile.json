@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "ZenChainLabs",
+  "identity": "C0586A29077BF9AE",
+  "website": "https://zenchainlabs.io",
+  "description": {
+    "overview": "We provide secure and reliable blockchain services, including chain validation and infrastructure services."
+  },
+  "contacts": {
+    "email": "support@zenchainlabs.io",
+    "twitter": "https://twitter.com/ZenChainLabs",
+    "discord": "http://discord.gg/bs6EdZEkEX"
+  }
+}

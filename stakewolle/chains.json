@@ -3,6 +3,60 @@
   "name": "100% insurance | Stakewolle.com",
   "chains": [
     {
+        "name": "assetmantle",
+        "address": "mantlevaloper1qpkax9dxey2ut8u39meq8ewjp6rfsm3hlsyceu",
+        "restake": {
+          "address": "mantle1m7xlymnpxl2d4llu67v08e8xs67dj2fze3gwfk",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+    },
+    {
+        "name": "panacea",
+        "address": "panaceavaloper1dw3ev60v44q68qrrsz8lmwrx68f70hyrr5w5l6",
+        "restake": {
+          "address": "panacea1s42zjgha4mzuz723fh4h45cvw6jrahly3rzrrc",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper19ysyq74gkf8lv3l4suu3rlqadg4txp3sqxkhss",
+      "restake": {
+        "address": "axelar1m7xlymnpxl2d4llu67v08e8xs67dj2fzrm9raa",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1dlpuptu8k8rps38u9wdjmkwte69v27593alh5s",
+      "restake": {
+        "address": "somm1m7xlymnpxl2d4llu67v08e8xs67dj2fztfu88k",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1kpfxtqt5cmlew46dem32fqlk5g6k4wyueh4szu",
+      "restake": {
+        "address": "inj15lw5v5typyy4gx382v0gct2gfj4e2e0d5n6cjy",
+        "run_time": "every 12 hour",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1vn7gkk4h7xa52jnr50l82n54sxnwd3xjtj77dy",
+      "restake": {
+        "address": "rebus1m7xlymnpxl2d4llu67v08e8xs67dj2fzkls7z2",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "kava",
       "address": "kavavaloper1j4tymd9r3au3vm508l4jugdg7l892l2lmh4jry",
       "restake": {

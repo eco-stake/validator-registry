@@ -37,6 +37,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1ramqkapjkg0f58vypc43szaqp5juq0ly93t3hm",
+      "restake": {
+        "address": "jkl1nuf0cf3y787y0caqfrf6qhsaz2uhf4np4su347",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1nuhk7uke8ux2h7zpg44u7gyksgkz0fcjpf2074",
+      "restake": {
+        "address": "decentr1nuf0cf3y787y0caqfrf6qhsaz2uhf4np8q55df",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

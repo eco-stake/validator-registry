@@ -129,6 +129,15 @@
       }
     },
     {
+      "name": "rebus",
+      "address": "rebusvaloper1t0tx95v684rv2vqr4czp5gkt4vgj68zqzz385t",
+      "restake": {
+        "address": "rebus106n92ygqknaw5wcgl2e9v0duxxux6ntt842mla",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1tn84uta3qhhk3fphcwydktpjlq6akgw380lxj4",
       "restake": {
@@ -142,6 +151,15 @@
       "address": "stridevaloper1eu093aez7hdqznqe9z94pwl5q2dlnt83yaqkgh",
       "restake": {
         "address": "stride106n92ygqknaw5wcgl2e9v0duxxux6ntt45fjl8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1gspqsgxm8s4e9uza78met67x2eted2cdamrxm9",
+      "restake": {
+        "address": "tori106n92ygqknaw5wcgl2e9v0duxxux6ntt5t78sm",
         "run_time": "every 1 hour",
         "minimum_reward": 1618
       }

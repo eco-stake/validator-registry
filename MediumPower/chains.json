@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "MediumPower",
+  "name": "Medium Power",
   "chains": [
 	{
       "name": "meme",
@@ -12,6 +12,18 @@
           "21:00"
         ],
         "minimum_reward": 10000000
+      }
+    },
+	{
+      "name": "decentr",
+      "address": "decentrvaloper10guelklwjure8zwyrmhaslxf73jn5ur8ejm5s7",
+      "restake": {
+        "address": "decentr1cs4jxnxjl54y3xnk4aud5g4n334nxsnn9g4alf",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
       }
     }
   ]

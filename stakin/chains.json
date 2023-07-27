@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper1uf7s2v44qqpe9lpnsjy6cfjueqytakuzayfg0h",
+      "restake": {
+        "address": "axelar1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9drv8xut",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper1g6zz4d7j6fvxy24nsqkjrcxqrt7hwp6p6hws7c",
       "restake": {

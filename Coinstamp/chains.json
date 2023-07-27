@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Coinstamp",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1jk394yhsr3c0am9fezu7luqz3hvs2ey0dvej33",
+      "restake": {
+        "address": "rebus158nyqtjtf4dmrcgn78a6wucymtx3xv7396vesz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

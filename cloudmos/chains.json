@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cloudmos",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper14mt78hz73d9tdwpdvkd59ne9509kxw8yj7qy8f",
+      "restake": {
+        "address": "akash169f8faaa4uq56ch495p758g696nrxdcgjx9gpt",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper14mt78hz73d9tdwpdvkd59ne9509kxw8y99wku8",
+      "restake": {
+        "address": "chihuahua169f8faaa4uq56ch495p758g696nrxdcgug9pen",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper14mt78hz73d9tdwpdvkd59ne9509kxw8y9rshz6",
+      "restake": {
+        "address": "pasg169f8faaa4uq56ch495p758g696nrxdcgu9344w",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

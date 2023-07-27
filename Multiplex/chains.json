@@ -3,12 +3,39 @@
   "name": "Multiplex",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a4qlael79p76my9pml6thwhnnzsxyy4ajrvd9s",
+      "restake": {
+        "address": "cosmos1vf336tp2wua20nc8lf8za7jtp757ujj3esm7ww",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1dj0mysdn05447p9ncsq9g424fv2ynaxryhpjkc",
       "restake": {
         "address": "evmos1er4gen5kehmpmgqxhtsjf46sg99e69lq3c5d4t",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1w32vrtn97e0cl6lmayux07g37v5jgt6tejze9h",
+      "restake": {
+        "address": "stride1vf336tp2wua20nc8lf8za7jtp757ujj36mmz6z",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
       }
     }
   ]

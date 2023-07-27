@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "cosmosrescue",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper14r7kzdf6gfh3t9v2c7efdp2fn5apsl93qga2ed",
+      "restake": {
+        "address": "cosmos1p4557mdpc2qk8vcemeqgrcg55gs2uyznykhd8q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
