@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper14k7rhl7atuha3peawjcysj3zdj7026acwzd6f9",
+      "restake": {
+        "address": "osmo1lpmfdfzknt3kg4l4ujkduzn245zj85xftp5l34",
+        "run_time": "every 1 hour",
+        "minimum_reward": 3000000
+      }
+    },
+    {
       "name": "regen",
       "address": "regenvaloper1ra6p2sy9hnrvrvtmkjkfwh7yfzpqpv0cmdeuaf",
       "restake": {
