@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "GOLD SQUAD",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper190sdalfcuv0fscnusf44nge2u9nwnm9q6s7jjx",
+            "restake": {
+                "address": "core1uk52qrya2q8ylpu6lxsqvx6nj7hekne4nqgwhd",
+                "run_time": "every 4 hours",
+                "minimum_reward": 25000000
+            }
+        }
+    ]
+}

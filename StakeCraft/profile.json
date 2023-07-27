@@ -1,0 +1,21 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "StakeCraft",
+    "identity": "42BBD6183544D905",
+    "website": "https://stakecraft.com/",
+    "description": {
+      "overview": "STAKECRAFT validator offer services to make profits to users from staking their digital assets, providing high reliability, security of user funds, transparent monitoring and advanced technical support.",
+      "team": "stakecraft is a team of geeks with vast experience in programming, developing and managing digital assets."
+    },
+    "contacts": {
+      "telephone": "",
+      "email": "support@stakecraft.com",
+      "telegram": "Urb4n_thr34t",
+      "twitter": "stakecraft",
+      "discord": "n1trog3n",
+      "others": {
+        "emergency": "support@stakecraft.com"
+      }
+    }
+  }
+  

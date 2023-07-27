@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Coinbase Cloud",
+  "chains": [
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1nqe0ggecgsyaegl4t6m6k4786cd29xjt4znsf5",
+      "restake": {
+        "address": "axelar1mefk55e5m8lka0jlcevj0fs3z5lrstajv6yjln",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper152haa2ekhkefu0xauj92hn54etaqsl4g2908mz",
+      "restake": {
+        "address": "cosmos1kuwvqh77f68fkpqjk86pk2hc96hdz9tgg6mgzq",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1q4mlwtw3ncve72na65xacck557wcknc8j0lmke",
+      "restake": {
+        "address": "osmo1swr033hmmknrreg9wt0tausnxyedramteyyr6g",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1h62qm8qcctvcdd8t3jwm9jcc9cwleqjgnsn7ry",
+      "restake": {
+        "address": "evmos1wn2kmmkae3rlzvjesdgfmy9v858tjgpxvs9k64",
+        "run_time": "12:00",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

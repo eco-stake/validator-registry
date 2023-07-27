@@ -46,6 +46,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 5000000
       }
+    },
+	{
+      "name": "acrechain",
+      "address": "acrevaloper1sn80um2chzav6mytlfjthlvaf97ta77hspf234",
+      "restake": {
+        "address": "acre1ffl8c9t85r0uppsmn86mj9pnvz9n2w70y0575n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000000
+      }
+    },
+	{
+      "name": "aura",
+      "address": "auravaloper1k8melpa8jvz7wy5c27qzdtkzd3d9d2c6eq67gp",
+      "restake": {
+        "address": "aura1gkrdcksr3gslm2ngu4c47j36e62hvmv979mkc2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+	{
+      "name": "gitopia",
+      "address": "gitopiavaloper18ayzkfmpxrp2vvm2edhme42hq5nh8qekv8satu",
+      "restake": {
+        "address": "gitopia1gkrdcksr3gslm2ngu4c47j36e62hvmv9mttr4s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 300000000
+      }
     }
   ]
 }

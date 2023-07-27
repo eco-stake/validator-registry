@@ -7,8 +7,8 @@
       "address": "umeevaloper1l4xvfq5uj7624m73nn8j4mgra7xq4cpf08q2xj",
       "restake": {
         "address": "umee1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktj26xms",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "run_time": "00:00",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -44,6 +44,51 @@
       "restake": {
         "address": "rebus1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kyvt5",
         "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper130l3edsv5t59zn53a60uyn29dlq73x2sratqc6",
+      "restake": {
+        "address": "quick1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkttchtxs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1qcnfttryvf370q2y37w9tjdq54j46mkcwjrdas",
+      "restake": {
+        "address": "kyve1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkthj205x",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1w3wse8cx2al5947ke0hnd2tgphjt43dy9gwn0f",
+      "restake": {
+        "address": "tori1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktzgssyj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper13vlht5avuq4w4wkvgpetnheyn04t999t4wghna",
+      "restake": {
+        "address": "uptick1g94m7lremc5m5dhzd8lvjf7d8hs6sg40w8wccq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper16ktf3yu7cnkpx5n7qwmpkaxten8lw2k7etjm70",
+      "restake": {
+        "address": "archway1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt4hma44",
+        "run_time": "00:00",
         "minimum_reward": 1000000000000000000
       }
     }

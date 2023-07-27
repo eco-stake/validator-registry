@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CatalystiX",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1pqaencqr3we900vzwz2hxkptf6vdznj3m5hjxg",
+      "restake": {
+        "address": "terra15gq6sqre2c4fzkq6lxgdl6jgw7g4nuy7wamlfn",
+        "run_time": "00:01",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

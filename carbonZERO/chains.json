@@ -1,0 +1,135 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "carbonZERO🌲",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper18zzddr4cqpz56z2hqvdczqvwwy4ez29z0rw4u6",
+      "restake": {
+        "address": "mantle1h43hjfxlz8t6y5wewma63jz7melv46gj67840u",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper17jve5zq7pl737kwaksgtuzmarttn7nsjk3x6sn",
+      "restake": {
+        "address": "axelar1h43hjfxlz8t6y5wewma63jz7melv46gjq52cmh",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper15qssqkxe3lmjgpzec6sltvas4j62f4mdu090md",
+      "restake": {
+        "address": "canto1p7zjk2xd6eez2g9nzcw3wyavfphg06y8t85duc",
+        "run_time": "every 3 hours",
+        "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1hgte2tcljnpwpvgt7qclrtk4cd5dwaztyl2h9s",
+      "restake": {
+        "address": "cheqd1h43hjfxlz8t6y5wewma63jz7melv46gj2cssm8",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1t85yx95l5pajl9hwkeztawqf8sg9uh4lglgu9w",
+      "restake": {
+        "address": "chihuahua1h43hjfxlz8t6y5wewma63jz7melv46gj803735",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper14yh3sqetnphupx2r4jrjctpsqqg7jqmnmzpxc4",
+      "restake": {
+        "address": "comdex1h43hjfxlz8t6y5wewma63jz7melv46gjr47jfp",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1ulkhal0g0fmgsjlf8q7mdd46m6t9sqkhmpfvfd",
+      "restake": {
+        "address": "evmos1jgvqswfkgu6cl7tptn2p3fganpzqpfn5ap47u7",
+        "run_time": "21:05",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1fjv9s3m2cg8few68med8wjdh2e0stvnps8mvfa",
+      "restake": {
+        "address": "jkl1h43hjfxlz8t6y5wewma63jz7melv46gjayjpff",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1xvm3d0k8gwuptdvcvy9udp0j9l9pm8dzwt65ut",
+      "restake": {
+        "address": "juno1h43hjfxlz8t6y5wewma63jz7melv46gjjglth2",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1h3hnakda27dnn9af53g3fccsrrn0ywn2v0uzmw",
+      "restake": {
+        "address": "mars1h43hjfxlz8t6y5wewma63jz7melv46gje89f9d",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1ra2wpswcmrl02cdaskvfyvjersusl8uz0h6scm",
+      "restake": {
+        "address": "migaloo1h43hjfxlz8t6y5wewma63jz7melv46gjfw429c",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomicvaloper1mfppqwyz36vp2khwnrrjs60txcah82fwkmg7hh",
+      "restake": {
+        "address": "nomic1h43hjfxlz8t6y5wewma63jz7melv46gjcz02ru",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1dvgnqmgehv3kmtvu3e6xuujaxu9c9wepx6dmze",
+      "restake": {
+        "address": "stride1h43hjfxlz8t6y5wewma63jz7melv46gj83uvy6",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1jc2rvsg7dlrk5exay5kxqtrmvtuml8l0k4fwtk",
+      "restake": {
+        "address": "tori1h43hjfxlz8t6y5wewma63jz7melv46gjxwtetx",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

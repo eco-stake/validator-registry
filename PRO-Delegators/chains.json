@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PRO Delegators",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper18sqvyf4ss84qree7gndph5chmm82fglsqfylwn",
+      "restake": {
+        "address": "cosmos1vvumkjdmen9fsgu88zqv8eulpn79g4g03n9y3g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "osmosis",
+      "address": "osmovaloper1r7spsjagrmcfv96w5dxtttajvnxczhcpgfk74g",
+      "restake": {
+        "address": "osmo1vvumkjdmen9fsgu88zqv8eulpn79g4g0egk586",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

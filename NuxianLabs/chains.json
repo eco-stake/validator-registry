@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Nuxian Labs",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1dk57yyphuxt7eam3k06r7ycq0szpf4ae7wv8tp",
+      "restake": {
+        "address": "tori1vvumkjdmen9fsgu88zqv8eulpn79g4g0n8jd2c",
+        "run_time": "every 10 seconds",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper13vlsw2eesjyaz7ld3h3sdnsmcmw4nr0zedqt5r",
+      "restake": {
+        "address": "rebus1vvumkjdmen9fsgu88zqv8eulpn79g4g0qex397",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000000000000
+      }
+    },
+	{
+      "name": "acrechain",
+      "address": "acrevaloper1y5gtnge83c4k4gr395n5pz7szce95pec86ruzn",
+      "restake": {
+        "address": "acre1ygrzk0exmsk0aa8tkyx4hw5de477qe8m9zdh6a",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}

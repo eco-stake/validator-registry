@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "newton.zone",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1aeyafvazg3j3x7el8cx9y3g0zekjtfyp6czfd9",
+      "restake": {
+        "address": "mantle1f8ltfcten37lxnsz9lfxctfchgglg5lh5f374n",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper14uu8czc9jgntxw7xqryx8edmrgszc4xnjy4anh",
+      "restake": {
+        "address": "bitsong1zq6cnk6w2xn24lqlp7973wtpjeatycl6ddx8xl",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+     {
+      "name": "desmos",
+      "address": "desmosvaloper1tnkp8xnj8ghyw04l2625hc805wyccawhmms8ck",
+      "restake": {
+        "address": "desmos18yk5rkw7lwtek5vh4pdrhv9vldft3whdt7j4vz",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1uhys9exeruta5nexhgcq3kc8auvc0gs0zl0vyc",
+      "restake": {
+        "address": "panacea1493640wntk0zzvaucwqrtjgtu3u5gp8zqrzqmd",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1c7zzltumhccca2g5ph3j6erwfs8j34l2kpj6wd",
+      "restake": {
+        "address": "lum10zjldpgj54we3fgu99zlrgr4yzdrnuc9njnmmj",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

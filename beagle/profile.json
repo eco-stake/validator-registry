@@ -1,6 +1,0 @@
-{
-  "$schema": "../services.schema.json",
-  "name": "Beagle2",
-  "identity": "786926FA0E7F8DB0",
-  "website": "http://siptune.fi/en/point.php"
-}

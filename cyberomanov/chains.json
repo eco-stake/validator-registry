@@ -3,12 +3,21 @@
   "name": "cyberomanov",
   "chains": [
     {
-      "name": "jackal",
-      "address": "jklvaloper1gr78zkvjenmp05s08d7qr4zcsdhst3ysy04h0p",
+      "name": "kyve",
+      "address": "kyvevaloper1kr0flj8lm6x3xkwz0k37j7mknhs4375vtxqfsk",
       "restake": {
-        "address": "jkl1p2nwxuvzctx6cpkyjqxkmyj5anzn4g4tdpe0l8",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000
+        "address": "kyve1wtuflt4f8md700td4s7xst7jt6l58hnmcdcezw",
+        "run_time": "daily",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady",
+      "restake": {
+        "address": "omniflix1wtuflt4f8md700td4s7xst7jt6l58hnmjayk75",
+        "run_time": "daily",
+        "minimum_reward": 100000
       }
     }
   ]

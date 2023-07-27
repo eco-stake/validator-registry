@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cybernodes",
+  "chains": [
+    {
+      "name": "meme",
+      "address": "memevaloper12txey0wspwkzppue365guenmf9sun4sds5dnkh",
+      "restake": {
+        "address": "meme1rscy7t0s90n0wn974z0cuype62j0cvwrkkp9gg",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1u7ask8zx06fj42cqua3vvv07pkan63q05xsfnz",
+      "restake": {
+        "address": "gravity15w2pj0q4p093n0g9ks3qzsgmztkakzy6gmwy5s",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1pmd5r3uu8tjfgywdksmj6st6k0s5llfw9la4cw",
+      "restake": {
+        "address": "mantle1c6p6hlfdmzq22ul5vmlty703hr02p6wlnqpgez",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper1nsearc5dsjnk5xdvqfegj7zat6d5qntsnd4jyh",
+      "restake": {
+        "address": "like1l7n85dw8w7jfarnq39e8zj7x9rr8kjptaaasvl",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1lv73xg05zav7e0442c8lwnk8eqz9y54g2xtymp",
+      "restake": {
+        "address": "bcna138nqemyrn2slceffzcstrngfv4anca9wt07la6",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper1r8pegac6nh4s27a4szvyh4vk75pxtulevt02ss",
+      "restake": {
+        "address": "emoney1r8pegac6nh4s27a4szvyh4vk75pxtulettf7wa",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1yk35e0w5tx7aqzlyyscj7990x9hlaahgj6yh60",
+      "restake": {
+        "address": "fetch1yk35e0w5tx7aqzlyyscj7990x9hlaahgh7m5fg",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1s8fra5fkhuk5p49ld3s9kke9t9eqfwncz4swvd",
+      "restake": {
+        "address": "canto1s8fra5fkhuk5p49ld3s9kke9t9eqfwncqth2ag",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

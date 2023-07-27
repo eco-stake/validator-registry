@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "CryptoCats.Pro",
+  "identity": "FA902B6D69CA60C1",
+  "website": "https://cryptocats.pro",
+  "description": {
+    "overview": "Building trust, block by block.",
+    "team": "A team of cryptolovers and tech experts specialized in validating blockchains."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "catomatik@gmail.com",
+    "telegram": "catomatik",
+    "twitter": "@catomatik",
+    "discord": "cwt#3491",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

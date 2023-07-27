@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Zuka",
+  "chains": [
+    {
+      "name": "stride",
+      "address": "stridevaloper19u539q85fun7nax92w853gcqtl74kr0e0c7g56",
+      "restake": {
+        "address": "stride1fg4wh7eurgz7q080lnf306jz90sttza9a74344",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1njfdetrhv2kj4kl489hq7dm0mmxcmajnz92e77",
+      "restake": {
+        "address": "quick1fg4wh7eurgz7q080lnf306jz90sttza9439lct",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1q376a9nh3l2au47hecx73etj8x0r625hhccxlw",
+      "restake": {
+        "address": "canto1s9x0yr2a9jwlww4hucpgzxsz55wgtpthuvvut2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "сhain4energy",
+      "address": "c4evaloper174kzax3c9nyen6qhg5sgffwu42ej39fjc09nx6",
+      "restake": {
+        "address": "c4e1fg4wh7eurgz7q080lnf306jz90sttza9advqc8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+   ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Staketab",
+  "identity": "D55266E648F3F70B",
+  "website": "https://staketab.com/",
+  "description": {
+    "overview": "Staketab is a non-custodial staking service provider operating in 20+ proof-of-stake networks both on Mainnet and Testnet including, among others, Sui, Mina, Aptos, Stargaze, Uptick, Axelar, Gravity Bridge, Desmos, Omniflix, Celestia, Sifchain to name but a few.",
+    "team": "As a team we are dedicated to development of Web3. As we stake in a blockchain, we aim to make a considerable contribution in one."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "partners@staketab.com",
+    "telegram": "ducca",
+    "twitter": "staketab",
+    "discord": "duccaofficial",
+    "others": {
+      "emergency": "support@staketab.com"
+    }
+  }
+}

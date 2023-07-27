@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "anodeofzen",
+  "chains": [
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1x4sj6d9r9scxef8urmdfxcx37ut7yk2s2m8r68",
+      "restake": {
+        "address": "genesis18rwenegke6nvadz29j53arx4awgukjnugp8myp",
+        "run_time": ["22:22"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
