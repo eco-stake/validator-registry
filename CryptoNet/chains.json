@@ -163,6 +163,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1g2q8pucmu3px03e2lqdeze7u0cy7tyhrvgx4tj",
+      "restake": {
+        "address": "firma1dh3mgt9l3vv5jj8t8ccshzqmlcg0n52rxv2ka2",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
