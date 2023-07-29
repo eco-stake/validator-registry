@@ -156,6 +156,15 @@
       }
     },
     {
+      "name": "stargaze",
+      "address": "starsvaloper154wvhv6rwegxyd52nqf9xcfueknmlwjdsu57vx",
+      "restake": {
+        "address": "stars1lpmfdfzknt3kg4l4ujkduzn245zj85xfhxsjvk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
       "name": "starname",
       "address": "starvaloper1htdspw9ta77dy25at076ea8xfff5z99khr4ddc",
       "restake": {
