@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper14k7rhl7atuha3peawjcysj3zdj7026acwzd6f9",
+      "restake": {
+        "address": "osmo1lpmfdfzknt3kg4l4ujkduzn245zj85xftp5l34",
+        "run_time": "every 1 hour",
+        "minimum_reward": 3000000
+      }
+    },
+    {
       "name": "regen",
       "address": "regenvaloper1ra6p2sy9hnrvrvtmkjkfwh7yfzpqpv0cmdeuaf",
       "restake": {
@@ -144,6 +153,15 @@
         "address": "sif1lpmfdfzknt3kg4l4ujkduzn245zj85xfx8gegv",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper154wvhv6rwegxyd52nqf9xcfueknmlwjdsu57vx",
+      "restake": {
+        "address": "stars1lpmfdfzknt3kg4l4ujkduzn245zj85xfhxsjvk",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
       }
     },
     {
