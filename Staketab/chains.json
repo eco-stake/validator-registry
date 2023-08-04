@@ -136,6 +136,15 @@
         "run_time": [],
         "minimum_reward": 0
       }
+    },
+    {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1jkjwdy5yud3tmdrl9wn9l6uqujrshvvvhaj5cv",
+      "restake": {
+        "address": "",
+        "run_time": [],
+        "minimum_reward": 0
+      }
     }
   ]
 }
