@@ -61,7 +61,7 @@
       "address": "torivaloper167xwmhtrn7n8ftexu6luhh4luvhpy435kw9yfs",
       "restake": {
         "address": "tori1u4njm0k28kk38gvmzxs37dxnn6mh9cal3nzr75",
-        "run_time": "every 10 minutes",
+        "run_time": "20:00",
         "minimum_reward": 1000
       }
     },
@@ -88,6 +88,15 @@
       "address": "corevaloper1kepnaw38rymdvq5sstnnytdqqkpd0xxwc5eqjk",
       "restake": {
         "address": "core17wa6rq45gulfnvsv6uccnajfvus92zwt5q5ym2",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper14sp0yjvxkrsj7qjltga65g9ctz5c2nrw8cgs72",
+      "restake": {
+        "address": "archway1u4njm0k28kk38gvmzxs37dxnn6mh9calxvfw0n",
         "run_time": "20:00",
         "minimum_reward": 1000
       }
