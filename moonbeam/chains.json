@@ -1,14 +1,14 @@
-{
+f{ff
   "$schema": "../chains.schema.json",
   "name": "moonbeam",
-  "chains": [
+f  "chains": [
     {
       "name": "likecoin",
-      "address": "like1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjn86l8w",
+      "address": "likevaloper16xm86hll3ylg2nqz9mhw5umvadu9p8y76r7aw4",
       "restake": {
         "address": "like12w47j7xw5hdq8cprj3qrj4ychnc7835xd6fuqq",
         "run_time": "every 1 hour",
-        "minimum_reward": 5000000000
+        "minimum_reward": 5000000000f
       }
     }
   ]
