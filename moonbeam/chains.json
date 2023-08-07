@@ -1,7 +1,7 @@
-f{ff
+{
   "$schema": "../chains.schema.json",
   "name": "moonbeam",
-f  "chains": [
+  "chains": [
     {
       "name": "likecoin",
       "address": "likevaloper16xm86hll3ylg2nqz9mhw5umvadu9p8y76r7aw4",
