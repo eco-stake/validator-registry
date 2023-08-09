@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "comdex",
+      "address": "comdexvaloper148r7qtya5zywgx2809w5r3p3sz2g88g2jx289y",
+      "restake": {
+        "address": "comdex1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpuc3cjr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper1xexvud533c8x83szkrexyk26472swf9y85l9rf",
       "restake": {
