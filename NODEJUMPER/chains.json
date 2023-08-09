@@ -48,15 +48,6 @@
       }
     },
     {
-      "name": "desmos",
-      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
-      "restake": {
-        "address": "desmos1dd4rrjm8cd89hg9eh5j3jauw7yd38pljr6hu5k",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "empowerchain",
       "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
       "restake": {
@@ -79,15 +70,6 @@
       "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
       "restake": {
         "address": "gitopia1ksx5yarsdjw8wcgkqn4v5demdszzx9erkv4cep",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "jackal",
-      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
-      "restake": {
-        "address": "jkl1ksx5yarsdjw8wcgkqn4v5demdszzx9er32u70a",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
@@ -135,15 +117,6 @@
         "address": "rebus1ksx5yarsdjw8wcgkqn4v5demdszzx9ere736z5",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "rizon",
-      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
-      "restake": {
-        "address": "rizon1ksx5yarsdjw8wcgkqn4v5demdszzx9ertfw766",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
       }
     },
     {
