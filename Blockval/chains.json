@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "quasar",
+      "address": "quasarvaloper1k89cp5jupzc5dg86xgawrdrsmjr9slluhgs2ru",
+      "restake": {
+        "address": "quasar1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp45f8x3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "kichain",
       "address": "kivaloper1c0knmf2c75fytksnt63ytv3n2376dzaynetyse",
       "restake": {
