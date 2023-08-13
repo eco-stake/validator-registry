@@ -37,7 +37,20 @@
         "minimum_reward": 100000000000000
       }
     },
-	
+	  
+    {
+      "name": "kava",
+      "address": "kavavaloper1f94frmnhd9wfa7jg26egnqmymc4cpamlw5ezq7",
+      "restake": {
+        "address": "kava1xmvz653yd7s0ywwytrlu45v9dzlqsznfmrkyy4",
+        "run_time": [
+	  "09:00", 
+	  "21:00"
+	],
+        "minimum_reward": 10000
+      }
+    },
+	  
     {
       "name": "stride",
       "address": "stridevaloper19nktvlnhd7j2tsyt97jyfnv3kdemx8cqx25ng7",
