@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "tenet",
+      "address": "tenetvaloper10krtplw35lyqmawxds7pff0c2a67zewmw55wlc",
+      "restake": {
+        "address": "tenet1xr4vhpd97h3pnd80l20slksdtejjdstc98x4yh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper1xexvud533c8x83szkrexyk26472swf9y85l9rf",
       "restake": {
