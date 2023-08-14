@@ -43,6 +43,16 @@
       "address": "kavavaloper1f94frmnhd9wfa7jg26egnqmymc4cpamlw5ezq7",
       "restake": {
         "address": "kava1xmvz653yd7s0ywwytrlu45v9dzlqsznfmrkyy4",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+	  
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1asx3h6xdz2hsksvlw0nte8gtl8xh9umstq7pef",
+      "restake": {
+        "address": "tenet186u3vpyt6zxvyk7a4yv7h7cggtnexn93hke366",
         "run_time": [
 	  "09:00", 
 	  "21:00"
