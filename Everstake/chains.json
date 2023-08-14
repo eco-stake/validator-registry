@@ -52,6 +52,19 @@
     },
 	  
     {
+      "name": "tenet",
+      "address": "tenetvaloper1asx3h6xdz2hsksvlw0nte8gtl8xh9umstq7pef",
+      "restake": {
+        "address": "tenet186u3vpyt6zxvyk7a4yv7h7cggtnexn93hke366",
+        "run_time": [
+	  "09:00", 
+	  "21:00"
+	],
+        "minimum_reward": 10000
+      }
+    },
+	  
+    {
       "name": "stride",
       "address": "stridevaloper19nktvlnhd7j2tsyt97jyfnv3kdemx8cqx25ng7",
       "restake": {
