@@ -376,6 +376,15 @@
       }
     },
     {
+      "name": "sei",
+      "address": "seivaloper1mm5p6ak2w94cwry0n42px3ssajgytxnwfvd4w8",
+      "restake": {
+        "address": "sei1v9vae554q55xa4pcfdm0p3kv8nxn50jkhqkytg",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }
