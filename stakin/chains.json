@@ -20,6 +20,15 @@
 			}
 		},
 		{
+			"name": "archway",
+			"address": "archwayvaloper1968axqhgdcmyc8xypw53v0092gld8pmqawdapr",
+			"restake": {
+				"address": "archway1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9djfd2aa",
+				"run_time": "every 1 hour",
+				"minimum_reward": 100000
+			}
+		},
+		{
 			"name": "axelar",
 			"address": "axelarvaloper1uf7s2v44qqpe9lpnsjy6cfjueqytakuzayfg0h",
 			"restake": {
@@ -105,6 +114,15 @@
 			"address": "kavavaloper1dede4flaq24j2g9u8f83vkqrqxe6cwzrxt5zsu",
 			"restake": {
 				"address": "kava1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dmh9npd",
+				"run_time": "every 1 hour",
+				"minimum_reward": 100000
+			}
+		},
+		{
+			"name": "kyve",
+			"address": "kyvevaloper1e6z8q86vujhcmjet0ncfmv7xh50gncgfygetvf",
+			"restake": {
+				"address": "kyve1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dsvucuw",
 				"run_time": "every 1 hour",
 				"minimum_reward": 100000
 			}
