@@ -187,8 +187,26 @@
       "address": "kyvevaloper1awxv4js9aumf6kp2803vxx3lgckt5cxwanutal",
       "restake": {
         "address": "kyve1hcgxjhvv43g9z6dc58g428jgc8hdlmf7rp4rfx",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper196g54yghsu6q6mmk2tm6jx3nd3qfsxgj08p3m7",
+      "restake": {
+        "address": "gitopia1hcgxjhvv43g9z6dc58g428jgc8hdlmf72hlzdp",
         "run_time": "every 15 minutes",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper14ypfvhc77q09pz0j8wt9xkm2css6lqdrejwmss",
+      "restake": {
+        "address": "pb1hcgxjhvv43g9z6dc58g428jgc8hdlmf7apns07",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
       }
     }
   ]

@@ -47,6 +47,24 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
+    },
+     {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1hyf5792qnmen7dz3e9ngp36qwfk9dn9q3a66sk",
+      "restake": {
+        "address": "qwoyn1dz89rfeqzz868z6dvq3jw8dh4qhf0983r2s00z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1qyjgneuznsn26qerlv0djqqzhvdc5djrty7rzh",
+      "restake": {
+        "address": "uptick1z6s5459vyxefr9lfcdagusqyemv35phkpdy933",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }

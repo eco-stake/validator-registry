@@ -27,6 +27,18 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zekxzpl",
+      "restake": {
+        "address": "archway12xpq68caw2aqdu70jm4k792g0v9prhrp4g6q20",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper16cm4ew7zrzaa7rf250jhwq2lcz3a60xmw0h5v8",
       "restake": {
@@ -103,6 +115,18 @@
       "address": "comdexvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zcpt5ph",
       "restake": {
         "address": "comdex12xpq68caw2aqdu70jm4k792g0v9prhrp8vyxe0",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj55qlt",
+      "restake": {
+        "address": "centauri12xpq68caw2aqdu70jm4k792g0v9prhrpyftcyt",
         "run_time": [
           "12:00",
           "24:00"
@@ -311,6 +335,10 @@
       }
     },
     {
+      "name": "neutron",
+      "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
+    },
+    {
       "name": "nomic",
       "address": "nomicvaloper13dmmz4936yyh42xuc4rlacyjxelpsldpp8u6e5",
       "restake": {
@@ -327,6 +355,18 @@
       "address": "noisvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zu3u0nd",
       "restake": {
         "address": "nois12xpq68caw2aqdu70jm4k792g0v9prhrp3tmwvq",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zrek78e",
+      "restake": {
+        "address": "nolus12xpq68caw2aqdu70jm4k792g0v9prhrpknkmza",
         "run_time": [
           "12:00",
           "24:00"
@@ -393,9 +433,9 @@
     },
     {
       "name": "quasar",
-      "address": "quasar12xpq68caw2aqdu70jm4k792g0v9prhrpwqueda",
+      "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
       "restake": {
-        "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
+        "address": "quasar12xpq68caw2aqdu70jm4k792g0v9prhrpwqueda",
         "run_time": [
           "12:00",
           "24:00"
@@ -408,6 +448,18 @@
       "address": "quickvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zesdm36",
       "restake": {
         "address": "quick12xpq68caw2aqdu70jm4k792g0v9prhrpt8kke2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "qwoyn",
+      "address": "qwoynvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z5cmjqu",
+      "restake": {
+        "address": "qwoyn12xpq68caw2aqdu70jm4k792g0v9prhrpar868e",
         "run_time": [
           "12:00",
           "24:00"
@@ -432,6 +484,18 @@
       "address": "secretvaloper1t5wtcuwjkdct9qkw2h6m48zu2hectpd6ulmekk",
       "restake": {
         "address": "secret18zzklau04kf3qtwrnnzlf20xrxpx3a89dqu42m",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zl6nups",
+      "restake": {
+        "address": "sei12xpq68caw2aqdu70jm4k792g0v9prhrpd0hjxe",
         "run_time": [
           "12:00",
           "24:00"

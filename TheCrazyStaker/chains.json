@@ -61,6 +61,15 @@
 				"run_time": "21:08",
 				"minimum_reward": 1000000
 			}
+		},
+		{
+			"name": "empower",
+			"address": "empowervaloper1wqngx2az8szny3c2mszr0h8j78tantss0ct0f4",
+			"restake": {
+				"address": "empower1wqngx2az8szny3c2mszr0h8j78tantsshr4q8q",
+				"run_time": "21:00",
+				"minimum_reward": 1000
+			}
 		}
 	]
 }

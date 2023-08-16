@@ -35,7 +35,25 @@
       "restake": {
         "address": "certik1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpul0d2l",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper148r7qtya5zywgx2809w5r3p3sz2g88g2jx289y",
+      "restake": {
+        "address": "comdex1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpuc3cjr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper10krtplw35lyqmawxds7pff0c2a67zewmw55wlc",
+      "restake": {
+        "address": "tenet1xr4vhpd97h3pnd80l20slksdtejjdstc98x4yh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -43,6 +61,15 @@
       "address": "decentrvaloper1xexvud533c8x83szkrexyk26472swf9y85l9rf",
       "restake": {
         "address": "decentr1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpse4w2u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1k89cp5jupzc5dg86xgawrdrsmjr9slluhgs2ru",
+      "restake": {
+        "address": "quasar1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp45f8x3",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }

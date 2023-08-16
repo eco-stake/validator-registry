@@ -13,7 +13,7 @@
         },
         {
             "name": "coreumtestnet",
-            "address": "testcorevaloper1xsn58nqcsm4vh5rg8n9j0m6k6u927f5unyuegp",
+            "address": "testcorevaloper1mm66mpyc7pstepmmsv9j3fl7d0fllevukn56g6",
             "restake": {
                 "address": "testcore1ypeka6w5vyxvtxpuwty3cqk4t6kmm8uf3wey6a",
                 "run_time": "21:00",

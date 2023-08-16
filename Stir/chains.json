@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Stir",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1d0aup392g3enru7eash83sedqclaxvp7fzh6gk",
+      "restake": {
+        "address": "cosmos1qajlf3mah5xz9sp8myyucmf4n7re0uzv4xnygw",
+	"run_time": "every 12 hours",
+        "minimum_reward": 200000
+      }
+    }
+    ]
+}
