@@ -137,6 +137,15 @@
 			}
 		},
 		{
+			"name": "sei",
+			"address": "seivaloper1eqgnd7ey0hnha8rrfukjrsawulhna0zagcg6a4",
+			"restake": {
+				"address": "sei1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d2wqc3t",
+				"run_time": "every 1 hour",
+				"minimum_reward": 100000
+			}
+		},
+		{
 			"name": "stargaze",
 			"address": "starsvaloper1swer6tl0s59g82xnq5gmgsdueld79wpw8vptlu",
 			"restake": {
