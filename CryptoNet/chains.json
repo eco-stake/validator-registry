@@ -172,6 +172,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper1f663f9ac0dzgxatrmk8wyf5yhzwrmpz3nqpjg4",
+      "restake": {
+        "address": "vdl174v2rawlqvyytv93nv0c2ww64p2y4ru8rwasyd",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
