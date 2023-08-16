@@ -198,15 +198,6 @@
 				"run_time": "every 1 hour",
 				"minimum_reward": 220000
 			}
-		},
-		{
-			"name": "kyve",
-			"address": "kyvevaloper1nak6d0sc63pq6ugu8l972w9ktznqz2kvr86qgg",
-			"restake": {
-				"address": "kyve1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dsvucuw",
-				"run_time": "every 1 hour",
-				"minimum_reward": 100000
-			}
 		}
 	]
 }
