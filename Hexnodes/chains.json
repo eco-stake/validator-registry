@@ -102,6 +102,15 @@
         }
     },
     {
+      "name": "likecoin",
+      "address": "likevaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8cch5dv",
+      "restake": {
+        "address": "like14ty5h7dhnses6smx5zwck5kh4j27rrgwvlgr3a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8eu8v20",
       "restake": {
