@@ -79,11 +79,8 @@
       "address": "seivaloper1ummny4p645xraxc4m7nphf7vxawfzt3p5hn47t",
       "restake": {
         "address": "sei1g3laz9zpgy8x4k3gdkydf4umnepaug4w6tk7fr",
-        "run_time": [
-	  "09:00", 
-	  "21:00"
-	],
-        "minimum_reward": 10000
+        "run_time": "21:00",
+        "minimum_reward": 100000
       }
     },
 	  
