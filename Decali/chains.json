@@ -3,6 +3,15 @@
   "name": "DECALI.io",
   "chains": [
 {
+      "name": "composable",
+      "address": "centaurivaloper1ugxfpz7x6c4zesanh2vv6u925trpm2xewg20vu",
+      "restake": {
+      "address": "centauri1edq7tuggx7ex6t5vuf5ltltenmtg4r298rgkr2",
+      "run_time": "every 12 hour",
+      "minimum_reward": 1000000
+  }
+    },	  
+{
       "name": "decentr",
       "address": "decentrvaloper1th4h3j6fu9kffyhqly52uy0ku9c5f0shmskp68",
       "restake": {
@@ -34,7 +43,7 @@
       "name": "chain4energy",
       "address": "c4evaloper1n6pu3hj0pzg6x25sf03v2gn3874e9kll9dxy2a",
       "restake": {
-      "address": "c4e1edaqlthqq5mwxy2erwg2j9kdhpgkldvdy7pt56",
+      "address": "c4e1edq7tuggx7ex6t5vuf5ltltenmtg4r29q3u878",
       "run_time": "every 12 hour",
       "minimum_reward": 1000000
   }
@@ -43,7 +52,7 @@
       "name": "bandchain",
       "address": "bandvaloper157vs5a5tqt2kkkht95azwg9pa77z8hwk3ae5ee",
       "restake": {
-      "address": "band12grr3yyhvss6ck60czdnqse0fs257ayhqak9m5",
+      "address": "band1edq7tuggx7ex6t5vuf5ltltenmtg4r296x9gl3",
       "run_time": "every 12 hour",
       "minimum_reward": 1000000
     }

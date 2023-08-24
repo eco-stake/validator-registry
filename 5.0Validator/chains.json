@@ -37,6 +37,24 @@
             "run_time":"19:00",
             "minimum_reward":100000
          }
-       } 
+       },
+	{
+         "name":"injective",
+         "address":"injvaloper1x2k4l6k57c2rqhyzdef6y9galutn7psegeqylz",
+         "restake":{
+            "address":"inj1a249jr0y2nvdsuae9nfpa84qlyd57546ncsfdu",
+            "run_time":"19:00",
+            "minimum_reward":100000
+         }
+       },
+	{
+         "name":"axelar",
+         "address":"axelarvaloper108328ue3hazv28cfmwu07d2jdxcu0rymu6vsyf",
+         "restake":{
+            "address":"axelar1yjsme9964m977clg2nlltvn6yc7c7vdm2tyscg",
+            "run_time":"19:00",
+            "minimum_reward":100000
+         }
+       }
     ]
  }

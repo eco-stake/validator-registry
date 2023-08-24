@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "StakerHouse",
+  "identity": "60D9300FE1415E4A",
+  "website": "https://stakerhouse.com",
+  "description": {
+    "overview": "Datacenter-hosted bare-metal infrastructure. Delegate to StakerHouse to earn rewards and help secure Cosmos ecosystem networks. Highly reliable 24/7/365 staking services.",
+    "team": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "support@stakerhouse.com",
+    "telegram": "",
+    "twitter": "stakerhouse",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

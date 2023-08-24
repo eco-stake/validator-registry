@@ -111,6 +111,15 @@
       }
     },
     {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1qs0ngnc4ppvp27ckeyp8e5uf0j275qwvupqvue",
+      "restake": {
+        "address": "qwoyn1m8d834ykcy3dgrdve4xhxky3u3c2tl9d0cjczx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "vidulum",
       "address": "vdlvaloper104v4l7k98ma7h3lldad6lhsp8l62hc7kvkamcr",
       "restake": {

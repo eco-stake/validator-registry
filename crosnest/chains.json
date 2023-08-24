@@ -62,7 +62,7 @@
       "restake": {
         "address": "evmos1ksh2uvrvq7gftgdc8jd2n67pcwcztdxupe9y4u",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 40000000000
       }
     },
     {
@@ -364,6 +364,24 @@
         "address": "gitopia1v9vae554q55xa4pcfdm0p3kv8nxn50jky5q9z2",
         "run_time": "every 15 minutes",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1v8er9uqsx0hd6tav2pltqplu2zgj0a3reaaamt",
+      "restake": {
+        "address": "archway1v9vae554q55xa4pcfdm0p3kv8nxn50jk08mk87",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1mm5p6ak2w94cwry0n42px3ssajgytxnwfvd4w8",
+      "restake": {
+        "address": "sei1v9vae554q55xa4pcfdm0p3kv8nxn50jkhqkytg",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
       }
     },
     {

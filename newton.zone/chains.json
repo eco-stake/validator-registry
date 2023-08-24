@@ -3,6 +3,15 @@
   "name": "newton.zone",
   "chains": [
     {
+      "name": "assetmantle",
+      "address": "mantlevaloper1aeyafvazg3j3x7el8cx9y3g0zekjtfyp6czfd9",
+      "restake": {
+        "address": "mantle1f8ltfcten37lxnsz9lfxctfchgglg5lh5f374n",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "bitsong",
       "address": "bitsongvaloper14uu8czc9jgntxw7xqryx8edmrgszc4xnjy4anh",
       "restake": {

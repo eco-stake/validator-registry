@@ -244,6 +244,42 @@
           "run_time": "21:00",
           "minimum_reward": 100000
         }
+      },
+      {
+        "name": "gitopia",
+        "address": "gitopiavaloper1pzz5lgqqa05xtjyd7w6692ag8slw3lxfrydu6s",
+        "restake": {
+          "address": "gitopia1eml7agwd5x084ennlg6apvskufzrlvnrggaq66",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "irisnet",
+        "address": "iva1eml7agwd5x084ennlg6apvskufzrlvnrkrsf20",
+        "restake": {
+          "address": "iaa1eml7agwd5x084ennlg6apvskufzrlvnrrj6xhg",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "quicksilver",
+        "address": "quickvaloper1v3usw48az24apcvhxfcxkzln2znzzfgh6avssf",
+        "restake": {
+          "address": "quick1eml7agwd5x084ennlg6apvskufzrlvnra529vt",
+          "run_time": "21:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "archway",
+        "address": "archwayvaloper1jzz2uw3nz446s4936afz9408vmk84lytdnkpkf",
+        "restake": {
+          "address": "archway1eml7agwd5x084ennlg6apvskufzrlvnrrmxnlw",
+          "run_time": "21:00",
+          "minimum_reward": 100000000000000
+        }
       }
     ]
   }

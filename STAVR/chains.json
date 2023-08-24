@@ -12,6 +12,42 @@
       }
     },
     {
+      "name": "empowerchain",
+      "address": "empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0",
+      "restake": {
+        "address": "empower1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnlkkvrd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn",
+      "restake": {
+        "address": "haqq17q3zwm3qfcfjs2pvp472tmqsae8n97pnhc8p3f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym",
+      "restake": {
+        "address": "gitopia1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnaz4sks",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+      }
+    },
+        {
+      "name": "composable",
+      "address": "centaurivaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzar2p69",
+      "restake": {
+        "address": "centauri1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn8slmaq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "agoric",
       "address": "agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2",
       "restake": {

@@ -289,6 +289,24 @@
         "run_time": "07:45",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1uhjv3ueraywcaxpdz5uzz0ngnexuc3c8jsr6er",
+      "restake": {
+        "address": "nolus1n4mmffygh8wdm8zfxxv30cg0aq9m2s07ce0qes",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper15eafuvcrh3c07z4g3pqgq68n3lmsyu5jd9swsy",
+      "restake": {
+        "address": "haqq1yyt52xdduwmlrym3ecu0z5636lx5et36ja6wcy",
+        "run_time": "08:15",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
