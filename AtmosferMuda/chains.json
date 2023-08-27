@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AtmosferMuda",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1qksz3uscxvjyv8jdxw7lu26xqksddxwjwf7tvh",
+      "restake": {
+        "address": "sent1undh8du4l3gycl7c8rvqxfygwn022cmmagr49p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

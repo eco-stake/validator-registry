@@ -181,6 +181,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1kz4lzrxgy489wsxvfy3ecf3kv3fuvp8upg66jw",
+      "restake": {
+        "address": "meme1zz3wp5t24ej534nz5g7lxdazekx0aaek33y5rk",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
