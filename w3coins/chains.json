@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1mh2lvhy0clzlx645yet4340ra0p5hh2zjyptj9",
+      "restake": {
+        "address": "evmos1ts0gk2p7khvkpexgug24n6prfd6hmffgjprcxj",
+        "run_time": "every 1 day",
+        "minimum_reward": 1e+19
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper15w6ra6m68c63t0sv2hzmkngwr9t88e23r8vtg5",
       "restake": {
