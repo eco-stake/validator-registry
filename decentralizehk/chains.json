@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "cheqd",
-      "address": "cheqdvaloper1jernznfnvw5ve925gmazjaf7ftxuzz5syj4l9l",
-      "restake": {
-        "address": "cheqd197yc3g8drkf8fyv6fr4ynddy2n22kauu3ef37w",
-        "run_time": "22:00",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "akash",
       "address": "akashvaloper1s9q9ewnpr3jd89lnrme3yjnqdadhpzxdz3q7lf",
       "restake": {
@@ -81,15 +72,6 @@
         "address": "pb1xlenv8d7pzqqmxjc48c02s9xchqlr0sv6mq0js",
         "run_time": "22:00",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper12042n7gq3ll0wuz279ukmapxh3rm54uj38gdue",
-      "restake": {
-        "address": "omniflix197yc3g8drkf8fyv6fr4ynddy2n22kauuz95gzp",
-        "run_time": "22:00",
-        "minimum_reward": 10000
       }
     }
   ]

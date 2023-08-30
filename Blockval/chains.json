@@ -11,6 +11,24 @@
         "minimum_reward": 100000
       }
     },
+   {
+     "name": "panacea",
+     "address": "panaceavaloper1j6d5v4p9ra2jteu45wwfe8ptn79gqrnqkk3hww",
+     "restake": {
+        "address": "panacea1wfna026tuwrsfuvwlf4vpncr0suvpleryyd7rs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva1zhawznhasq6jea2w3n0g3wlrksmcpptnlxw5g0",
+      "restake": {
+        "address": "iaa1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpw4ntf9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
     {
       "name": "planq",
       "address": "plqvaloper1my2zjyuuxghp9dndngf5fs3s0qhsqpdsnxs2t0",

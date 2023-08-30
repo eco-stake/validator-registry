@@ -129,6 +129,24 @@
       }
     },
     {
+      "name": "cheqd",
+      "address": "cheqdvaloper195dyuqn5hrq8nktwhqpn6uqxtvell0nwynmqaj",
+      "restake": {
+        "address": "cheqd194ytn50yhh67rdha8akhs7c6zulnz4n2849r8j",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "chain4energy",
+      "address": "c4evaloper1ctvfwlv9rrf7wrgzdunh8dlheh9d4t63r9xz22",
+      "restake": {
+        "address": "c4e1eryru4nge3w3mdwv2h6mefsv679tem6mush42k",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "emoney",
       "address": "emoneyvaloper1z0cwp2wezmaehlhzdmqpx55vhxupuk52d7ucjy",
       "restake": {
