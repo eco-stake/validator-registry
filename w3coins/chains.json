@@ -19,7 +19,16 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
-    },    
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1lz9p2lggvnz69dm3gutl3jd9z0gxrhh65j4lrs",
+      "restake": {
+        "address": "archway1tcw7hxjd8j5epkjr4yh93yunk6ye2gehfyavgx",
+        "run_time": "every 1 day"
+        "minimum_reward": 10000000000000000000
+      }
+    },
     {
       "name": "bandchain",
       "address": "bandvaloper1hdw8pzr79y4at0teak0mwcrjhv3e6n3wegfv2m",
@@ -27,6 +36,15 @@
         "address": "band1h7akj8cckfrjhndvxtl3ql62ru0kgvxplrpdam",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper17zv86ujaylupukxt6lplg8qtz738n8l4mhk6cm",
+      "restake": {
+        "address": "empower1tcw7hxjd8j5epkjr4yh93yunk6ye2gehqr9rc0",
+        "run_time": "every 1 day"
+        "minimum_reward": 10000000
       }
     },
     {
