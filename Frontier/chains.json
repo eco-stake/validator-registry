@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Frontier",
+  "chains": [
+    {
+      "name": "coreum",
+      "address": "corevaloper1pfh4z2asf6tcp0azfrczlcjtj7x4ezj3r90lc4",
+      "restake": {
+        "address": "core1gl4tftdsnc284xknlf5yttvlw4szwxkzq862g5",
+        "run_time": "every 24 hours",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
