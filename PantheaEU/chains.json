@@ -35,7 +35,7 @@
       "restake": {
         "address": "ki1yqqsskp60ru889m2ac9rtdays6pt9xfyy4m0kd",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "certik1yqqsskp60ru889m2ac9rtdays6pt9xfyjskhnj",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 500000
       }
     }
   ]
