@@ -20,6 +20,15 @@
         "minimum_reward": 1000000
       }
     },
+      {
+        "name": "passage",
+        "address": "pasgvaloper1s7p983anadgrvhtd7duyxjkyqqwywlm5df6hd7",
+        "restake": {
+          "address": "pasg1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpc02qxt",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000000
+        }
+      },
     {
       "name": "irisnet",
       "address": "iva1zhawznhasq6jea2w3n0g3wlrksmcpptnlxw5g0",
