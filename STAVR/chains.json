@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "bandchain",
+      "address": "bandvaloper1e2ksk2qw5wk4a996kj0mp9gucpr96ljnf3r358",
+      "restake": {
+        "address": "band1e496994qpyp8kppvpn005t260x6d27uv9pd8p8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "rizon",
       "address": "rizonvaloper1w7ayxavsjahthtkfdzs8gp75htn30gxru4pmzk",
       "restake": {
