@@ -75,15 +75,6 @@
         }
     },
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1ulwlmzz73gajev5pr0czmd5chgmxyd9j66x568",
-      "restake": {
-        "address": "lum19tzqk0kp67mx4wcedvmefhvk9r2xcxud58sa4u",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
       "name": "mars",
       "address": "marsvaloper1k9dpqcw2fhnfyjgq8awszp4a6rlzdwn9jd9q73",
       "restake": {
@@ -109,6 +100,15 @@
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000000000
           }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1pxmc8m03yh9sdnjxuhdvt9czmg3dxdsrrwjas2",
+      "restake": {
+        "address": "quasar19tzqk0kp67mx4wcedvmefhvk9r2xcxud0whfdd",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
     },
     {
       "name": "realio",
