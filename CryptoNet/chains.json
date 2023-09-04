@@ -154,6 +154,42 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1k55rpam5gk455j82uc8wmxu7mj5m4mnwzypp59",
+      "restake": {
+        "address": "bcna1zz3wp5t24ej534nz5g7lxdazekx0aaek47zzvw",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1g2q8pucmu3px03e2lqdeze7u0cy7tyhrvgx4tj",
+      "restake": {
+        "address": "firma1dh3mgt9l3vv5jj8t8ccshzqmlcg0n52rxv2ka2",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper1f663f9ac0dzgxatrmk8wyf5yhzwrmpz3nqpjg4",
+      "restake": {
+        "address": "vdl174v2rawlqvyytv93nv0c2ww64p2y4ru8rwasyd",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1kz4lzrxgy489wsxvfy3ecf3kv3fuvp8upg66jw",
+      "restake": {
+        "address": "meme1zz3wp5t24ej534nz5g7lxdazekx0aaek33y5rk",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }

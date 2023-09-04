@@ -3,6 +3,18 @@
   "name": "Coinbase Cloud",
   "chains": [
     {
+      "name": "axelar",
+      "address": "axelarvaloper1nqe0ggecgsyaegl4t6m6k4786cd29xjt4znsf5",
+      "restake": {
+        "address": "axelar1mefk55e5m8lka0jlcevj0fs3z5lrstajv6yjln",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper152haa2ekhkefu0xauj92hn54etaqsl4g2908mz",
       "restake": {

@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Chorus One",
+  "services": [
+    {
+      "title": "Chorus One",
+      "description": "Chorus One is one of the biggest non-custodial institutional staking providers globally and operates infrastructure for 40+ Proof-of-Stake networks including Ethereum, Cosmos, Solana, Avalanche, and Near amongst others. We offer easy enterprise-grade staking solutions, industry-leading research, and also invest in some of the most cutting-edge protocols through Chorus Ventures.",
+      "url": "https://chorus.one"
+    }
+  ]
+}

@@ -73,6 +73,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "mun",
+      "address": "munvaloper1pzfy45z6ysd9c0fp83fczt6zhusulr45z8xflq",
+      "restake": {
+        "address": "mun19a9vcvzc8ld33psnq8dm0h4lh5v8seuw4j5a60",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Trinity Validator",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se",
+      "restake": {
+        "address": "sent1eyhgvkqu48luluafpfn4myg5jr04g6zje9zkkf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

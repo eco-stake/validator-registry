@@ -12,11 +12,29 @@
       }
     },
     {
+      "name": "impacthub",
+      "address": "ixovaloper1wudw7wc0wrm7yc38phef6f8gckqkapvgqa6npu",
+      "restake": {
+        "address": "ixo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z74q92g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper1yyk36d3027vak2s65v8jfjwmmczy928h4he9a2",
       "restake": {
         "address": "comdex1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zx0u4hv",
         "run_time": ["06:00", "12:00", "18:00", "00:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1dm8n6c3jf7jzs92ewgfq6236xzw67xhn7rmcxe",
+      "restake": {
+        "address": "empower1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zav6u59",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     },
