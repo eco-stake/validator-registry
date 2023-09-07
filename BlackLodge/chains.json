@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "akash",
+      "address": "akashvaloper1jdq7efmzmc8smscwmaw77vul7wptww74uqtkk9",
+      "restake": {
+        "address": "akash1tqajwhew3f2p3t9rffxvk9eelh283ynn86z2nd",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper13uxvscgvrvxuhlm8vcxg0jnzxjqd5pd5arg3wt",
       "restake": {
