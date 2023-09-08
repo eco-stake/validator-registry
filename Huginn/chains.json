@@ -6,7 +6,7 @@
         "name": "passage",
         "address": "pasgvaloper1fmxyjxaadxyk2am4mphp089c4e94vyxwcdfefw",
         "restake": {
-          "address": "pasg1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9ac4vyp",
+          "address": "pasg1jqz2205er0d8657ugll98c462cyplkcqu4m045",
           "run_time": "every 1 hour",
           "minimum_reward": 10000
         }
@@ -15,7 +15,7 @@
         "name": "rebus",
         "address": "rebusvaloper1mqzfe8y3yat2razmuzxjuwttgq68eshs9dq3w0",
         "restake": {
-          "address": "rebus1059rn0ksgn4e7rp2yq48vp6s8zqy5tl9020rag",
+          "address": "rebus1jqz2205er0d8657ugll98c462cyplkcqw8pqva",
           "run_time": "every 10 minutes",
           "minimum_reward": 100000000000000000
         }
@@ -24,10 +24,64 @@
         "name": "kujira",
         "address": "kujiravaloper1pcp0pags4cjl4us2e69jk73klsl9egcgys5ynz",
         "restake": {
-          "address": "kujira1059rn0ksgn4e7rp2yq48vp6s8zqy5tl90gwwy5",
+          "address": "kujira1jqz2205er0d8657ugll98c462cyplkcqw9qd4p",
           "run_time": "every 1 hour",
           "minimum_reward": 10000
         }
-      }
+      },
+      {
+      "name": "jackal",
+      "address": "jklvaloper1sxnq68tdscu5znhqn408av4vv3g9ka088l2s0j",
+      "restake": {
+        "address": "jkl1jqz2205er0d8657ugll98c462cyplkcqxnvyp5",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }
+      },
+      {
+      "name": "quicksilver",
+      "address": "quickvaloper19wp3y9h3h4yz7teevse22zpxa74skahmd6q3z6",
+      "restake": {
+        "address": "quick1jqz2205er0d8657ugll98c462cyplkcq5fj8pe",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }    
+      },
+      {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1nxhlmhaeme4j25d5vac6tk4wgy092xdsu77h4x",
+      "restake": {
+        "address": "omniflix1jqz2205er0d8657ugll98c462cyplkcqznnv04",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }
+      },
+      {
+      "name": "archway",
+      "address": "archwayvaloper18xqqw8nfrc7zm9286fcl0w64semwxlzgr93gjp",
+      "restake": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }
+      },
+      {
+      "name": "gitopia",
+      "address": "gitopiavaloper13w3z8f4emzuqtgda5crgyq6j4juayv4fdps57x",
+      "restake": {
+        "address": "gitopia1jqz2205er0d8657ugll98c462cyplkcqp49zhg",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000 
+       }
+      },
+      {
+      "name": "aura",
+      "address": "auravaloper1l62cza9x0j2vjs57mujg3agrc8j6m254w3g8se",
+      "restake": {
+        "address": "aura1jqz2205er0d8657ugll98c462cyplkcqym4h6j",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+       }    
+      }    
     ]
   }

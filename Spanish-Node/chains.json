@@ -18,7 +18,25 @@
         "address": "regen16u4r85a3ha9u6ppkjeycsjgw2tehm9z2kcnnu5",
         "run_time": "every 5 hours",
         "minimum_reward": 1000000
-      }
-    }
+         }
+      },
+      {
+      "name": "quicksilver",
+      "address": "quickvaloper17mgc49c3wssrtpdzmvt4xly7d25qxlltp8tu9z",
+      "restake": {
+        "address": "quick16u4r85a3ha9u6ppkjeycsjgw2tehm9z2z7ganz",
+        "run_time": "every 5 hours",
+        "minimum_reward": 1000000
+        }
+      },
+      {
+      "name": "band",
+      "address": "bandvaloper13fwr8rmugu2mfuurfx4sfmyv05haw9sujnqzd8",
+      "restake": {
+        "address": "band1myzqhrsj89ugwglvms3pwx67ew60x9tkg7v345",
+        "run_time": "every 5 hours",
+        "minimum_reward": 1000000
+        }
+     }
   ]
 }

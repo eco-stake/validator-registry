@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Indonode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1pn6ee9kzxczk03pv96mep8r8t79ptxvf7f67sd",
+      "restake": {
+        "address": "plq1pn6ee9kzxczk03pv96mep8r8t79ptxvfqhhyku",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+          }
+       },
+          {
+         "name":"acrechain",
+         "address":"acrevaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzcakwcu",
+         "restake":{
+            "address":"acre1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzp9876p",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000000000000000
+         }
+      },
+         {
+         "name":"arkh",
+         "address":"arkhvaloper17hlrw8m4es5fnqqu9qx254qszpdv0avq2frly7",
+         "restake":{
+            "address":"arkh17hlrw8m4es5fnqqu9qx254qszpdv0avqmsgp99",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000000000000000
+         }
+      },
+          {
+         "name":"8ball",
+         "address":"8ballvaloper1fcx24gvx3at5y8xvjryy36zc3yjtuuw00wpyfq",
+         "restake":{
+            "address":"8ball1fcx24gvx3at5y8xvjryy36zc3yjtuuw0f4nfvm",
+            "run_time":"every 1 hour",
+            "minimum_reward":100000000000000000
+         }
+      }
+    ]
+ }

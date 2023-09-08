@@ -13,6 +13,30 @@
           ],
           "minimum_reward": 10000
         }
-      }
+      },
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper1de7qx00pz2j6gn9k88ntxxylelkazfk3g8fgh9",
+        "restake": {
+          "address": "cosmos1cly2j9mc5pvv008er6ktpn2natcnl9ke76705h",
+          "run_time": [
+            "03:00",
+            "15:00"
+          ],
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "omniflixhub",
+        "address": "omniflixvaloper1de7qx00pz2j6gn9k88ntxxylelkazfk3al79dq",
+        "restake": {
+          "address": "omniflix1cly2j9mc5pvv008er6ktpn2natcnl9kery0krf",
+          "run_time": [
+            "06:00",
+            "12:00"
+          ],
+          "minimum_reward": 1000
+        }
+      }         
     ]
 }

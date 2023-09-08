@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Army IDs",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q",
+      "restake": {
+        "address": "akash1785xzn9qec54fewmezuady4n8tuq00c4npj5sd",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k",
+      "restake": {
+        "address": "comdex1jy7r24psygg39pcrrs6aq4c75gexyctnhmk7xu",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs",
+      "restake": {
+        "address": "desmos1jy7r24psygg39pcrrs6aq4c75gexyctnyvevgn",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1fhx3c0u4ercg9c3sl3pl42sa0vauckfgwv2rq6",
+      "restake": {
+        "address": "firma1785xzn9qec54fewmezuady4n8tuq00c4sfhycd",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as",
+      "restake": {
+        "address": "gravity1785xzn9qec54fewmezuady4n8tuq00c462dtvl",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1jjem7445ggzta4alvxxzmze5ngsxmkruxz4s8w",
+      "restake": {
+        "address": "lum1785xzn9qec54fewmezuady4n8tuq00c4tsz6ur",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f",
+      "restake": {
+        "address": "certik1785xzn9qec54fewmezuady4n8tuq00c4ejrygu",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5",
+      "restake": {
+        "address": "stars1785xzn9qec54fewmezuady4n8tuq00c42xgwzx",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

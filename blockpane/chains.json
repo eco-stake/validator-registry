@@ -47,14 +47,14 @@
       }
     },
     {
-      "name": "sifchain",
-      "address": "sifvaloper1fc8sh7yv9ajwg368j70ezf6pjmfj0m6j20ldka",
+      "name": "injective",
+      "address": "injvaloper125j4jg5d5hs3xvgfn0me69kgdlv9xe9zknvcz4",
       "restake": {
-        "address": "sif17cqeudhhwt8a4hpsp3mg96hy9lwx8t5dxd9nne",
+        "address": "inj1maszypdp9hsckkgxadexz0ndu7870szejq47n4",
         "run_time": [
           "19:00"
         ],
-        "minimum_reward": 1e+16
+        "minimum_reward": 10000
       }
     },
     {

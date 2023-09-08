@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Let's Node!",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper13l7rzp5yjnpnsus8xy8q4ere5agtg37frphfjk",
+      "restake": {
+        "address": "agoric18myg5xy0xumtd28x97hsrlxu05vzku6rfzqsdw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1jtnvqq2knzdu7vs4d60segud98kvjxszn2jnlx",
+      "restake": {
+        "address": "akash1nhf7attgendwuqpnmzpmdk3hjplt4zq88hjdx0",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1t58spqe28a7d8s2902ss90tet7q7e0rxzcyf63",
+      "restake": {
+        "address": "axelar1nhf7attgendwuqpnmzpmdk3hjplt4zq8wzfz55",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1cw8035q5dh9yc5gmk9zzt6k2ven0w292uuk96v",
+      "restake": {
+        "address": "evmos1e8nzrjjuanvtqet5kqngunf40vt8v7kaa6gwv5",
+        "run_time": "17:00",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1uw0uy65pdrpge0xjp492qfqywqpvl5q44ggnsv",
+      "restake": {
+        "address": "umee1nhf7attgendwuqpnmzpmdk3hjplt4zq8c6z4m8",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

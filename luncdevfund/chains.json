@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LUNC Development Fund",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper17x86f3frvfqdacctgqjt3tlnkr26ndqf4y83m3",
+      "restake": {
+        "address": "terra19mh9a8qtr4g8tf0eewejum9c30ftxe07ujtj88",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 250000000
+      }
+    }
+  ]
+}

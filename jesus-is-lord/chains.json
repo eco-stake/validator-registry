@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "JESUSisLORD",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8",
+      "restake": {
+        "address": "terra1n5rw90xpm24gru9vw8cw8ydlju627nwprukq4h",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IBCC DAO",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper13kx2jlq8p8ntl225wxf83ef89900jzm43kcdkq",
+      "restake": {
+        "address": "evmos1nh9t490x3ak3m6krlzgg5v89cjx275jtt3mka4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1f6yd74a39u8v5yurgvf2vrsf7ehv4y9yrf0a5h",
+      "restake": {
+        "address": "osmo1tc0z40u9rkdkuhpvt6sxkg7t60dm9mzh8naj3y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1f6yd74a39u8v5yurgvf2vrsf7ehv4y9ykrqcul",
+      "restake": {
+        "address": "tori1tc0z40u9rkdkuhpvt6sxkg7t60dm9mzhduetux",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Oneiric Stake",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper14qv3eec9chk0d55ldjpffjwdet3wf4tdetqkk2",
+      "restake": {
+        "address": "terra13cfqm24s5n6lwmsvt0l4xxqpv7zsaqlrvf5nwg",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

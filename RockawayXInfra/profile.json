@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "RockawayX Infra",
+  "identity": "EB935356000A9562",
+  "website": "https://rockawayx.com/infrastructure",
+  "description": {
+    "overview": "RockawayX Infra is enterprise-grade bare-metal staking and infrastructure service provider for decentralized blockchain projects.",
+    "team": "Our team has combined over 40 years experience in infrastructure operation, mainly on e-commerce projects.",
+    "security": "We stick to 'least possible keys on server' rule, the vast majority of our keys are stored on hardware devices"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "infra@rockawayx.com",
+    "telegram": "https://t.me/rockawayx_infra",
+    "twitter": "RockawayX_Infra",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

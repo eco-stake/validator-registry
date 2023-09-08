@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TdrSys",
+  "chains": [
+    {
+      "name": "terra2testnet",
+      "address": "terravaloper10t3yytexn3mphr8mjg6agpdh8rm2w2rfe4mztz",
+      "restake": {
+        "address": "terra1yknmx9jncwr4pggum3zxr472zagmt4axn97pw3",
+        "run_time": "18:00",        
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Scafire Nodes",
+  "chains": [
+    {
+      "name": "lambda",
+      "address": "lambvaloper1at4krvmfcquarfuglp0uuu2yfhw9jyp8lt4flf",
+      "restake": {
+        "address": "lamb1p7dwf33a347lwedeletzwcal7u9tgn577lucyp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper12rukq7f30u94h06a0fwvy2rl60cnz97xeq47cs",
+      "restake": {
+        "address": "bluzelle1t8qw548jun5luvjr4v0807halum9928anphpwc",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },    
+    {
+      "name": "planq",
+      "address": "plqvaloper1hr35jxecft8ggkdm7ps26xxf3lk398ngnhm8g2",
+      "restake": {
+        "address": "plq1p7dwf33a347lwedeletzwcal7u9tgn57vqd2rl",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1npq5uy6gdntr6tdl7vj7ssn45g9aw8wlz2wsuq",
+      "restake": {
+        "address": "lumen10eumq5yvapfdan5nxsfkc3arskff3l9v54kt3j",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper130t5gf5xg9dy3qq5a42p0435qlc33t0ggvtq8p",
+      "restake": {
+        "address": "8ball10eumq5yvapfdan5nxsfkc3arskff3l9vf4jdew",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "mun",
+      "address": "munvaloper146klfwj7hk9xpsnakw7efhwtxx5ecnwumva8ev",
+      "restake": {
+        "address": "mun10eumq5yvapfdan5nxsfkc3arskff3l9vmq0xcj",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    },    
+    {
+      "name": "arkh",
+      "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
+      "restake": {
+        "address": "arkh10eumq5yvapfdan5nxsfkc3arskff3l9vdwwu5d",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

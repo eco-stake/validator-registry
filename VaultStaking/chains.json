@@ -1,0 +1,114 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Vault Staking | Slash Protected",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper16v8tgcl2a72zpg74us65wv7626mcnu22l2p0ea",
+      "restake": {
+        "address": "acre1emzdjlfj55gezwr7cswr2e7ys7nqarcl8mcmyn",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1a0wt033eds6lk4y0tucwju2x3weglxzg7vesku",
+      "restake": {
+        "address": "akash186y3rnx7vx2ura44ntayj9yqxdvwtya4g45uvy",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1xklhuzg3d7m3kks8c4tgkgkp307znt0h8tsvkw",
+      "restake": {
+        "address": "aura186y3rnx7vx2ura44ntayj9yqxdvwtya47cweh8",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1d9z4m5g65a5lc96pyd9t7394rsvdcf7ezc2l6j",
+      "restake": {
+        "address": "canto1emzdjlfj55gezwr7cswr2e7ys7nqarcl0wpg0k",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1zy7uuu6cd5fde3uunlh5l40jjf24ypd6rnltv5",
+      "restake": {
+        "address": "comdex186y3rnx7vx2ura44ntayj9yqxdvwtya4zpmevf",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1k5hcl0cjprzewwvzhz3um589kx8skzlrneuepu",
+      "restake": {
+        "address": "evmos1emzdjlfj55gezwr7cswr2e7ys7nqarclle3kpk",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1r5sv0r4t2uu3hxrg4ectp2k75u7vn2g9u64lvh",
+      "restake": {
+        "address": "inj1emzdjlfj55gezwr7cswr2e7ys7nqarclh3hufx",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 500000000000000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1c29qvkt7jkvsjj9h3fl9pgs8vqe3khgqluadfs",
+      "restake": {
+        "address": "gravity186y3rnx7vx2ura44ntayj9yqxdvwtya4p7trsk",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper13qayma5qn93xyhn2urjzc8j3j4f5j5yvgpckvr",
+      "restake": {
+        "address": "migaloo186y3rnx7vx2ura44ntayj9yqxdvwtya4g6spqs",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1w0vwc82emz0ufyuvmvwps8s0lcyxl39nsct0w0",
+      "restake": {
+        "address": "persistence1d0rkf3a4h6c7qet9dm5d6jec2ztzvptumcs7n7",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "point",
+      "address": "pointvaloper12g28ynkz0cm075lfj7kgh3d2aad4z5q6vx7gnt",
+      "restake": {
+        "address": "point1emzdjlfj55gezwr7cswr2e7ys7nqarcl97lru2a",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper19p3ghh2epn7gsqkz4vl7hf7m3klearnef4ng7w",
+      "restake": {
+        "address": "sif186y3rnx7vx2ura44ntayj9yqxdvwtya4qnkd64",
+        "run_time": ["08:00","20:00"],
+        "minimum_reward": 1000000000000000000000
+      }
+    }
+  ]
+}

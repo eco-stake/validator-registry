@@ -64,6 +64,51 @@
           "run_time": "every 10 minutes",
           "minimum_reward": 10000000000000000
         }
+    },
+    {
+        "name": "jackal",
+        "address": "jklvaloper1kwtqwhmhek4pgs0awdfe3p39m3zk9m2ejjhgdw",
+        "restake": {
+          "address": "jkl1r3g7japkptsvt3gv52gvuudprtcue7627d7g38",
+          "run_time": "every 3 minutes",
+          "minimum_reward": 100000
+        }
+    },
+    {
+        "name": "aura",
+        "address": "auravaloper1nqr9rmcw8xzxr4ufklpgae22qnk5pvq2x33tn4",
+        "restake": {
+          "address": "aura1r3g7japkptsvt3gv52gvuudprtcue762u98m2p",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+    },
+    {
+        "name": "nois",
+        "address": "noisvaloper155a3dkeqmzjwdfp08wp7yzwvu404l2mteyl4sl",
+        "restake": {
+          "address": "nois1r3g7japkptsvt3gv52gvuudprtcue762kmdnyq",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1s538squ3v2nzmfdjt8xcsshht5yyctst5g6fw3",
+      "restake": {
+        "address": "omniflix1r3g7japkptsvt3gv52gvuudprtcue7626dpqlx",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+  },
+    {
+    "name": "passage",
+    "address": "pasgvaloper19xhgp8kc49wqpshsl47t2842ed6nxnrx3f6a95",
+    "restake": {
+      "address": "pasg1r3g7japkptsvt3gv52gvuudprtcue762ytfr98",
+      "run_time": "every 5 minutes",
+      "minimum_reward": 100000
     }
+}
   ]
 }

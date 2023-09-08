@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Xxcode",
+  "chains": [
+    {
+      "name": "planq",
+        "address": "plqvaloper1cqql34we9xh92hnkultrkd4f0vh8ac9g5z006d",
+      "restake": {
+        "address": "plq1cqql34we9xh92hnkultrkd4f0vh8ac9g2uz4uu",
+        "run_time": "every 12 hour",
+        "minimum_reward": 100
+          }
+       } 
+    ]
+ } 

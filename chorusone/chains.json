@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Chorus One",
+  "chains": [
+    {
+      "name": "persistencetestnet2",
+      "address": "persistencevaloper1739can4hqj2pm8cka8mqhp07zulegkylgwjkf8",
+      "restake": {
+        "address": "persistence1vcl8w68gzvvmramsvzpdyy24etv89ukq6zq79c",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper15urq2dtp9qce4fyc85m6upwm9xul304945tllg",
+      "restake": {
+        "address": "juno1h3yyyv0lcdtglc2lhn5tl9zpetuwvs47euwa03",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    }
+  ]
+}

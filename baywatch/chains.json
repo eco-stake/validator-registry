@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "baywatch",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper179jgjhh5ue73ppt693dsxcev5s7nlncl59ksnt",
+      "restake": {
+        "address": "terra1cqfdjpq0a3xqzwehr3zjp0prz7khtze79n0xgh",
+        "run_time": "02:00",
+        "minimum_reward": 10000000000
+      }
+    }
+  ]
+}
