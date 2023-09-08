@@ -185,7 +185,7 @@
       "name": "quasar",
       "address": "quasarvaloper1mmxfeejwv3vwdtgy5zmu3546zr837djph2dc92",
       "restake": {
-        "address": "quasar1mmxfeejwv3vwdtgy5zmu3546zr837djpn5avdc",
+        "address": "quasar1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s5ruxnn",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
