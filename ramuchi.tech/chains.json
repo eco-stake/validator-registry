@@ -66,6 +66,15 @@
 	"run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
+    },
+	{
+      "name": "sge",
+      "address": "sgevaloper1q80mr4t60xh33euvu343hsmak2tat2tplz7dj0",
+      "restake": {
+        "address": "sge1tzchfqaztwcekmr2jh6mvfhdt5ncdpnphtq28c",
+	"run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
