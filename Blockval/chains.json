@@ -25,7 +25,7 @@
         "address": "crevaloper1ncs434w3k0ap3zv9wvgtqaklgg06snn9vzak8t",
         "restake": {
           "address": "cre1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpllql7e",
-          "run_time": "21:00",
+          "run_time": "every 1 hour",
           "minimum_reward": 100000
         }
       },
@@ -34,7 +34,7 @@
         "address": "gitopiavaloper1l4tnfvrmjr7kzck4l3jkwz9cfzqq86y7xf9jw2",
         "restake": {
           "address": "gitopia1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp905dyh",
-          "run_time": "21:00",
+          "run_time": "every 1 hour",
           "minimum_reward": 100000
         }
       },
