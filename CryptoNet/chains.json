@@ -199,6 +199,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1qvuygk3deahgffgxnzegc0ycnzculjh83dejgv",
+      "restake": {
+        "address": "bluzelle1rvr2adsun4676s7jqapa209j2ee4d70yy9hqtg",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
