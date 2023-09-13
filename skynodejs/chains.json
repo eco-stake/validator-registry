@@ -33,7 +33,7 @@
       "name": "planq",
       "address": "plqvaloper1nnhnfzx76a7xtxx9dt8nnk98f8ekcg7kc7awp6",
       "restake": {
-        "address": "plqvaloper1nnhnfzx76a7xtxx9dt8nnk98f8ekcg7kc7awp6",
+        "address": "plq1nnhnfzx76a7xtxx9dt8nnk98f8ekcg7kxqs58t",
         "run_time": ["every 60 minutes"],
         "minimum_reward": 100000000000
       }
