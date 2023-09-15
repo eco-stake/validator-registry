@@ -101,6 +101,15 @@
         "run_time": "every 30 seconds",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1jdq7efmzmc8smscwmaw77vul7wptww74ftj82d",
+      "restake": {
+        "address": "umee1tqajwhew3f2p3t9rffxvk9eelh283ynnchjjw9",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1
+      }
     }
   ]
 }
