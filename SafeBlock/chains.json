@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "agoric",
+      "address": "agoricvaloper1wzksq5mrnj2pewm9dyv8fan59f4ds8daj2fq2v",
+      "restake": {
+        "address": "agoric19e3jdwefw4lv3vgk4fl4fgs3t7fk5qtx9y3re3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper1wmy9fpmnc2wnjjutlsvv6xjj7nmn036v9r9efm",
       "restake": {
