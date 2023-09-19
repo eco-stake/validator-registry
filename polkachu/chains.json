@@ -309,15 +309,6 @@
       }
     },
     {
-      "name": "planq",
-      "address": "plqvaloper1w60p4ujcn566tce2kwt5pne5jx3v2wjy9z9vrk",
-      "restake": {
-        "address": "plq1spdlljxpvgzn52qky7hafsdqxpchpydqz35adg",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
       "name": "persistence",
       "address": "persistencevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pz9tqdf",
       "restake": {
@@ -333,15 +324,6 @@
         "address": "quick1xrrfek3qpz4ja8ccrjklfy064asyqq9kckxada",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "sifchain",
-      "address": "sifvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pfj2j90",
-      "restake": {
-        "address": "sif1xrrfek3qpz4ja8ccrjklfy064asyqq9kk0eemy",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 10000000000000000000
       }
     },
     {
