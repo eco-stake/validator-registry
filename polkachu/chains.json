@@ -291,15 +291,6 @@
       }
     },
     {
-      "name": "stride",
-      "address": "stridevaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p9nfwja",
-      "restake": {
-        "address": "stride1xrrfek3qpz4ja8ccrjklfy064asyqq9kseknqr",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "teritori",
       "address": "torivaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pztecrf",
       "restake": {
