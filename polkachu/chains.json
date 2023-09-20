@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "axelar",
-      "address": "axelarvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4ppzdrn6",
-      "restake": {
-        "address": "axelar1xrrfek3qpz4ja8ccrjklfy064asyqq9khuq8lw",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pxqv0cj",
       "restake": {
@@ -223,15 +214,6 @@
       "address": "noisvaloper1z8jthusnem2h2qfa43gzv2eqv3zqmwf633cswz",
       "restake": {
         "address": "nois1xrrfek3qpz4ja8ccrjklfy064asyqq9kz6t9ch",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "nolus",
-      "address": "nolusvaloper1k3wysw06xty072y8pvra2vtwxxc6sjmf4w20sx",
-      "restake": {
-        "address": "nolus1xrrfek3qpz4ja8ccrjklfy064asyqq9k9zxsk2",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
