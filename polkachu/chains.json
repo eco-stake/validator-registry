@@ -3,15 +3,6 @@
   "name": "polkachu.com",
   "chains": [
     {
-      "name": "8ball",
-      "address": "8ballvaloper1l5lpw3tuflzr554d25aajydglfseq33q4mmfa8",
-      "restake": {
-        "address": "8ball1xrrfek3qpz4ja8ccrjklfy064asyqq9km8kzhs",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "agoric",
       "address": "agoricvaloper108p8an08ztyxp8yhd2ca5zn456e3myqksy22pa",
       "restake": {
@@ -72,24 +63,6 @@
         "address": "canto1spdlljxpvgzn52qky7hafsdqxpchpydqel93ln",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pvm8q9p",
-      "restake": {
-        "address": "cerberus1xrrfek3qpz4ja8ccrjklfy064asyqq9k04kxpy",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 100000000
-      }
-    },
-    {
-      "name": "shentu",
-      "address": "certikvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p434ez9",
-      "restake": {
-        "address": "certik1xrrfek3qpz4ja8ccrjklfy064asyqq9k562c4y",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
       }
     },
     {
@@ -210,15 +183,6 @@
       }
     },
     {
-      "name": "konstellation",
-      "address": "darcvaloper1jt9w26mpxxjsk63mvd4m2ynj0af09csldy6sgw",
-      "restake": {
-        "address": "darc1xrrfek3qpz4ja8ccrjklfy064asyqq9kvnz7ec",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 10000000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pnsu9m3",
       "restake": {
@@ -273,15 +237,6 @@
       }
     },
     {
-      "name": "nomic",
-      "address": "nomic1pp0a0v0s8ps2exaaex40e7mf5hq58vtn8s4hhv",
-      "restake": {
-        "address": "nomic1xrrfek3qpz4ja8ccrjklfy064asyqq9k029489",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "omniflixhub",
       "address": "omniflixvaloper1sd2dhys298zrxcr9qlmejmkw7aws4ngg74tfu2",
       "restake": {
@@ -331,6 +286,15 @@
       "address": "sommvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pu0vlu3",
       "restake": {
         "address": "somm1xrrfek3qpz4ja8ccrjklfy064asyqq9klwer99",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p434ez9",
+      "restake": {
+        "address": "certik1xrrfek3qpz4ja8ccrjklfy064asyqq9k562c4y",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
