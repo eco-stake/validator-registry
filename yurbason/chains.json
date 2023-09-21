@@ -40,9 +40,9 @@
     },
 	{
       "name": "shentu",
-      "address": "certikvaloper1nj59qd5h9tt4r0k40twj5ptp9f7xsmg0u6xhlk",
+      "address": "shentuvaloper1nj59qd5h9tt4r0k40twj5ptp9f7xsmg0ez2vwu",
       "restake": {
-        "address": "certik1gkrdcksr3gslm2ngu4c47j36e62hvmv9zmsrmc",
+        "address": "shentu1gkrdcksr3gslm2ngu4c47j36e62hvmv9d8gdgw",
         "run_time": "every 1 hour",
         "minimum_reward": 5000000
       }
