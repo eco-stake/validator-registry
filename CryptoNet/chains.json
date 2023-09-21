@@ -209,6 +209,7 @@
         "minimum_reward": 100000
       }
     },
+    {
       "name": "gitopia",
       "address": "gitopiavaloper1a0wc7n39yuy40r48fe02akce4cc96uvmn94jsy",
       "restake": {
