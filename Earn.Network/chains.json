@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Earn Network",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1kmngdftrv8rq79eswfw0k3z26ah77h5luacg0e",
+      "restake": {
+        "address": "bitsong18j5lkq2ztgmlev8uwugh8ls44fc9mrn280avae",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
