@@ -7,8 +7,8 @@
       "address": "munvaloper125pdta0cn497htn3jyfxaa9pl9pxjlu9h4n0tt",
       "restake": {
         "address": "mun17zgyt45elkc9uq04mn0prcrxmjw9zx22rhr2uq",
-        "run_time": "every 1 minute",
-        "minimum_reward": 1
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000000
       }
     }
     ]
