@@ -39,6 +39,24 @@
       }
     },
     {
+      "name": "kava",
+      "address": "kavavaloper15urq2dtp9qce4fyc85m6upwm9xul3049dcs7da",
+      "restake": {
+        "address": "kava19jttw850zq393xk74v3w2m6cg9zdvqlzxeg43k",
+        "run_time": ["06:06", "18:06"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper16pj5gljqnqs0ajxakccfjhu05yczp987rv492n",
+      "restake": {
+        "address": "kyve1k7qnp4mnch0zuutaqwlvdfkrhzfh5chlvfjf7h",
+        "run_time": ["06:11", "18:11"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "mars",
       "address": "marsvaloper16pj5gljqnqs0ajxakccfjhu05yczp9870ral7t",
       "restake": {
