@@ -8,7 +8,7 @@
       "restake": {
         "address": "persistence1vcl8w68gzvvmramsvzpdyy24etv89ukq6zq79c",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 50000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "juno1h3yyyv0lcdtglc2lhn5tl9zpetuwvs47euwa03",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 50000
+        "minimum_reward": 1000000
       }
     }
   ]
