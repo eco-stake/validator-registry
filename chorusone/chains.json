@@ -7,7 +7,7 @@
       "address": "persistencevaloper1739can4hqj2pm8cka8mqhp07zulegkylgwjkf8",
       "restake": {
         "address": "persistence1vcl8w68gzvvmramsvzpdyy24etv89ukq6zq79c",
-        "run_time": ["09:00", "21:00"],
+        "run_time": ["08:55", "20:55"],
         "minimum_reward": 1000000
       }
     },
