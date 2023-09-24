@@ -1,0 +1,19 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NodeOps",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1w8cupdwm6k3pyj6rz8rtk4wzvaq8h2wjnyks8z",
+      "restake": {
+        "address": "mantle1gl4tftdsnc284xknlf5yttvlw4szwxkzdde5s9",
+        "run_time": "every 24 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1czjw7nkf0x5xl63mdws0k8tnvwer5f2585t72a"
+    }
+  ]
+}
