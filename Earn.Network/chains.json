@@ -6,9 +6,9 @@
       "name": "bitsong",
       "address": "bitsongvaloper1kmngdftrv8rq79eswfw0k3z26ah77h5luacg0e",
       "restake": {
-        "address": "bitsong18j5lkq2ztgmlev8uwugh8ls44fc9mrn280avae",
+        "address": "bitsong1qjxz5z6hnxw9d6hck893cxjllnrfk04f4slep7",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     }
   ]
