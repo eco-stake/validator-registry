@@ -124,6 +124,18 @@
         ],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1r37anntu9wgk06jeycatp2npmytqugq586jzsh",
+      "restake": {
+        "address": "migaloo1jsmtq9z9qpeda0pyff9w8u66mkxrtzsej53pet",
+        "run_time": [
+          "06:00",
+          "18:00"
+        ],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
