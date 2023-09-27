@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "stake.systems",
+    "chains": [
+      {
+        "name": "terra",
+        "address": "terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d",
+        "restake": {
+          "address": "terra135v359ghcp6k6nafmh006hct9t7lxe2nl557ql",
+          "run_time": "18:00",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+  }
