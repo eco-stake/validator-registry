@@ -3,9 +3,9 @@
   "name": "Indonode",
   "services": [
     {
-      "title": "Indonode IBC / Node Services",
-      "description": "We provide every tool and contribution for validators and community only at : ",
-      "url": "https://indonode.net/"
+      "title": "Indonode",
+      "description": "Providing high quality services of staking platform and validator toolings",
+      "url": "https://docs.indonode.net/"
     }
   ]
 }
