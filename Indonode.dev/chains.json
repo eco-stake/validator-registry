@@ -9,8 +9,8 @@
         "address": "plq1uza65au6wdkqyx83mzwhwl0x2jvhpq8z5p5qgq",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000000
-          }
-      },
+         }
+    },
          {
          "name":"bitcanna",
          "address":"bcnavaloper1603vvkelz5e54lqleya8kzcf7lydx98v5tcusp",
@@ -19,7 +19,7 @@
             "run_time":"every 1 hour",
             "minimum_reward": 10000000
          }
-      },
+     },
           {
          "name":"lambda",
          "address":"lambvaloper1v6c6tswdxue2atq8wzzfu3hghzv36skpce5ru7",
@@ -37,6 +37,6 @@
             "run_time":"every 1 hour",
             "minimum_reward": 10000000000000000000
          }
-      },
+      }
     ]
  }
