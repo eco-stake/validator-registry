@@ -4,38 +4,38 @@
   "chains": [
     {
       "name": "planq",
-      "address": "plqvaloper1pn6ee9kzxczk03pv96mep8r8t79ptxvf7f67sd",
+      "address": "plqvaloper123a9zth3jyeurj5zdthxk9zkhufsc5jw2lwjn2",
       "restake": {
-        "address": "plq1pn6ee9kzxczk03pv96mep8r8t79ptxvfqhhyku",
+        "address": "plq1uza65au6wdkqyx83mzwhwl0x2jvhpq8z5p5qgq",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
-          }
-       },
-          {
-         "name":"acrechain",
-         "address":"acrevaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzcakwcu",
-         "restake":{
-            "address":"acre1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzp9876p",
-            "run_time":"every 1 hour",
-            "minimum_reward":100000000000000000
+        "minimum_reward": 10000000000000000000
          }
-      },
+    },
          {
-         "name":"arkh",
-         "address":"arkhvaloper17hlrw8m4es5fnqqu9qx254qszpdv0avq2frly7",
+         "name":"bitcanna",
+         "address":"bcnavaloper1603vvkelz5e54lqleya8kzcf7lydx98v5tcusp",
          "restake":{
-            "address":"arkh17hlrw8m4es5fnqqu9qx254qszpdv0avqmsgp99",
+            "address":"bcna140fe54nq7yn9ll3lk02zk9nfwxr6338f3gftd3",
             "run_time":"every 1 hour",
-            "minimum_reward":100000000000000000
+            "minimum_reward": 10000000
+         }
+     },
+          {
+         "name":"lambda",
+         "address":"lambvaloper1v6c6tswdxue2atq8wzzfu3hghzv36skpce5ru7",
+         "restake":{
+            "address":"lamb1uza65au6wdkqyx83mzwhwl0x2jvhpq8zx79j07",
+            "run_time":"every 1 hour",
+            "minimum_reward": 1000000000000000000
          }
       },
-          {
-         "name":"8ball",
-         "address":"8ballvaloper1fcx24gvx3at5y8xvjryy36zc3yjtuuw00wpyfq",
+           {
+         "name":"point",
+         "address":"pointvaloper1u2rh6077u5urz3gfwm340hyu6r4wu7aj09l8fc",
          "restake":{
-            "address":"8ball1fcx24gvx3at5y8xvjryy36zc3yjtuuw0f4nfvm",
+            "address":"point1uza65au6wdkqyx83mzwhwl0x2jvhpq8z9lm8f8",
             "run_time":"every 1 hour",
-            "minimum_reward":100000000000000000
+            "minimum_reward": 10000000000000000000
          }
       }
     ]
