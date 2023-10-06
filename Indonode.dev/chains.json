@@ -36,6 +36,7 @@
             "address":"point1uza65au6wdkqyx83mzwhwl0x2jvhpq8z9lm8f8",
             "run_time":"every 1 hour",
             "minimum_reward": 100000000000000000
+           }
          },
            {
          "name":"bandchain",
@@ -44,7 +45,7 @@
             "address":"band1kwrkvnkf8kr6ksrddn9hdw3xjzzu0wy4v6nnyu",
             "run_time":"every 1 hour",
             "minimum_reward": 10000
-         }             
+        }             
       }
     ]
  }
