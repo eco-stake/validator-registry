@@ -8,7 +8,7 @@
       "restake": {
         "address": "terra135v359ghcp6k6nafmh006hct9t7lxe2nl557ql",
         "run_time": "18:00",
-        "minimum_reward": 50000000000
+        "minimum_reward": 5000000000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "cosmos1dux8l8t3cku7me3q448fq9kychnhwcpynr6eu0",
         "run_time": "18:00",
-        "minimum_reward": 500000
+        "minimum_reward": 100000
       }
     }
   ]
