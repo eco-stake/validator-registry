@@ -40,7 +40,7 @@
     },
     {
       "name": "arkh",
-      "address": "arkhvaloper1jtf3f9sdzyyh906stvmargtmcm4kq678nxhsrp",
+      "address": "arkhvaloper17q5aers6r5jllckra47ekumk95p84ajw3ax8km",
       "restake": {
         "address": "arkh1e762e7chsgz3aurtelcz948j8gscfr0qrq7tja",
         "run_time": "every 1 minute",
@@ -107,7 +107,16 @@
       "restake": {
         "address": "pasg1e762e7chsgz3aurtelcz948j8gscfr0qvkmd37",
         "run_time": "every 1 minute",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1nnx79egv278zvh7f5pr3y523q5msfcadhkayss",
+      "restake": {
+        "address": "bluzelle1hk86qqk574q5pjdsr43z3wpa4g3h0zk35k2hay",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
       }
     }
   ]
