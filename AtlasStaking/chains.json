@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Active Nodes",
+  "name": "Atlas Staking",
   "chains": [
     {
       "name": "kava",
