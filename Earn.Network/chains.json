@@ -7,8 +7,26 @@
       "address": "bitsongvaloper1kmngdftrv8rq79eswfw0k3z26ah77h5luacg0e",
       "restake": {
         "address": "bitsong1qjxz5z6hnxw9d6hck893cxjllnrfk04f4slep7",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 25000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1lghzhj0dxkelcwv0ec3jtkuyuc4c9qqh9xagg4",
+      "restake": {
+        "address": "mantle18j5lkq2ztgmlev8uwugh8ls44fc9mrn24z5pqu",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 25000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1nzcy43xg9vg5ycw93v7zk3z8u8kfpdwpu93qa6",
+      "restake": {
+        "address": "rebus18j5lkq2ztgmlev8uwugh8ls44fc9mrn26vv3tq",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 25000000000000000000
       }
     }
   ]
