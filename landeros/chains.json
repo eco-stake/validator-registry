@@ -164,6 +164,15 @@
         "minimum_reward": 1000000
       }
     },
+    {
+      "name": "source",
+      "address": "sourcevaloper1mlf8pdyvld99ee04l3x3zrxnhl3dzdwzt7f89h",
+      "restake": {
+        "address": "source12pt2ds9cu80yruy5t86fuuz5t6tm37ajmngr8z",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
      {
       "name": "qwoyn",
       "address": "qwoynvaloper1m5hdja9dr3v6rnljnsf6vwmkjseq5muwpuuxwx",
