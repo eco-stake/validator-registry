@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "OriginStake",
+    "chains": [
+      {
+        "name": "aura",
+        "address": "auravaloper1pms3rklvl59gc4rkrhzxjxneuake3jurm4ay3z",
+        "restake": {
+          "address": "aura1mh45ql5mqhtw86m80yqt58ecrenjvqjz28jz5w",
+          "run_time": "every 30 minutes",
+          "minimum_reward": 100000
+        }
+      }
+    ]
+  }
