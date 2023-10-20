@@ -10,10 +10,7 @@
   },
   "contacts": {
     "email": "contact@stakelab.zone",
-    "telegram": "https://t.me/stakelab_zone",
-    "twitter": "https://twitter.com/StakeLab",
-    "others": {
-      "emergency": "adrien@stakelab.zone"
-    }
+    "telegram": "stakelab_zone",
+    "twitter": "StakeLab"
   }
 }
