@@ -1,5 +1,16 @@
 {
   "$schema": "../profile.schema.json",
   "name": "StakeLab",
-  "identity": "F12B081334CBE0C6"
+  "identity": "F12B081334CBE0C6",
+  "website": "https://stakelab.zone",
+  "description": {
+    "overview": "Staking Hub",
+    "team": "https://www.stakelab.zone/about",
+    "security": "security@stakelab.zone"
+  },
+  "contacts": {
+    "email": "contact@stakelab.zone",
+    "telegram": "https://t.me/stakelab_zone",
+    "twitter": "https://twitter.com/StakeLab"
+  }
 }
