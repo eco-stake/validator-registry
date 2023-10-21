@@ -136,6 +136,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper1g5ukr4fy7h9gp5q7ls0ld8acypl5vamrujndtx",
+      "restake": {
+        "address": "emoney1e762e7chsgz3aurtelcz948j8gscfr0qqdcrtu",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000
+      }
     }
   ]
 }
