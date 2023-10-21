@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "stratos",
+      "address": "stvaloper1g8fmnrz00sqh9pz3ghf8ram9q86te804f8pr28",
+      "restake": {
+        "address": "st1wr08hxf93skh8lfetkw8d5eg6mhxtlpp3qvcdn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sge",
       "address": "sgevaloper19f0w9svr905fhefusyx4z8sf83j6et0gy374fm",
       "restake": {
