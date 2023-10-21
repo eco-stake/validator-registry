@@ -34,6 +34,15 @@
         ],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1t0mg33jqzj4j97uzr2v2cqemg4hzapphkqyuym",
+      "restake": {
+        "address": "source1g82ghw7dy4v5tm208la39hdn42a5d0c02dar8r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
