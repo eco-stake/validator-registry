@@ -208,6 +208,15 @@
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1a0wc7n39yuy40r48fe02akce4cc96uvmn94jsy",
+      "restake": {
+        "address": "gitopia1zz3wp5t24ej534nz5g7lxdazekx0aaek3k45tl",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
     }    
   ]
 }

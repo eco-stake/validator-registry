@@ -1,0 +1,39 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeTown",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper147hzfg34xumd2aplfhx39hweqsem8v0zxqtehx",
+      "restake": {
+        "address": "evmos1fezksqr9vm4x4zvfp50vycaj3dcs048fpddrsm",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper12rkgnycfaqqyclrhquzerrm4nfwg6um26l2aqw",
+      "restake": {
+        "address": "juno1g82ghw7dy4v5tm208la39hdn42a5d0c06v8xsp",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper18x3qqms44kg4sqatvwwfkdav4mt55a9lwycxhp",
+      "restake": {
+        "address": "gitopia1g82ghw7dy4v5tm208la39hdn42a5d0c0jxr2c7",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

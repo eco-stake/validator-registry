@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g",
+      "restake": {
+        "address": "evmos17q3zwm3qfcfjs2pvp472tmqsae8n97pnh7ru4h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0",
       "restake": {
@@ -27,6 +36,24 @@
         "address": "haqq17q3zwm3qfcfjs2pvp472tmqsae8n97pnhc8p3f",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper13l78szv3mxcru9mhh2ndv58xla2arfzhv045cx",
+      "restake": {
+        "address": "source1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn9ftefd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1tav4ldqxyjhcymdhswxrjrmy69un2yh4vpfhtt",
+      "restake": {
+        "address": "canto17q3zwm3qfcfjs2pvp472tmqsae8n97pn8fnzmh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
       }
     },
     {

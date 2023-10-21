@@ -65,6 +65,15 @@
         }
       },
       {
+        "name": "quasar",
+        "address": "quasarvaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdxsned36",
+        "restake": {
+          "address": "quasar1r2dpv99372c3g9l784dhwcqjhtwndex4x0zegj",
+          "run_time": ["00:00","12:00"],
+          "minimum_reward": 1000000
+        }
+      },
+      {
         "name": "stargaze",
         "address": "starsvaloper10jm8fvdyqlj78w0j5nawc76wsn4pqmdx9vsdyy",
         "restake": {

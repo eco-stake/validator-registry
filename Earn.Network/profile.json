@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Earn Network",
+  "identity": "1CFB0912FA8A628F",
+  "website": "https://earn.network",
+  "description": {
+    "overview": "Earn Network provides smart contract infrastructure to connect liquidity providers & pool creators in a completely non-custodial manner."
+  },
+  "contacts": {
+    "email": "support@earn.network",
+    "telegram": "https://t.me/itsearnnetwork",
+    "twitter": "https://www.youtube.com/@Earn-Network",
+    "discord": "https://discord.gg/zAxVTGr648"
+  }
+}
