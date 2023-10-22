@@ -30,6 +30,15 @@
         "run_time": "16:20",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1dvlvtet7nrrnvcuceuf9xqw6ty4jhrfa3aesmg",
+      "restake": {
+        "address": "bcna1dacrwthkeqsfwmk7evd4ft54xkjfe07umv57q2",
+        "run_time": "16:20",
+        "minimum_reward": 100000
+      }
     }
     ]
   }
