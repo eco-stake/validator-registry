@@ -34,7 +34,7 @@
       "address": "sourcevaloper19f0w9svr905fhefusyx4z8sf83j6et0gxxllss",
       "restake": {
         "address": "source1etsdevgm5ps240lrw9mg3p2j32tj96ktgvulzn",
-        "run_time": "every 10 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
     },
