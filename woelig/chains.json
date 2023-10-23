@@ -124,7 +124,7 @@
       "address": "sourcevaloper1ahyj68a3fgfh7swqnfr53l9ltgetn8p73ljm08",
       "restake": {
         "address": "source1e762e7chsgz3aurtelcz948j8gscfr0qfamfvl",
-        "run_time": "every 1 minute",
+        "run_time": "every 30 seconds",
         "minimum_reward": 100000
       }
     },
@@ -144,6 +144,15 @@
         "address": "emoney1e762e7chsgz3aurtelcz948j8gscfr0qqdcrtu",
         "run_time": "every 1 minute",
         "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper15pv5f94t2f3ur9ncd4llawe2rtyq6h8fk4jpxc",
+      "restake": {
+        "address": "bcna1e762e7chsgz3aurtelcz948j8gscfr0q47jk5n",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
       }
     }
   ]
