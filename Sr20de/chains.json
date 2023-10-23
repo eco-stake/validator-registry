@@ -60,7 +60,7 @@
       "name": "realio",
       "address": "realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857",
       "restake": {
-        "address": "realio1lfumv6fa55vapl9sse8mtp3c2l8dxn4wwsqzjn",
+        "address": "realio1s2gswyh8r979cg4ytpqyglx27zdnpk9ulp37p9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
         }
