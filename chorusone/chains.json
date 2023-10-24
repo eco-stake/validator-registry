@@ -186,7 +186,7 @@
       "name": "persistence",
       "address": "persistencevaloper15urq2dtp9qce4fyc85m6upwm9xul3049mnc9ys",
       "restake": {
-        "address": "persistence134en8askwaj5ngl8qhyhsauqkzm8rg33hh5jdg",
+        "address": "persistence15pnsz206ttegjf6hkr503gu3hp5l37tu6ac60z",
         "run_time": ["04:28", "16:28"],
         "minimum_reward": 1000000
       }
