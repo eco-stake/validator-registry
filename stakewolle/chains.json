@@ -291,6 +291,15 @@
       }
     },
     {
+      "name": "neutron",
+      "address": "neutronvaloper1gf4wlkutql95j7wwsxz490s6fahlvk2s7s9qdk",
+      "restake": {
+            "address": "neutron1m7xlymnpxl2d4llu67v08e8xs67dj2fzr26fvm",
+            "run_time": "every 10 minutes",
+            "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nolus",
       "address": "nolusvaloper1f7q0amzd3ug5f9tcw4a435gkmc687zr2k7luj6",
       "restake": {

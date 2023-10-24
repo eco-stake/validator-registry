@@ -12,6 +12,33 @@
           ],
           "minimum_reward": 100000000000000000
         }
+      },      
+    {
+      "name": "meme",
+      "address": "memevaloper192xv4uge42dmn66eyrde6ghef03keaafgvalw9",
+      "restake": {
+        "address": "meme1vpr0xrahf0quhzfwkpas3eplnuna07u74qynd2",
+        "run_time": "16:20",
+        "minimum_reward": 100000
       }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper12t296kzeefpf8sv9ml9cyn2j6yj7v73e6j4p00",
+      "restake": {
+        "address": "decentr1u4q56gptg69n4mygslw07wpp3jr7ge0zpupy6k",
+        "run_time": "16:20",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1dvlvtet7nrrnvcuceuf9xqw6ty4jhrfa3aesmg",
+      "restake": {
+        "address": "bcna1dacrwthkeqsfwmk7evd4ft54xkjfe07umv57q2",
+        "run_time": "16:20",
+        "minimum_reward": 100000
+      }
+    }
     ]
   }
