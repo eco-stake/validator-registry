@@ -56,7 +56,7 @@
         "minimum_reward": 100000
       }
     },
-        {
+    {
       "name": "source",
       "address": "sourcevaloper1vmgdfhlwhymg6kyuyjxnkeug35kpmaq0mv7afq",
       "restake": {
