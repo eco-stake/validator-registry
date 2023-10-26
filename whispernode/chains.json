@@ -2,10 +2,6 @@
   "$schema": "../chains.schema.json",
   "name": " WhisperNode🤐",
   "chains": [
-{
-  "$schema": "../chains.schema.json",
-  "name": " WhisperNode🤐",
-  "chains": [
     {
       "name": "archway",
       "address": "archwayvaloper1xjyw0swav97upg2f5trvuxrmzympm0gu092alx",
