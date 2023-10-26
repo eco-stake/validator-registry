@@ -129,6 +129,15 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper1gf9yvztyvnc3aqrkjd8hfnaf8pk56sl7mzfage",
+      "restake": {
+        "address": "dydx194ytn50yhh67rdha8akhs7c6zulnz4n2qw88v5",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper195dyuqn5hrq8nktwhqpn6uqxtvell0nwynmqaj",
       "restake": {
