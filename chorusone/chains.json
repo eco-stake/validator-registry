@@ -313,6 +313,18 @@
         ],
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper16pj5gljqnqs0ajxakccfjhu05yczp98724qpyn",
+      "restake": {
+        "address": "dydx1a4uzkym5qavyvpnq5x7v2jf0nxsg38gxap7y5x",
+        "run_time": [
+          "01:03",
+          "13:03"
+        ],
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
