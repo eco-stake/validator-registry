@@ -46,6 +46,33 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper1a26v3xxmff4p342wazqm285s47dwqvxfhesj67",
+      "restake": {
+        "address": "centauri1pchsyu3d8c0fezekqmh7ymkesv3gr0scdd7a7w",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1qjh6n9yy4ezaxc723ak9tnalx8424cssvqcyt0",
+      "restake": {
+        "address": "tenet1ayttg2punr4v75hsjnt223x0xmp9fs64kwvrwh",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1ah34q2g6ju5dkc38j00mrrsh288neswan5x34h",
+      "restake": {
+        "address": "source1pchsyu3d8c0fezekqmh7ymkesv3gr0sc052l2r",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

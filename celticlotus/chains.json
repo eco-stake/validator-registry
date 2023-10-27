@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Celtic Lotus🪷",
+  "chains" : [
+  	{
+  		"name": "source",
+  		"address": "sourcevaloper1nktyhpsahf77xz3lgs0vka672v8x0tql5qflr7",
+  		"restake": 
+  		{
+    		"address": "source15jdj2g7qr93gm2nh7jxtw398035r9hwng9gat2",
+    		"run_time": "every 1 hour",
+    		"minimum_reward": 1000000
+  		}
+	}
+	]
+}

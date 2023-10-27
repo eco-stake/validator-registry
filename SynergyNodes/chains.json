@@ -139,6 +139,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
-    }    
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1x6t7qgm8yrf3sxl5gl5uhv44rgxv2jccr8kf7t",
+      "restake": {
+        "address": "persistence1hhzf9u376mg8zcuvx3jsls7t805kzcrs08g846",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }     
   ]
 }

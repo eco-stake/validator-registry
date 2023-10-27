@@ -12,15 +12,6 @@
           }
     },
     {
-      "name": "acrechain",
-      "address": "acrevaloper15ju4sxlr76lc9r9weka3url6t8qfarhnwgstzg",
-      "restake": {
-        "address": "acre1ggzpjmk46lv4ulng7p04k98mg038xk96chmtxu",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000000000000000
-          }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1t94xah65ydrped7m94pxyjmt2lakpnee7gumq7",
       "restake": {
@@ -55,15 +46,6 @@
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000
           }
-    },
-    {
-      "name": "decentr",
-      "address": "decentrvaloper167ye7qvwmz7gfexpud03n7uva6n89k2y3ljzu2",
-      "restake": {
-        "address": "decentr19tzqk0kp67mx4wcedvmefhvk9r2xcxud2rtqpq",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
     },
     {
       "name": "gitopia",

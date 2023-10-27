@@ -171,6 +171,17 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq7tkd8",
+      "restake": {
+        "address": "dydx12xpq68caw2aqdu70jm4k792g0v9prhrpf6gqq0",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw63w87l",
       "restake": {
@@ -215,6 +226,17 @@
           "24:00"
         ],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1dqwmtp0ewnzep83mtf0j73xrwza74ncavusujw",
+      "restake": {
+        "address": "haqq10edr8awd0pulykvqxlwnz9n72rtngwjdz2kky3",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
     },
     {

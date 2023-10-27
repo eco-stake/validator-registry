@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper1vmgdfhlwhymg6kyuyjxnkeug35kpmaq0mv7afq",
+      "restake": {
+        "address": "source1h2ahcqh7yrnzvjj20ekqc9e3eyauedgzxdu2ma",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name":"chain4energy",
       "address": "c4evaloper1ce8fx88m942synxyp9nyg3pn7zr0adf55ygxjv",
       "restake": {

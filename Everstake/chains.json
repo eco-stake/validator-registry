@@ -30,8 +30,8 @@
       "address": "osmovaloper1wgmdcxzp49vjgrqusgcagq6qefk4mtjv5c0k7q",
       "restake": {
         "address": "osmo1g3laz9zpgy8x4k3gdkydf4umnepaug4wlu5ces",
-        "run_time": "20:00",
-        "minimum_reward": 10000
+        "run_time": "every 1 week",
+        "minimum_reward": 100000
       }
     },
 	  

@@ -154,6 +154,51 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1w7k4mfls32c2ungqstgeetguacm07gh9sa6ze8",
+      "restake": {
+        "address": "band1648dkdn3jhh0s0763p425ykerdwm87wwecvww4",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1mnjg9xhraxljrccyw9y6u22ws0fa5asa38nd2q",
+      "restake": {
+        "address": "cosmos1murx57yjv5r5gvspcxxd8d3w0mmy52xth5ncgl",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1ay0a7swjzh6zhcsxhfj5cc4zy329p48d2yvwea",
+      "restake": {
+        "address": "osmo1murx57yjv5r5gvspcxxd8d3w0mmy52xtl0qg7d",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva1q3838zmh2tuzvy6gqq54ny4dxjflj2ewarj2dn",
+      "restake": {
+        "address": "iaa1murx57yjv5r5gvspcxxd8d3w0mmy52xtzknf2w",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1mee6kysxzp99kfvgk7nqx7lrqg8txmw7kap9gy",
+      "restake": {
+        "address": "sei1murx57yjv5r5gvspcxxd8d3w0mmy52xt6czww7",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
