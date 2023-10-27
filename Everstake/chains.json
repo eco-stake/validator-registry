@@ -16,6 +16,16 @@
     },
 	  
     {
+      "name": "dydx",
+      "address": "dydxvaloper1dm25afltds6v8te6m2lt6p0t3m4ygah307p7qn",
+      "restake": {
+        "address": "dydx1g3laz9zpgy8x4k3gdkydf4umnepaug4w77fv04",
+        "run_time": "20:00",
+        "minimum_reward": 100000000000000000
+      }
+    },	  
+	  
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
       "restake": {
