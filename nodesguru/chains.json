@@ -42,6 +42,15 @@
       "address": "desmosvaloper1cfwx90p24tjhjq3z8fq3rexz7v2qn7zmgztky7"
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper19ylcqyrgsejrghujsf6utrgw69nukw9q0xe0sj",
+      "restake": {
+        "address": "dydx1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktf9fal4",
+        "run_time": "00:00",
+        "minimum_reward": 0
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1vw7k3z99swlv7svjmnrrqvu6zdmatqhvzuz7lu",
       "restake": {
