@@ -46,7 +46,8 @@
       "address": "dydxvaloper19ylcqyrgsejrghujsf6utrgw69nukw9q0xe0sj",
       "restake": {
         "address": "dydx1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktf9fal4",
-        "run_time": "00:00"
+        "run_time": "00:00",
+        "minimum_reward": 0
       }
     },
     {
