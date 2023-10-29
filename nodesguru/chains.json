@@ -42,6 +42,10 @@
       "address": "desmosvaloper1cfwx90p24tjhjq3z8fq3rexz7v2qn7zmgztky7"
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper19ylcqyrgsejrghujsf6utrgw69nukw9q0xe0sj"
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1vw7k3z99swlv7svjmnrrqvu6zdmatqhvzuz7lu",
       "restake": {
