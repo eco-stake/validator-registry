@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper19f0w9svr905fhefusyx4z8sf83j6et0gvvcrs2",
+      "restake": {
+        "address": "dydx1etsdevgm5ps240lrw9mg3p2j32tj96kt8xt9j6",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "humans",
       "address": "humanvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqmumcwn",
       "restake": {
