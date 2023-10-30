@@ -23,7 +23,7 @@
       "name": "source",
       "address": "sourcevaloper1ekf7pyst4z8zev9ucq5fcavagcup5a0kn0wcaw",
       "restake": {
-        "address": "source1ekf7pyst4z8zev9ucq5fcavagcup5a0kn3ggxv",
+        "address": "source1qq8l66gn2c7kld853p7yu95kqzqgt44m2n4ffz",
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
