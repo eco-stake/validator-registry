@@ -37,6 +37,15 @@
           ],
           "minimum_reward": 1000
         }
-      }         
+      },
+      {
+        "name": "dydx",
+        "address": "dydxvaloper1k2mlt4akhddh8gz9r3227ruuaestgdczx60vqk",
+        "restake": {
+          "address": "dydx1cly2j9mc5pvv008er6ktpn2natcnl9kehrst5q",
+          "run_time": "every 10 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      }  
     ]
 }
