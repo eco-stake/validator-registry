@@ -165,6 +165,15 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper10ud7hu7p0cckgxf5x3zg46eqz4uuhxf09h3pe2",
+      "restake": {
+        "address": "dydx1mjq48r6435aewerpruwc8up3tz3rzan29qsnpz",
+        "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "emoney",
       "address": "emoneyvaloper1fskgtauswg2d0p79d9gdqj2yjyfulg3d65dtue",
       "restake": {
