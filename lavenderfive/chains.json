@@ -87,6 +87,18 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1nctah0hh98236tatwayzxsmcx4ev52na6y24hm",
+      "restake": {
+        "address": "celestia12xpq68caw2aqdu70jm4k792g0v9prhrp3fh564",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw592tz7g5",
       "restake": {
