@@ -39,7 +39,12 @@
     },
     {
       "name": "celestia",
-      "address": "celestiavaloper1hm2d8e6nd5ngtlte3hlded03vgj3rer94vmdml"
+      "address": "celestiavaloper1hm2d8e6nd5ngtlte3hlded03vgj3rer94vmdml",
+      "restake": {
+        "address": "celestia1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kkf90",
+        "run_time": "00:00",
+        "minimum_reward": 0
+      }
     },
     {
       "name": "desmos",
