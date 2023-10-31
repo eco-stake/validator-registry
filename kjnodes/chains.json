@@ -181,6 +181,15 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1g6aehvj8yq406h7a7eqgxjnlp5em46mknk3ufg",
+      "restake": {
+        "address": "dydx1murx57yjv5r5gvspcxxd8d3w0mmy52xt7daugg",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
   ]
 }
