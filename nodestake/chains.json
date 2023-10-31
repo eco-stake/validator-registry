@@ -17,6 +17,15 @@
       "restake": {
         "address": "canto15xjdrn6t0dyzgzfs8nagmg04yjvn8ls433rsn9",
         "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper19f0w9svr905fhefusyx4z8sf83j6et0g57nch8",
+      "restake": {
+        "address": "celestia1etsdevgm5ps240lrw9mg3p2j32tj96ktl453gq",
+        "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
     },
