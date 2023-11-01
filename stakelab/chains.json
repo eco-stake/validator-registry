@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1lqfqp2w65pjsu6hg3qg4qfp4t2t6da4a3gg8ad",
+      "restake": {
+        "address": "celestia1mjq48r6435aewerpruwc8up3tz3rzan2an08mc",
+        "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "chain4energy",
       "address": "c4evaloper182ylvje7rg46n053lcqkr7s5vq2tqr6j08r45t",
       "restake": {
