@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "desmos",
-      "address": "desmosvaloper1s5gnmccngltteh6ugtsz7fdrykc294tnw2e7pz",
-      "restake": {
-        "address": "desmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atd80uc9",
-        "run_time": "every 8 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "evmos",
       "address": "evmosvaloper19fxanpnjlggzuur3m3x0puk5ez7j9lrttexwsw",
       "restake": {
@@ -61,15 +52,6 @@
       "address": "junovaloper1hx9yj7qgnp8zhkrqfanvz74mcsg9d8eyskvsxg",
       "restake": {
         "address": "juno1hl0jgxre5z0nkyjj07c5vfdy44yk44at0dphgp",
-        "run_time": "every 8 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "lumnetwork",
-      "address": "lumvaloper1zs59ua4l0h6a2hnh08v8qn76f6qh7uxc22vey5",
-      "restake": {
-        "address": "lum1hl0jgxre5z0nkyjj07c5vfdy44yk44atv4l96f",
         "run_time": "every 8 hour",
         "minimum_reward": 100000
       }
@@ -178,15 +160,6 @@
       "address": "omniflixvaloper1u0ch8y4ts6qxaqgw5h05mvtca0zq9rtfdwpytm",
       "restake": {
         "address": "omniflix1hl0jgxre5z0nkyjj07c5vfdy44yk44atypn4cr",
-        "run_time": "every 8 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "irisnet",
-      "address": "iva14ffz956stez2kgqlvz0g342fkts25hndqcaaqf",
-      "restake": {
-        "address": "iaa1hl0jgxre5z0nkyjj07c5vfdy44yk44atvazadv",
         "run_time": "every 8 hour",
         "minimum_reward": 100000
       }
