@@ -147,28 +147,10 @@
       }
     },
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper120xmqjzse2ujs9xcfmqutjn692avpj7vs2rej5",
-      "restake": {
-        "address": "bcna1eml7agwd5x084ennlg6apvskufzrlvnrvq2kat",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "comdex",
       "address": "comdexvaloper16y4mtrncceq0e543cx3ylhv2m89lh98cwatsqp",
       "restake": {
         "address": "comdex1eml7agwd5x084ennlg6apvskufzrlvnr3lc4vw",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "emoney",
-      "address": "emoneyvaloper1mz5g07qxphn3vglnc3z9r405jr7afw74gx8lnp",
-      "restake": {
-        "address": "emoney1eml7agwd5x084ennlg6apvskufzrlvnrenqrzy",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
