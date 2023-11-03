@@ -26,7 +26,7 @@
       "restake": {
         "address": "realio1xr4vhpd97h3pnd80l20slksdtejjdstc32l7ch",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000000
+        "minimum_reward": 1000000000000000000
         }
     },
    {
