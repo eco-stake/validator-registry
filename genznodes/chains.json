@@ -12,15 +12,6 @@
           }
     },
     {
-      "name": "acrechain",
-      "address": "acrevaloper15ju4sxlr76lc9r9weka3url6t8qfarhnwgstzg",
-      "restake": {
-        "address": "acre1ggzpjmk46lv4ulng7p04k98mg038xk96chmtxu",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000000000000000
-          }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1t94xah65ydrped7m94pxyjmt2lakpnee7gumq7",
       "restake": {
@@ -57,28 +48,10 @@
           }
     },
     {
-      "name": "decentr",
-      "address": "decentrvaloper167ye7qvwmz7gfexpud03n7uva6n89k2y3ljzu2",
-      "restake": {
-        "address": "decentr19tzqk0kp67mx4wcedvmefhvk9r2xcxud2rtqpq",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
       "name": "gitopia",
       "address": "gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z",
       "restake": {
         "address": "gitopia19tzqk0kp67mx4wcedvmefhvk9r2xcxudl42r0t",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-        }
-    },
-    {
-      "name": "lumnetwork",
-      "address": "lumvaloper1ulwlmzz73gajev5pr0czmd5chgmxyd9j66x568",
-      "restake": {
-        "address": "lum19tzqk0kp67mx4wcedvmefhvk9r2xcxud58sa4u",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
         }
@@ -109,6 +82,15 @@
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000000000
           }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1pxmc8m03yh9sdnjxuhdvt9czmg3dxdsrrwjas2",
+      "restake": {
+        "address": "quasar19tzqk0kp67mx4wcedvmefhvk9r2xcxud0whfdd",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
     },
     {
       "name": "realio",

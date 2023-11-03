@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "CBC_Venture_Capital",
+  "services": [
+    {
+      "title": "CBC_Venture_Capital",
+      "description": "MUN Validator Node - Secure and Reliable Staking Services with Competitive Rewards. Explorer: https://explorer.mun.money/mun",
+      "url": "https://restake.app/mun/munvaloper1u7y8vuj9vc6ru3yjzaqyrknxddftnzvg6seuc0"
+    }
+  ]
+}

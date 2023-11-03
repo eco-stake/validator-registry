@@ -17,7 +17,7 @@
       "restake": {
         "address": "chihuahua1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjrwtn9h",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000
+        "minimum_reward": 500000000
       }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "cosmos1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjqmxay4",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 50000
       }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
         "address": "juno1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjkf9xrf",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 2000000
       }
     },
     {
@@ -62,7 +62,7 @@
       "restake": {
         "address": "osmo1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjgq4dj8",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 50000
       }
     },
     {
@@ -205,6 +205,15 @@
       "address": "omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl",
       "restake": {
         "address": "omniflix1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgja9hynt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043",
+      "restake": {
+        "address": "celestia1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj33hd7c",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

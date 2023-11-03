@@ -87,6 +87,18 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zcvqd22",
+      "restake": {
+        "address": "celestia12xpq68caw2aqdu70jm4k792g0v9prhrp3fh564",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw592tz7g5",
       "restake": {
@@ -171,6 +183,17 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq7tkd8",
+      "restake": {
+        "address": "dydx12xpq68caw2aqdu70jm4k792g0v9prhrpf6gqq0",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw63w87l",
       "restake": {
@@ -215,6 +238,17 @@
           "24:00"
         ],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1dqwmtp0ewnzep83mtf0j73xrwza74ncavusujw",
+      "restake": {
+        "address": "haqq10edr8awd0pulykvqxlwnz9n72rtngwjdz2kky3",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -492,6 +526,18 @@
       }
     },
     {
+      "name": "sei",
+      "address": "seivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zl6nups",
+      "restake": {
+        "address": "sei12xpq68caw2aqdu70jm4k792g0v9prhrpd0hjxe",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sommelier",
       "address": "sommvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z4mj4sy",
       "restake": {
@@ -541,6 +587,18 @@
       "address": "terravaloper1vcd42qfvlvnjwaw7hvl6y32wrzqxvas653yus9",
       "restake": {
         "address": "terra12xpq68caw2aqdu70jm4k792g0v9prhrpx8uyzc",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "ununifi",
+      "address": "ununifivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z08432q",
+      "restake": {
+        "address": "ununifi12xpq68caw2aqdu70jm4k792g0v9prhrpkp4k6k",
         "run_time": [
           "12:00",
           "24:00"
