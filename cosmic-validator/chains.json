@@ -46,6 +46,18 @@
           "run_time": "every 10 minutes",
           "minimum_reward": 100000000000000000
         }
+      },
+      {
+        "name": "injective",
+        "address": "injvaloper1fa558ytfnekl2zlmv7zpupam7zrcj2wkpqt90x",
+        "restake": {
+          "address": "inj1wxhsfvq5qv6pl00h5m2vdpny0hyr8c48kf9t2a",
+          "run_time": [
+            "08:00",
+            "20:00"
+          ],
+          "minimum_reward": 100000000000000000
+        }
       }  
     ]
 }
