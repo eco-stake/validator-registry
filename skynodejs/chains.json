@@ -57,6 +57,24 @@
       }
     },
     {
+    "name": "realio",
+    "address": "realiovaloper1aqv0y7cuy3j74sz57yjcl2n5q3qkhpt8war8dl",
+    "restake": {
+      "address": "realio1aqv0y7cuy3j74sz57yjcl2n5q3qkhpt86fqaue",
+      "run_time": "every 1 minute",
+      "minimum_reward": 100000
+    }
+  },
+  {
+    "name": "composable",
+    "address": "centaurivaloper15delf9k448kc47erecw5awln4383zwp9e5a5cz",
+    "restake": {
+      "address": "centauri15delf9k448kc47erecw5awln4383zwp9rnhv9m",
+      "run_time": "every 1 minute",
+      "minimum_reward": 100000
+    }
+  },
+    {
       "name": "chain4energy",
       "address": "c4evaloper1h7q7vxrqlt6gzwexuy87ufdfkzccxyklk54sn9",
       "restake": {
