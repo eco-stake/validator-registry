@@ -227,6 +227,24 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper1t8hjjca8kecjtuhs2qy83maurj78fq2z5c44z5",
+      "restake": {
+        "address": "dydx1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0snegl7p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1tzm96yvupy3egtpg6uw0s2f4c85qayw3afwetd",
+      "restake": {
+        "address": "celestia1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0st2htym",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "terra2",
       "address": "terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp",
       "restake": {
