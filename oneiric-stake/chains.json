@@ -28,6 +28,15 @@
         "run_time": "12:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper14m0n559xdj00qwvp6ck0xesprrq26kgpke3xl2",
+      "restake": {
+        "address": "source14m0n559xdj00qwvp6ck0xesprrq26kgpk8hkyg",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
