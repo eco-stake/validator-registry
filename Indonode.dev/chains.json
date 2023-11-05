@@ -46,6 +46,15 @@
             "run_time":"every 1 hour",
             "minimum_reward": 10000
         }             
-      }
+      },
+               {
+         "name":"haqq",
+         "address":"haqqvaloper1hmfc7ezjxpsjprzetayr9ra8ufwgrxee7qhjpt",
+         "restake":{
+            "address":"haqq1uza65au6wdkqyx83mzwhwl0x2jvhpq8zl730s9",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000000000000000
+           }
+         }
     ]
  }
