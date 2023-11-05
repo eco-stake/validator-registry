@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Black Panther",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper10pe4avat38u38yzj5hvnw235uecfff6c73s8fn",
+      "restake": {
+        "address": "inj1weyrgypv9ewd76fvntnr6sl207k4m4fktdle0h",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
