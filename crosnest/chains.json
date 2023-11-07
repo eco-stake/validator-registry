@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper1zqp8f7ehuf64psmg0tz3cydacgk2nshg338e8m",
-      "restake": {
-        "address": "dig1v9vae554q55xa4pcfdm0p3kv8nxn50jkzcwe0j",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "emoney",
       "address": "emoneyvaloper1r7v26mcg7frd8l44p5vr2wfv7eqrhpagffvncl",
       "restake": {
