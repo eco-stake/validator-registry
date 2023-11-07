@@ -105,7 +105,7 @@
       "name": "coreum",
       "address": "corevaloper1fq63eks78npnsgtja8m8nvvv5qmahqxawgpafz",
       "restake": {
-        "address": "core1wcjn4f2evmjesgzx2m7u3h2cay9mehfgtnrklq",
+        "address": "core1936m87h2p5qmxgtr673hg0jdfhtrfqkyfwzy7z",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
@@ -357,7 +357,7 @@
       "name": "shentu",
       "address": "certikvaloper1qy7jncf45lluxaya5jaxf9r284jnmzz5fw2egh",
       "restake": {
-        "address": "certik1m7xlymnpxl2d4llu67v08e8xs67dj2fzqa0uhh",
+        "address": "shentu1m7xlymnpxl2d4llu67v08e8xs67dj2fz0phjyp",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
