@@ -305,7 +305,7 @@
       "restake": {
         "address": "migaloo1v9vae554q55xa4pcfdm0p3kv8nxn50jkhcwgc8",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
@@ -314,7 +314,7 @@
       "restake": {
         "address": "kyve1v9vae554q55xa4pcfdm0p3kv8nxn50jkdz2yxd",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
