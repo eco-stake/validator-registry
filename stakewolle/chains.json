@@ -60,7 +60,7 @@
       "name": "canto",
       "address": "cantovaloper1xn5h73dw565qu9puft6vj5r64h5gfdevd9e9xd",
       "restake": {
-        "address": "canto1wcjn4f2evmjesgzx2m7u3h2cay9mehfg2t6avn",
+        "address": "canto1dms3695w76ucyxh6ezt9aauzthegzpk7euyhxm",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000000000000000
       }
