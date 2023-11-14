@@ -16,8 +16,8 @@
       "address": "cantovaloper1dwezh5d2d79te83u63cr9h8gce02c84t9hmvua",
       "restake": {
         "address": "canto1nkvdrc05qjgj4dumk83puu79uarjrp920ff5qs",
-        "run_time": "every 4 hours",
-        "minimum_reward": 100000000000000000
+        "run_time": "00:00",
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -72,6 +72,15 @@
         "address": "emoney1mwysqcvvhjcntajus2vuezgc5su7kha44wfn3h",
         "run_time": "every 4 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1dwezh5d2d79te83u63cr9h8gce02c84t6srxz9",
+      "restake": {
+        "address": "evmos1nkvdrc05qjgj4dumk83puu79uarjrp92l7e2ws",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -134,7 +143,7 @@
       "restake": {
         "address": "panacea102snugmpm8f9csr7y8me4tzj0cqxuu2muttgl0",
         "run_time": "00:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -148,7 +157,7 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs49pkc09",
+      "address": "shentuvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4qe6r70",
       "restake": {
         "address": "certik1mwysqcvvhjcntajus2vuezgc5su7kha4a90s8p",
         "run_time": "every 4 hour",
