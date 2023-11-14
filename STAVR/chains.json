@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "sge",
+      "address": "sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g",
+      "restake": {
+        "address": "source1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn9ftefd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "canto",
       "address": "cantovaloper1tav4ldqxyjhcymdhswxrjrmy69un2yh4vpfhtt",
       "restake": {
