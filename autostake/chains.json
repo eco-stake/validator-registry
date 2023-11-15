@@ -435,6 +435,15 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper1r3hs6ql0hw4jxt3ct4xwd2v3m7gced2wjxzvwf",
+      "restake": {
+        "address": "source194ytn50yhh67rdha8akhs7c6zulnz4n20ysaua",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "sentinel",
       "address": "sentvaloper138dhtmfslt0ls4ec0jumj8tyajry4dfuv27jay",
       "restake": {
