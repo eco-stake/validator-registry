@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "minmin-net",
+  "chains": [
+    {
+"name": "chihuahua",
+      "address": "chihuahuavaloper1g934hkpnqvg2wnaptj0rtgsl4jnemxtxum9mjx",
+      "restake": {
+        "address": "chihuahua1ad6hwttsftzsajnxvssp7jzzqzxe4p3ysff4nx",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+       }
+    },
+    {
+"name": "mun",
+      "address": "munvaloper12qq4zws7u84dxz0tpkc3ag27v3x8wguasfltkt",
+      "restake": {
+        "address": "mun1ad6hwttsftzsajnxvssp7jzzqzxe4p3yfueas8",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+       }
+    },
+    {
+"name": "ununifi",
+      "address": "ununifivaloper1e6rule3uv2685c0yw07329tu6swec8qxm6a250",
+      "restake": {
+        "address": "ununifi1ad6hwttsftzsajnxvssp7jzzqzxe4p3y97hfg2",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+       }
+    },
+    {
+"name": "irisnet",
+      "address": "iva1sd0eevawxns6nfuav8v7ldqd5k7dnrsh35qvhf",
+      "restake": {
+        "address": "iaa1ad6hwttsftzsajnxvssp7jzzqzxe4p3yx7y2s4",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
