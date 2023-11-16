@@ -3,6 +3,15 @@
   "name": "Enigma",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gah0q9gqypnr7ufzg0dcda3k6v8qp4ceddn8fs",
+      "restake": {
+        "address": "cosmos1pnmlutnxtgp2wvwvf66j6fc08dugsdhlwgt8xa",
+        "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper18tjj8ang9pelwxhdj8uuta6pchz292suncrlrq",
       "restake": {
