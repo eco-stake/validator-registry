@@ -206,7 +206,7 @@
       "restake": {
         "address": "archway1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyzgx8yr",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 3000000000000000000
       }
     },
     {
