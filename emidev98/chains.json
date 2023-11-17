@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "github.com/emidev98",
+  "name": "emidev98",
   "chains": [
     {
       "name": "terra2testnet",
