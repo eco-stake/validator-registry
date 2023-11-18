@@ -1,7 +1,7 @@
 {
   "$schema": "../profile.schema.json",
   "name": "MedasDigital",
-  "identity": "9C7571030BEF5157",
+  "identity": "4772FEADBDA7C42D",
   "website": "https://medas-digital.io",
   "description": {
     "overview": "MedasDigital Validator is a trusted and dedicated blockchain validator, actively securing and validating transactions for Sentinel dVPN and Mars Protocol, while contributing to the growth of decentralized ecosystems.",
@@ -10,7 +10,7 @@
   },
   "contacts": {
     "telephone": "",
-    "email": info@medas-digital.io",
+    "email": "info@medas-digital.io",
     "telegram": "",
     "twitter": "medasdigital",
     "discord": "",
