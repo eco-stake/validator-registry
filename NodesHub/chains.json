@@ -11,6 +11,15 @@
         "run_time": "every 30 Seconds",
         "minimum_reward": 100000
       }
+},
+		{
+      "name": "firmachain",
+      "address": "firmavaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3s2hfk56",
+      "restake": {
+        "address": "firma17x42tua604vqykhd3y7c6zpmf7uted6u3ws9z6",
+        "run_time": "every 5 Minutes",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
