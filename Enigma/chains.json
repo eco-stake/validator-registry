@@ -8,7 +8,7 @@
       "restake": {
         "address": "cosmos1pnmlutnxtgp2wvwvf66j6fc08dugsdhlwgt8xa",
         "run_time": "19:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -17,7 +17,16 @@
       "restake": {
         "address": "celestia1pnmlutnxtgp2wvwvf66j6fc08dugsdhllz6hus",
         "run_time": "19:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper160n4rwm854v06ppkly2pt0zc9rpwlm5y2gjyqf",
+      "restake": {
+        "address": "dydx1pnmlutnxtgp2wvwvf66j6fc08dugsdhl839rx2",
+        "run_time": "19:00",
+        "minimum_reward": 10000
       }
     },
     {
