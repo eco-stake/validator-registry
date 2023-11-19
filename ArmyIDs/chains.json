@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd",
+      "restake": {
+        "address": "pasg1785xzn9qec54fewmezuady4n8tuq00c4azxfyg",
+        "run_time": "00:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "shentu",
       "address": "certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f",
       "restake": {
