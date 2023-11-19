@@ -3,6 +3,15 @@
   "name": "MedasDigital",
   "chains": [
     {
+      "name": "bitcanna",
+      "address": "bcnavaloper1zh99whfy65lnj3xcd8qf6ztt9qeyqw5kgz2ct8",
+      "restake": {
+        "address": "bcna1e2w68724re8a36e53mln7nh3994p5f3sj2z4nz",
+        "run_time": "every hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sentinel",
       "address": "sentvaloper1n00fcnszy0qymnw392tw2awmf3q687xqau5mzh",
       "restake": {
