@@ -1,14 +1,14 @@
 {
   "$schema": "../profile.schema.json",
   "name": "Upnode",
-  "identity": "C08AC3D04F2A192A",
+  "identity": "D0084E1600CCC9F7",
   "website": "https://upnode.org",
   "description": {
-    "overview": "Professionally managed institutional grade blockchain infrastructure provider.",
+    "overview": "We reimburse the fee every month. Professionally managed institutional grade blockchain infrastructure provider.",
     "team": "We are a team of developers and devops engineers with more than 30 years combined experience deploying large scale web2 and web3 systems."
   },
   "contacts": {
     "telephone": "",
-    "email": "security@upnode.org"
+    "email": "hello@upnode.org"
   }
 }

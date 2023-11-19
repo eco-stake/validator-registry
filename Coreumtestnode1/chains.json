@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Coreumtestnode1",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper1tkxd76lfgkaudv6xftj7mvlsylg2z2ugnwnjvr",
+            "restake": {
+                "address": "testcore10hdagcc674va9kt990u8c4vrcqw08cnp9522du",
+                "run_time": "every 1 hours",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}

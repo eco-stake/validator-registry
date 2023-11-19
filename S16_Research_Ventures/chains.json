@@ -14,17 +14,6 @@
       }
     },
     {
-      "name": "juno",
-      "address": "junovaloper1fcve3lyvtddet4zxlqvar94v9xxhrj858aakxl",
-      "restake": {
-        "address": "juno1yw3j54275lz30aamjcwk67kf2fd70mtdrx9kvm",
-        "run_time": [
-          "04:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper1uxn3xw4xzyvu3xka0fr7krsfzyp8af3eyyurzh",
       "restake": {

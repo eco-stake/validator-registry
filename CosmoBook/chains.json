@@ -39,6 +39,15 @@
       }
     },
     {
+       "name": "ununifi",
+       "address": "ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd",
+       "restake": {
+         "address": "ununifi1sflqrmsyxx997np8cnm223p8pzjwpxq7rjn9ku",
+         "run_time": "every 1 hour",
+         "minimum_reward": 10000
+      }
+    },
+    {
        "name": "secretnetwork",
        "address": "secretvaloper1dpyhgvmc7qwxgtg8gcvcx62znmaqtp40plffst",
        "restake": {

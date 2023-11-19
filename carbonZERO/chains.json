@@ -12,12 +12,30 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper17jve5zq7pl737kwaksgtuzmarttn7nsjk3x6sn",
+      "restake": {
+        "address": "axelar1h43hjfxlz8t6y5wewma63jz7melv46gjq52cmh",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "canto",
       "address": "cantovaloper15qssqkxe3lmjgpzec6sltvas4j62f4mdu090md",
       "restake": {
         "address": "canto1p7zjk2xd6eez2g9nzcw3wyavfphg06y8t85duc",
         "run_time": "every 3 hours",
         "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1hgte2tcljnpwpvgt7qclrtk4cd5dwaztyl2h9s",
+      "restake": {
+        "address": "cheqd1h43hjfxlz8t6y5wewma63jz7melv46gj2cssm8",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000
       }
     },
     {

@@ -10,7 +10,7 @@ jobs:
         name: Validating filenames
         with:
           path: '!(*.schema.json|README*|.gitignore)'
-          pattern: '^[a-zA-Z0-9._-]*$'
+          pattern: '^[a-zA-Z0-9._-]*[^\.]$'
 
       - name: Validate profile.json schema
         uses: walbo/validate-json@v1.1.0
