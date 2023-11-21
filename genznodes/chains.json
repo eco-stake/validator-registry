@@ -120,6 +120,15 @@
         }
     },
     {
+      "name": "sge",
+      "address": "sgevaloper1l4988md0lnpg4ln7vhvgy8zgnf3umhkejuuwvl",
+      "restake": {
+        "address": "sge19tzqk0kp67mx4wcedvmefhvk9r2xcxudldn2hz",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "ununifi",
       "address": "ununifivaloper1eeueyzew2hvt9vn8226sjjh6ukuwhqszjpklgk",
       "restake": {
