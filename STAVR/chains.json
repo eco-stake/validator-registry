@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "bostrom",
+      "address": "bostromvaloper165p3as2erpcpkea2v57fzhx5q570t2eumcmtm8",
+      "restake": {
+        "address": "bostrom1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnqfx585",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0",
       "restake": {
