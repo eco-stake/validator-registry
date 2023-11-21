@@ -48,6 +48,15 @@
           }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1lmdttjr98glxt6yee8xxx86mrcrq445744w7xk",
+      "restake": {
+        "address": "core1m2ks2ft78gqk8yut4ajdtssr78u37k2nfx0fng",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+          }
+    },
+    {
       "name": "dydx",
       "address": "dydxvaloper156rvfa7e557j8427mhzjhflf9aakmt35jd4f6m",
       "restake": {
