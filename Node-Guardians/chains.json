@@ -46,6 +46,24 @@
           "run_time": "09:00",
           "minimum_reward": 100000
         }
+      },
+      {
+        "name": "celestia",
+        "address": "celestiavaloper1m58punvt32u07ra4p6x7krgxakye3m90rzgm4c",
+        "restake": {
+          "address": "celestia12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtkky2gu",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "dydx",
+        "address": "dydxvaloper1xwk95hxuude0zz4syvymlkrhjmjkqga7qx6w2r",
+        "restake": {
+          "address": "dydx12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtw9m7jx",
+          "run_time": "09:00",
+          "minimum_reward": 100000000000000000
+        }
       }
     ]
   }

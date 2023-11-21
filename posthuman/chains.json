@@ -208,6 +208,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043",
+      "restake": {
+        "address": "celestia1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj33hd7c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj",
+      "restake": {
+        "address": "firma1ryl6wmxlhhj6564ld0uhsqp6086kvg5rdm9lm9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

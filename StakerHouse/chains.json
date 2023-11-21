@@ -48,6 +48,15 @@
       }
     },
 	{
+      "name": "sge",
+      "address": "sgevaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dryw869h",
+      "restake": {
+        "address": "sge193w9rkakghyl6mfrvx2hhyvqpa4fcjsxcnfj83",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+	{
       "name": "stargaze",
       "address": "starsvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w8qfxwn9",
       "restake": {

@@ -217,7 +217,16 @@
         "run_time": "every 4 hours",
         "minimum_reward": 500000
       }
-    },     
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1ku0vt2rzcdecqcf703vv8665sanz798p6j6zj0",
+      "restake": {
+        "address": "dydx1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnjjffma",
+        "run_time": "every 4 hours",
+        "minimum_reward": 500000000000000000
+      }
+    },  
       {
          "name":"provenance",
          "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",

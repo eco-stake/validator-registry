@@ -62,7 +62,7 @@
       "restake": {
         "address": "fetch1r8egcurpwxftegr07gjv9gwffw4fk009c6xw65",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {

@@ -87,6 +87,18 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zcvqd22",
+      "restake": {
+        "address": "celestia12xpq68caw2aqdu70jm4k792g0v9prhrp3fh564",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw592tz7g5",
       "restake": {
@@ -166,6 +178,17 @@
         "run_time": [
           "12:00",
           "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq7tkd8",
+      "restake": {
+        "address": "dydx12xpq68caw2aqdu70jm4k792g0v9prhrpf6gqq0",
+        "run_time": [
+          "12:00"
         ],
         "minimum_reward": 10000
       }
@@ -348,6 +371,17 @@
     {
       "name": "neutron",
       "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj8exm0",
+      "restake": {
+        "address": "nibi12xpq68caw2aqdu70jm4k792g0v9prhrphxzaft",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
     },
     {
       "name": "nomic",

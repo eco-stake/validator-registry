@@ -30,7 +30,7 @@
       }
     },
     {
-      "name": "band",
+      "name": "bandchain",
       "address": "bandvaloper1ppycvs7hfnw37aghc9mc58zy9al793sr4mwxjg"
     },
     {
@@ -38,8 +38,26 @@
       "address": "crevaloper1dad8evf6vw72seljuzhjgurq48egaqfndvq38v"
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1hm2d8e6nd5ngtlte3hlded03vgj3rer94vmdml",
+      "restake": {
+        "address": "celestia1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kkf90",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper1cfwx90p24tjhjq3z8fq3rexz7v2qn7zmgztky7"
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper19ylcqyrgsejrghujsf6utrgw69nukw9q0xe0sj",
+      "restake": {
+        "address": "dydx1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktf9fal4",
+        "run_time": "00:00",
+        "minimum_reward": 0
+      }
     },
     {
       "name": "evmos",

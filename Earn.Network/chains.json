@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1de5wlw6w6q6pfnh5sfmp3jcu8zd9q9d2rqnws0",
+      "restake": {
+        "address": "chihuahua18j5lkq2ztgmlev8uwugh8ls44fc9mrn2gnz275",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 300000000
+      }
+    },
+    {
       "name": "crescent",
       "address": "crevaloper13s8ja24netlh5pq8p70u8lewphg38kn2mey3ug",
       "restake": {
@@ -81,6 +90,15 @@
         "address": "emoney18j5lkq2ztgmlev8uwugh8ls44fc9mrn2y94sgt",
         "run_time": [ "9:00", "21:00" ],
         "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1pnnp58ks6xlvu0ymzvtlx08shprfjxswq8t7hj",
+      "restake": {
+        "address": "empower18j5lkq2ztgmlev8uwugh8ls44fc9mrn2h2t09g",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 150000000
       }
     },
     {
@@ -156,6 +174,24 @@
       }
     },
     {
+      "name": "konstellation",
+      "address": "darcvaloper12y84tcsduygj5ln77hxffzgsj76nnea5jg8n35",
+      "restake": {
+        "address": "darc18j5lkq2ztgmlev8uwugh8ls44fc9mrn258m4jp",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 150000000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper17m94afav2tzafmckf55caav4j6ew9sup834j4q",
+      "restake": {
+        "address": "kyve18j5lkq2ztgmlev8uwugh8ls44fc9mrn2ugzj5j",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 3000000
+      }
+    },
+    {
       "name": "lambda",
       "address": "lambvaloper1567cv9q79723rj5qmdrl0qhm6ana4vssnkspks",
       "restake": {
@@ -171,6 +207,24 @@
         "address": "panacea1xctkrukqdjv2qcz66k7umek9x76qcmdnjrhvfz",
         "run_time": [ "9:00", "21:00" ],
         "minimum_reward": 2500000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1pwr80h9rzuc5qq94476fvj8z0chk7t8cqw2kzr",
+      "restake": {
+        "address": "pasg18j5lkq2ztgmlev8uwugh8ls44fc9mrn2g7k7jf",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 11000000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1nflr8lussw0jkhdkmq3r02km4g4m68zhq8tgsl",
+      "restake": {
+        "address": "plq12yxhz9pjwsljn9707xqprkcrzkkmrtyxntlerv",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 20000000000000000000
       }
     },
     {
