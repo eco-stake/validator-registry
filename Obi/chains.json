@@ -49,6 +49,18 @@
         ],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper14ts0j42qkpr43a3tgxr7zz6l6zdf7hde3mf2ae",
+      "restake": {
+        "address": "sei13vxflm7u0r6c2tnps6q9xl45v8sktw0gmyeazr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
