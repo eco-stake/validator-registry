@@ -1,0 +1,18 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "ToTheMars",
+  "identity": "777A9084BAC185E1",
+  "description": {
+    "overview": "Space validator"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "tothemars2022@gmail.com",
+    "telegram": "",
+    "twitter": "@tothemars84",
+    "discord": "_tothemars",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
