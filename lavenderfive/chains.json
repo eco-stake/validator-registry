@@ -27,6 +27,18 @@
       }
     },
     {
+      "name": "andromeda",
+      "address": "andrvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57za5dszk",
+      "restake": {
+        "address": "andr12xpq68caw2aqdu70jm4k792g0v9prhrpcgwxu4",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },    
+    {
       "name": "archway",
       "address": "archwayvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zekxzpl",
       "restake": {
