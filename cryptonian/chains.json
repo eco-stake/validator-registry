@@ -19,6 +19,15 @@
         "run_time": "01:00",
         "minimum_reward": 500000
       }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper10sv5pjze703006767hh52jqlkamqe7vnygagc5",
+      "restake": {
+        "address": "shentu10sv5pjze703006767hh52jqlkamqe7vnecdanj",
+        "run_time": "01:00",
+        "minimum_reward": 500000
+      }
     }
   ]
 }
