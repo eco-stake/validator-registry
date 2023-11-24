@@ -111,13 +111,22 @@
         }
        },
        {
-        "name": "mun",
-        "address": "munvaloper1flk3vz5260m7tpyx93wg7lqxkdscy7junhr5l8",
-        "restake": {
-          "address": "mun1e8dhejyszhkcrz9ts0tgltwcj7vh4awdeemt88",
-          "run_time": "every 2 hour",
-          "minimum_reward": 1000000
+       "name": "mun",
+       "address": "munvaloper1flk3vz5260m7tpyx93wg7lqxkdscy7junhr5l8",
+       "restake": {
+         "address": "mun1e8dhejyszhkcrz9ts0tgltwcj7vh4awdeemt88",
+         "run_time": "every 2 hour",
+         "minimum_reward": 1000000
+         }
+       },
+       {
+       "name":"irisnet",
+       "address": "iva1hlytpagdettxeem0g5kd5xakpqd2pls4kxe77q",
+       "restake": {
+         "address": "iaa1e8dhejyszhkcrz9ts0tgltwcj7vh4awdkmxu84",
+         "run_time": "every 2 hour",
+         "minimum_reward": 1000000
         }
-      }
+       }        
     ]
 }
