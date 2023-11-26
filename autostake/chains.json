@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "carbon",
+      "address": "swthvaloper1wmwjagd5yw5rs8hnafkduqa6xq537mys5fjg4s",
+      "restake": {
+        "address": "swth194ytn50yhh67rdha8akhs7c6zulnz4n2kfr4l6",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper1xs2penspev206jj0egh5qu7qmr6mjzfgj299xl",
       "restake": {
@@ -300,6 +309,15 @@
       }
     },
     {
+      "name": "oraichain",
+      "address": "oraivaloper17kwdy56cdu67q0z6tq93dw5gg557h4mpjklq2c",
+      "restake": {
+        "address": "orai194ytn50yhh67rdha8akhs7c6zulnz4n26ylqds",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1pxphtfhqnx9ny27d53z4052e3r76e7qq495ehm",
       "restake": {
@@ -412,6 +430,15 @@
       "address": "seivaloper1yry0nprqutgcll4rqr44e5c2tk2ad6vkahhyrt",
       "restake": {
         "address": "sei194ytn50yhh67rdha8akhs7c6zulnz4n2ymc42z",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1r3hs6ql0hw4jxt3ct4xwd2v3m7gced2wjxzvwf",
+      "restake": {
+        "address": "source194ytn50yhh67rdha8akhs7c6zulnz4n20ysaua",
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }

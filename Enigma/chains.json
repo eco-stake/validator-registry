@@ -3,6 +3,33 @@
   "name": "Enigma",
   "chains": [
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gah0q9gqypnr7ufzg0dcda3k6v8qp4ceddn8fs",
+      "restake": {
+        "address": "cosmos1pnmlutnxtgp2wvwvf66j6fc08dugsdhlwgt8xa",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper107lwx458gy345ag2afx9a7e2kkl7x49y3433gj",
+      "restake": {
+        "address": "celestia1pnmlutnxtgp2wvwvf66j6fc08dugsdhllz6hus",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper160n4rwm854v06ppkly2pt0zc9rpwlm5y2gjyqf",
+      "restake": {
+        "address": "dydx1pnmlutnxtgp2wvwvf66j6fc08dugsdhl839rx2",
+        "run_time": "19:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper18tjj8ang9pelwxhdj8uuta6pchz292suncrlrq",
       "restake": {
@@ -24,7 +51,7 @@
       "name": "assetmantle",
       "address": "mantlevaloper19eq6flxwps9zh4rngxu09r502ly5st8jt2ytc8",
       "restake": {
-        "address": "mantle19eq6flxwps9zh4rngxu09r502ly5st8jt4qlrj",
+        "address": "mantle1pnmlutnxtgp2wvwvf66j6fc08dugsdhlsvszeh",
         "run_time": "",
         "minimum_reward": 100000
       }

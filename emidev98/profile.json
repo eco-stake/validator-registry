@@ -1,0 +1,16 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "emidev98",
+  "identity": "96D529BB4E74A1A0",
+  "website": "https://github.com/emidev98",
+  "description": {
+    "overview":"Core developer at Terra"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "engineering@terra.money",
+    "telegram": "emidev98",
+    "twitter": "",
+    "discord": ""
+  }
+}

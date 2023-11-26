@@ -219,6 +219,15 @@
       }
     },
     {
+      "name": "planq",
+      "address": "plqvaloper1nflr8lussw0jkhdkmq3r02km4g4m68zhq8tgsl",
+      "restake": {
+        "address": "plq12yxhz9pjwsljn9707xqprkcrzkkmrtyxntlerv",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 20000000000000000000
+      }
+    },
+    {
       "name": "oraichain",
       "address": "oraivaloper1v2x8uyv0qzw60ssqav7p2jcm9cz60u633jgw35",
       "restake": {
