@@ -39,10 +39,10 @@
       }
     }, 
     {
-      "name": "quicksilver",
-      "address": "quickvaloper1jdrrc5r0eruz4eqcke0epm3f4u60d5l7548lxl",
+      "name": "lambda",
+      "address": "lambvaloper18nltwmkdacgqswyzq98qeguz6l3mlyafulzee0",
       "restake": {
-        "address": "quick1jdrrc5r0eruz4eqcke0epm3f4u60d5l72cfjgk",
+        "address": "lamb18nltwmkdacgqswyzq98qeguz6l3mlyafn82f6m",
         "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
       }
