@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "shentu",
+      "address": "shentuvaloper1d0jzx50cr5vl87ld8j0q7rfh8ka269vgra237z",
+      "restake": {
+        "address": "shentu1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqntwk7tw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1c4jqjpjxm55hhxvssyuahd3zs3h567x0jyzmx0",
       "restake": {
