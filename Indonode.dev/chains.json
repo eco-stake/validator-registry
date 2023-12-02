@@ -73,6 +73,15 @@
             "run_time":"every 1 hour",
             "minimum_reward": 100000
            }
+         },
+            {
+         "name":"quasar",
+         "address":"quasarvaloper12hxpgn298vkw5mvetud5f5t84mf02l7jez5f8q",
+         "restake":{
+            "address":"quasar140fe54nq7yn9ll3lk02zk9nfwxr6338f9mrhgx",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+           }
          }
     ]
  }
