@@ -183,6 +183,15 @@
       }
     },
     {
+      "name": "kyve",
+      "address": "kyvevaloper1h4kmxv56unpz9sa4hkmhf52kf75tlle89pg57r",
+      "restake": {
+        "address": "kyve1h4kmxv56unpz9sa4hkmhf52kf75tlle8h3g5sp",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1fc5lagv8zpraza7jhtvpn7uk0d2lzgm83ntqfu",
       "restake": {
