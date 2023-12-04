@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "sei",
+      "address": "seivaloper1zv9z2wqt348dhxqn38xv8dvsu78cle4xs2cdf4",
+      "restake": {
+        "address": "sei1pnmlutnxtgp2wvwvf66j6fc08dugsdhlry63qu",
+        "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper18tjj8ang9pelwxhdj8uuta6pchz292suncrlrq",
       "restake": {

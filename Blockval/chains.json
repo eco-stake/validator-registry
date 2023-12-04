@@ -12,12 +12,12 @@
       }
     },
     {
-      "name": "dydx",
-      "address": "dydxvaloper1z5364h8r9axk7h58az0ck0chj3lhl4y2pnytyq",
+      "name": "composable",
+      "address": "centaurivaloper1448zq7a4plgtt5l7u7taxflpj2zs893l8p942q",
       "restake": {
-        "address": "dydx1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpjwa7tr",
+        "address": "centauri1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpla7x08",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
