@@ -21,6 +21,20 @@
       }
     },
     {
+			"name": "teritori",
+			"address": "torivaloper1d43r36j9mx0hk779tcfez0dcjryuhruky3he04",
+			"restake": {
+				"address": "tori1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zr5f74t",
+				"run_time": [
+					"00:00",
+					"06:00",
+					"12:00",
+					"18:00"
+				],
+				"minimum_reward": 100000
+			}
+		},
+    {
       "name": "comdex",
       "address": "comdexvaloper1yyk36d3027vak2s65v8jfjwmmczy928h4he9a2",
       "restake": {
