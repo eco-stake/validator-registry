@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "canto",
+      "address": "cantovaloper14k8l588hp7265a43hk0hd282rdmajy84hq0xhs",
+      "restake": {
+        "address": "canto1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfvs6wvs",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "impacthub",
       "address": "ixovaloper1wudw7wc0wrm7yc38phef6f8gckqkapvgqa6npu",
       "restake": {
