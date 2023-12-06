@@ -21,15 +21,6 @@
       }
     },
 	{
-      "name": "konstellation",
-      "address": "darcvaloper12y7vvhxt2lqsr4k3se40ng2gpr57uwej0lclg5",
-      "restake": {
-        "address": "darc193w9rkakghyl6mfrvx2hhyvqpa4fcjsxejraav",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 10000000
-      }
-    },
-	{
       "name": "lumnetwork",
       "address": "lumvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w84k3adu",
       "restake": {
