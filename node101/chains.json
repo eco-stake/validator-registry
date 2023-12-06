@@ -12,7 +12,7 @@
       }
     },
     {
-      "name": "compossable finance",
+      "name": "composable",
       "address": "centaurivaloper1lrzxwu4dmy8030waevcpft7rpxjjz26c6mldw5",
       "restake": {
         "address": "centauri1vnvs2j0g5x3tel7fddzr85qvv0rddk60qg9pd0",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "orai",
+      "name": "oraichain",
       "address": "oraivaloper1lrzxwu4dmy8030waevcpft7rpxjjz26c704ra2",
       "restake": {
         "address": "orai1vnvs2j0g5x3tel7fddzr85qvv0rddk60h377g0",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "name": "iris",
+      "name": "irisnet",
       "address": "iva1lrzxwu4dmy8030waevcpft7rpxjjz26cy9jhgg",
       "restake": {
         "address": "iaa1vnvs2j0g5x3tel7fddzr85qvv0rddk603qgvtd",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "name": "e-money",
+      "name": "emoney",
       "address": "emoneyvaloper1lrzxwu4dmy8030waevcpft7rpxjjz26cv4yf7w",
       "restake": {
         "address": "emoney1vnvs2j0g5x3tel7fddzr85qvv0rddk60tpjf7p",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "name": "ki-chain",
+      "name": "kichain",
       "address": "kivaloper1lrzxwu4dmy8030waevcpft7rpxjjz26cpu8ms5",
       "restake": {
         "address": "ki1vnvs2j0g5x3tel7fddzr85qvv0rddk6040ejdg",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "name": "band",
+      "name": "bandchain",
       "address": "bandvaloper1l8zzhhe3ltlkk7sd38rcw7u6g9d609t2etc2zp",
       "restake": {
         "address": "band13ufkdk0g8kpflwukkwfguk96l7wqnpqky9duyf",
