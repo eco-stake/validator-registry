@@ -81,6 +81,7 @@
             "address":"quasar140fe54nq7yn9ll3lk02zk9nfwxr6338f9mrhgx",
             "run_time":"every 1 hour",
             "minimum_reward": 100000
+         }
           },
             {
          "name":"quicksilver",
