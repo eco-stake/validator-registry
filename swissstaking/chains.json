@@ -8,7 +8,7 @@
       "restake": {
         "address": "cosmos1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvup2ky0",
         "run_time": "21:00",
-        "minimum_reward": 50000
+        "minimum_reward": 130000
       }
     },
     {
@@ -72,6 +72,15 @@
         "address": "inj14q8vu02v3npvnrxkt7te05tx6ral53rxal3d8e",
         "run_time": "21:00",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1u4vhh70lwlt2va7hw5evzl6sap92t0m9nqzmud",
+      "restake": {
+        "address": "celestia1rjvyczwh5akp2ylg06dr4s2vlx0jmdwvdtmx7z",
+        "run_time": "22:00",
+        "minimum_reward": 100000
       }
     }
   ]
