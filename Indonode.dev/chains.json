@@ -81,7 +81,16 @@
             "address":"quasar140fe54nq7yn9ll3lk02zk9nfwxr6338f9mrhgx",
             "run_time":"every 1 hour",
             "minimum_reward": 100000
-           }
          }
+          },
+            {
+         "name":"quicksilver",
+         "address":"quickvaloper1z8g9wuq7jdy2wxgk422hrqkc74lhkmm4hnrz02",
+         "restake":{
+            "address":"quick140fe54nq7yn9ll3lk02zk9nfwxr6338fqufcu3",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+        }
+      }
     ]
  }
