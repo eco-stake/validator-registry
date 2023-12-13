@@ -12,11 +12,20 @@
       }
     },
     {
+      "name": "gitopia",
+      "address": "gitopiavaloper1lkerplrd03lwdcynyrgmyqdcjgy92cknz4jex9",
+      "restake": {
+        "address": "gitopia1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zlceqpc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "canto",
       "address": "cantovaloper14k8l588hp7265a43hk0hd282rdmajy84hq0xhs",
       "restake": {
         "address": "canto1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfvs6wvs",
-        "run_time": ["00:00", "12:00"],
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
@@ -25,7 +34,7 @@
       "address": "centaurivaloper12dhtnjcgfmyz2l95ezacrac0k3es8jqtyyamdh",
       "restake": {
         "address": "centauri1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z92nt2g",
-        "run_time": ["08:00", "14:00", "20:00", "02:00"],
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000000000
         }
     },
@@ -52,7 +61,7 @@
 	"address": "torivaloper1d43r36j9mx0hk779tcfez0dcjryuhruky3he04",
 	"restake": {
 	  "address": "tori1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zr5f74t",
-	  "run_time": ["06:00", "12:00", "18:00", "00:00"],
+          "run_time": "every 1 hour",
 	  "minimum_reward": 100000
 	}
     },
