@@ -150,7 +150,7 @@
       "name": "lumnetwork",
       "address": "lumvaloper1rs6733nm675q3hzx85dl75t3q893tfukyz22he",
       "restake": {
-        "address": "lum19z9vnuecukh0qjvjdndnyzyyexwfgfmk55ye6p",
+        "address": "lum1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnks0wv8",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -213,7 +213,7 @@
       "name": "agoric",
       "address": "agoricvaloper16w8w9l89av0vey6gdreatkuh43n69u7je2t7l2",
       "restake": {
-        "address": "agoric1z7gmtu0ej0675ykplqj3hs3sly0shy4h73srr5",
+        "address": "agoric1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn38scf9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -249,7 +249,7 @@
       "name": "bitsong",
       "address": "bitsongvaloper1c5p4sqgz5jslpywsk5c0nasqqjfucv9lvjlnry",
       "restake": {
-        "address": "bitsong17t6scmf8r35sp0q34pv703mp0j9tzwwlxr5c0u",
+        "address": "bitsong1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn0nq0mu",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -285,7 +285,7 @@
       "name": "bandchain",
       "address": "bandvaloper1e2ksk2qw5wk4a996kj0mp9gucpr96ljnf3r358",
       "restake": {
-        "address": "band1e496994qpyp8kppvpn005t260x6d27uv9pd8p8",
+        "address": "band1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn64j9pm",
         "run_time": "every 1 hour",
         "minimum_reward": 1
       }
@@ -303,7 +303,7 @@
       "name": "rebus",
       "address": "rebusvaloper18yh3xfp43tpla6hd6wzdxu5lhwfcf3f54gnhey",
       "restake": {
-        "address": "rebus17q3zwm3qfcfjs2pvp472tmqsae8n97pny438mf",
+        "address": "rebus1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnjs3jd9",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
@@ -384,7 +384,7 @@
       "name": "genesisl1",
       "address": "genesisvaloper1p4n3fy8wqmn4ja0fp4lenaemyzlxrp6ysrhxfj",
       "restake": {
-        "address": "genesis17q3zwm3qfcfjs2pvp472tmqsae8n97pntkxyt2",
+        "address": "genesis1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnanx3ax",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
