@@ -7,7 +7,7 @@
       "address": "centaurivaloper1d6kw0gf37p4ejlg6w6q8wrhtm2q59j2e3zqdfe",
       "restake": {
         "address": "centauri128rlx4suej0nxfafnay0ca9e67x73qwawugpjh",
-        "run_time": "once a day",
+        "run_time": "every 1 day",
         "minimum_reward": 1
       }
     } 
