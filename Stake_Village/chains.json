@@ -35,7 +35,7 @@
 			"restake": {
 				"address": "centauri1ytd099sqjsqsxvhh72hykwjh2vrqse2meg73wh",
 				"run_time": "every 6 hours",
-				"minimum_reward": 1000000000000,
+				"minimum_reward": 1000000000000
 			}
 		},
 		{
