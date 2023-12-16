@@ -181,6 +181,18 @@
         ],
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvjeqh0m",
+      "restake": {
+        "address": "celestia1ltd3ynqjvy39r3lc48p4zlqa59hvam5tyemrnd",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1000
+      }
     }
   ]
 }
