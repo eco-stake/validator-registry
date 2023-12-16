@@ -173,6 +173,15 @@
         "minimum_reward": 1000000
       }
     },
+    {
+      "name": "sge",
+      "address": "sgevaloper1kwfy6jpqyct87gatl2fp968lds3m5l7mgznh2u",
+      "restake": {
+        "address": "sge12pt2ds9cu80yruy5t86fuuz5t6tm37ajrq0rqk",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
      {
       "name": "qwoyn",
       "address": "qwoynvaloper1m5hdja9dr3v6rnljnsf6vwmkjseq5muwpuuxwx",
