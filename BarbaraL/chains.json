@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Barbara L",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper14xt7wz9aelrht4haa0gla0cd6vmu3w8pg5mpvh",
+      "restake": {
+        "address": "tori1lfrzpeq8qgpys2x00a9j8wwnz0zt6mavrzfmgr",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}
