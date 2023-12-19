@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "humans",
-      "address": "humanvaloper19gatgmj9m344n9arer3xvyx0p97g5ftz3aspsk",
-      "restake": {
-        "address": "human1408uk4pmf4gdwxelrz3wgfks3ttxujwwfucc6d",
-        "run_time": "every 1 hour",
-        "minimum_reward": 2000000000
-      }
-    },
-    {
       "name": "tenet",
       "address": "tenetvaloper12gsywhykycr8y0gfk06srwersj30h8rd96gg2x",
       "restake": {
