@@ -287,7 +287,7 @@
       "restake": {
         "address": "band1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn64j9pm",
         "run_time": "every 1 hour",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
