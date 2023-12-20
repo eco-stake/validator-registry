@@ -15,18 +15,6 @@
       }
     },
     {
-      "name": "juno",
-      "address": "junovaloper15urq2dtp9qce4fyc85m6upwm9xul304945tllg",
-      "restake": {
-        "address": "juno1h3yyyv0lcdtglc2lhn5tl9zpetuwvs47euwa03",
-        "run_time": [
-          "10:25",
-          "22:25"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "agoric",
       "address": "agoricvaloper15urq2dtp9qce4fyc85m6upwm9xul3049770a06",
       "restake": {
@@ -286,18 +274,6 @@
         "run_time": [
           "05:13",
           "17:13"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "teritori",
-      "address": "torivaloper16pj5gljqnqs0ajxakccfjhu05yczp987p5v9xg",
-      "restake": {
-        "address": "tori16xhzxqvmk8sn9dyzlkly3cv0yxhz0qsjnnkz09",
-        "run_time": [
-          "06:13",
-          "18:13"
         ],
         "minimum_reward": 1000000
       }
