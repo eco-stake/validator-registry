@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Crypto Plant",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper18ryau30pfy3xvzrt5cmcm65xdzxxzq3asvqu3k",
+      "restake": {
+        "address": "chihuahua1ad2fyxdpu7s9epgpszspyzef70jkrcupd2erps",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}
