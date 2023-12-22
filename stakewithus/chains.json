@@ -11,7 +11,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1jlednjxak55pekp8ewg225wdy5wc9c5t80yamg",
+      "address": "shentuvaloper1jlednjxak55pekp8ewg225wdy5wc9c5tzhgx2z",
       "restake": {
-        "address": "certik1ltd3ynqjvy39r3lc48p4zlqa59hvam5tjmkygt",
+        "address": "shentu1ltd3ynqjvy39r3lc48p4zlqa59hvam5ta8w2ma",
         "run_time": [
           "00:00",
           "12:00"
