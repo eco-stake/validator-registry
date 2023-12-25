@@ -1,0 +1,33 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Apple juice",
+    "chains": [
+      {
+        "name": "sifchain",
+        "address": "sifvaloper1hsxakzjzadrte27xkphdxpvdklelwzjcyr4rll",
+        "restake": {
+          "address": "sif1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nv2e3uf",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000000
+        }
+      },
+      {
+        "name": "planq",
+        "address": "plqvaloper1ce3ph94mxpyqznyf65der8wx7g26x3q9c9qsrd",
+        "restake": {
+          "address": "plq1a7aj3s6qe4c27rulj7rfhdqg3kyw33v77xxvsa",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+        "name": "gitopia",
+        "address": "gitopiavaloper1ue20mxe9wsa8ayh27hhaqurcy52kc6y3z54ja4",
+        "restake": {
+          "address": "gitopia1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nh03sup",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 10000
+        }
+      }
+    ]
+  }
