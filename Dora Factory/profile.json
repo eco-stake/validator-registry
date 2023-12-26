@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Dora Factory",
+  "identity": "545AE344AB790D22",
+  "website": "https://dorafactory.org",
+  "contacts": {
+    "telephone": "",
+    "email": "node-operation@mail.dorafactory.org",
+    "telegram": "votadevopsupport",
+    "twitter": "DoraFactory",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
