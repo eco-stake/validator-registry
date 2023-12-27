@@ -7,7 +7,7 @@
       "address": "injvaloper1dknnk0nzap8h07elxays2ecldxq9elu3dzqvqr",
       "restake": {
         "address": "inj136g83mnzysauu8van6mmhz9jygnce326nlayur",
-        "run_time": ["09:00"],
+        "run_time": "every 1 week",
         "minimum_reward": 100000000000000000
       }
     }
