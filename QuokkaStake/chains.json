@@ -46,6 +46,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1xqz9pemz5e5zycaa89kys5aw6m8rhgsvw4328e",
+      "restake": {
+        "address": "cosmos1nuf0cf3y787y0caqfrf6qhsaz2uhf4npvwjqvp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1w52vzp25uj9zvd0rtt6s6stud3ff8n3pzklusg",
+      "restake": {
+        "address": "gitopia1nuf0cf3y787y0caqfrf6qhsaz2uhf4npjk4hrz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

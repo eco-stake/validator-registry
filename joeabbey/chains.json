@@ -156,6 +156,33 @@
       }
     },
     {
+      "name": "migaloo",
+      "address": "migaloovaloper1xwazl8ftks4gn00y5x3c47auquc62ssu6wtv34",
+      "restake": {
+        "address": "migaloo195mm9y35sekrjk73anw2az9lv9xs5mzthzxufe",
+        "run_time": "19:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu4rf3nu",
+      "restake": {
+        "address": "nois195mm9y35sekrjk73anw2az9lv9xs5mztt7jvs0",
+        "run_time": "19:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1xwazl8ftks4gn00y5x3c47auquc62ssu489zsx",
+      "restake": {
+        "address": "omniflix195mm9y35sekrjk73anw2az9lv9xs5mzt8g7ltf",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1xwazl8ftks4gn00y5x3c47auquc62ssuh8af89",
       "restake": {

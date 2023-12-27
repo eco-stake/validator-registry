@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ITRocket",
+  "chains": [
+    {
+      "name": "nois",
+      "address": "noisvaloper19yul78yu9jzay9afsyjgmv0pk0k5rl80sa6vlx",
+      "restake": {
+        "address": "nois122m6glax3ne4c03femzmpr8s6lx3vv3lncnkgd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

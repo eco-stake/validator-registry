@@ -15,9 +15,9 @@
       "name": "kava",
       "address": "kavavaloper1r2ea4069j7rfemtt2k6ej5glctg9qe3y86rltf",
       "restake": {
-        "address": "kava1r2ea4069j7rfemtt2k6ej5glctg9qe3y2vehn7",
+        "address": "kava1mtuk4v2gxkkwwg0sywhemgwqxjpndmflzfj420",
         "run_time": "every day",
-        "minimum_reward": 1000
+        "minimum_reward": 1000000
       }
     }
   ]

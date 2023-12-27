@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Black Panther",
+  "identity": "18BEBD4F265E2994",
+  "website": "https://blackpanther.fi",
+  "description": {
+    "overview": "Black Panther is an asset management protocol that helps you achieve superior returns.",
+    "team": "We are a team of DeFi enthusiasts who has experience building trading systems and cloud solutions"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hello@blackpanther.fi",
+    "telegram": "blackpanther_fi",
+    "twitter": "BlackPanther_Fi",
+    "discord": "https://discord.gg/ftcDnpvWHx",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeTown",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper147hzfg34xumd2aplfhx39hweqsem8v0zxqtehx",
+      "restake": {
+        "address": "evmos1fezksqr9vm4x4zvfp50vycaj3dcs048fpddrsm",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper12rkgnycfaqqyclrhquzerrm4nfwg6um26l2aqw",
+      "restake": {
+        "address": "juno1g82ghw7dy4v5tm208la39hdn42a5d0c06v8xsp",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper18x3qqms44kg4sqatvwwfkdav4mt55a9lwycxhp",
+      "restake": {
+        "address": "gitopia1g82ghw7dy4v5tm208la39hdn42a5d0c0jxr2c7",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1t0mg33jqzj4j97uzr2v2cqemg4hzapphkqyuym",
+      "restake": {
+        "address": "source1g82ghw7dy4v5tm208la39hdn42a5d0c02dar8r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1233jc4jweq8xemmgn7fncq5zqh5xr6lgedzntv",
+      "restake": {
+        "address": "aura1g82ghw7dy4v5tm208la39hdn42a5d0c0hgnl4y",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1m6dauh8ta2m37h6mvedv9hzutknu9c7jyfperz",
+      "restake": {
+        "address": "quasar1g82ghw7dy4v5tm208la39hdn42a5d0c0za7q6c",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

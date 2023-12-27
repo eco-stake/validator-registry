@@ -1,0 +1,51 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Stake Village",
+	"chains": [
+		{
+			"name": "gitopia",
+			"address": "gitopiavaloper1u5q7vgp47z6d86cya69f8zdwc0z7r6lqkxxrsv",
+			"restake": {
+			  "address": "gitopia1ytd099sqjsqsxvhh72hykwjh2vrqse2mr65698",
+			  "run_time": "every 6 hours",
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "empowerchain",
+			"address": "empowervaloper19u7ugg0dl8mtm9gu72qzyykr8djkfmmrflnvkh",
+			"restake": {
+			  "address": "empower1ytd099sqjsqsxvhh72hykwjh2vrqse2mpwhxs6",
+			  "run_time": "every 6 hours",
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "evmos",
+			"address": "evmosvaloper1kgrgr602emu8nc2rhfvt7pzxf33jfu4fgd204r",
+			"restake": {
+				"address": "evmos1eurvw9ql4apuuc4cn5s4wkthtgstnrr8lesjyl",
+				"run_time": "every 6 hours",
+				"minimum_reward": 1000000000000000000
+			}
+		},
+		{
+			"name": "composable",
+			"address": "centaurivaloper1ang6lqf2zzgjln4zx6elj594m72lz8gfqsz4hc",
+			"restake": {
+				"address": "centauri1ytd099sqjsqsxvhh72hykwjh2vrqse2meg73wh",
+				"run_time": "every 6 hours",
+				"minimum_reward": 1000000000000
+			}
+		},
+		{
+			"name": "umee",
+			"address": "umeevaloper1utd592msy5cd434gqv8wh6mcmda6wlenq2j2r4",
+			"restake": {
+				"address": "umee1ytd099sqjsqsxvhh72hykwjh2vrqse2m05wjwk",
+				"run_time": "every 6 hours",
+				"minimum_reward": 10000000
+			}
+		}
+	]
+}

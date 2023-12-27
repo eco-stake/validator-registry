@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StellarDrift",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1u6q92vhz6uxwr7ez605p900ff3m9z93n9ssc4s",
+      "restake": {
+        "address": "terra1hhe6ntdx48a2l9e66m0u76hzzwsjsz05qf8ap5",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

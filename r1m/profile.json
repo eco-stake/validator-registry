@@ -1,0 +1,10 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "R1M",
+  "identity": "6D63A07B174D80BB",
+  "contacts": {
+    "email": "r1m.nodes@gmail.com",
+    "telegram": "https://t.me/roadto1m",
+    "discord": "$ Hottochelli#4787"
+  }
+}

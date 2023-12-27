@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ImStaked",
+  "chains": [
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1und36mlzn6pl6fvv95733sd460wkqzq5hgr6yj",
+      "restake": {
+        "address": "fetch1zx9ddguydupq0rwz5fgf3mfvmrxdd4akmaqek3",
+        "run_time": "00:00",
+        "minimum_reward": 100
+      }
+    }	
+  ]
+}
+
+

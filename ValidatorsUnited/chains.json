@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper108eqqslmfeyd2esvgfa4333lthn2dw30q4uxyv",
+      "restake": {
+        "address": "evmos1vu78p648x8uu8qy46zzawehc9htj6884wj82q6",
+        "run_time": "every 8 hours",
+        "minimum_reward": 108000000000000000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper108uz380f2cq0smyescunqwz9lrk5apnzamv3r2",
       "restake": {

@@ -3,12 +3,21 @@
   "name": "cyberomanov",
   "chains": [
     {
-      "name": "quicksilver",
-      "address": "quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh",
+      "name": "kyve",
+      "address": "kyvevaloper1kr0flj8lm6x3xkwz0k37j7mknhs4375vtxqfsk",
       "restake": {
-        "address": "quick1wtuflt4f8md700td4s7xst7jt6l58hnmy89asc",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100
+        "address": "kyve1wtuflt4f8md700td4s7xst7jt6l58hnmcdcezw",
+        "run_time": "daily",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady",
+      "restake": {
+        "address": "omniflix1wtuflt4f8md700td4s7xst7jt6l58hnmjayk75",
+        "run_time": "daily",
+        "minimum_reward": 100000
       }
     }
   ]

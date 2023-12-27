@@ -17,16 +17,16 @@
       "restake": {
         "address": "kava1yd9gt86dp4duu5re0dyuau2lm5th4aqzm69klz",
         "run_time": "09:00",
-        "minimum_reward": 500000
+        "minimum_reward": 1000000
       }
     },
     {
       "name": "bandchain",
       "address": "bandvaloper1em0rejsr2wva5flz7fv9qkx6wc755cvcqe9teq",
       "restake": {
-        "address": "band1em0rejsr2wva5flz7fv9qkx6wc755cvcv0pgut",
+        "address": "band1vwqhy297vj906z9j0de527wyp8xndmu6gz3qh4",
         "run_time": "12:00",
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },      
     {
@@ -35,7 +35,7 @@
       "restake": {
         "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
         "run_time": "10:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
      }
     }
   ]
