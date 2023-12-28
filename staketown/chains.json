@@ -55,6 +55,15 @@
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "andromeda",
+      "address": "andrvaloper1aqfcry6dpqkzn6yvg2k7f89kgu3tcyzwqx0cth",
+      "restake": {
+        "address": "andr1g82ghw7dy4v5tm208la39hdn42a5d0c054vlts",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
