@@ -3,6 +3,15 @@
   "name": "CatalystiX",
   "chains": [
     {
+      "name": "8ball",
+      "address": "8ballvaloper1l5lpw3tuflzr554d25aajydglfseq33q4mmfa8",
+      "restake": {
+        "address": "8ball1xrrfek3qpz4ja8ccrjklfy064asyqq9km8kzhs",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "terra",
       "address": "terravaloper1pqaencqr3we900vzwz2hxkptf6vdznj3m5hjxg",
       "restake": {
