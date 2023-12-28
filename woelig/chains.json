@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "terra",
-      "address": "terravaloper1fgj2fdyw8cvq84jfp632f4ypjrrkrdrskms92s",
-      "restake": {
-        "address": "terra1hq43hnjd5dslplcjldw7m3zxdexeaudl9tk9ga",
-        "run_time": "every 1 minute",
-        "minimum_reward": 1000000000
-      }
-    },
-    {
       "name": "echelon",
       "address": "echelonvaloper1tswl52qtws8lud7n8l09a7w2v5vcamzs26x9j3",
       "restake": {
@@ -39,15 +30,6 @@
       }
     },
     {
-      "name": "bluzelle",
-      "address": "bluzellevaloper1nnx79egv278zvh7f5pr3y523q5msfcadhkayss",
-      "restake": {
-        "address": "bluzelle1hk86qqk574q5pjdsr43z3wpa4g3h0zk35k2hay",
-        "run_time": "every 1 minute",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "vidulum",
       "address": "vdlvaloper16xp908ggtnau0w7wzgmxtvxns845yflhp0eehu",
       "restake": {
@@ -57,17 +39,8 @@
       }
     },
     {
-      "name": "lumenx",
-      "address": "lumenvaloper1qv0jj82229n73umwx6493gd7s5sn6agmx72h09",
-      "restake": {
-        "address": "lumen1e762e7chsgz3aurtelcz948j8gscfr0q6mxuhz",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000
-      }
-    },
-    {
       "name": "arkh",
-      "address": "arkhvaloper1jtf3f9sdzyyh906stvmargtmcm4kq678nxhsrp",
+      "address": "arkhvaloper17q5aers6r5jllckra47ekumk95p84ajw3ax8km",
       "restake": {
         "address": "arkh1e762e7chsgz3aurtelcz948j8gscfr0qrq7tja",
         "run_time": "every 1 minute",
@@ -84,12 +57,66 @@
       }
     },
     {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper1007jaws5fwa72l0w5xaazvr6ng3d70peteqd0l",
+      "name": "gitopia",
+      "address": "gitopiavaloper16d9d7rg84w0pfu5ynqq2deuj94sjmr34l3kcd6",
       "restake": {
-        "address": "omniflix1e762e7chsgz3aurtelcz948j8gscfr0qjsnwtl",
+        "address": "gitopia1e762e7chsgz3aurtelcz948j8gscfr0q3k9qnz",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1t4t080udhwducg7yv98stvmn9mnlh8hsyqa947",
+      "restake": {
+        "address": "tenet1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8m40f5q",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper1pkg5qkrus99n4cj8hrt25j63phh2r8huw0cy6a",
+      "restake": {
+        "address": "centauri1e762e7chsgz3aurtelcz948j8gscfr0qty0tcj",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper10rmrvtch8f0nparv3g9hm4nl5u88dp5a07nc7v",
+      "restake": {
+        "address": "ixo1e762e7chsgz3aurtelcz948j8gscfr0qsmu9cj",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "mun",
+      "address": "munvaloper1qrapjgprpg4scrxjcwraw2jrutpg746c0sz2mt",
+      "restake": {
+        "address": "mun1e762e7chsgz3aurtelcz948j8gscfr0q4wl37z",
         "run_time": "every 1 minute",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1k2ctj8zsu7n898neralqj7ztj94leedrl03u3u",
+      "restake": {
+        "address": "pasg1e762e7chsgz3aurtelcz948j8gscfr0qvkmd37",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1nnx79egv278zvh7f5pr3y523q5msfcadhkayss",
+      "restake": {
+        "address": "bluzelle1hk86qqk574q5pjdsr43z3wpa4g3h0zk35k2hay",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
       }
     }
   ]

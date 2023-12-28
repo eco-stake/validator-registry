@@ -61,7 +61,43 @@
       "address": "omniflixvaloper1tghky2sezwgppvthztg66r8au8x02qjacn4nmc",
       "restake": {
         "address": "omniflix1wf60jx7lrgt6xjp3lk8vq4fcjh24s507l0p04f",
-        "run_time": "every 1 hour",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1wwsc82zk5tueuflx5yq9jylg5zz4v7m07zmgvg",
+      "restake": {
+        "address": "gitopia1wf60jx7lrgt6xjp3lk8vq4fcjh24s507ufhpd5",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1ymsy9vdwkd6vmjvr86wcpt77rva5czs7q4364c",
+      "restake": {
+        "address": "empower1wf60jx7lrgt6xjp3lk8vq4fcjh24s5077a5acf",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name":"archway",
+      "address":"archwayvaloper1judfxhsvzckqzhd4l3wdwrtn3prggjdq28yc6j",
+      "restake":{
+        "address":"archway1wf60jx7lrgt6xjp3lk8vq4fcjh24s507h6vjgq",
+        "run_time":"18:30",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name":"qwoyn",
+      "address":"qwoynvaloper1f93g48h2tk9tvpteyx2wfjrwal2x6wyvktrhwu",
+      "restake":{
+        "address":"qwoyn1wf60jx7lrgt6xjp3lk8vq4fcjh24s507l33g9k",
+        "run_time":"18:30",
         "minimum_reward": 1000000
       }
     }

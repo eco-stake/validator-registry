@@ -37,6 +37,33 @@
         "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1yhxsary5g7aquzp6d7lr7uvmtr90pu0ny95k3v",
+      "restake": {
+        "address": "shentu15hfak84jamn59229c7r6umg2purgd9cydr7nfh",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1an6hyf4h2au53aa3tuy6yjjr4edsd2xvg5kc2p",
+      "restake": {
+        "address": "inj1lutc4fvkhvn0ay6rkstndze9gva4c5t9p4rlvs",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1h9a8wasp8zvj8h06mp7tlm0eetgacafkyfqapc",
+      "restake": {
+        "address": "band15hfak84jamn59229c7r6umg2purgd9cyuc6grz",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    }	
   ]
 }

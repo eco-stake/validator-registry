@@ -19,6 +19,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1zd3v6empaqulrfaekku4e7f8ztn85khtjhq3ur",
+      "restake": {
+        "address": "fetch1p4557mdpc2qk8vcemeqgrcg55gs2uyznht7f9h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1exhpryhmqhnae5gf63zlkvgs04mhal597jquct",
+      "restake": {
+        "address": "ki1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4mxzr5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

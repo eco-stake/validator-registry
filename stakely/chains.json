@@ -62,7 +62,7 @@
       "restake": {
         "address": "juno1hl0jgxre5z0nkyjj07c5vfdy44yk44at0dphgp",
         "run_time": "22:30",
-        "minimum_reward": 50000
+        "minimum_reward": 100000
       }
     },
     {
@@ -166,9 +166,9 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1wt9lh4zqe8qqe7azc943l0cyn2kzwk3ps4h00h",
+      "address": "shentuvaloper1wt9lh4zqe8qqe7azc943l0cyn2kzwk3p4dm57a",
       "restake": {
-        "address": "certik1hl0jgxre5z0nkyjj07c5vfdy44yk44at7h7mwk",
+        "address": "shentu1hl0jgxre5z0nkyjj07c5vfdy44yk44at3tx4aq",
         "run_time": "22:30",
         "minimum_reward": 100000
       }
@@ -207,6 +207,24 @@
         "address": "quasar1hl0jgxre5z0nkyjj07c5vfdy44yk44athuc3zc",
         "run_time": "22:30",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper16yupepagywvlk7uhpfchtwa0stu5f8cyvpsme6",
+      "restake": {
+        "address": "neutron1hl0jgxre5z0nkyjj07c5vfdy44yk44ataqtw46",
+        "run_time": "22:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper17qv63dpkg2zwxj5mypgh9ryldpmvsew4pfnvva",
+      "restake": {
+        "address": "archway1hl0jgxre5z0nkyjj07c5vfdy44yk44atv57g92",
+        "run_time": "22:30",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

@@ -25,19 +25,7 @@
         ],
         "minimum_reward": 100000
       }
-    },    
-    {
-      "name": "terra",
-      "address": "terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4",
-      "restake": {
-        "address": "terra1v3n5rfl0ker0p3ukp0ucweql74695l4z5sltyz",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 100000
-      }
-    },    
+    },
     {
       "name": "terra2",
       "address": "terravaloper1tm0xkark2ufecmdhgaaw7gqsycyt4qag6py8x6",
@@ -88,6 +76,78 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1xesqr8vjvy34jhu027zd70ypl0nnev5eec90ew",
+      "restake": {
+        "address": "migaloo1hhzf9u376mg8zcuvx3jsls7t805kzcrsvl8wws",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1lcgzkqstk4jjtphfdfjpw9dd9yfczyzm8gjtj7",
+      "restake": {
+        "address": "mars1hhzf9u376mg8zcuvx3jsls7t805kzcrsukhdw9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name":"planq",
+      "address": "plqvaloper1y4pfpkwpy6myskp7pne256k6smh2rjtasv2rn2",
+      "restake": {
+        "address": "plq1q3054e3nrzlkp4act9236lwgl6hncftf7fes25",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name":"haqq",
+      "address": "haqqvaloper1y4pfpkwpy6myskp7pne256k6smh2rjtaf0wcfl",
+      "restake": {
+        "address": "haqq1q3054e3nrzlkp4act9236lwgl6hncftf4kulj3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "tenet",
+      "address": "tenetvaloper1y4pfpkwpy6myskp7pne256k6smh2rjtas3s98u",
+      "restake": {
+        "address": "tenet1q3054e3nrzlkp4act9236lwgl6hncftf2f5dva",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1xesqr8vjvy34jhu027zd70ypl0nnev5egvlzz7",
+      "restake": {
+        "address": "meme1hhzf9u376mg8zcuvx3jsls7t805kzcrsl5cru5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1y4pfpkwpy6myskp7pne256k6smh2rjtahz33k9",
+      "restake": {
+        "address": "canto1q3054e3nrzlkp4act9236lwgl6hncftf98guc0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1x6t7qgm8yrf3sxl5gl5uhv44rgxv2jccr8kf7t",
+      "restake": {
+        "address": "persistence1hhzf9u376mg8zcuvx3jsls7t805kzcrs08g846",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }     
   ]
 }

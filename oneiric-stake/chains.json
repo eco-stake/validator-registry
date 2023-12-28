@@ -10,6 +10,15 @@
         "run_time": "01:15",
         "minimum_reward": 1000000000
       }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper14m0n559xdj00qwvp6ck0xesprrq26kgpqsa6c4",
+      "restake": {
+        "address": "pasg1sxe282urhqqx7pjp0s4jqsefuhp069lh2z3ks5",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

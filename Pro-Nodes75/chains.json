@@ -29,8 +29,18 @@
 			"restake": 
 			{
 				"address": "terra12tfcch3m28qy07kw6xh7nwu9g5ecerf8m7nnae",
-				"run_time": ["21:00"],
-				"minimum_reward": 100000
+				"run_time": ["00:00","12:00"],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "archway",
+			"address": "archwayvaloper1wcynzzk7fj2fsgz2dmk3qr0hk0msezxs48jhcd",
+			"restake": 
+			{
+				"address": "archway1kr33u3tq4uxn35g5jakxt3thuxqlqp9y6ue2dp",
+				"run_time": ["12:00"],
+				"minimum_reward": 1000000000000000000
 			}
 		}
 	]

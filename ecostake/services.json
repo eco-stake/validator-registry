@@ -5,13 +5,13 @@
     {
       "title": "REStake.app",
       "description": "REStake allows validators to auto-compound your staking rewards, and is a full-featured wallet and Authz grant management tool for the whole of Cosmos.",
-      "image": "https://raw.githubusercontent.com/eco-stake/validator-registry/expand-profiles/ecostake/images/restake.png",
+      "image": "https://raw.githubusercontent.com/eco-stake/validator-registry/master/ecostake/images/restake.png",
       "url": "https://restake.app"
     },
     {
       "title": "Cosmos.directory",
       "description": "Cosmos.directory is an open source data 'hub' for the Cosmos. The intention is to provide APIs and a UI to make multi-chain development easy, and encourage networks, validators and users to keep the data sources up to date.",
-      "image": "https://raw.githubusercontent.com/eco-stake/validator-registry/expand-profiles/ecostake/images/cosmos-directory.png",
+      "image": "https://raw.githubusercontent.com/eco-stake/validator-registry/master/ecostake/images/cosmos-directory.png",
       "url": "https://cosmos.directory"
     },
     {
