@@ -34,7 +34,7 @@
         "address": "sourcevaloper1r9w0gr8e34hmp3hpn0p2jhmf8xvczapts28lx9",
         "restake": {
           "address": "source1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n0y0eru",
-          "run_time": "daily",
+          "run_time": "every 1 day",
           "minimum_reward": 10000
         }
       }
