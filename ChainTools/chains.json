@@ -286,7 +286,7 @@
       "address": "sourcevaloper1vgfzxm3heeayd9r9f3magmyyt4j3etvmthdvnj",
       "restake": {
         "address": "source1tj0t93t6xjwe5dqptr62ej4pqvy2es0rnd3e0d",
-        "run_time": "21:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },    
