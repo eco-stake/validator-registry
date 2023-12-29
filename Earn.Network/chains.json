@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "aura",
+      "address": "auravaloper12wwku6hj6n2qt39wyt9gq3fdhemnjl3q7qhzsp",
+      "restake": {
+        "address": "aura18j5lkq2ztgmlev8uwugh8ls44fc9mrn2sscxa0",
+        "run_time": [ "9:00", "21:00" ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper17zl6zwq26snsvcm5w7yae8ju9glruwmjeg2agj",
       "restake": {
