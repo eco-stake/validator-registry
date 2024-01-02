@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Revival",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1fdg0a035ujsa3z08nqzpxgtd0mnets56fr56l8",
+      "restake": {
+        "address": "terra18u68tgqzf60vsp483kw34nj78462yqzwqc5auc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

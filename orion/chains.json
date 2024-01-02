@@ -19,6 +19,24 @@
 				"run_time": ["09:00", "21:00"],
 				"minimum_reward": 1000000
 			}
+		},
+		{
+			"name": "injective",
+			"address": "injvaloper10zxm0rklrnurd999xgr4ss8v2q9qsjlfhhk9mk",
+			"restake": {
+				"address": "inj1da7hfx8s25rfqheg036acvlr2qt8ddevyxrx2q",
+				"run_time": ["09:00", "21:00"],
+				"minimum_reward": 1000000000000000000
+			}
+		},
+		{
+			"name": "mars",
+			"address": "marsvaloper1e47wy40c46dxhm2f42n76n6xz0ku3nvmht6nrt",
+			"restake": {
+				"address": "mars17cunmzejjpx4xzrt6u4fmtf2g66zun3nq5dk46",
+				"run_time": ["09:00", "21:00"],
+				"minimum_reward": 10000
+			}
 		}
 	]
 }

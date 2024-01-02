@@ -1,0 +1,41 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeSeeker by BTCS",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1g9kggelx2h05lrmrla44dye59a77t4axqzlufy",
+      "restake": {
+        "address": "akash1gx2df757m6pv93pvd9g3kc02mf2eq8azydc63e",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1wezeynt54vsmmclh6xr0l25t2ufrz5hg67yxrm",
+      "restake": {
+        "address": "kava130kvhhzm6vcdk4zefh5f3hnw4447vfnvwlcrj6",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1kyfce0nvluyhgfsdzz8hwrsf5336gsc95pyy4u",
+      "restake": {
+        "address": "cosmos1gx2df757m6pv93pvd9g3kc02mf2eq8azfk4agr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }]
+}

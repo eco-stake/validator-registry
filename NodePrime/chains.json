@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NodePrime",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1dqu2z2f6cgl4zv8md93xdvryq6djzlax5mlsqf",
+      "restake": {
+        "address": "mantle1zp29fmsthgephjcsdjfn68v50898cqhaa9y9jg",
+        "run_time": "00:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1r35lv05t8d4sdeehh7gt87v6v5yy6qe0t52m0j",
+      "restake": {
+        "address": "tori1zp29fmsthgephjcsdjfn68v50898cqhap4gfkj",
+        "run_time": "00:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

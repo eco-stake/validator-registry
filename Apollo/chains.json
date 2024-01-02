@@ -19,6 +19,24 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000000000000000
       }
+    },
+	{
+      "name": "quicksilver",
+      "address": "quickvaloper1pavfvaetevchh70y3ndz3ky3fh9jl8gz39wh64",
+      "restake": {
+        "address": "quick142yyjq5l70fs4tdcqew7xfzjclr89mr3jqpquu",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "jackal",
+      "address": "jklvaloper1hk72jhn285r7pt2kl0xeddr6p3fr4dt34m8m0a",
+      "restake": {
+        "address": "jkl142yyjq5l70fs4tdcqew7xfzjclr89mr3q6lru3",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

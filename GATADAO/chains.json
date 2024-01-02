@@ -39,7 +39,7 @@
       "restake": {
         "address": "rebus1na6j5scjfrq4az3d0lupp4tyaeahmh9wujs4dy",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000000000000
       }
     },
 
@@ -54,12 +54,12 @@
     },
 
     {
-      "name": "sifchain",
-      "address": "sifvaloper1u453cen62m939v548nfql54zl886a9zy7ggzqq",
+       "name": "omniflixhub",
+      "address": "omniflixvaloper1ffk54ch6x8xz8dztyp64j25v7lc3mrsylkjgqj",
       "restake": {
-        "address": "sif1na6j5scjfrq4az3d0lupp4tyaeahmh9wg9ukke",
+        "address": "omniflix1na6j5scjfrq4az3d0lupp4tyaeahmh9wsxzewv",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {

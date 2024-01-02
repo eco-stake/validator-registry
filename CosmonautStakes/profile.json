@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Cosmonaut Stakes",
+  "identity": "5C1159DB8957B5AA",
+  "website": "https://twitter.com/CosmonautStakes",
+  "description": {
+    "overview": "If decentralization, security, and community involvement are important to YOU, then delegate with Cosmonaut Stakes - an independent validator run by a Cosmos bull."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "dan@blocklift.net",
+    "telegram": "CosmonautStakes",
+    "twitter": "CosmonautStakes",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

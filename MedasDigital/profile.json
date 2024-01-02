@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "MedasDigital",
+  "identity": "4772FEADBDA7C42D",
+  "website": "https://medas-digital.io",
+  "description": {
+    "overview": "MedasDigital Validator is a trusted and dedicated blockchain validator, actively securing and validating transactions for BitCanna, Sentinel dVPN and Mars Protocol, while contributing to the growth of decentralized ecosystems.",
+    "team": "The MedasDigital team, with over 25 years of experience in IT systemhouse operations, is comprised of experienced and passionate professionals dedicated to advancing blockchain technology and empowering the global Web 3.0 community.",
+    "security": "Security is at the forefront of our mission, and we prioritize the highest standards of security practices. We actively adopt new security technologies and steadily invest in robust security measures, including running our validators on a highly available cluster with advanced storage systems and snapshotting to secure data integrity."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@medas-digital.io",
+    "telegram": "",
+    "twitter": "medasdigital",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

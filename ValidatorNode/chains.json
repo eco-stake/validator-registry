@@ -22,12 +22,21 @@
     },
     {
       "name": "comdex",
-      "address": "comdexvaloper1n826urhr95hcmjpd703geudgwdx50mqq2k2a2e",
+      "address": "comdexvaloper1xfgpvg4wjj636l2yrgmn4c2uktfg47qp02ly97",
       "restake": {
         "address": "comdex1xgcqw2flkaxffe0s5kctlnelyshe87vheffa4g",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper102x2f86rx0zvma9glz2rdc9u5fjp44u55djaxl",
+      "restake": {
+        "address": "sent1xgcqw2flkaxffe0s5kctlnelyshe87vh9aaxgs",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }

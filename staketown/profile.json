@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "StakeTown",
+  "identity": "FE38D8D1E0E5011F",
+  "contacts": {
+    "email": "hello@stake-town.com",
+    "twitter": "@staketown_ua"
+  }
+}

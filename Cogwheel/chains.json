@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cogwheel | cogwheel.digital",
+  "chains": [
+      {
+      "name": "dyson",
+      "address": "dysvaloper1zjqm4lngspfqkp68psuv4suxwjfxftkexprcqt",
+      "restake": {
+        "address": "dys1queqjvae6k6cuxqfhc8rmajwmvm36mv3v7krcx",
+        "run_time": ["09:00","21:00"],
+        "minimum_reward": 1000
+	   }
+	},
+        {
+      "name": "composable",
+      "address": "centaurivaloper1ecxls8tq8csdqns7cpe8zcry864z8z0drgep7h",
+      "restake": {
+        "address": "centauri1queqjvae6k6cuxqfhc8rmajwmvm36mv3h4n5zk",
+        "run_time": ["09:00","21:00"],
+        "minimum_reward": 100000000000
+      }
+	}
+	]
+}
