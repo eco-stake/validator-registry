@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "banana",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper14nz2pqskfv9kcez8u0a9gnnsgwjerzqxpmne0y",
+      "restake": {
+        "address": "orai1zs6gamjr8378q5lywwqcvxa3p4yl7p3vn0rpzu",
+        "run_time": [
+          "10:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

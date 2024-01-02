@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "BccNodes",
+  "identity": "C5337EB8B55DFA0C",
+  "website": "https://bccnodes.com",
+  "description": {
+    "overview": "Professionally managed institutional grade blockchain infrastructure provider. ⚛️"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@bccnodes.com",
+    "telegram": "berkcak",
+    "twitter": "bccnodes",
+    "discord": "bccnodes",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

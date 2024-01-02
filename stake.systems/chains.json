@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "stake.systems",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d",
+      "restake": {
+        "address": "terra135v359ghcp6k6nafmh006hct9t7lxe2nl557ql",
+        "run_time": "18:00",
+        "minimum_reward": 5000000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1ualhu3fjgg77g485gmyswkq3w0dp7gys6qzwrv",
+      "restake": {
+        "address": "cosmos1dux8l8t3cku7me3q448fq9kychnhwcpynr6eu0",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1ualhu3fjgg77g485gmyswkq3w0dp7gysdcdgw2",
+      "restake": {
+        "address": "osmo1dux8l8t3cku7me3q448fq9kychnhwcpymcff2a",
+        "run_time": "18:00",
+        "minimum_reward": 250000
+      }
+    }
+  ]
+}

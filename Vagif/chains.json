@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "𝐕𝐚𝐠𝐢𝐟",
+  "chains": [
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1qayvxwsdkgq896ysl8h62jw95sy54gzttrluwe",
+      "restake": {
+        "address": "kyve163y0306r5zyyuhpruxt9u2zz4gt4hf6zaznl47",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper126y7tkg50jrdejlklkuc7en6pa6u3g700svgpv",
+      "restake": {
+        "address": "umee163y0306r5zyyuhpruxt9u2zz4gt4hf6zc6rk6g",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1h8smxtc3s4eq6rnmzh52ewhd4n3vmtqaqajv07",
+      "restake": {
+        "address": "agoric1u4h2a3txym4k8a3gqzpt8kdnw6uqqm2vyklu6g",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

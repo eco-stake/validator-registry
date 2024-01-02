@@ -8,7 +8,36 @@
       "restake": {
         "address": "plq14rdske5dhn5xzcvn0dscvhegr0s8fuhvuzeju3",
         "run_time": "every 1 minute",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+         "name": "8ball",
+         "address": "8ballvaloper1jn8lh9a50cqmrkq5gn4ukz45gmv2sxfyegayem",
+         "restake":{
+            "address": "8ball1jn8lh9a50cqmrkq5gn4ukz45gmv2sxfyln0fuq",
+            "run_time": "every 15 minutes",
+            "minimum_reward": 100000
+         }
+    },
+    {
+          "name": "arkh",
+          "address": "arkhvaloper1ftj9edf8uwjj6vmckthtl3vdkj82796wq26upe",
+          "restake":{
+            "address": "arkh1ftj9edf8uwjj6vmckthtl3vdkj82796w3n3zqz",
+            "run_time": "every 15 minutes",
+            "minimum_reward": 100000
+          }
+    },
+        {
+      "name": "gitopia",
+      "address": "gitopiavaloper109f3y2z0q5ltv6ga3psr6sua8hgf5nde95g5nj",
+      "restake": {
+        "address": "gitopia1ftj9edf8uwjj6vmckthtl3vdkj82796wr92fpa",
+        "run_time": [
+          "every 10 minutes"
+        ],
+        "minimum_reward": 10000
       }
     }
    ]

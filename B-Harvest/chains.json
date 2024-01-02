@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "B-Harvest",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1zpy3qf7us3m0pxpqkp72gzjv55t70huy33t47x",
+      "restake": {
+        "address": "inj1q646upjy4lsjzgcksvzajdqtrurlc7x6g52y0e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000 
+      }
+    }
+  ]
+}

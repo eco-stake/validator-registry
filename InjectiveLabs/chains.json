@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Injective Labs",
+  "chains": [
+    {
+      "name": "mars",
+      "address": "marsvaloper1mvdau3mafeyf7xga5w76t636lwcyf5s0jx7zmk",
+      "restake": {
+        "address": "mars12jryjmur05k460xsxleg2a3e7tfvt42gksawws",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1948raua2qwgn6rcstgdtk4wyg2zypc2680lej7",
+      "restake": {
+        "address": "band1vhwjfg8quv7t7ppwamm752rmapsq4hy9c2qwnw",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1t9pdehdfa5p026u03s68ceknpx36xg4py0ps5r",
+      "restake": {
+        "address": "kyve12jryjmur05k460xsxleg2a3e7tfvt42gurfps0",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper19vhun9rn57f94mnryyjr5naxhkt87rhx2d94c2",
+      "restake": {
+        "address": "migaloo12jryjmur05k460xsxleg2a3e7tfvt42gxeddw9",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    }   
+  ]
+}

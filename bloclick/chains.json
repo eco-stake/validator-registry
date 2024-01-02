@@ -3,15 +3,6 @@
   "name": "BloClick 100% CO2 free 🍃",
   "chains": [
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper1ldzku04m0hz2qslr0e3ddy2t4vgm63x8ngjs3r",
-      "restake": {
-        "address": "bcna1k8mymzl8sapy2yqyyce5a35u09rnuae7whwzrj",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "desmos",
       "address": "desmosvaloper1c5aqg0qjlqj0g99ee0seaeneqgpcz07sepmqx6",
       "restake": {

@@ -14,6 +14,17 @@
       }
     },
     {
+      "name": "sentinel",
+      "address": "sentvaloper1v57vmu2w4tvc48acmqeqe3hkat6dk4v8enr0hc",
+      "restake": {
+        "address": "sent1vhpykg7qzv6cg2yh80wf8hfavwt9dtqc5ujtx9",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "oraichain",
       "address": "oraivaloper16e6cpk6ycddk6208fpaya7tmmardhvr7h40yqy",
       "restake": {

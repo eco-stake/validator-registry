@@ -11,7 +11,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 100000
             }
         },
         {
@@ -23,7 +23,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 50000
             }
         },
         {
@@ -35,7 +35,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 50000
             }
         },
         {
@@ -47,7 +47,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 100000
             }
         },
         {
@@ -59,7 +59,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 100000
             }
         },
         {
@@ -83,7 +83,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 100000
             }
         },
         {
@@ -95,7 +95,7 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 1000000
             }
         },
         {
@@ -107,7 +107,31 @@
                     "00:00",
                     "12:00"
                 ],
-                "minimum_reward": 10000
+                "minimum_reward": 10000000
+            }
+        },
+        {
+            "name": "quicksilver",
+            "address": "quickvaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670wuk6uw",
+            "restake": {
+                "address": "quick1yhv74ymxxaurxug490hnadh9467y3q27qd7t39",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "omniflixhub",
+            "address": "omniflixvaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670tetaar",
+            "restake": {
+                "address": "omniflix1yhv74ymxxaurxug490hnadh9467y3q27khlqlf",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
             }
         }
     ]

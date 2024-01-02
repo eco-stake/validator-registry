@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Daksha Validator",
+    "chains": [
+      {
+        "name": "omniflixhub",
+        "address": "omniflixvaloper17rljxrssk9csk2hhvn8e40yq50ur69rfc8fq6m",
+        "restake": {
+          "address": "omniflix1m7zmttlr3g8ma8n7gggrzlm5rhuptgrdvjaa7t",
+          "run_time": "every 12 hours",
+          "minimum_reward": 10000
+        }
+      }         
+    ]
+}
