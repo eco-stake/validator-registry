@@ -1,0 +1,14 @@
+{
+  "name": "Validatorvn.com",
+  "chains": [
+    {
+      "name": "Oraichain",
+      "address": "oraivaloper1teqee5ral3m3l5hwrxcfl790vkh7e97yttp88j",
+      "restake": {
+        "address": "orai1teqee5ral3m3l5hwrxcfl790vkh7e97yzp6wv4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
