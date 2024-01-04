@@ -1,13 +1,24 @@
 {
-	"$schema": "../chains.schema.json",
-	"name": "Kiln",
-	"chains": [{
-		"name": "injective",
-		"address": "injvaloper1rf0fczrw2gnhuju86kmjtku4dvf9dcc2mpe7pe",
-		"restake": {
-			"address": "inj1ypnp8c69f9gxf90q4lxptftvqk5rusacuqx8ld",
-			"run_time": "09:00",
-			"minimum_reward": 1000000000000000000
-		}
-	}]
+  "$schema": "../chains.schema.json",
+  "name": "Kiln",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1rf0fczrw2gnhuju86kmjtku4dvf9dcc2mpe7pe",
+      "restake": {
+        "address": "inj1ypnp8c69f9gxf90q4lxptftvqk5rusacuqx8ld",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1djqecw6nn5tydxq0shan7srv8j65clsfmnxcfu",
+      "restake": {
+        "address": "celestia1u4whe0pwlgt7q7ph37qxalq2wfq4pkcdnn9epq",
+        "run_time": "09:00",
+        "minimum_reward": 500000
+      }
+    }
+  ]
 }
