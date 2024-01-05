@@ -23,7 +23,7 @@
     },
 		{
       "name": "firmachain",
-      "address": "firmavaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3s2hfk56",
+      "address": "firmavaloper1hq5rh4p2whhx7ctjn6gjdz3kx9tfzcw2kkt79c",
       "restake": {
         "address": "firma17x42tua604vqykhd3y7c6zpmf7uted6u3ws9z6",
         "run_time": "every 5 Minutes",
