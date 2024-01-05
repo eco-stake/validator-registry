@@ -17,7 +17,7 @@
       "address": "pxvaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3sz2728d",
       "restake": {
         "address": "px1765r3rvgpj2fugjru8gr4s7yp26vdmz2zus0ey",
-        "run_time": "every 30 Seconds",
+        "run_time": "daily",
         "minimum_reward": 100000
       }
     },
