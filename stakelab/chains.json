@@ -444,6 +444,15 @@
       }
     },
     {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1ljnsredmhxtfvmtxyml8hh7gwz6k5spt36hshm",
+      "restake": {
+        "address": "qwoyn1mjq48r6435aewerpruwc8up3tz3rzan23elfx5",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1mz4lyh4m0qe3snskl4fj0yy9zrnrffrkqysl2c",
       "restake": {
