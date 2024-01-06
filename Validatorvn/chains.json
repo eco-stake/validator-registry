@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Validatorvn.com",
   "chains": [
     {
@@ -6,6 +7,15 @@
       "address": "oraivaloper1teqee5ral3m3l5hwrxcfl790vkh7e97yttp88j",
       "restake": {
         "address": "orai1teqee5ral3m3l5hwrxcfl790vkh7e97yzp6wv4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1qfqr8vjjsvuf7qp0r7vsxjryfgmgxgauhcyteg",
+      "restake": {
+        "address": "aura1qfqr8vjjsvuf7qp0r7vsxjryfgmgxgauv24rpk",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
