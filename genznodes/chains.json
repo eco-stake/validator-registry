@@ -12,6 +12,15 @@
           }
     },
     {
+      "name": "andromeda",
+      "address": "andrvaloper1lmls0pg6mxpl7frwh7puwaqxmw6ym4xtasv0kl",
+      "restake": {
+        "address": "andr19tzqk0kp67mx4wcedvmefhvk9r2xcxudex9ku9",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+          }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1t94xah65ydrped7m94pxyjmt2lakpnee7gumq7",
       "restake": {
