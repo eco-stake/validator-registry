@@ -11,7 +11,7 @@
             "09:00",
             "21:00"
           ],
-          "minimum_reward": 10000
+          "minimum_reward": 100000
         }
       },
       {
@@ -23,7 +23,7 @@
             "03:00",
             "15:00"
           ],
-          "minimum_reward": 1000
+          "minimum_reward": 10000
         }
       },
       {
@@ -35,7 +35,7 @@
             "06:00",
             "12:00"
           ],
-          "minimum_reward": 1000
+          "minimum_reward": 10000
         }
       },
       {
@@ -58,6 +58,18 @@
           ],
           "minimum_reward": 100000000000000000
         }
-      }  
+      },
+      {
+        "name": "akash",
+        "address": "akashvaloper1ycv5n4fe0c5z22nr74t6v5g37glwc6vt6sjyft",
+        "restake": {
+          "address": "akash1cly2j9mc5pvv008er6ktpn2natcnl9kenpngdd",
+          "run_time": [
+            "07:00",
+            "13:00"
+          ],
+          "minimum_reward": 100000
+        }
+      }
     ]
 }
