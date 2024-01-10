@@ -174,6 +174,15 @@
       }
     },
     {
+      "name": "meme",
+      "address": "memevaloper153j8mdh78vf7kh08v5uzfgkvkes7y7s25793pa",
+      "restake": {
+        "address": "meme1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zllgqf3",
+	"run_time": ["06:00", "12:00", "18:00", "00:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomic14uztxavfdxns56dtpl0jpamjk9ww57ye3h250l",
       "restake": {
