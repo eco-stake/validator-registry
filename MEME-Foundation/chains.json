@@ -1,0 +1,29 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MEME-Foundation",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1hslxk7km5z6srvmr993hsgcdxnezg8a5kt45zf",
+      "restake": {
+        "address": "juno1js340eq8082essggjtv8lf9df7qlnny8ykuwvm",
+        "run_time": [
+          "every 5 minutes"
+        ],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1hslxk7km5z6srvmr993hsgcdxnezg8a50xdnvj",
+      "restake": {
+        "address": "chihuahua1js340eq8082essggjtv8lf9df7qlnny833jm29",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

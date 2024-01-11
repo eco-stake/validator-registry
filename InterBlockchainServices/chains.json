@@ -30,6 +30,15 @@
       }
     },      
     {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1kpak4fcd2dze6ld2ufqqz2g879u9easp0ypzu5",
+      "restake": {
+        "address": "chihuahua1hcgxjhvv43g9z6dc58g428jgc8hdlmf7h64mrq",
+        "run_time": "12:00",
+        "minimum_reward": 1000000000
+      }
+    },      
+    {
       "name": "coreum",
       "address": "corevaloper14jn53fyct5g5pfg3fe0px2syvnvn6wlpqz0kjw",
       "restake": {

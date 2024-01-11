@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "cheqd",
+      "address": "cheqdvaloper19mrngaktjpw8lyzn6ykctqfy5whf2zmrznq5lt",
+      "restake": {
+        "address": "cheqd1tj0t93t6xjwe5dqptr62ej4pqvy2es0rmuy85z",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },        
+    {
       "name": "comdex",
       "address": "comdexvaloper1z6a9p43svtkzf5efmy78tae7qqz8p8cctyj6yg",
       "restake": {
@@ -124,6 +133,15 @@
       "address": "gitopiavaloper1l0x5q3s8wqutxxl8ect9jd6mpfc4xz0y072s2j",
       "restake": {
         "address": "gitopia1tj0t93t6xjwe5dqptr62ej4pqvy2es0rtx0sss",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1w6aj46j3jvsx4q2aeetldjj8k2ygu2gxrnry66",
+      "restake": {
+        "address": "human1spv5z9f2fyfmdhseeduzcj7u0c0l44g0a75vlg",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
@@ -286,7 +304,7 @@
       "address": "sourcevaloper1vgfzxm3heeayd9r9f3magmyyt4j3etvmthdvnj",
       "restake": {
         "address": "source1tj0t93t6xjwe5dqptr62ej4pqvy2es0rnd3e0d",
-        "run_time": "21:00",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },    
