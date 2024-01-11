@@ -29,6 +29,15 @@
           "minimum_reward": 10000
         }
       },
+        {
+        "name": "comdex",
+        "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
+        "restake": {
+          "address": "comdex1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nwc5924",
+          "run_time": "22:00",
+          "minimum_reward": 10000
+        }
+      },
          {
         "name": "source",
         "address": "sourcevaloper1r9w0gr8e34hmp3hpn0p2jhmf8xvczapts28lx9",
