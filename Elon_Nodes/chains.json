@@ -2,16 +2,77 @@
     "$schema": "../chains.schema.json",
     "name": "Elon_Nodes",
     "chains": [
-      {
-        "name": "genesisl1",
-        "address": "genesisvaloper1tzqmp8ed3e6rgqrfscekg87pe5hd90n0ax4ghd",
-        "restake": {
-          "address": "genesis1kphlmcmmxrdpm7assyqtx488k8es7tuxstrl2d",
-          "run_time": [
-            "16:20"
-          ],
-          "minimum_reward": 100000000000000000
+        {
+            "name": "genesisl1",
+            "address": "genesisvaloper1tzqmp8ed3e6rgqrfscekg87pe5hd90n0ax4ghd",
+            "restake": {
+                "address": "genesis1kphlmcmmxrdpm7assyqtx488k8es7tuxstrl2d",
+                "run_time": "16:20",
+                "minimum_reward": 100000000000000000
+            }
+        },
+        {
+            "name": "meme",
+            "address": "memevaloper192xv4uge42dmn66eyrde6ghef03keaafgvalw9",
+            "restake": {
+                "address": "meme1vpr0xrahf0quhzfwkpas3eplnuna07u74qynd2",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "decentr",
+            "address": "decentrvaloper12t296kzeefpf8sv9ml9cyn2j6yj7v73e6j4p00",
+            "restake": {
+                "address": "decentr1u4q56gptg69n4mygslw07wpp3jr7ge0zpupy6k",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "bitcanna",
+            "address": "bcnavaloper1dvlvtet7nrrnvcuceuf9xqw6ty4jhrfa3aesmg",
+            "restake": {
+                "address": "bcna1dacrwthkeqsfwmk7evd4ft54xkjfe07umv57q2",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper1ynj2u9x0pgq6gx38pllwrg7948l9yp9lr05zc4",
+            "restake": {
+                "address": "bitsong17jnuscemt044whusd7cnq8uqg2aj0f42mpquey",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "source",
+            "address": "sourcevaloper1gzcmza8spzjm5cc7ep2zpmau6gddslnf37dy9l",
+            "restake": {
+                "address": "source12m6uxd2e5fnckuljcywvqf7wl2jpggjved0e38",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "sge",
+            "address": "sgevaloper17gmj5k8r9rkyxtj4krwdzxyrxnpu70c0qganlg",
+            "restake": {
+                "address": "sge10w9hzp345dn3rmjzfs98kenxwygfd4nvj04pxw",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "jackal",
+            "address": "jklvaloper157n7xq0kqqwh8vta0a3c5l040ygvupcd2tu7e5",
+            "restake": {
+                "address": "jkl1admcmugme2l5nnuqdy0vdr9n02px773dtt8nfc",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
         }
-      }
     ]
-  }
+}

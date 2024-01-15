@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dr_Atavov_PRO",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper16ecmf2wlfjuaff6sstjcfa8ds5gagm96j4zpcx",
+      "restake": {
+        "address": "haqq1e70td8p6vaqgzllcst9lzn0qkmqrneehke2pf2",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

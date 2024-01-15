@@ -24,6 +24,18 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1dsyuamue2p3l0z753pyrtegs52ftrg960re06j",
+      "restake": {
+        "address": "celestia1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczquk5fm",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
       "restake": {
@@ -32,7 +44,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -68,7 +80,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -81,6 +93,15 @@
           "21:00"
         ],
         "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper15wphegl8esn7r2rgj9j3xf870v78lxg8yfjn95",
+      "restake": {
+        "address": "dydx1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczc0fqnp",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -131,7 +152,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {

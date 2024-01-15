@@ -18,6 +18,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+     {
+      "name": "source",
+      "address": "sourcevaloper1ekf7pyst4z8zev9ucq5fcavagcup5a0kn0wcaw",
+      "restake": {
+        "address": "source1ffy2xe2wpy75dl6ecls3tw45kd3wlrzpdu5td8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

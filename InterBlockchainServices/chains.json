@@ -28,6 +28,24 @@
         "run_time": "12:00",
         "minimum_reward": 10000
       }
+    },      
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1kpak4fcd2dze6ld2ufqqz2g879u9easp0ypzu5",
+      "restake": {
+        "address": "chihuahua1hcgxjhvv43g9z6dc58g428jgc8hdlmf7h64mrq",
+        "run_time": "12:00",
+        "minimum_reward": 1000000000
+      }
+    },      
+    {
+      "name": "coreum",
+      "address": "corevaloper14jn53fyct5g5pfg3fe0px2syvnvn6wlpqz0kjw",
+      "restake": {
+        "address": "core1hcgxjhvv43g9z6dc58g428jgc8hdlmf78pqw9e",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
     },
     {
       "name": "decentr",
@@ -197,6 +215,24 @@
       "restake": {
         "address": "gitopia1hcgxjhvv43g9z6dc58g428jgc8hdlmf72hlzdp",
         "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1zpwd0qy724tfuv48p8avvwcrtxnmplp69ssp9w",
+      "restake": {
+        "address": "quasar1hcgxjhvv43g9z6dc58g428jgc8hdlmf76vzg08",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1767ksp39dlyddeprh5lsxazawpacqpywn4496s",
+      "restake": {
+        "address": "nolus1hcgxjhvv43g9z6dc58g428jgc8hdlmf7zlg2q8",
+        "run_time": "12:00",
         "minimum_reward": 10000
       }
     },

@@ -60,7 +60,7 @@
       "name": "realio",
       "address": "realiovaloper1gza7q0ml8nwuuyddtusfsauuc7f934ywapz857",
       "restake": {
-        "address": "realio1lfumv6fa55vapl9sse8mtp3c2l8dxn4wwsqzjn",
+        "address": "realio1s2gswyh8r979cg4ytpqyglx27zdnpk9ulp37p9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
         }
@@ -71,6 +71,42 @@
       "restake": {
         "address": "kyve18p7sulmgnaxwwzyukftgtkufr24npeegaygmlh",
         "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "source",
+      "address": "sourcevaloper1dkuv0w6sv0at60e7m0cs0zl2ghxqsvts659rfu",
+      "restake": {
+        "address": "source18p7sulmgnaxwwzyukftgtkufr24npeegveunyd",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "haqq",
+      "address": "haqqvaloper1kywp78uj28vwwqj82w88zshn2w8p6epz88w08x",
+      "restake": {
+        "address": "haqq1s2gswyh8r979cg4ytpqyglx27zdnpk9u5nq8rf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+},
+	{
+      "name": "sge",
+      "address": "sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c",
+      "restake": {
+        "address": "sge18p7sulmgnaxwwzyukftgtkufr24npeeg52mnre",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+	{
+      "name": "composable",
+      "address": "centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh",
+      "restake": {
+        "address": "centauri18p7sulmgnaxwwzyukftgtkufr24npeegwqg3sq",
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
     }
