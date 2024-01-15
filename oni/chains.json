@@ -3,7 +3,7 @@
    "name":"Oni ⛩️",
    "chains":[
       {
-         "name":"band",
+         "name":"bandchain",
          "address":"bandvaloper12wzzlxntkpf7sx6cqkvp0m2tfjxhqwa02rewqt",
          "restake":{
             "address":"band1lwuwfctnp3h0fnu49zkxx8msg2kgvwhdan6eny",
