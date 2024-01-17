@@ -8,7 +8,7 @@
    "restake": {
       "address": "plq1c898dvtfaucu2dxtz6nu4hj7qgxdsutjkyqg3g",
       "run_time": "every 2 day",
-      "minimum_reward": 10
+      "minimum_reward": 1000000000000000000
        }
    },
    {
@@ -17,7 +17,7 @@
     "restake": {
        "address": "sent16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzt3s85j",
        "run_time": "every 2 day",
-       "minimum_reward": 10
+       "minimum_reward": 1000000
         }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
          "address": "sge16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzw2cq8h",
          "run_time": "every 2 day",
-         "minimum_reward": 10
+         "minimum_reward": 1000000
           }
     },
     {
@@ -35,7 +35,7 @@
       "restake": {
          "address": "source16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzkelqqr",
          "run_time": "every 2 day",
-         "minimum_reward": 10
+         "minimum_reward": 1000000
           }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
          "address": "band18nlqt4xxctalfctejyund4jujyd4v4e6vu9qkt",
          "run_time": "every 2 day",
-         "minimum_reward": 10
+         "minimum_reward": 1000000
           }
     },
     {
@@ -53,7 +53,7 @@
       "restake": {
          "address": "gitopia16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzwjpfl7",
          "run_time": "every 2 day",
-         "minimum_reward": 10
+         "minimum_reward": 1000000
           }
     }
   ]

@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "terra",
+      "address": "terravaloper1htey4gcdcass29vn4dwjcuq58mrvv8ra5pjz4k",
+      "restake": {
+        "address": "terra1zr5a4asqa7l0994lypjrf8zrzafdxtv6ev9v9l",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
        "name":"cosmoshub",
        "address":"cosmosvaloper1hkqejlyrj9h8knms9hwvrnp9xhqvjqlseh06vq",
        "restake":{

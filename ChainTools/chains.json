@@ -183,15 +183,6 @@
       }
     },
     {
-      "name": "konstellation",
-      "address": "darcvaloper109hsjxr43qc4al5zdq9zkc0a6j6n6zea2m3cun",
-      "restake": {
-        "address": "darc1tj0t93t6xjwe5dqptr62ej4pqvy2es0r2lukjy",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    }, 
-    {
       "name": "kujira",
       "address": "kujiravaloper1rgt2ejrjzyaw36h6f5jdzdkrt422kf2n3g0daw",
       "restake": {
