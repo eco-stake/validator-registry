@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "bandchain",
+      "address": "bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm",
+      "restake": {
+        "address": "band1hk6pztmjfh43x9229vxp7flhmvtg2uryzclss0",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y",
       "restake": {
