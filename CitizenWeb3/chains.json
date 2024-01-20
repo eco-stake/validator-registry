@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Citizen Cosmos",
+  "name": "Citizen Web3",
   "chains": [
     {
       "name": "cosmoshub",
@@ -30,15 +30,6 @@
       }
     },
     {
-      "name": "neutron",
-      "address": "neutronvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc2qrx6v",
-      "restake": {
-        "address": "neutron13kese9addgd286tl9plw5c48qtc36g50nxtv4q",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye",
       "restake": {
@@ -52,15 +43,6 @@
       "address": "likevaloper136r5phdpc02gmtmyampl9qkv0mdq385xxsaadu",
       "restake": {
         "address": "like13kese9addgd286tl9plw5c48qtc36g50y97vvu",
-        "run_time": "21:00",
-        "minimum_reward": 100000000
-      }
-    },
-    {
-      "name": "omniflix",
-      "address": "omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n",
-      "restake": {
-        "address": "omniflix13kese9addgd286tl9plw5c48qtc36g5028nhce",
         "run_time": "21:00",
         "minimum_reward": 100000000
       }
