@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "stride",
-      "address": "stridevaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc5uha7x",
-      "restake": {
-        "address": "stride13kese9addgd286tl9plw5c48qtc36g505jzjmt",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "bitcanna",
       "address": "bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye",
       "restake": {
