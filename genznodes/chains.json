@@ -102,6 +102,15 @@
         }
     },
     {
+      "name": "nolus",
+      "address": "nolusvaloper1j77sz8yenvnyzvu0k0x9l7zh8u3wpa3jm3y2lp",
+      "restake": {
+        "address": "nolus19tzqk0kp67mx4wcedvmefhvk9r2xcxudhaatzd",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
       "restake": {
