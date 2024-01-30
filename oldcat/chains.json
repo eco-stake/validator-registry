@@ -273,6 +273,15 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper1qzww7xzt5p92dstdx4499cutu5p5jg5gufd8f9",
+      "restake": {
+        "address": "source1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z8n8f79",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },  
+    {
       "name": "stargaze",
       "address": "starsvaloper14mc5h4qy8udss5c9mk8r7kz2xywk00ptuhfwac",
       "restake": {
