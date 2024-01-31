@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "planq",
+      "address": "plqvaloper1luksfvgc6fdxqn9hzyemhumuyehy6dagj2k3n3",
+      "restake": {
+        "address": "plq16usy3qu95rsedtxsq8ayfftlnmpscqd5c09ah5",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "realio",
       "address": "realiovaloper1aqv0y7cuy3j74sz57yjcl2n5q3qkhpt8war8dl",
       "restake": {
@@ -28,7 +37,18 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper14hcqlwlnp9x5jf22t56dz2840r4660tuc2rlrv",
+      "restake": {
+        "address": "tori1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lceqlse",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    },
+    
     
   ]
 }
+
