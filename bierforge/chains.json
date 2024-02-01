@@ -91,6 +91,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 500000
       }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1v9v98f7zft6rm27dvthdcsm95gkp55twqq5gq6",
+      "restake": {
+        "address": "human1ayttg2punr4v75hsjnt223x0xmp9fs64felv4j",
+        "run_time": "every 1 minute",
+        "minimum_reward": 500000000000000000
+      }
     }
   ]
 }
