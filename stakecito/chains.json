@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "01node",
+  "name": "Stakecito",
   "chains": [
     {
       "name": "cosmoshub",
