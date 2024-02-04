@@ -13,6 +13,15 @@
       }
 },
     {
+      "name": "humans",
+      "address": "humanvaloper1mgukftytaqvwew57qvqz8yv380vhh8zskfzppf",
+      "restake": {
+        "address": "human1ltv0z3033yrpc23s2mtkswjx98h0pckhxlx92u",
+        "run_time": "every 30 Seconds",
+        "minimum_reward": 100000000000000000
+      }
+},
+    {
       "name": "pundix",
       "address": "pxvaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3sz2728d",
       "restake": {
