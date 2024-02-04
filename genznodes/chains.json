@@ -12,6 +12,15 @@
           }
     },
     {
+      "name": "andromeda",
+      "address": "andrvaloper1lmls0pg6mxpl7frwh7puwaqxmw6ym4xtasv0kl",
+      "restake": {
+        "address": "andr19tzqk0kp67mx4wcedvmefhvk9r2xcxudex9ku9",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+          }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper1t94xah65ydrped7m94pxyjmt2lakpnee7gumq7",
       "restake": {
@@ -45,6 +54,15 @@
         "address": "centauri19tzqk0kp67mx4wcedvmefhvk9r2xcxud98qgym",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000
+          }
+    },
+    {
+      "name": "coreum",
+      "address": "corevaloper1lmdttjr98glxt6yee8xxx86mrcrq445744w7xk",
+      "restake": {
+        "address": "core1m2ks2ft78gqk8yut4ajdtssr78u37k2nfx0fng",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
           }
     },
     {
@@ -108,6 +126,15 @@
         "address": "realio1ggzpjmk46lv4ulng7p04k98mg038xk96tp8z9t",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000000000
+        }
+    },
+    {
+      "name": "sge",
+      "address": "sgevaloper1l4988md0lnpg4ln7vhvgy8zgnf3umhkejuuwvl",
+      "restake": {
+        "address": "sge19tzqk0kp67mx4wcedvmefhvk9r2xcxudldn2hz",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
         }
     },
     {

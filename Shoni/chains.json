@@ -1,0 +1,74 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Shoni",
+  "chains": [
+    {
+      "name": "kyve",
+      "address": "kyvevaloper13avlae309439fgrhafsr9n73fpwxgh9mzq78ml",
+      "restake": {
+        "address": "kyve13avlae309439fgrhafsr9n73fpwxgh9mss784a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1v7k48d042ggc486xmmzyh7jp3x2r0aq444zns8",
+      "restake": {
+        "address": "source1v7k48d042ggc486xmmzyh7jp3x2r0aq44tyrt9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1apzgelzzh068rwxkpq23zhnsz3way3nfndtqzl",
+      "restake": {
+        "address": "haqq1apzgelzzh068rwxkpq23zhnsz3way3nfl08wx7",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1r8teln3y3gpytffss3xqlzqkys8dpwhez8x2r8",
+      "restake": {
+        "address": "nolus1r8teln3y3gpytffss3xqlzqkys8dpwhemhn0q6",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper12mnka04j0qe5g8lnp3v7yrv9pl0l8nktlsz39v",
+      "restake": {
+        "address": "quasar12mnka04j0qe5g8lnp3v7yrv9pl0l8nktmwj9d7",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sge",
+      "address": "sgevaloper1jg7fegw58ulmnqx98vm04cgly34lltrrcy5p34",
+      "restake": {
+        "address": "sge1jg7fegw58ulmnqx98vm04cgly34lltrrz75m5g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1eqpdx70434ezutqh2fyklfuhfqn8j35chc68yy",
+      "restake": {
+        "address": "uptick1eqpdx70434ezutqh2fyklfuhfqn8j35cyq0ngg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

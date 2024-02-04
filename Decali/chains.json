@@ -53,7 +53,7 @@
       "restake": {
         "address": "band12grr3yyhvss6ck60czdnqse0fs257ayhqak9m5",
         "run_time": "every 24 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -65,22 +65,13 @@
         "minimum_reward": 1000000000
       }
     },
-    {
+       {
       "name": "evmos",
       "address": "evmosvaloper10ygr8es32ydjkg3zeufvxu526zn8q65acatw6r",
       "restake": {
         "address": "evmos1pp679p4jawn2fsrxftzda6zsen4s7mrxl3l99a",
         "run_time": "every 24 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "canto",
-      "address": "cantovaloper16t32vn4300spv4npxcks2kvqmcdw99p7rsnumq",
-      "restake": {
-        "address": "canto1pp679p4jawn2fsrxftzda6zsen4s7mrx0x0mta",
-        "run_time": "every 168 hour",
-        "minimum_reward": 3000000000000000
       }
     }
   ]

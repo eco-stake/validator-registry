@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "realio",
+      "address": "realiovaloper1hfna5pcgwp5qk476e46exyvef564qcega0t7a8",
+      "restake": {
+        "address": "realio1gnlmw0dlcnx6srzxsh24rekvjnhcp74y3mjx53",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "stride",
       "address": "stridevaloper1tfp47fws4rlkpm3dvehfa6l3mxwm2n3a4veux4",
       "restake": {
@@ -44,7 +53,7 @@
       "restake": {
         "address": "nois1h2ahcqh7yrnzvjj20ekqc9e3eyauedgz3kc78m",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {
@@ -61,7 +70,7 @@
       "address": "sourcevaloper1vmgdfhlwhymg6kyuyjxnkeug35kpmaq0mv7afq",
       "restake": {
         "address": "source1h2ahcqh7yrnzvjj20ekqc9e3eyauedgzxdu2ma",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },

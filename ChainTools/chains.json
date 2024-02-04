@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "cheqd",
+      "address": "cheqdvaloper19mrngaktjpw8lyzn6ykctqfy5whf2zmrznq5lt",
+      "restake": {
+        "address": "cheqd1tj0t93t6xjwe5dqptr62ej4pqvy2es0rmuy85z",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },        
+    {
       "name": "comdex",
       "address": "comdexvaloper1z6a9p43svtkzf5efmy78tae7qqz8p8cctyj6yg",
       "restake": {
@@ -127,6 +136,15 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1w6aj46j3jvsx4q2aeetldjj8k2ygu2gxrnry66",
+      "restake": {
+        "address": "human1spv5z9f2fyfmdhseeduzcj7u0c0l44g0a75vlg",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
     },     
     {
       "name": "jackal",
@@ -165,20 +183,20 @@
       }
     },
     {
-      "name": "konstellation",
-      "address": "darcvaloper109hsjxr43qc4al5zdq9zkc0a6j6n6zea2m3cun",
-      "restake": {
-        "address": "darc1tj0t93t6xjwe5dqptr62ej4pqvy2es0r2lukjy",
-        "run_time": "23:00",
-        "minimum_reward": 100000
-      }
-    }, 
-    {
       "name": "kujira",
       "address": "kujiravaloper1rgt2ejrjzyaw36h6f5jdzdkrt422kf2n3g0daw",
       "restake": {
         "address": "kujira1tj0t93t6xjwe5dqptr62ej4pqvy2es0ryk2lje",
         "run_time": "23:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1h4kmxv56unpz9sa4hkmhf52kf75tlle89pg57r",
+      "restake": {
+        "address": "kyve1tj0t93t6xjwe5dqptr62ej4pqvy2es0rzs935h",
+        "run_time": "21:00",
         "minimum_reward": 100000
       }
     },
@@ -272,6 +290,24 @@
         "minimum_reward": 100000
       }
     },
+    {
+      "name": "source",
+      "address": "sourcevaloper1vgfzxm3heeayd9r9f3magmyyt4j3etvmthdvnj",
+      "restake": {
+        "address": "source1tj0t93t6xjwe5dqptr62ej4pqvy2es0rnd3e0d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "teritori",
+      "address": "torivaloper13w8s0zztve46jussm5pd97txjcwepzqpwhg3u6",
+      "restake": {
+        "address": "tori1tj0t93t6xjwe5dqptr62ej4pqvy2es0rh2lwyr",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },      
     {
       "name": "unification",
       "address": "undvaloper15e2jq7q6chpfqud3lclml58hu0dmd7qa06ezmk",

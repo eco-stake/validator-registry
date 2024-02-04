@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "⚡️Allnodes",
+  "name": "Allnodes ⚡️ Nodes & Staking",
   "chains": [
     {
       "name": "cosmoshub",
@@ -8,7 +8,7 @@
       "restake": {
         "address": "cosmos1n4mmffygh8wdm8zfxxv30cg0aq9m2s07wfllm4",
         "run_time": "00:00",
-        "minimum_reward": 100000
+        "minimum_reward": 200000
       }
     },
     {

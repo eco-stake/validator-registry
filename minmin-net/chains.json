@@ -8,7 +8,7 @@
       "restake": {
         "address": "chihuahua1ad6hwttsftzsajnxvssp7jzzqzxe4p3ysff4nx",
         "run_time": "21:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
        }
     },
     {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "ununifi1ad6hwttsftzsajnxvssp7jzzqzxe4p3y97hfg2",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
        }
     },
     {
@@ -35,7 +35,16 @@
       "restake": {
         "address": "iaa1ad6hwttsftzsajnxvssp7jzzqzxe4p3yx7y2s4",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+"name": "source",
+      "address": "sourcevaloper1ptdr87ev232rst389qllf2dsu24jqvwp5uhgwt",
+      "restake": {
+        "address": "source1ad6hwttsftzsajnxvssp7jzzqzxe4p3y40a9z6",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
       }
     }
   ]

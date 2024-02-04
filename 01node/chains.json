@@ -181,6 +181,24 @@
         "run_time": "18:00",
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1c4u24hycep9mzp6498ra9j2lm58v2y047s3za9",
+      "restake": {
+        "address": "dydx1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5qkn66a",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
+    },
+     {
+      "name": "celestia",
+      "address": "celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl",
+      "restake": {
+        "address": "celestia1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5c9vwq8",
+        "run_time": "18:00",
+        "minimum_reward": 1000
+      }
     }
   ]
 }
