@@ -31,9 +31,9 @@
     },
     {
       "name": "andromeda",
-      "address": "andr194ytn50yhh67rdha8akhs7c6zulnz4n23uppsw",
+      "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
       "restake": {
-        "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
+        "address": "andr194ytn50yhh67rdha8akhs7c6zulnz4n23uppsw",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
