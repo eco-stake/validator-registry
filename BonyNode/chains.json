@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BonyNode💚",
+  "chains": [
+           {
+         "name":"source",
+         "address":"sourcevaloper1aj8233wsxeaxht44v7mssqhdshv9c2lm76yvqf",
+         "restake":{
+            "address":"source1j3ntp8ykkfxsjj4p9gxcjgyjkx2w0zdp5djf4r",
+            "run_time":"every 5 minutes",
+            "minimum_reward": 100000
+           }
+         },
+		{
+         "name":"arkh",
+         "address":"arkhvaloper13nwzm5dfd26ue74jr6sc39gyn3qze0rj6n8qkd",
+         "restake":{
+            "address":"arkh1j3ntp8ykkfxsjj4p9gxcjgyjkx2w0zdp7shttp",
+            "run_time":"every 12 hour",
+            "minimum_reward":100000
+           }
+    }
+    ]
+ }

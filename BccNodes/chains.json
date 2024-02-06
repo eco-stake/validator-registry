@@ -53,7 +53,7 @@
       "restake": {
         "address": "nois1h2ahcqh7yrnzvjj20ekqc9e3eyauedgz3kc78m",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
     {

@@ -82,6 +82,33 @@
         "run_time": "every 1 minute",
         "minimum_reward": 500000
       }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1trlvqs0vlmznkltegvcvypuwh7pxzsnve39mvn",
+      "restake": {
+        "address": "tori1pchsyu3d8c0fezekqmh7ymkesv3gr0sctnygpd",
+        "run_time": "every 1 minute",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1v9v98f7zft6rm27dvthdcsm95gkp55twqq5gq6",
+      "restake": {
+        "address": "human1ayttg2punr4v75hsjnt223x0xmp9fs64felv4j",
+        "run_time": "every 1 minute",
+        "minimum_reward": 500000000000000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1rmwnvxspdr33kh6mlh6dwps6vqwkfcyvfjvc9w",
+      "restake": {
+        "address": "bcna1pchsyu3d8c0fezekqmh7ymkesv3gr0scnhrqj0",
+        "run_time": "every 1 minute",
+        "minimum_reward": 500000
+      }
     }
   ]
 }

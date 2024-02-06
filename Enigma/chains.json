@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "archway",
+      "address": "archwayvaloper1j84hef7m9jrh36aanr0p4rd5ff2lsjstss5hq6",
+      "restake": {
+        "address": "archway1pnmlutnxtgp2wvwvf66j6fc08dugsdhlmrhrv2",
+        "run_time": "19:00",
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
       "name": "dydx",
       "address": "dydxvaloper160n4rwm854v06ppkly2pt0zc9rpwlm5y2gjyqf",
       "restake": {
@@ -222,7 +231,7 @@
       "name": "odin",
       "address": "odinvaloper1usa0ldz9lhfd7zf5h93qtzn0st9uqtd949x9ww",
       "restake": {
-        "address": "odin1usa0ldz9lhfd7zf5h93qtzn0st9uqtd9ccjm86",
+        "address": "odin1pnmlutnxtgp2wvwvf66j6fc08dugsdhl2gdy2h",
         "run_time": "",
         "minimum_reward": 100000
       }

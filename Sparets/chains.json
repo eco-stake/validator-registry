@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sparets",
+  "chains": [
+           {
+         "name":"source",
+         "address":"sourcevaloper12f228d2xts0hzzwlkrq4zzj60kl247r0rx8y02",
+         "restake":{
+            "address":"source12quz7p0uhh2pxk89m95a7qpc2zga4yc487v2ct",
+            "run_time":"every 15 minutes",
+            "minimum_reward": 100000
+           }
+         }
+    ]
+ }

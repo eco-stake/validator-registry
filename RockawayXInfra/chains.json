@@ -11,20 +11,12 @@
       "address": "axelarvaloper1thl5syhmscgnj7whdyrydw3w6vy80044kf4tn2"
     },
     {
-      "name": "cosmoshub",
-      "address": "cosmosvaloper1thl5syhmscgnj7whdyrydw3w6vy80044hjpnxh"
-    },
-    {
       "name": "quicksilver",
       "address": "quickvaloper1thl5syhmscgnj7whdyrydw3w6vy8004480teal"
     },    
     {
       "name": "sommelier",
       "address": "sommvaloper1thl5syhmscgnj7whdyrydw3w6vy80044ty5hup"
-    },
-    {
-      "name": "stride",
-      "address": "stridevaloper1thl5syhmscgnj7whdyrydw3w6vy80044jc3xjd"
     }
   ]
 }

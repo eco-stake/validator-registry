@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "andromeda",
+      "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
+      "restake": {
+        "address": "andr1ksx5yarsdjw8wcgkqn4v5demdszzx9ersl6d20",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name":"archway",
+      "address":"archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj",
+      "restake":{
+        "address":"archway1ksx5yarsdjw8wcgkqn4v5demdszzx9eralwtu4",
+        "run_time":"every 5 minutes",
+        "minimum_reward":100000000000000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
       "restake": {
@@ -25,6 +43,15 @@
       "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
       "restake": {
         "address": "aura1ksx5yarsdjw8wcgkqn4v5demdszzx9ernz9d5m",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm",
+      "restake": {
+        "address": "band1hk6pztmjfh43x9229vxp7flhmvtg2uryzclss0",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }

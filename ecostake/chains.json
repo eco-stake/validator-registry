@@ -44,7 +44,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -80,7 +80,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -100,6 +100,15 @@
       "address": "dydxvaloper15wphegl8esn7r2rgj9j3xf870v78lxg8yfjn95",
       "restake": {
         "address": "dydx1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczc0fqnp",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1z2uv28s9ewxg0ch45m2v27ke76tf7hvw398ggu",
+      "restake": {
+        "address": "dym18fzq4nac28gfma6gqfvkpwrgpm5ctar2jexwkh",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000000000000
       }
@@ -152,7 +161,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {

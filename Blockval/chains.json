@@ -17,6 +17,15 @@
       "restake": {
         "address": "centauri1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpla7x08",
         "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1ge9m44hvrxfr4j3usz0ufvfaqpasaw52t2t3wq",
+      "restake": {
+        "address": "fetch1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpg267fr",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
     },
@@ -144,15 +153,6 @@
         "address": "ki1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp26z40q",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "8ball",
-      "address": "8ballvaloper1wpe88kyjrzyks32w5m0nsddatn9n4fyp0e7am2",
-      "restake": {
-        "address": "8ball1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpnznhgt",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 10000000
       }
     },
     {
