@@ -109,6 +109,16 @@
       "run_time": "every 5 minutes",
       "minimum_reward": 100000
     }
+},
+{
+  "name": "dymension",
+  "address": "dymvaloper1np8k8qumgekmj75pjz5rcqf483v9rlfxhjfnaq",
+  "restake": {
+    "address": "dym13pc2era7rw65024je5neky46mhhjhgrjakjm7l",
+    "run_time": "every 1 minutes",
+    "minimum_reward": 100000000000000000
+  }
 }
+
   ]
 }
