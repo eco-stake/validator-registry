@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1uwgzrcpyt9ymcs0zp0anhwn348mukv57zv6wx0",
+      "restake": {
+        "address": "dym10ucgl87e43metaru3aygmh7694mrevxl50zc4e",
+        "run_time": "23:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "bitcanna",
       "address": "bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4",
       "restake": {
