@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1amxp0k0hg4edrxg85v07t9ka2tfuhamhldgf8e",
+      "restake": {
+        "address": "dym17q3zwm3qfcfjs2pvp472tmqsae8n97pn8z7523",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "bostrom",
       "address": "bostromvaloper165p3as2erpcpkea2v57fzhx5q570t2eumcmtm8",
       "restake": {
