@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1l6j00uq22yf09yxju8mkx4c2kk7a6h42w6sc8t",
+      "restake": {
+        "address": "dym14q8vu02v3npvnrxkt7te05tx6ral53rx9t20s0",
+        "run_time":"every 5 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
       "name": "mars",
       "address": "marsvaloper1lxgmrxgczfcjtmx3p5mzfw93uwnmwh7rgvynd9",
       "restake": {
