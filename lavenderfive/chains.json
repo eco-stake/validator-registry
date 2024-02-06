@@ -206,6 +206,18 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57za0rqa4",
+      "restake": {
+        "address": "dym10edr8awd0pulykvqxlwnz9n72rtngwjdjs0rlf",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgw63w87l",
       "restake": {
