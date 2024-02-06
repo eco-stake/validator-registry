@@ -82,6 +82,14 @@
             "run_time":"every 1 hour",
             "minimum_reward": 100000
         }
-      }
+      },
+                {
+         "name":"dymension",
+         "address":"dymvaloper1stkzwjenj2hw48n7dp5402vd2vem8qnalnt2dg",
+         "restake":{
+            "address":"dym1uza65au6wdkqyx83mzwhwl0x2jvhpq8z0yg6ta",
+            "run_time":"every 1 hour",
+            "minimum_reward": 1000000000000000000
+        }
     ]
  }
