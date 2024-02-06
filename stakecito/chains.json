@@ -1,0 +1,110 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Stakecito",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1k2d9ed9vgfuk2m58a2d80q9u6qljkh4vfaqjfq"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper12rzd5qr2wmpseypvkjl0spusts0eruw2g35lkn"
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1yy3tnegzmkdcm7czzcy3flw5z0zyr9vkkxrfse"
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q5qhs58"
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qnkypla"
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1ee7xnhczhvu064utmdn48sh0wx7zq3pgy6frgm"
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q8v8c3u"
+    },
+    {
+      "name": "fetch",
+      "address": "fetchvaloper17wlu37ev6s786r2qe9qwl38he0hahnekgsd0sk"
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qse8pw6"
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qlh8sg9"
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q2gwsam"
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1adrvp3ckqjwlszj9z3mfndp3d0xku497pnhnyd"
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qs3ht50"
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qvjutn2"
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q463llj"
+    },
+    {
+      "name": "coreum",
+      "address": "corevaloper19kg8c9k6quujkh0sflp78n4jsp3vzdy87540mm"
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qeh9gwf"
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qytddn2"
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qshf22j"
+    },
+    {
+      "name": "ux",
+      "address": "umeevaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qj87fd5"
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1yujr2clwszfmt65myeq2lp6jnjv364hjjln5ua"
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q5dufl6"
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qfyp4fj"
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1vys9dreue4e8xrga2zmuzth4z4gkmmgvjdxfdz"
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q4p26y6"
+    },
+    {
+      "name": "noble",
+      "address": "noblevaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qxxapku"
+    }
+  ]
+}
