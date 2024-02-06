@@ -12,6 +12,42 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1jpvku8u4al5kx4zm3hqm9j9faw3qhx6ss4ueq9",
+      "restake": {
+        "address": "dym15xjdrn6t0dyzgzfs8nagmg04yjvn8ls436wxzr",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1qt6yf3fvz250uddj04rxglfd40v8nruq8yesf0",
+      "restake": {
+        "address": "zeta15xjdrn6t0dyzgzfs8nagmg04yjvn8ls44rv4aa",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper19f0w9svr905fhefusyx4z8sf83j6et0g742nxz",
+      "restake": {
+        "address": "nibi1etsdevgm5ps240lrw9mg3p2j32tj96kte6pcm7",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "blockx",
+      "address": "blockxvaloper1yp394rmk45ndk3durlp7ft58pm6rwlnqfa3ucs",
+      "restake": {
+        "address": "blockx15xjdrn6t0dyzgzfs8nagmg04yjvn8ls460r5rc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "canto",
       "address": "cantovaloper1q9puynszmmwmsvhsr4g3zgrd6jxt8tks7cuayu",
       "restake": {
@@ -34,7 +70,7 @@
       "address": "dydxvaloper19f0w9svr905fhefusyx4z8sf83j6et0gvvcrs2",
       "restake": {
         "address": "dydx1etsdevgm5ps240lrw9mg3p2j32tj96kt8xt9j6",
-        "run_time": "every 10 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
