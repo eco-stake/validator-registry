@@ -21,6 +21,14 @@
           }
     },
      {
+      "name": "dymension",
+      "address": "dymvaloper1nk4vsmte3yr4ku28cr56xlgfvaz058fn49hkxa",
+      "restake": {
+        "address": "dym16vd9pnyceyyrmmxxrnjucv6mrevvf6eh7m0ekc",
+        "run_time": "every 2 hours",
+        "minimum_reward": 10000000000000000
+    },
+     {
       "name": "gitopia",
       "address": "gitopiavaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8tf703u",
       "restake": {
