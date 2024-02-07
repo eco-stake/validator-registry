@@ -26,7 +26,7 @@
         "restake": {
           "address": "gitopia1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nh03sup",
           "run_time": "every 5 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 1000000
         }
       },
          {
@@ -35,7 +35,7 @@
         "restake": {
           "address": "source1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n0y0eru",
           "run_time": "every 5 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 10000000
         }
       },
         {
@@ -44,7 +44,7 @@
         "restake": {
           "address": "comdex1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nwc5924",
           "run_time": "every 5 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 1000000
         }
       }
     ]
