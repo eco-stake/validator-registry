@@ -71,7 +71,7 @@
       "restake": {
         "address": "dym18zz46mff4dxpunzdx8yfsvw0w5g8au92c0z5nu",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000000000000
       }
     },
 
