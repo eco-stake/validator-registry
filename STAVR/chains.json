@@ -16,7 +16,7 @@
       "address": "evmosvaloper1v3q2kuups8gzjk2930haevwn08gl9vfld69m9g",
       "restake": {
         "address": "evmos17q3zwm3qfcfjs2pvp472tmqsae8n97pnh7ru4h",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
@@ -25,7 +25,7 @@
       "address": "dymvaloper1amxp0k0hg4edrxg85v07t9ka2tfuhamhldgf8e",
       "restake": {
         "address": "dym17q3zwm3qfcfjs2pvp472tmqsae8n97pn8z7523",
-        "run_time": "every 1 hour",
+        "run_time": "every 1 minutes",
         "minimum_reward": 100000000000000000
       }
     },
