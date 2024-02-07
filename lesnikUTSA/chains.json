@@ -79,8 +79,8 @@
       "address": "dymvaloper1taava3hdv33ps7es7yvwjx7x08lzz3s2mqfp6v",
       "restake": {
         "address": "dym1hx0hpm0x4x5lejup6y9m4hyeknk6m0ar8997kn",
-        "run_time": "every 1 minutes",
-        "minimum_reward": 100000
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -88,7 +88,7 @@
       "address": "nibivaloper1he44du3wsg3qgysyj0wlclq20apj880k72m8ks",
       "restake": {
         "address": "nibi1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyjd36r9",
-        "run_time": "every 1 hour",
+        "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
     },
