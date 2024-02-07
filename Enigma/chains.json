@@ -244,6 +244,15 @@
         "run_time": "",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1zx4p8utcjlzj2xuksxnvcj4r3cvdu2cxaqyn60",
+      "restake": {
+        "address": "dym16kv47hsamc24x9w4zkcccxwfrctyxg9kc2vslr",
+        "run_time": "19:00",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
