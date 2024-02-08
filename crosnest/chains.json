@@ -398,7 +398,7 @@
       "address": "dymvaloper1fg7n4w7ffg7vdn5kuaesfkpsg69dyjkgeutq3y",
       "restake": {
         "address": "dym1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu39cv26",
-        "run_time": "every 60 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1000000000000000000
       }
     },
