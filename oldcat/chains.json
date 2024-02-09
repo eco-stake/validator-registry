@@ -255,6 +255,15 @@
       }
     },
     {
+       "name":"regen",
+       "address":"regenvaloper1gpeunhcmw6q82l9zkf503l6l3vsfv7wae03rav",
+       "restake":{
+         "address":"regen1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z7z4tcl",
+         "run_time":"every 1 hour",
+         "minimum_reward":1000000
+       }
+    },
+    {
       "name": "shentu",
       "address": "shentuvaloper13q0kk99gqu503637lq23y5aedwp0dv8pccrnjm",
       "restake": {
