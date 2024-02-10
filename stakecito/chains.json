@@ -6,7 +6,7 @@
       "name": "cosmoshub",
       "address": "cosmosvaloper1k2d9ed9vgfuk2m58a2d80q9u6qljkh4vfaqjfq",
       "restake": {
-        "address": "cosmos1gvgcxwdk4j46gx3knhuackvqr2hta29z2lmjnx",
+        "address": "cosmos16g0rafqe2w255fme5lkmz8c0kfs9yr7a4q9k7p",
         "run_time": "21:00",
         "minimum_reward": 750000
       }
