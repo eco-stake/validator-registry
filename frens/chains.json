@@ -151,7 +151,7 @@
       "address": "injvaloper1m4pj2y9qrm77m9gsa8uu7xj6xjyy7du5hg2t2d",
       "restake": {
         "address": "inj1xul3g9w27tlns7k3d2reqjxqdsgyknkxka8fxu",
-        "run_time": "every 15 minutes",
+        "run_time": "19:00",
         "minimum_reward": 1
       }
     },
@@ -180,6 +180,15 @@
         "address": "mars1gvgcxwdk4j46gx3knhuackvqr2hta29zhzztxa",
         "run_time": "every 15 minutes",
         "minimum_reward": 1
+       }
+     },
+     {
+      "name": "dymension",
+      "address": "dymvaloper14zatq4jagqtm9ejgvglnv0t364d88u80h99m64",
+      "restake": {
+        "address": "dym1xul3g9w27tlns7k3d2reqjxqdsgyknkxwfut32",
+        "run_time": "19:00",
+        "minimum_reward": 100000000000000000
       }
     }  
   ]
