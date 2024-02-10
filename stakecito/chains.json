@@ -4,11 +4,21 @@
   "chains": [
     {
       "name": "cosmoshub",
-      "address": "cosmosvaloper1k2d9ed9vgfuk2m58a2d80q9u6qljkh4vfaqjfq"
+      "address": "cosmosvaloper1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wxxp9gd",
+      "restake": {
+        "address": "cosmos1gvgcxwdk4j46gx3knhuackvqr2hta29z2lmjnx",
+        "run_time": "21:00",
+        "minimum_reward": 750000
+      }
     },
     {
       "name": "osmosis",
-      "address": "osmovaloper12rzd5qr2wmpseypvkjl0spusts0eruw2g35lkn"
+      "address": "osmovaloper12rzd5qr2wmpseypvkjl0spusts0eruw2g35lkn",
+      "restake": {
+        "address": "osmo16g0rafqe2w255fme5lkmz8c0kfs9yr7aamkxgn",
+        "run_time": "21:00",
+        "minimum_reward": 3000000
+      }
     },
     {
       "name": "juno",
