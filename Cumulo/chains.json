@@ -1,8 +1,7 @@
 {
   "$schema": "../chains.schema.json",
   "name": "Cumulo",
-  "chains": [
-     
+  "chains": [  
     {
       "name": "empowerchain",
       "address": "empowervaloper1eqc4lfkm7f0tpw2c2f3s9u47evj7rgtt899d33",
