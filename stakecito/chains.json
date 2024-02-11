@@ -4,11 +4,21 @@
   "chains": [
     {
       "name": "cosmoshub",
-      "address": "cosmosvaloper1k2d9ed9vgfuk2m58a2d80q9u6qljkh4vfaqjfq"
+      "address": "cosmosvaloper1k2d9ed9vgfuk2m58a2d80q9u6qljkh4vfaqjfq",
+      "restake": {
+        "address": "cosmos16g0rafqe2w255fme5lkmz8c0kfs9yr7a4q9k7p",
+        "run_time": "21:00",
+        "minimum_reward": 750000
+      }
     },
     {
       "name": "osmosis",
-      "address": "osmovaloper12rzd5qr2wmpseypvkjl0spusts0eruw2g35lkn"
+      "address": "osmovaloper12rzd5qr2wmpseypvkjl0spusts0eruw2g35lkn",
+      "restake": {
+        "address": "osmo16g0rafqe2w255fme5lkmz8c0kfs9yr7aamkxgn",
+        "run_time": "21:00",
+        "minimum_reward": 3000000
+      }
     },
     {
       "name": "juno",
@@ -97,10 +107,6 @@
     {
       "name": "regen",
       "address": "regenvaloper1vys9dreue4e8xrga2zmuzth4z4gkmmgvjdxfdz"
-    },
-    {
-      "name": "impacthub",
-      "address": "ixovaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7q4p26y6"
     },
     {
       "name": "noble",
