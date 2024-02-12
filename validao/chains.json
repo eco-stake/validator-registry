@@ -12,11 +12,11 @@
       }
     },
     {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper16y4mv6j93san3jfe6kh8t5j3ujrqk958q9qn9p",
+      "name": "celestia",
+      "address": "celestiavaloper1gfn5m2vjqk4kcdg2zwhzgpvu60jz0f9duhu594",
       "restake": {
-        "address": "chihuahua1cnfk8zke5x4vhanxnewu45tssh9etl20f6pl38",
-        "run_time": "every 1 hour",
+        "address": "celestia1cnfk8zke5x4vhanxnewu45tssh9etl20m9ap2g",
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
     },
