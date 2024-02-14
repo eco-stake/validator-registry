@@ -7,7 +7,7 @@
       "address": "dymvaloper1xlnlh2uxsg3wl0skudqeeykkh4ku69jeaw6n9l",
       "restake": {
         "address": "dym19h2jw3rv22d4nyk64dv4fhep2dl3x9t6svpyad",
-        "run_time": "every 15 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000
       }
     }
