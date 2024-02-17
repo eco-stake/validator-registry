@@ -73,6 +73,15 @@
           "run_time":"every 1 hour",
           "minimum_reward": 100000
        }
+    },
+    {
+       "name":"secretnetwork",
+       "address":"secretvaloper1xtg9ypjasxxxjen8k2n5zcxgc73pq7pnvsmm70",
+       "restake":{
+          "address":"secret1u4rm5gqswjyqhtyatu56q42avnzlg0gxklj3v9",
+          "run_time":"every 1 hour",
+          "minimum_reward": 10000
+       }
     }
   ]
 }
