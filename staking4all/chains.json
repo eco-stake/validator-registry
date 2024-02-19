@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Staking4All",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper19w9y9sj2h87n35jdeclhgpujyh4wr7pkgtrymh",
+      "restake": {
+        "address": "dym1t2cwdcpxsgl5ktel3h8p403pnqs4gftt8y3myf",
+        "run_time": "10:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper19kr4f4ndyek6kwa0vt3w4un8he0tkekufa8t2g",
+      "restake": {
+        "address": "celestia18k7ljnklft2f3vzge5wj7k5u7rzapcshpm5zpc",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}
