@@ -82,6 +82,15 @@
           "run_time":"every 1 hour",
           "minimum_reward": 10000
        }
+    },
+    {
+       "name":"coreum",
+       "address":"corevaloper1xrd2petz764advyjm7ftu37jn32ueglqe7qyeg",
+       "restake":{
+          "address":"core1jnavat7gf0s2gce5g5sk0s3c7x3xf26yppdthr",
+          "run_time":"every 1 hour",
+          "minimum_reward": 10000
+       }
     }
   ]
 }
