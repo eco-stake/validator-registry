@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "3ventures.io",
+    "name": "PRYZM",
     "chains": [
       {
         "name": "cosmoshub",
