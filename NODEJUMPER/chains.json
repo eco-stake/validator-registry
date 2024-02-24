@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
+      "restake": {
+        "address": "dym1ms0600tflhmva37zv6s47tl8hhfurf3c3xfyuc",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485",
       "restake": {
@@ -205,6 +214,15 @@
       "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
       "restake": {
         "address": "uptick1ms0600tflhmva37zv6s47tl8hhfurf3csaeeq8",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh",
+      "restake": {
+        "address": "zeta1ms0600tflhmva37zv6s47tl8hhfurf3c4lthrx",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000000000000000
       }

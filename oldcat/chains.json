@@ -237,6 +237,15 @@
       }
     },
     {
+      "name": "quicksilver",
+      "address": "quickvaloper1p0w2ztl8swhpvtr8qccr448q25lh663jqht04a",
+      "restake": {
+        "address": "quick1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z2yw9hf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "rebus",
       "address": "rebusvaloper1ffxlxl9jqd43cwwtk5c3l5tux2y96k3qfrmryj",
       "restake": {
@@ -244,6 +253,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+       "name":"regen",
+       "address":"regenvaloper1gpeunhcmw6q82l9zkf503l6l3vsfv7wae03rav",
+       "restake":{
+         "address":"regen1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z7z4tcl",
+         "run_time":"every 1 hour",
+         "minimum_reward":1000000
+       }
     },
     {
       "name": "shentu",
@@ -263,6 +281,15 @@
         "minimum_reward": 5000000000000000000
       }
     },
+    {
+      "name": "source",
+      "address": "sourcevaloper1qzww7xzt5p92dstdx4499cutu5p5jg5gufd8f9",
+      "restake": {
+        "address": "source1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97z8n8f79",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },  
     {
       "name": "stargaze",
       "address": "starsvaloper14mc5h4qy8udss5c9mk8r7kz2xywk00ptuhfwac",

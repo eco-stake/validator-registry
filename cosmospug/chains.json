@@ -15,6 +15,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1lhh63rrc2www300lfsfzfthw68t7y6h04z3fcs",
+      "restake": {
+        "address": "dym1kmpplwln372xm6fkkmcthlk3twxmcave3xh9lx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper10q09k0flvffqzcmy2nx20nhxzs78nnesrv60ad",
       "restake": {

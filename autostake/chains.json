@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "andromeda",
+      "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
+      "restake": {
+        "address": "andr194ytn50yhh67rdha8akhs7c6zulnz4n23uppsw",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "aura",
       "address": "auravaloper1z8qlzq3ag2mzccg4xr2n805swr5rl3ugdh3euf",
       "restake": {
@@ -63,6 +72,15 @@
         "address": "swth194ytn50yhh67rdha8akhs7c6zulnz4n2kfr4l6",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1c8c8a7en2qffh83mqw0t2fq7ey7ln5l765qmhd",
+      "restake": {
+        "address": "dym163g9c65kv5v8lgvvwner3ruxntrdr50ykd83m5",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -304,7 +322,7 @@
       "address": "omniflixvaloper1a5khn752000mepl97qm7t2u4g865mdqzxpscph",
       "restake": {
         "address": "omniflix194ytn50yhh67rdha8akhs7c6zulnz4n25fc6ma",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },

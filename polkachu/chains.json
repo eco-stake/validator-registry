@@ -111,6 +111,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1pnt0h7q2htmmxprdxgwx9qkatv8slydc2gekpg",
+      "restake": {
+        "address": "dym1spdlljxpvgzn52qky7hafsdqxpchpydqe5g8w4",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper125fkz3mq6qxxpkmphdl3ep92t0d3y969xmt8hz",
       "restake": {
@@ -268,6 +277,15 @@
       "address": "quickvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4psyn3a0",
       "restake": {
         "address": "quick1xrrfek3qpz4ja8ccrjklfy064asyqq9kckxada",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1mpe9rdk7ycujge7r9ncjt4ekamgrdcygvzwqe8",
+      "restake": {
+        "address": "sei1xrrfek3qpz4ja8ccrjklfy064asyqq9k778ejw",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "2pilot",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper1tzgg3akdjrh83hsgn788uppgwts6hm2jlnn2t6",
+      "restake": {
+        "address": "dym1m589476f237270ae97x57jmxwdvaeutccqcwu9",
+        "run_time": "every hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
