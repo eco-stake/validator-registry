@@ -3,15 +3,6 @@
   "name": "genznodes",
   "chains": [
     {
-      "name": "8ball",
-      "address": "8ballvaloper12ut50ert29hrq2nvtmagdts9aq988frcq7usew",
-      "restake": {
-        "address": "8ball19tzqk0kp67mx4wcedvmefhvk9r2xcxudfcderh",
-        "run_time": "every 6 hour",
-        "minimum_reward": 1000000
-          }
-    },
-    {
       "name": "andromeda",
       "address": "andrvaloper1lmls0pg6mxpl7frwh7puwaqxmw6ym4xtasv0kl",
       "restake": {
@@ -153,6 +144,15 @@
         "address": "ununifi19tzqk0kp67mx4wcedvmefhvk9r2xcxudh07x6x",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1grjsghzvumzvk7zfgtaje5znjdqlatfsljfu0h",
+      "restake": {
+        "address": "zeta1ggzpjmk46lv4ulng7p04k98mg038xk965sdarp",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]
