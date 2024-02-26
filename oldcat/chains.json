@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1jdalrjgcqhgzjqmq9r8napemkuh5ena3448pt8",
+      "restake": {
+        "address": "dym1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfvmhcak",
+        "run_time": "every 1 hours",
+        "minimum_reward": 10000000000000000
+      }
+    },  
+    {
       "name": "empowerchain",
       "address": "empowervaloper1dm8n6c3jf7jzs92ewgfq6236xzw67xhn7rmcxe",
       "restake": {
