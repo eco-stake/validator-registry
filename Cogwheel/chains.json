@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Cogwheel | cogwheel.digital",
+  "name": "Cogwheel ⚙️",
   "chains": [
       {
       "name": "dyson",
@@ -18,7 +18,16 @@
         "address": "centauri1queqjvae6k6cuxqfhc8rmajwmvm36mv3h4n5zk",
         "run_time": ["09:00","21:00"],
         "minimum_reward": 100000000000
+      	  }
+	},
+	{
+      "name": "juno",
+      "address": "junovaloper1sz9nuewea8dlje7lzqymzyww8q0hun5q5ryep7",
+      "restake": {
+        "address": "juno1queqjvae6k6cuxqfhc8rmajwmvm36mv39danpe",
+        "run_time": ["09:00","21:00"],
+        "minimum_reward": 1000000
       }
-	}
-	]
+    }
+  ]
 }
