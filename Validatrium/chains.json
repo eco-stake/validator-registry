@@ -145,6 +145,10 @@
         {
           "name": "uptick",
           "address": "uptickvaloper12093es76tvvjevzgs5vtacmmh7y04asncmqhwh"
+        },
+        {
+          "name": "dymension",
+          "address": "dymvaloper1rnxezglxwhppgdh7n8yk5tcuenqqenvrxyhyue"
         }
     ]
   }
