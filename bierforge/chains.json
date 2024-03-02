@@ -109,6 +109,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 500000
       }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1yn95eh4mff0495ul8rlcq278j7ap3fxdk389ev",
+      "restake": {
+        "address": "lum1pchsyu3d8c0fezekqmh7ymkesv3gr0scudwg0f",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
