@@ -31,9 +31,9 @@
     },
     {
       "name": "andromeda",
-      "address": "andr194ytn50yhh67rdha8akhs7c6zulnz4n23uppsw",
+      "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
       "restake": {
-        "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
+        "address": "andr194ytn50yhh67rdha8akhs7c6zulnz4n23uppsw",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
@@ -72,6 +72,15 @@
         "address": "swth194ytn50yhh67rdha8akhs7c6zulnz4n2kfr4l6",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1c8c8a7en2qffh83mqw0t2fq7ey7ln5l765qmhd",
+      "restake": {
+        "address": "dym163g9c65kv5v8lgvvwner3ruxntrdr50ykd83m5",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000
       }
     },
     {

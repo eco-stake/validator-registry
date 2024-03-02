@@ -62,7 +62,7 @@
       "restake": {
         "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju",
         "run_time": "every 10 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
        }
       },
       {
@@ -89,8 +89,17 @@
       "restake": {
         "address": "human1gqejehhc4ut9zfaujprchlx6098vudh3gx9upy",
         "run_time": "every 10 minutes",
-        "minimum_reward": 100000
-       }    
+        "minimum_reward": 100000000000000000
+       }
+    },
+      {
+      "name": "dymension",
+      "address": "dymvaloper1thw8t8skc07sj5fyh9ggw4qachft6h8p9h4qwv",
+      "restake": {
+        "address": "dym1gqejehhc4ut9zfaujprchlx6098vudh3c585l4",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+       }        
       }    
     ]
   }

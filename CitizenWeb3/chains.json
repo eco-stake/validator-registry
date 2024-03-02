@@ -39,6 +39,15 @@
       }
     },
     {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1a00v3m5sthed82267gvdp2qt9czhjngg2djy8m",
+      "restake": {
+        "address": "gravity13kese9addgd286tl9plw5c48qtc36g50nfsk20",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj",
       "restake": {

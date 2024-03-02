@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "margined-protocol",
+  "identity": "AC3C2AB4800FEC24",
+  "website": "https://www.margined.io",
+  "description": {
+    "overview": "Your friendly local validator.",
+    "team": "Margined is a team of three with 15 years combined experience of working in Blockchain. Proud member Osmosis community delivering Power Perpetuals and more!"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hi@margined.io",
+    "telegram": "",
+    "twitter": "margined_io",
+    "discord": "https://discord.gg/upskzsmWr4",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
