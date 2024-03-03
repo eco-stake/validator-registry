@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PSNodes",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper16sj6jjlce43znkrdv6nxzfatzl7avy2xwzpeek",
+      "restake": {
+        "address": "orai18jp9cpvrthszfcctjnttqum6kre0mgfjsknxh8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
