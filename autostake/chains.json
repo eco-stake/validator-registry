@@ -467,7 +467,7 @@
       "restake": {
         "address": "source194ytn50yhh67rdha8akhs7c6zulnz4n20ysaua",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
