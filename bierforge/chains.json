@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "8ball",
-      "address": "8ballvaloper144q0rc2tn9k9dnvh05ltr2aq8pgx94rrwr5jv6",
-      "restake": {
-        "address": "8ball1pchsyu3d8c0fezekqmh7ymkesv3gr0scpjnvez",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "mun",
       "address": "munvaloper1wvc3vyna24mdqhwmqzs6slccgaaplaz5qushhp",
       "restake": {
@@ -45,15 +36,6 @@
         "address": "pasg1pchsyu3d8c0fezekqmh7ymkesv3gr0sc2l2mhz",
         "run_time": "every 1 minute",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "composable",
-      "address": "centaurivaloper1a26v3xxmff4p342wazqm285s47dwqvxfhesj67",
-      "restake": {
-        "address": "centauri1pchsyu3d8c0fezekqmh7ymkesv3gr0scdd7a7w",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000
       }
     },
     {
