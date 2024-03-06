@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "EZStaking.io",
+  "name": "EZ Staking",
   "chains": [
     {
       "name": "juno",
@@ -44,7 +44,7 @@
       "restake": {
         "address": "stars1fs7lu28hx5m9akm7rp0c2422cn8r2f7gglt0uc",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 2500000
       }
     },
     {
