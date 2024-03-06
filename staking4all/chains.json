@@ -18,7 +18,8 @@
         "address": "celestia18k7ljnklft2f3vzge5wj7k5u7rzapcshpm5zpc",
         "run_time": ["06:00", "18:00"],
         "minimum_reward": 500000
-      },
+       }
+     },
      {
       "name": "persistence",
       "address": "persistencevaloper1tzn8rk09ez2gm55sffpyzt7ccn5yzshpql8rug",
@@ -26,6 +27,7 @@
         "address": "persistence18k7ljnklft2f3vzge5wj7k5u7rzapcsh7arp43",
         "run_time": ["06:00", "18:00"],
         "minimum_reward": 100000
+       }
      },
      {
       "name": "aura",
