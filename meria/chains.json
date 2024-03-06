@@ -11,7 +11,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000 
       }
     },
     {
@@ -23,7 +23,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -35,7 +35,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -47,7 +47,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -59,7 +59,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -71,7 +71,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -83,7 +83,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -95,7 +95,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -107,7 +107,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -119,7 +119,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -131,7 +131,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -143,7 +143,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -155,7 +155,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -167,7 +167,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -179,7 +179,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -191,7 +191,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },
     {
@@ -203,7 +203,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -215,7 +215,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -227,7 +227,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -239,7 +239,7 @@
           "07:00",
           "19:00"
         ],
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     }
    ]
