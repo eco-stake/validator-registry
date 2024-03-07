@@ -485,7 +485,7 @@
       "restake": {
         "address": "somm194ytn50yhh67rdha8akhs7c6zulnz4n29tx0af",
         "run_time": "every 5 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 1
       }
     },
     {
