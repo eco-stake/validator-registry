@@ -368,10 +368,8 @@
       "restake": {
         "address": "zeta12yxhz9pjwsljn9707xqprkcrzkkmrtyxvhpsl0",
         "run_time": [ "9:00", "21:00" ],
-        "minimum_reward": 500000000000000000,
+        "minimum_reward": 500000000000000000
       }
     }
-
-
   ]
 }
