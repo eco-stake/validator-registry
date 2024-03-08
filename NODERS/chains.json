@@ -6,7 +6,7 @@
       "name": "jackal",
       "address": "jklvaloper132k95jan8ju92jtmkzr49vnusv5xvwvju27kpq",
       "restake": {
-        "address": "",
+        "address": "jkl19un5n5y06jj8cnquapn535nh0nnue52r0lpesn",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -33,7 +33,7 @@
       "name": "empowerchain",
       "address": "empowervaloper16vwk7mq2f5h3vxzuyhxdsc56ewccmnnqn83ag4",
       "restake": {
-        "address": "",
+        "address": "empower19un5n5y06jj8cnquapn535nh0nnue52r2dtrnj",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
@@ -42,7 +42,7 @@
       "name": "haqq",
       "address": "haqqvaloper1hgggrfgjeu4d5nveh03c6w37magsuqcy84p44t",
       "restake": {
-        "address": "",
+        "address": "haqq10t7ahepr8kv78jjnqzf3ftatsgph34p4rcwxjt",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000
       }
@@ -69,7 +69,7 @@
       "name": "rebus",
       "address": "rebusvaloper1ssvn4vrw8c40r6zgyhhxclhp36n75sulca02pl",
       "restake": {
-        "address": "",
+        "address": "rebus19un5n5y06jj8cnquapn535nh0nnue52r8tvaa6",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
@@ -105,7 +105,7 @@
          "name":"archway",
          "address":"archwayvaloper173zlk665f6f4hl8rnmelhql9qkttc2e79z5xn6",
          "restake":{
-            "address":"",
+            "address":"archway19un5n5y06jj8cnquapn535nh0nnue52rr2nvrm",
             "run_time":"every 1 hour",
             "minimum_reward":500000000000000000
            }
@@ -114,7 +114,7 @@
       "name": "realio",
       "address": "realiovaloper1q0ju3af59l2kp2vfywcjrmj07tkgkg0s9zfh03",
       "restake": {
-        "address": "",
+        "address": "realio10t7ahepr8kv78jjnqzf3ftatsgph34p4g2lls8",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
         }
@@ -141,7 +141,7 @@
       "name": "desmos",
       "address": "desmosvaloper1pequu0gsvh9ay5rx2xyg6j7eratwufu560dpnu",
       "restake": {
-        "address": "",
+        "address": "desmos1ear3dnere7rt4r2eec6rzxk0ls7peygz974fg9",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000
       }
@@ -150,7 +150,7 @@
         "name": "bitsong",
         "address": "bitsongvaloper19qtzdsu57hf5jmcyy5t2uuh0y45q4ah7hrwk4n",
         "restake": {
-          "address": "",
+          "address": "bitsong1h32ych8hgy3tg9jl9crw5nq32s4cys9cfkvvqj",
           "run_time": "20:00",
           "minimum_reward": 1000000
         }
