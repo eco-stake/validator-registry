@@ -129,6 +129,24 @@
         }
        },
        {
+       "name": "humans",
+       "address": "humanvaloper1mcnntqnl0tajjvxz7uqxsxnez65wnnh7qaqs72",
+       "restake": {
+        "address": "human1zcvz6dg7uauxfchmylp4mm37rcv4esec060tzf",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+        }
+       },
+       {
+       "name": "sge",
+       "address": "sgevaloper1cfrldk5qkrt7a44llfer5dk84l35a4qqw2dyr4",
+       "restake": {
+        "address": "sge1e8dhejyszhkcrz9ts0tgltwcj7vh4awdaecnjw",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+          }
+       },
+       {
        "name": "oraichain",
        "address": "oraivaloper179dea42h80arp69zd779zcav5jp0kv04tvw7yz",
        "restake": {
