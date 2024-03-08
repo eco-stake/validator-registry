@@ -17,7 +17,7 @@
       "restake": {
         "address": "celestia1pnmlutnxtgp2wvwvf66j6fc08dugsdhllz6hus",
         "run_time": "19:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
