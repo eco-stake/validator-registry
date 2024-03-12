@@ -39,16 +39,16 @@
         }
       },
         {
-        "name": "source",
-        "address": "sourcevaloper1r9w0gr8e34hmp3hpn0p2jhmf8xvczapts28lx9",
+        "name": "comdex",
+        "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
         "restake": {
-          "address": "source1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n0y0eru",
+          "address": "comdex1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nwc5924",
           "run_time": "every 5 minutes",
           "minimum_reward": 1000000
         }
       },
         {
-        "name": "comdex",
+        "name": "persistence",
         "address": "persistencevaloper1lywma98u56q3xvgn078k8sr8q6dcrhrpqsgm6e",
         "restake": {
           "address": "persistence1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n8ms5ax",
