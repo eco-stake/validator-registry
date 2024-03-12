@@ -4,7 +4,7 @@
   "chains": [
     {
       "name": "coreum",
-      "address": "core15nr84074r5kcwcs7pqyj32xekhc0awfd4s6fqw",
+      "address": "corevaloper15nr84074r5kcwcs7pqyj32xekhc0awfd0wyvqs",
       "restake": {
         "address": "core1umkwvnm872q0aujcscdh02az0km56jffjnyl75",
         "run_time": [
