@@ -60,7 +60,7 @@
       "name": "uptick",
       "address": "uptickvaloper1fl3426k0avvergm7ejzczqy6rfzxk5ma93mqwj",
       "restake": {
-        "address": "",
+        "address": "uptick10t7ahepr8kv78jjnqzf3ftatsgph34p4je8w4v",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
@@ -87,7 +87,7 @@
       "name": "aura",
       "address": "auravaloper1vvqz6j3ucxr6n0ejdz4ck602lnyjew93cgcw4m",
       "restake": {
-        "address": "",
+        "address": "aura19un5n5y06jj8cnquapn535nh0nnue52rdhc2t4",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -123,7 +123,7 @@
       "name": "zetachain",
       "address": "zetavaloper1r66jlz6qvq74apsx4r5696jkrusn5uvvvcgvn9",
       "restake": {
-        "address": "",
+        "address": "zeta10t7ahepr8kv78jjnqzf3ftatsgph34p4hm4qkd",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
@@ -132,7 +132,7 @@
       "name": "humans",
       "address": "humanvaloper1xl4lxgvwesnehdkfpn92ku8fk99lkrk6kmjc98",
       "restake": {
-        "address": "",
+        "address": "human10t7ahepr8kv78jjnqzf3ftatsgph34p4rs4mhz",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -159,7 +159,7 @@
       "name": "stratos",
       "address": "stvaloper1ghkn8ra63422mcepdk0zzglzy6qax637g6fhzm",
       "restake": {
-        "address": "",
+        "address": "st10zwmasadrx2gvpxw67v9mtrcyv7ncc504tkv9n",
         "run_time": "20:00",
         "minimum_reward": 100000
       }
