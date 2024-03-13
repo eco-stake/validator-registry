@@ -1,0 +1,25 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Crypto and Coffee",
+  "chains": [
+
+    {
+      "name": "akash",
+      "address": "akashvaloper1lpykm8ru865ca8hy392uvtnpeqacj3tvwz9f2n",
+      "restake": {
+        "address": "akash1cq0qjtyp2lu440hy26q7y9sskygr5jwy73ulqr",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1te02m7t9m9l58yatvn89tmlmkk5zsy7ruh3m6j",
+      "restake": {
+        "address": "nolus1cq0qjtyp2lu440hy26q7y9sskygr5jwy96p8mu",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}
