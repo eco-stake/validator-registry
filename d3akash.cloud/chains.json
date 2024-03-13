@@ -36,7 +36,15 @@
         "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
         "run_time": "10:00",
         "minimum_reward": 1000000
-     }
+     },
+     {
+      "name": "oraichain",
+      "address": "oraivaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mlvn85h",
+      "restake": {
+        "address": "orai1gvu0xvz0vut3xq07m87np9kns5y2pw5f58ryz7",
+        "run_time": "09:15",
+        "minimum_reward": 0.2
+      }
     }
   ]
 }
