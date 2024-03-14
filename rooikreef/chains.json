@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper164k2sgrpemau4evtcg5y3vurzw2atm940yzsv3",
+      "restake": {
+        "address": "source10eumq5yvapfdan5nxsfkc3arskff3l9v8nt720",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {
