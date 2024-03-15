@@ -1,0 +1,70 @@
+
+{
+  "$schema": "../chains.schema.json",
+  "name": "Nodes Hub",
+  "chains": [
+    {
+      "name": "source",
+      "address": "sourcevaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3su645wj",
+      "restake": {
+        "address": "source1765r3rvgpj2fugjru8gr4s7yp26vdmz297guzw",
+        "run_time": "every 30 Seconds",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "humans",
+      "address": "humanvaloper1mgukftytaqvwew57qvqz8yv380vhh8zskfzppf",
+      "restake": {
+        "address": "human1ltv0z3033yrpc23s2mtkswjx98h0pckhxlx92u",
+        "run_time": "every 30 Seconds",
+        "minimum_reward": 100000000000000000
+      }
+},
+    {
+      "name": "pundix",
+      "address": "pxvaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3sz2728d",
+      "restake": {
+        "address": "px1765r3rvgpj2fugjru8gr4s7yp26vdmz2zus0ey",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3s248fhs",
+      "restake": {
+        "address": "chihuahua1765r3rvgpj2fugjru8gr4s7yp26vdmz2qcuvnj",
+        "run_time": "every 30 Seconds",
+        "minimum_reward": 100000000
+      }
+},
+    {
+      "name": "fxcore",
+      "address": "fxvaloper1mgukftytaqvwew57qvqz8yv380vhh8zs2562zz",
+      "restake": {
+        "address": "fx1mgukftytaqvwew57qvqz8yv380vhh8zsz984uz",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+},
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3s2w52tx",
+      "restake": {
+        "address": "rizon1zvuyw9utsdp3w0mnrructw87p8sy8a3se2ktfk",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+		{
+      "name": "firmachain",
+      "address": "firmavaloper1hq5rh4p2whhx7ctjn6gjdz3kx9tfzcw2kkt79c",
+      "restake": {
+        "address": "firma17x42tua604vqykhd3y7c6zpmf7uted6u3ws9z6",
+        "run_time": "every 5 Minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

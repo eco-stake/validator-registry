@@ -111,13 +111,49 @@
         }
        },
        {
-        "name": "mun",
-        "address": "munvaloper1flk3vz5260m7tpyx93wg7lqxkdscy7junhr5l8",
-        "restake": {
-          "address": "mun1e8dhejyszhkcrz9ts0tgltwcj7vh4awdeemt88",
-          "run_time": "every 2 hour",
-          "minimum_reward": 1000000
+       "name": "mun",
+       "address": "munvaloper1flk3vz5260m7tpyx93wg7lqxkdscy7junhr5l8",
+       "restake": {
+         "address": "mun1e8dhejyszhkcrz9ts0tgltwcj7vh4awdeemt88",
+         "run_time": "every 2 hour",
+         "minimum_reward": 1000000
+         }
+       },
+       {
+       "name":"irisnet",
+       "address": "iva1hlytpagdettxeem0g5kd5xakpqd2pls4kxe77q",
+       "restake": {
+         "address": "iaa1e8dhejyszhkcrz9ts0tgltwcj7vh4awdkmxu84",
+         "run_time": "every 2 hour",
+         "minimum_reward": 1000000
         }
-      }
+       },
+       {
+       "name": "humans",
+       "address": "humanvaloper1mcnntqnl0tajjvxz7uqxsxnez65wnnh7qaqs72",
+       "restake": {
+        "address": "human1zcvz6dg7uauxfchmylp4mm37rcv4esec060tzf",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+        }
+       },
+       {
+       "name": "sge",
+       "address": "sgevaloper1cfrldk5qkrt7a44llfer5dk84l35a4qqw2dyr4",
+       "restake": {
+        "address": "sge1e8dhejyszhkcrz9ts0tgltwcj7vh4awdaecnjw",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+          }
+       },
+       {
+       "name": "oraichain",
+       "address": "oraivaloper179dea42h80arp69zd779zcav5jp0kv04tvw7yz",
+       "restake": {
+         "address": "orai1e8dhejyszhkcrz9ts0tgltwcj7vh4awds2swyh",
+         "run_time": "every 2 hours",
+         "minimum_reward": 100000
+         }
+       }
     ]
 }

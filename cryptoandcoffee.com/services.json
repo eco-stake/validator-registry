@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "cryptoandcoffee.com",
+  "services": [
+    {
+      "title": "cryptoandcoffee",
+      "description": "Mine at scale with Docker on decentralized infrastructure. Stake modern web3 dApps like Akash Network and Nolus.",
+      "url": "https://cryptoandcoffee.com"
+    }
+  ]
+}

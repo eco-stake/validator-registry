@@ -51,7 +51,7 @@
       "name": "chain4energy",
       "address": "c4evaloper1zmjy9nhhq8f0sdvzkztmkhyv5l47h07wsg5nr7",
       "restake": {
-        "address": "c4e1uae8h39zh6rewm8pffnu49yc0wyqtaxdepn4h9",
+        "address": "c4e1wf60jx7lrgt6xjp3lk8vq4fcjh24s507pffmmf",
         "run_time": "18:30",
         "minimum_reward": 1000000
       }  
@@ -99,6 +99,24 @@
         "address":"qwoyn1wf60jx7lrgt6xjp3lk8vq4fcjh24s507l33g9k",
         "run_time":"18:30",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1demcj83q7nxt6gtqxlu7qsmwqpt4jspj3alr92",
+      "restake": {
+        "address": "celestia1wf60jx7lrgt6xjp3lk8vq4fcjh24s507nmpxc6",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper16vz54egcjh7du0wq04yssk6gzlefu6yw230gg6",
+      "restake": {
+        "address": "dym104uwgvkxtc7fhdnacp2lje9e97w5kdryr2aqpv",
+        "run_time": "18:30",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

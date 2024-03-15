@@ -25,8 +25,8 @@
       "address": "cosmosvaloper1fsg635n5vgc7jazz9sx5725wnc3xqgr7awxaag",
       "restake": {
         "address": "cosmos1v9vae554q55xa4pcfdm0p3kv8nxn50jk6v8jdf",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "run_time": "every 12 hour",
+        "minimum_reward": 250000
       }
     },
     {
@@ -36,15 +36,6 @@
         "address": "cro1v9vae554q55xa4pcfdm0p3kv8nxn50jkzh0t3c",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "dig",
-      "address": "digvaloper1zqp8f7ehuf64psmg0tz3cydacgk2nshg338e8m",
-      "restake": {
-        "address": "dig1v9vae554q55xa4pcfdm0p3kv8nxn50jkzcwe0j",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
       }
     },
     {
@@ -305,7 +296,7 @@
       "restake": {
         "address": "migaloo1v9vae554q55xa4pcfdm0p3kv8nxn50jkhcwgc8",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
@@ -314,7 +305,7 @@
       "restake": {
         "address": "kyve1v9vae554q55xa4pcfdm0p3kv8nxn50jkdz2yxd",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     },
     {
@@ -382,6 +373,33 @@
         "address": "sei1v9vae554q55xa4pcfdm0p3kv8nxn50jkhqkytg",
         "run_time": "every 1 minutes",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1xjm7d7d0x9krjdmwgnhdzpww6wwg93z2874vh4",
+      "restake": {
+        "address": "celestia1v9vae554q55xa4pcfdm0p3kv8nxn50jktxkzhy",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1y6ncfxx8x9sqec97pehjw0k32slw63850ltjrn",
+      "restake": {
+        "address": "dydx1v9vae554q55xa4pcfdm0p3kv8nxn50jkn4fkd7",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1fg7n4w7ffg7vdn5kuaesfkpsg69dyjkgeutq3y",
+      "restake": {
+        "address": "dym1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu39cv26",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000000000000000
       }
     },
     {

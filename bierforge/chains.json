@@ -8,25 +8,7 @@
       "restake": {
         "address": "plq1ayttg2punr4v75hsjnt223x0xmp9fs64zwp7g7",
         "run_time": "every 1 minute",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "lumenx",
-      "address": "lumenvaloper12598aagy2a3k2deere78her90u09xqs5unz5fz",
-      "restake": {
-        "address": "lumen1pchsyu3d8c0fezekqmh7ymkesv3gr0scujh237",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "8ball",
-      "address": "8ballvaloper144q0rc2tn9k9dnvh05ltr2aq8pgx94rrwr5jv6",
-      "restake": {
-        "address": "8ball1pchsyu3d8c0fezekqmh7ymkesv3gr0scpjnvez",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -48,21 +30,66 @@
       }
     },
     {
-      "name": "composable",
-      "address": "centaurivaloper1a26v3xxmff4p342wazqm285s47dwqvxfhesj67",
-      "restake": {
-        "address": "centauri1pchsyu3d8c0fezekqmh7ymkesv3gr0scdd7a7w",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000
-      }
-    },
-    {
       "name": "tenet",
       "address": "tenetvaloper1qjh6n9yy4ezaxc723ak9tnalx8424cssvqcyt0",
       "restake": {
         "address": "tenet1ayttg2punr4v75hsjnt223x0xmp9fs64kwvrwh",
         "run_time": "every 1 minute",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1ah34q2g6ju5dkc38j00mrrsh288neswan5x34h",
+      "restake": {
+        "address": "source1pchsyu3d8c0fezekqmh7ymkesv3gr0sc052l2r",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sge",
+      "address": "sgevaloper1jjg0x9n74mu2v4ulm8exk6js6vtkfj8q3kyajx",
+      "restake": {
+        "address": "sge1pchsyu3d8c0fezekqmh7ymkesv3gr0sch8dldh",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1trlvqs0vlmznkltegvcvypuwh7pxzsnve39mvn",
+      "restake": {
+        "address": "tori1pchsyu3d8c0fezekqmh7ymkesv3gr0sctnygpd",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1v9v98f7zft6rm27dvthdcsm95gkp55twqq5gq6",
+      "restake": {
+        "address": "human1ayttg2punr4v75hsjnt223x0xmp9fs64felv4j",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1rmwnvxspdr33kh6mlh6dwps6vqwkfcyvfjvc9w",
+      "restake": {
+        "address": "bcna1pchsyu3d8c0fezekqmh7ymkesv3gr0scnhrqj0",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1yn95eh4mff0495ul8rlcq278j7ap3fxdk389ev",
+      "restake": {
+        "address": "lum1pchsyu3d8c0fezekqmh7ymkesv3gr0scudwg0f",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
       }
     }
   ]

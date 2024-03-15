@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1jgqewpzn7dww5tlpnkypm72fm8tjznmw7ll7ls",
+      "restake": {
+        "address": "celestia1xrrfek3qpz4ja8ccrjklfy064asyqq9kzc8lwz",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4p40qac2",
       "restake": {
@@ -99,6 +108,15 @@
         "address": "cro1xjpe7jmvg4l2xqqtcs0z0z9sls7xqrmyk42geg",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1pnt0h7q2htmmxprdxgwx9qkatv8slydc2gekpg",
+      "restake": {
+        "address": "dym1spdlljxpvgzn52qky7hafsdqxpchpydqe5g8w4",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -259,6 +277,15 @@
       "address": "quickvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4psyn3a0",
       "restake": {
         "address": "quick1xrrfek3qpz4ja8ccrjklfy064asyqq9kckxada",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1mpe9rdk7ycujge7r9ncjt4ekamgrdcygvzwqe8",
+      "restake": {
+        "address": "sei1xrrfek3qpz4ja8ccrjklfy064asyqq9k778ejw",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
