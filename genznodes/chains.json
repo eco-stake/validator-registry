@@ -93,6 +93,15 @@
         }
     },
     {
+      "name": "nibiru",
+      "address": "nibivaloper1wu3yd9xkhetcs7zjtz0y0pt8kh6dm0r37fyzyf",
+      "restake": {
+        "address": "nibi19tzqk0kp67mx4wcedvmefhvk9r2xcxudkgfdfm",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
       "restake": {
