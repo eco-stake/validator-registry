@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Alchemist Stake",
+  "chains": [
+    {
+      "name": "humans",
+      "address": "humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh",
+      "restake": {
+        "address": "human1a2kjvsgxqqk0mrfpwlvv209zfjes2xz9pjvvmf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+	]
+}
