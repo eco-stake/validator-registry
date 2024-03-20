@@ -313,8 +313,8 @@
       "address": "onomyvaloper1vpj283gw4qzl8ytlesz0fvksxa3v24k3jc4wnz",
       "restake": {
         "address": "onomy194ytn50yhh67rdha8akhs7c6zulnz4n2nka4ax",
-        "run_time": "every 1 minutes",
-        "minimum_reward": 1
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
       }
     },
     {
