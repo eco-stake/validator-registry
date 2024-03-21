@@ -3,6 +3,16 @@
   "name": "ProNodes",
   "chains": [
     {
+      "name": "evmos",
+      "address": "evmosvaloper1vg55n0rme285ncdjd0dwhylm0f4dgyfn5ar48g",
+      "restake": {
+        "address": "evmos1su6tsndr8vq9cq38d5xwdsmt68rlx9y9gtkgq2",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+	  
+     {
       "name": "bitsong",
       "address": "bitsongvaloper1mz5q43032m6qwzsq2e3vkjgs7zqx4ksl7swf9v",
       "restake": {

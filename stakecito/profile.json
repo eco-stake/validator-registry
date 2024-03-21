@@ -1,0 +1,16 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Stakecito",
+  "identity": "D16E26E5C8154E17",
+  "website": "https://stakecito.com",
+  "description": {
+    "overview": "Securing & Decentralizing PoS Networks."
+  },
+  "contacts": {
+    "email": "security@stakecito.de",
+    "twitter": "stakecito",
+    "others": {
+      "emergency": "security@stakecito.de"
+    }
+  }
+}

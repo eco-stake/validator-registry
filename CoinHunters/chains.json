@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CoinHunters",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n",
+      "restake": {
+        "address": "dym18e5lyn3ljh8ru3ddkm2rkh362j8c9pg8t8cxmn",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

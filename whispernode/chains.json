@@ -1,7 +1,16 @@
 {
   "$schema": "../chains.schema.json",
-  "name": " WhisperNode🤐",
+  "name": "WhisperNode 🤐",
   "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1u8l950ustppklscdpeyhrw6ed4tzu49vpksmun",
+      "restake": {
+        "address": "akash1e44rluarkdw56dy2turnwjtvtg4wqvs0lscrwl",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000000000000
+      }
+    },
     {
       "name": "archway",
       "address": "archwayvaloper1xjyw0swav97upg2f5trvuxrmzympm0gu092alx",
@@ -70,6 +79,15 @@
           "21:00"
         ],
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper132s4x2jdx6n34npfvexu82p9z6px7wqnna8ngk",
+      "restake": {
+        "address": "dym1k0fpumkxl35p3se0n52e6dc3mh8vy24krnpg0w",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
       }
     },
     {

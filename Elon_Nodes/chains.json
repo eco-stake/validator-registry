@@ -64,6 +64,15 @@
                 "run_time": "16:20",
                 "minimum_reward": 100000
             }
+        },
+        {
+            "name": "jackal",
+            "address": "jklvaloper157n7xq0kqqwh8vta0a3c5l040ygvupcd2tu7e5",
+            "restake": {
+                "address": "jkl1admcmugme2l5nnuqdy0vdr9n02px773dtt8nfc",
+                "run_time": "16:20",
+                "minimum_reward": 100000
+            }
         }
     ]
 }

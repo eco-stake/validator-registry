@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeBroker",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1rssz59ag9r4hm0tj8avp6x47uuqc9xtc8umtnr",
+      "restake": {
+        "address": "haqq1j3yx3fr9lylgge43n0qlvlzgxvcwwzylqrz7vm",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

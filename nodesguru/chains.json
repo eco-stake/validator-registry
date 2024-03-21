@@ -30,7 +30,7 @@
       }
     },
     {
-      "name": "band",
+      "name": "bandchain",
       "address": "bandvaloper1ppycvs7hfnw37aghc9mc58zy9al793sr4mwxjg"
     },
     {
@@ -43,7 +43,7 @@
       "restake": {
         "address": "celestia1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kkf90",
         "run_time": "00:00",
-        "minimum_reward": 0
+        "minimum_reward": 100000
       }
     },
     {

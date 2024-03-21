@@ -10,7 +10,7 @@
         "run_time": [
           "10:00"
         ],
-        "minimum_reward": 50000
+        "minimum_reward": 1000000
       }
     }
   ]

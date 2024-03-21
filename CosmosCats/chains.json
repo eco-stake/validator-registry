@@ -52,8 +52,17 @@
              "address": "umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6",
              "restake": {
                 "address": "umee1k925saegdkfcq4cxjde7nmzyvu6cc0mapa6pw6",
-                "run_time": "every 1 hour",
-                "minimum_reward": 100000      
+                "run_time": ["21:00"],
+                "minimum_reward": 100000    
+            }
+            },
+            {
+             "name": "evmos",
+             "address": "evmosvaloper1jkqgnx9y8jm9gu6r56686f5s4hjmuvkau8w6zt",
+             "restake": {
+                "address": "evmos1s36ccfkx6e8vg9tfqxp3qx9a8x48jgkzx6u7qk",
+                "run_time": ["21:00"],
+                "minimum_reward": 100000000000000000      
             }
          }  
     ]

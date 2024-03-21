@@ -172,6 +172,33 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1v76xtu2k5yerxym3gezvzut9mc8dm8nezt6uh4",
+      "restake": {
+        "address": "tori1e762e7chsgz3aurtelcz948j8gscfr0qd64783",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper16vmfpwg4k5q6jw6ce35vrmrdar5e2wxv0cw20w",
+      "restake": {
+        "address": "lum1e762e7chsgz3aurtelcz948j8gscfr0q6yl7f4",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper16q0gx4yyqjk9lweu6xc3cq79u2ktnwvqa945p4",
+      "restake": {
+        "address": "kyve1e762e7chsgz3aurtelcz948j8gscfr0qcq0ph9",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

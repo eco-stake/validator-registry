@@ -23,7 +23,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 50000000000000000
       }
     },
 
@@ -48,9 +48,34 @@
           "09:00",
           "21:00"
         ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9sv4xj8",
+      "restake": {
+        "address": "orai1dp67gfvhsffyn42k4srsw29wm6d55u9mywqgx7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
       }
     },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx94hm9g6",
+      "restake": {
+        "address": "stars1dp67gfvhsffyn42k4srsw29wm6d55u9mrppkvu",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+
     {
       "name": "stride",
       "address": "stridevaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx92tuvq6",

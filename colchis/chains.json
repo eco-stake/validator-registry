@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Colchis Topaz Global",
+  "chains": [
+    {
+      "name":"provenance",
+      "address":"pbvaloper1v549f7d8f7junfga7yg04uz4zx0lwpqdl2f897",
+      "restake":{
+         "address":"pb1w64xr8ahhmeulkarxae0q0q9luqyx5c640us0z",
+         "run_time": [
+          "09:00",
+          "21:00"
+        ],
+         "minimum_reward": 1000
+      }
+   }
+  ]
+}

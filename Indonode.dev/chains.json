@@ -46,6 +46,51 @@
             "run_time":"every 1 hour",
             "minimum_reward": 10000
         }             
-      }
+      },
+           {
+         "name":"source",
+         "address":"sourcevaloper12q8uzsmtc0vs4wryvjmk5hnyv559dqcwc48yj3",
+         "restake":{
+            "address":"source140fe54nq7yn9ll3lk02zk9nfwxr6338fdtq54a",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+           }
+         },
+            {
+         "name":"sge",
+         "address":"sgevaloper1rs78akqst8hn9pwdz9rw2m3a466tyqjt668sc7",
+         "restake":{
+            "address":"sge140fe54nq7yn9ll3lk02zk9nfwxr6338f4c85jf",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+           }
+         },
+            {
+         "name":"quasar",
+         "address":"quasarvaloper12hxpgn298vkw5mvetud5f5t84mf02l7jez5f8q",
+         "restake":{
+            "address":"quasar140fe54nq7yn9ll3lk02zk9nfwxr6338f9mrhgx",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+         }
+          },
+            {
+         "name":"quicksilver",
+         "address":"quickvaloper1z8g9wuq7jdy2wxgk422hrqkc74lhkmm4hnrz02",
+         "restake":{
+            "address":"quick140fe54nq7yn9ll3lk02zk9nfwxr6338fqufcu3",
+            "run_time":"every 1 hour",
+            "minimum_reward": 100000
+        }
+      },
+                {
+         "name":"dymension",
+         "address":"dymvaloper1stkzwjenj2hw48n7dp5402vd2vem8qnalnt2dg",
+         "restake":{
+            "address":"dym1uza65au6wdkqyx83mzwhwl0x2jvhpq8z0yg6ta",
+            "run_time":"every 1 hour",
+            "minimum_reward": 1000000000000000000
+        }
+      }            
     ]
  }
