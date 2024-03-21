@@ -314,7 +314,7 @@
       "restake": {
         "address": "onomy194ytn50yhh67rdha8akhs7c6zulnz4n2nka4ax",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 1
       }
     },
     {
