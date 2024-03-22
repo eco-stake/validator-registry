@@ -181,6 +181,31 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1hvt68he6uvadnk73rjy6hg7a4u2myud5yhj3ae"
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1z8dewhura5yswqevj6733yaae0v0lhgp4uh7nq",
+      "restake": {
+        "address": "dym1g94m7lremc5m5dhzd8lvjf7d8hs6sg400u79yl",
+        "run_time": "00:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "doravota",
+      "address": "doravaloper1z6kfew2nhuh02szc2hdecw4fqey2d32auucvux"
+    },
+    {
+      "name": "andromeda",
+      "address": "andrvaloper1s0hhglqd5ldny4cx8gc8v4a0w9ezt40a4s3ulu"
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper14nr64c9fsqanrezfcuprletu2d40frznuhw68r"
     }
   ]
 }

@@ -48,15 +48,6 @@
       }
     },
       {
-        "name": "crescent",
-        "address": "crevaloper1ncs434w3k0ap3zv9wvgtqaklgg06snn9vzak8t",
-        "restake": {
-          "address": "cre1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpllql7e",
-          "run_time": "every 1 hour",
-          "minimum_reward": 100000
-        }
-      },
-      {
         "name": "gitopia",
         "address": "gitopiavaloper1l4tnfvrmjr7kzck4l3jkwz9cfzqq86y7xf9jw2",
         "restake": {
@@ -75,12 +66,12 @@
         }
       },
     {
-      "name": "irisnet",
-      "address": "iva1zhawznhasq6jea2w3n0g3wlrksmcpptnlxw5g0",
+      "name": "andromeda",
+      "address": "andrvaloper1ge9m44hvrxfr4j3usz0ufvfaqpasaw52v7rzm8",
       "restake": {
-        "address": "iaa1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpw4ntf9",
+        "address": "andr1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcprumche",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {

@@ -70,8 +70,8 @@
       "address": "dymvaloper15un289g5slwzt77cpww53454lthfalpm3gsap0",
       "restake": {
         "address": "dym18zz46mff4dxpunzdx8yfsvw0w5g8au92c0z5nu",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000000000000000
+        "run_time": "12:00",
+        "minimum_reward": 100000000000000000
       }
     },
 
@@ -162,7 +162,7 @@
       "restake": {
         "address": "kujira1hcgxjhvv43g9z6dc58g428jgc8hdlmf7986d0g",
         "run_time": "12:00",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {

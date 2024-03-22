@@ -8,25 +8,7 @@
       "restake": {
         "address": "plq1ayttg2punr4v75hsjnt223x0xmp9fs64zwp7g7",
         "run_time": "every 1 minute",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "lumenx",
-      "address": "lumenvaloper12598aagy2a3k2deere78her90u09xqs5unz5fz",
-      "restake": {
-        "address": "lumen1pchsyu3d8c0fezekqmh7ymkesv3gr0scujh237",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "8ball",
-      "address": "8ballvaloper144q0rc2tn9k9dnvh05ltr2aq8pgx94rrwr5jv6",
-      "restake": {
-        "address": "8ball1pchsyu3d8c0fezekqmh7ymkesv3gr0scpjnvez",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -45,15 +27,6 @@
         "address": "pasg1pchsyu3d8c0fezekqmh7ymkesv3gr0sc2l2mhz",
         "run_time": "every 1 minute",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "composable",
-      "address": "centaurivaloper1a26v3xxmff4p342wazqm285s47dwqvxfhesj67",
-      "restake": {
-        "address": "centauri1pchsyu3d8c0fezekqmh7ymkesv3gr0scdd7a7w",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000
       }
     },
     {
@@ -80,7 +53,7 @@
       "restake": {
         "address": "sge1pchsyu3d8c0fezekqmh7ymkesv3gr0sch8dldh",
         "run_time": "every 1 minute",
-        "minimum_reward": 500000
+        "minimum_reward": 100000
       }
     },
     {
@@ -89,7 +62,7 @@
       "restake": {
         "address": "tori1pchsyu3d8c0fezekqmh7ymkesv3gr0sctnygpd",
         "run_time": "every 1 minute",
-        "minimum_reward": 500000
+        "minimum_reward": 100000
       }
     },
     {
@@ -98,7 +71,7 @@
       "restake": {
         "address": "human1ayttg2punr4v75hsjnt223x0xmp9fs64felv4j",
         "run_time": "every 1 minute",
-        "minimum_reward": 500000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -107,7 +80,16 @@
       "restake": {
         "address": "bcna1pchsyu3d8c0fezekqmh7ymkesv3gr0scnhrqj0",
         "run_time": "every 1 minute",
-        "minimum_reward": 500000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1yn95eh4mff0495ul8rlcq278j7ap3fxdk389ev",
+      "restake": {
+        "address": "lum1pchsyu3d8c0fezekqmh7ymkesv3gr0scudwg0f",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
       }
     }
   ]

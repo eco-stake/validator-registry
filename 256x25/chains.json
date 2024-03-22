@@ -46,6 +46,15 @@
           "run_time": "every 5 minutes",
           "minimum_reward": 1000000
         }
+      },
+        {
+        "name": "persistence",
+        "address": "persistencevaloper1lywma98u56q3xvgn078k8sr8q6dcrhrpqsgm6e",
+        "restake": {
+          "address": "persistence1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n8ms5ax",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
       }
     ]
   }
