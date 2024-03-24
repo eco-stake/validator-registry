@@ -8,7 +8,7 @@
       "restake": {
         "address": "nibi1avtsvg3agzydtls2xglylfgmz3f307mswfm3lg",
         "run_time": "00:01",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
