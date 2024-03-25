@@ -1,4 +1,8 @@
 {
+  "$schema": "../chains.schema.json",
+  "name": "pulsar",
+  "chains": [
+    {
       "name": "oraichain",
       "address": "oraivaloper1qjvw60k7n74t2lagtt2g7fu5zwg9s5tr5wwsee",
       "restake": {
@@ -9,4 +13,6 @@
         ],
         "minimum_reward": 100000
       }
+    }
+  ]
 }
