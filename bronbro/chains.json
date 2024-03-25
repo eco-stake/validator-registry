@@ -101,6 +101,7 @@
         "minimum_reward": 500000000000000000
       }
     },
+    {
       "name": "bandchain",
       "address": "bandvaloper13xe7vcptjcrj9jz3z0vu80tgmarxay99c2ucpn",
       "restake": {
