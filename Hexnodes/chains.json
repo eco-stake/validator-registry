@@ -29,6 +29,15 @@
         "minimum_reward": 10000000000000000
       }
     },
+    {
+       "name": "oraichain",
+       "address": "oraivaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p88jsz5s",
+       "restake": {
+         "address": "orai14ty5h7dhnses6smx5zwck5kh4j27rrgwvszzn4",
+         "run_time": "every 2 hours",
+         "minimum_reward": 100000
+         }
+     },
      {
       "name": "gitopia",
       "address": "gitopiavaloper1wwgrl05jkk3a3m9gm0wwmvq3r0fd93p8tf703u",
