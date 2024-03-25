@@ -29,6 +29,15 @@
         "minimum_reward": 1000000000
       }
     },
+        {
+      "name": "celestia",
+      "address": "celestiavaloper1t345w0vxnyyrf4eh43lpd3jl7z378rtsdn9tz3",
+      "restake": {
+        "address": "celestia1w4du0y6705rqregfl6cktm7swds6t4dsvsr38m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "comdex",
       "address": "comdexvaloper1wusf6f0tm986erjewgnp0qyc7ezzxmc6h05knf",
@@ -45,6 +54,15 @@
         "address": "desmos10k8cylaqmmdy4pyf3jzjm6vt2c52pv6hncm5cv",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper16eu7dmkxrtq5207tyudx8agnlu8k5qua7vqs4y",
+      "restake": {
+        "address": "dym100rlujehzj3t9yagsfk9mjx3r87dvtsfuzd72j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -174,15 +192,6 @@
       }
     },
     {
-      "name": "rizon",
-      "address": "rizonvaloper1u4285azprzlrqpq45azsw7464ymmw4juqww8em",
-      "restake": {
-        "address": "rizon1w4du0y6705rqregfl6cktm7swds6t4ds78ws3w",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "sei",
       "address": "seivaloper17ga9jha45gu0x04yrmfpjpksmqe48wupzk5jex",
       "restake": {
@@ -196,24 +205,6 @@
       "address": "sentvaloper13ce8734a8vstdplk79dg4jemdsm8048t0hjplm",
       "restake": {
         "address": "sent1wxww8zvmgnsdq6npq5lh0a9erjyphh4end8ege",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "starname",
-      "address": "starvaloper1zs66yh6daua3tjsanq7pqjffryrn65stg3ae73",
-      "restake": {
-        "address": "star1shf5lmy2mg99cwh8t6fqqwemhv6g6krevy0yh5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "teritori",
-      "address": "torivaloper1t7cyvydpp4lklprksnrjy2y3xzv3q2l0k8rl77",
-      "restake": {
-        "address": "tori1w4du0y6705rqregfl6cktm7swds6t4dslw9gxx",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

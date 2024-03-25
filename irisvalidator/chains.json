@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IRISVALIDATOr 🌙 0% fee",
+  "chains": [
+    {
+      "name": "irisnet",
+      "address": "iva16p62m90vyyha72ak9xg94atc3njhwk5rgch3g5",
+      "restake": {
+        "address": "iaa1ganfzpqrh62xyynj6mkcnwc53kdpnuhgdpk6xs",
+        "run_time": "03:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TdrSys",
+  "chains": [
+    {
+      "name": "terra2testnet",
+      "address": "terravaloper10t3yytexn3mphr8mjg6agpdh8rm2w2rfe4mztz",
+      "restake": {
+        "address": "terra1yknmx9jncwr4pggum3zxr472zagmt4axn97pw3",
+        "run_time": "18:00",        
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1gh5z0yjk35ku0rvxsqr6yse6xt3r2388armckj",
+      "restake": {
+        "address": "quick1y28qvyyfva2d8090c4ltgvn24hj023zuc9xx7c",
+        "run_time": "18:00",        
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

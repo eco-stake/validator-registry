@@ -11,7 +11,7 @@
             "09:00",
             "21:00"
           ],
-          "minimum_reward": 10000
+          "minimum_reward": 100000
         }
       },
       {
@@ -23,7 +23,7 @@
             "03:00",
             "15:00"
           ],
-          "minimum_reward": 1000
+          "minimum_reward": 10000
         }
       },
       {
@@ -35,8 +35,41 @@
             "06:00",
             "12:00"
           ],
-          "minimum_reward": 1000
+          "minimum_reward": 10000
         }
-      }         
+      },
+      {
+        "name": "dydx",
+        "address": "dydxvaloper1k2mlt4akhddh8gz9r3227ruuaestgdczx60vqk",
+        "restake": {
+          "address": "dydx1cly2j9mc5pvv008er6ktpn2natcnl9kehrst5q",
+          "run_time": "every 10 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "injective",
+        "address": "injvaloper1fa558ytfnekl2zlmv7zpupam7zrcj2wkpqt90x",
+        "restake": {
+          "address": "inj1wxhsfvq5qv6pl00h5m2vdpny0hyr8c48kf9t2a",
+          "run_time": [
+            "08:00",
+            "20:00"
+          ],
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "akash",
+        "address": "akashvaloper1ycv5n4fe0c5z22nr74t6v5g37glwc6vt6sjyft",
+        "restake": {
+          "address": "akash1cly2j9mc5pvv008er6ktpn2natcnl9kenpngdd",
+          "run_time": [
+            "07:00",
+            "13:00"
+          ],
+          "minimum_reward": 100000
+        }
+      }
     ]
 }

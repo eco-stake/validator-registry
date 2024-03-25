@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Rues",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper1xlnlh2uxsg3wl0skudqeeykkh4ku69jeaw6n9l",
+      "restake": {
+        "address": "dym19h2jw3rv22d4nyk64dv4fhep2dl3x9t6svpyad",
+        "run_time": "20:00",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

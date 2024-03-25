@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CUCK.",
+  "chains": [
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1jkuw8rxxrsgn9pq009987kzelkp46cgcaa7lhj",
+      "restake": {
+        "address": "celestia1fzjftmsukr0gaeesm68w68d5pa8pkdkh7vqtvy",
+        "run_time": "every 12 hours",
+        "minimum_reward": 2000000
+      }
+    }
+  ]
+}

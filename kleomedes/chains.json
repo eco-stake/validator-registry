@@ -62,7 +62,7 @@
       "restake": {
         "address": "fetch1r8egcurpwxftegr07gjv9gwffw4fk009c6xw65",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -261,6 +261,24 @@
         "address": "sent1r8egcurpwxftegr07gjv9gwffw4fk009suenuv",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "passage",
+      "address": "pasgvaloper1325cykk2m3x445hsymyhx98enlpheplm7s4mzd",
+      "restake": {
+        "address": "pasg1r8egcurpwxftegr07gjv9gwffw4fk009glks4u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "andromeda",
+      "address": "andrvaloper1llr02tw2zvyx38kfuv0696jty2pzdqqcavrk7l",
+      "restake": {
+        "address": "andr1r8egcurpwxftegr07gjv9gwffw4fk009nv8gyw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]

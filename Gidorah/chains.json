@@ -2,17 +2,5 @@
   "$schema": "../chains.schema.json",
   "name": "Gidorah",
   "chains": [
-    {
-      "name": "kujira",
-      "address": "kujiravaloper158shr4dsdmvpm60g8kz6d8ts7knxkmjtxcv4fh",
-      "restake": {
-        "address": "kujira13vxflm7u0r6c2tnps6q9xl45v8sktw0g8q2nfg",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 100000
-      }
-    }
   ]
 }

@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "dydx",
+      "address": "dydxvaloper1a9lm6t9qalz53jrp0q6p50q2cxeqnwsh48g3tt",
+      "restake": {
+        "address": "dydx1330aewfwzu30vznhxw7aevaz0kn35fdyhxsfy7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
       "name": "evmos",
       "address": "evmosvaloper1tdss4m3x7jy9mlepm2dwy8820l7uv6m2vx6z88",
       "restake": {
@@ -172,6 +181,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
-    }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1ywytnstry8v5ltd5z403edqplguejs7mqpe52l",
+      "restake": {
+        "address": "dym1f54lck35ehjh3x0e62e7gak9h7zn4vl7qzde85",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    } 
   ]
 }

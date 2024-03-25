@@ -30,21 +30,12 @@
       }
     },
     {
-      "name": "kichain",
-      "address": "kivaloper1zry437s3jj4gqedsn9xxar74d4rmwcy3t7m7pz",
-      "restake": {
-        "address": "ki1yqqsskp60ru889m2ac9rtdays6pt9xfyy4m0kd",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "lumnetwork",
       "address": "lumvaloper1zjaa4qvqz3cwwhnvnfwk3w5ahvvsnngsdu6zuk",
       "restake": {
         "address": "lum1yqqsskp60ru889m2ac9rtdays6pt9xfyqjhf8d",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -53,16 +44,16 @@
       "restake": {
         "address": "pb1t2h366ql9tuw0uufpqc7m3ce875v6q04fhsgd8",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000
+        "minimum_reward": 10000000000
       }
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lkr3q8z",
+      "address": "shentuvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lnmamkg",
       "restake": {
-        "address": "certik1yqqsskp60ru889m2ac9rtdays6pt9xfyjskhnj",
+        "address": "shentu1yqqsskp60ru889m2ac9rtdays6pt9xfyavweqy",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 500000
       }
     }
   ]

@@ -1,0 +1,35 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Defi Dojo Validation",
+  "chains": [
+    {
+      "name": "passage",
+      "address": "pasgvaloper17kseqdwyqldkwla6wqh6049zfpx0qtsn95ecqa",
+      "restake": {
+        "address": "pasg1dk0gesuj8zp6m7qt9cdr6rpxmwq6nrr5ww0xnh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+        "name": "quasar",
+        "address": "quasarvaloper1audc6ulkj00g0yz7ptkj2vlajznakfuz8dw6g8"
+    },
+    {
+        "name": "sommelier",
+        "address": "sommvaloper1hejkwp7qxd4drvsqnc5up6slt5jtvjkq5f0j7k"
+    },
+    {
+        "name": "omniflix",
+        "address": "omniflixvaloper13sk2m6j6sdyejhj0muqtamxza95flrzetf7f2v"
+    },
+    {
+        "name": "quicksilver",
+        "address": "quickvaloper1jwtk0fqd4xc6dlqdvhyk0fjylenjrsl956kuj9"
+    },
+    {
+        "name": "archway",
+        "address": "archwayvaloper134f0zte66y0p6xenkdvsxyrm2pcvn5vmrl7y60"
+    }
+  ]
+}
