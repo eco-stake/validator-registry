@@ -100,7 +100,14 @@
         "run_time": "19.37",
         "minimum_reward": 500000000000000000
       }
+    },
+      "name": "bandchain",
+      "address": "bandvaloper13xe7vcptjcrj9jz3z0vu80tgmarxay99c2ucpn",
+      "restake": {
+        "address": "band1ttf0j94a9anyk6vzul056t829vy3a3vchcsgfx",
+        "run_time": "19.37",
+        "minimum_reward": 1000000
+      }
     }
-
   ]
 }
