@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Summit Nodes",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmnxp2sgt",
+      "restake": {
+        "address": "gravity1q52x3jrc2jrx7rv380z64tsw9m907zlhtczzu8",
+        "run_time": "every 12 hours",
+            "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1478a85ucgvuvdj3cgrp5yr9uae8wyhjw630hmw",
+      "restake": {
+        "address": "panacea1zs7sg5ggl6t23p868mltvdqpeymg4sjp2qrdyx",
+        "run_time": "every 12 hours",
+              "minimum_reward": 1000000
+       }
+     },
+     {
+      "name": "sentinel",
+      "address": "sentvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmnhygzv3",
+      "restake": {
+        "address": "sent1q52x3jrc2jrx7rv380z64tsw9m907zlh5nxraq",
+        "run_time": "every 12 hours",
+              "minimum_reward": 1000000
+       }
+     },
+     {
+      "name": "lumnetwork",
+      "address": "lumvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmne84vf8",
+      "restake": {
+         "address": "lum1q52x3jrc2jrx7rv380z64tsw9m907zlh6zdnvm",
+         "run_time": "every 12 hours",
+                "minimum_reward": 1000000
+            }
+      },
+     {
+      "name": "kichain",
+      "address": "kivaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0c4vz3u",
+      "restake": {
+         "address": "ki1q52x3jrc2jrx7rv380z64tsw9m907zlh79p4am",
+         "run_time": "every 12 hours",
+                "minimum_reward": 1000000
+            }
+      },
+     {
+      "name": "shentu",
+      "address": "shentuvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmnx7467v",
+      "restake": {
+         "address": "shentu1q52x3jrc2jrx7rv380z64tsw9m907zlh8u5rtj",
+         "run_time": "every 12 hours",
+                "minimum_reward": 1000000
+            }
+      }
+  ]
+}
