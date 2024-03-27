@@ -1,0 +1,13 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "LoulouCrypto",
+  "identity": "AE4F83D7CDC0B828",
+  "website": "https://www.louloucrypto.fr/",
+  "description": {
+    "overview": "LoulouCrypto's Validators"
+  },
+  "contacts": {
+  "email": "contact@louloucrypto.fr",
+  "twitter": "https://twitter.com/LOULOU90884662"
+}
+}
