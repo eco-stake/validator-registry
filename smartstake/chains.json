@@ -38,6 +38,15 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1tzm96yvupy3egtpg6uw0s2f4c85qayw3afwetd",
+      "restake": {
+        "address": "celestia1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0st2htym",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "coreum",
       "address": "corevaloper1zv3rz855lan7mznzlmzycf0a3tslar4lntsxk2",
       "restake": {
@@ -56,21 +65,21 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper14asv5wwupex5gz6sxtga487r6tf3vdnkl689mu",
-      "restake": {
-        "address": "cre1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s7g47tm",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "cryptoorgchain",
       "address": "crocncl1s3hd63shz3q3vca8ajptewv3zt7jg6ed9kk2zr",
       "restake": {
         "address": "cro1flmu8hkcuett57gacjusdsnyqr37qd3ahxu42r",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1t8hjjca8kecjtuhs2qy83maurj78fq2z5c44z5",
+      "restake": {
+        "address": "dydx1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0snegl7p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -114,15 +123,6 @@
       "address": "kujiravaloper16c402xnqkzcc6us4m5uff8d09cnlfdkmz85st6",
       "restake": {
         "address": "kujira1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0stgyrnu",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "kyve",
-      "address": "kyvevaloper12lq0cr4yxq8sxt2wf5dwpfwkl7mf56u7zsfrd0",
-      "restake": {
-        "address": "kyve1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sdwtd4j",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
@@ -251,6 +251,15 @@
         "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
         "run_time": "every 4 hours",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1yfgk48e0z3k38c2wk22acvwkze04fl677uy76u",
+      "restake": {
+        "address": "umee1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sgkmy6y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
  ]
