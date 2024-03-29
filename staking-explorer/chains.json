@@ -30,6 +30,17 @@
         ],
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1m2rnrgs7lxqa8edatfr3qtletmcser478dg4au",
+      "restake": {
+        "address": "lava@1t25n9292faqg4am3nja4zkejyfp5fxg0pxdn43",
+        "run_time": [
+          "00:00"
+        ],
+        "minimum_reward": 1
+      }
     }
   ]
 }
