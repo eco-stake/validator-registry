@@ -7,7 +7,7 @@
       "address": "decentrvaloper1fhregy9yt8pjszzqz0u0u9ge3cfl0qp0640yas",
       "restake": {
         "address": "decentr1gvu0xvz0vut3xq07m87np9kns5y2pw5fv6nnz9",
-        "run_time": "10:00",
+        "run_time": "09:00",
         "minimum_reward": 20000000
        }
     },
@@ -16,7 +16,7 @@
       "address": "oraivaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mlvn85h",
       "restake": {
         "address": "orai1gvu0xvz0vut3xq07m87np9kns5y2pw5f58ryz7",
-        "run_time": "09:15",
+        "run_time": "09:05",
         "minimum_reward": 1
       }
     },
@@ -25,7 +25,7 @@
       "address": "kavavaloper1gjr2v3vktq4966ed3pju7e4xy33vx7dmh6hm2x",
       "restake": {
         "address": "kava1yd9gt86dp4duu5re0dyuau2lm5th4aqzm69klz",
-        "run_time": "09:00",
+        "run_time": "09:10",
         "minimum_reward": 1000000
       }
     },
@@ -34,7 +34,7 @@
       "address": "bandvaloper1em0rejsr2wva5flz7fv9qkx6wc755cvcqe9teq",
       "restake": {
         "address": "band1vwqhy297vj906z9j0de527wyp8xndmu6gz3qh4",
-        "run_time": "09:45",
+        "run_time": "09:15",
         "minimum_reward": 1000000
       }
     },      
@@ -43,9 +43,18 @@
       "address": "vdlvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mmx2x6s",
       "restake": {
         "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
-        "run_time": "09:30",
+        "run_time": "09:20",
         "minimum_reward": 1000000
      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1kamxjhapd8r5w8y5tlksk4an26u8m4g7jvqle6",
+      "restake: {
+        "address": "human1epzch8k9778tkvnck7a56jzm7wts2sacr8hlkf",
+        "run_time": "09:25",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
