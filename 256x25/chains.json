@@ -39,6 +39,15 @@
         }
       },
         {
+        "name": "chihuahua",
+        "address": "chihuahuavaloper1twjvh6uny2e2xhne888jmzfs7qjepv5hy5ycj6",
+        "restake": {
+          "address": "chihuahua1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n2zmfjq",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1
+        }
+      },
+        {
         "name": "comdex",
         "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
         "restake": {
