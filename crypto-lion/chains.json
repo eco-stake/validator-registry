@@ -30,15 +30,6 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4npa9ln",
-      "restake": {
-        "address": "cre16lhapna7nfm0j3pnwt7tn4lxtx3q7hs434a2je",
-        "run_time": "every 4 hours",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "cryptoorgchain",
       "address": "crocncl17xjefmgzd9k2k065289nktklj706zhk4nr7495",
       "restake": {
@@ -159,7 +150,7 @@
       "name": "shentu",
       "address": "shentuvaloper16lhapna7nfm0j3pnwt7tn4lxtx3q7hs4qe6r70",
       "restake": {
-        "address": "certik1mwysqcvvhjcntajus2vuezgc5su7kha4a90s8p",
+        "address": "shentu1mwysqcvvhjcntajus2vuezgc5su7kha4jeh75h",
         "run_time": "every 4 hour",
         "minimum_reward": 100000
       }
