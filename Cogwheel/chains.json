@@ -27,6 +27,14 @@
         "address": "juno1queqjvae6k6cuxqfhc8rmajwmvm36mv39danpe",
         "run_time": ["09:00","21:00"],
         "minimum_reward": 1000000
+      },
+	{
+      "name": "nibiru",
+      "address": "nibivaloper1s7dm9d34jehmudn8afhchzf9l46wt4nz7fauzs",
+      "restake": {
+        "address": "nibi1queqjvae6k6cuxqfhc8rmajwmvm36mv3y6630k",
+        "run_time": ["09:00","21:00"],
+        "minimum_reward": 1000000
       }
     }
   ]
