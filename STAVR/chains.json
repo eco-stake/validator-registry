@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "vidulum",
+      "address": "vdlvaloper1ad4n75v6wu4n39frrryfya9mw77h4qz4j6gv6r",
+      "restake": {
+        "address": "vdl1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnx7zq54",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper1g6fm6xcgzrlm9d2apf3t8xvu7wrk509wxyy5rq",
       "restake": {
