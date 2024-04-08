@@ -262,6 +262,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6",
+      "restake": {
+        "address": "nibi1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjh7zydx",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
