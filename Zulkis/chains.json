@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Zulkis",
+  "chains": [
+    {
+      "name": "nibiru",
+      "address": "nibivaloper140ph7pw6f2c698ec83uqxzqle9u5hde6ypk7c7",
+      "restake": {
+        "address": "nibi1n8dj8lh0qf0y6ml36lx2lthecln868e5lxvxet",
+        "run_time": "09:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
