@@ -480,6 +480,17 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zupu4tk",
+      "restake": {
+        "address": "saga12xpq68caw2aqdu70jm4k792g0v9prhrp7slk87",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper1t5wtcuwjkdct9qkw2h6m48zu2hectpd6ulmekk",
       "restake": {
