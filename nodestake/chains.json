@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper19f0w9svr905fhefusyx4z8sf83j6et0gsn0qkm",
+      "restake": {
+        "address": "saga1etsdevgm5ps240lrw9mg3p2j32tj96ktsvun4t",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "zetachain",
       "address": "zetavaloper1qt6yf3fvz250uddj04rxglfd40v8nruq8yesf0",
       "restake": {
@@ -80,7 +89,7 @@
       "restake": {
         "address": "human15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4pgvwuj",
         "run_time": "every 1 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
