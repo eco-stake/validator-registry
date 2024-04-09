@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CroutonDigital",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1nlfrwx5t3mm3cuqqkvjv6jv24m7s2z5utzfe8s",
+      "restake": {
+        "address": "cosmos1yd02c5usphmd88lcgkef53etgu7lyjh0malwv4",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
