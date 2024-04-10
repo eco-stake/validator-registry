@@ -33,11 +33,11 @@
       "name": "saga",
       "address": "sagavaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qsdtg4m",
       "restake": {
-        "address": "saga1qe8uuf5x69c526h4nzxwv4ltftr73v7q7xatl2",
+        "address": "saga16g0rafqe2w255fme5lkmz8c0kfs9yr7atnuye8",
         "run_time": [
           "21:00"        
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
