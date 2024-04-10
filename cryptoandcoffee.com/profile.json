@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Crypto and Coffee",
+  "identity": "59E2A1BE245D7F7A",
+  "website": "https://cryptoandcoffee.com",
+  "description": {
+    "overview": "A portion of validator fees supports continuous advertising on Presearch (https://presearch.com). ☕ Stake with us and help projects reach more users!",
+    "team": "Crypto and Coffee started with Masternode projects running in Docker.  Since then we have evolved to hyperscale modern web3 validators and support projects by developing critical tooling."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "cryptoandcoffee@protonmail.com",
+    "telegram": "",
+    "twitter": "",
+    "discord": "https://discord.gg/4R7b6C5",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

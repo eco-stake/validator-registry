@@ -26,7 +26,7 @@
       "restake": {
         "address": "cosmos1hl0jgxre5z0nkyjj07c5vfdy44yk44atelzv0a",
         "run_time": "every 8 hour",
-        "minimum_reward": 50000
+        "minimum_reward": 500000
       }
     },
     {
@@ -197,7 +197,7 @@
       "restake": {
         "address": "archway1hl0jgxre5z0nkyjj07c5vfdy44yk44atv57g92",
         "run_time": "every 8 hour",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -216,6 +216,15 @@
         "address": "dydx1hl0jgxre5z0nkyjj07c5vfdy44yk44atsxvg02",
         "run_time": "every 8 hour",
         "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1cfezsl9hyqp8g4zkl4ln2tw9wlg53rsxgkf7hw",
+      "restake": {
+        "address": "dym135e4ecavyr73p6238edqlpwfwty3fhjncfcgzl",
+        "run_time": "every 8 hour",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

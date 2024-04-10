@@ -3,10 +3,10 @@
   "name": "genznodes",
   "chains": [
     {
-      "name": "8ball",
-      "address": "8ballvaloper12ut50ert29hrq2nvtmagdts9aq988frcq7usew",
+      "name": "andromeda",
+      "address": "andrvaloper1lmls0pg6mxpl7frwh7puwaqxmw6ym4xtasv0kl",
       "restake": {
-        "address": "8ball19tzqk0kp67mx4wcedvmefhvk9r2xcxudfcderh",
+        "address": "andr19tzqk0kp67mx4wcedvmefhvk9r2xcxudex9ku9",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
           }
@@ -48,6 +48,15 @@
           }
     },
     {
+      "name": "coreum",
+      "address": "corevaloper1lmdttjr98glxt6yee8xxx86mrcrq445744w7xk",
+      "restake": {
+        "address": "core1m2ks2ft78gqk8yut4ajdtssr78u37k2nfx0fng",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+          }
+    },
+    {
       "name": "dydx",
       "address": "dydxvaloper156rvfa7e557j8427mhzjhflf9aakmt35jd4f6m",
       "restake": {
@@ -84,6 +93,15 @@
         }
     },
     {
+      "name": "nibiru",
+      "address": "nibivaloper1wu3yd9xkhetcs7zjtz0y0pt8kh6dm0r37fyzyf",
+      "restake": {
+        "address": "nibi19tzqk0kp67mx4wcedvmefhvk9r2xcxudkgfdfm",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "planq",
       "address": "plqvaloper129260ptt8lfzutq7yntnwwkarjv0uhl82af45r",
       "restake": {
@@ -111,12 +129,30 @@
         }
     },
     {
+      "name": "sge",
+      "address": "sgevaloper1l4988md0lnpg4ln7vhvgy8zgnf3umhkejuuwvl",
+      "restake": {
+        "address": "sge19tzqk0kp67mx4wcedvmefhvk9r2xcxudldn2hz",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+        }
+    },
+    {
       "name": "ununifi",
       "address": "ununifivaloper1eeueyzew2hvt9vn8226sjjh6ukuwhqszjpklgk",
       "restake": {
         "address": "ununifi19tzqk0kp67mx4wcedvmefhvk9r2xcxudh07x6x",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1grjsghzvumzvk7zfgtaje5znjdqlatfsljfu0h",
+      "restake": {
+        "address": "zeta1ggzpjmk46lv4ulng7p04k98mg038xk965sdarp",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

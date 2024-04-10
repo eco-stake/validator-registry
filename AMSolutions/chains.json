@@ -94,6 +94,15 @@
             "run_time":"every 1 hour",
             "minimum_reward":10000000
          }
+      },
+      {
+         "name":"celestia",
+         "address":"celestiavaloper1m07mptc7nhz2qk55qa8xeyqt992sktddtwkvt4",
+         "restake":{
+            "address":"celestia1qtqwkth99f9argc37ya27gwglc62pum2aavr7j",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000000
+         }
       }
    ]
 }

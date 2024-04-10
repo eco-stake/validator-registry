@@ -30,24 +30,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper1w2j20fj2a4wfmvqnhfhv4mfxkw5xxt09x8esyj",
-      "restake": {
-        "address": "evmos1760tpjzhn8372kgnqly4845zs0j6lr4zh7845l",
-        "run_time": "20:00",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper19qu2efamrz5a8q5t93deazkyduvs095q34e53t",
-      "restake": {
-        "address": "chihuahua1u4njm0k28kk38gvmzxs37dxnn6mh9calsjcyyx",
-        "run_time": "20:00",
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "stride",
       "address": "stridevaloper1q4srlrd2whunswxl04gu2znku7a3hlrl9s7xv2",
       "restake": {
@@ -75,15 +57,6 @@
       }
     },
     {
-      "name": "migaloo",
-      "address": "migaloovaloper16skk5gcmazhkv945gauuuhlugd099ltnf9qkey",
-      "restake": {
-        "address": "migaloo1u4njm0k28kk38gvmzxs37dxnn6mh9cal7nuss2",
-        "run_time": "20:00",
-        "minimum_reward": 1000
-      }
-    },
-    {
       "name": "coreum",
       "address": "corevaloper1kepnaw38rymdvq5sstnnytdqqkpd0xxwc5eqjk",
       "restake": {
@@ -93,10 +66,19 @@
       }
     },
     {
-      "name": "archway",
-      "address": "archwayvaloper14sp0yjvxkrsj7qjltga65g9ctz5c2nrw8cgs72",
+      "name": "dymension",
+      "address": "dymvaloper10yu9ul3v8gqntv9h3z3nl09qs8dcguesfvar8a",
       "restake": {
-        "address": "archway1u4njm0k28kk38gvmzxs37dxnn6mh9calxvfw0n",
+        "address": "dym1760tpjzhn8372kgnqly4845zs0j6lr4z8z6ate",
+        "run_time": "20:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1w44vfk3jzh69p7yawwqcaazuxz944ve95qpaf8",
+      "restake": {
+        "address": "dydx1u4njm0k28kk38gvmzxs37dxnn6mh9cal67mw9n",
         "run_time": "20:00",
         "minimum_reward": 1000
       }

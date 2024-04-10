@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "XrplCreations",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1cvllgp0rlm99cghwkg9y7syu8drc2325pzcvgu",
+            "restake": {
+                "address": "core1svt9dm6y68nsma4xtsj5h8scpuaf3xfft8mtxk",
+                "run_time": "every 24 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

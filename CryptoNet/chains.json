@@ -13,7 +13,7 @@
     },
     {
       "name": "provenance",
-      "address": "pbvaloper19dgvl5c37cznxu86pwgq0z6m0tg8f9fykqg3wy",
+      "address": "pbvaloper18p0yht6025kzj0lwle3lqf2maa9x382q8wh9mr",
       "restake": {
         "address": "pb1zj8q3x2sk9jsjav3q2m3zt79acz5e2cqvxk7h6",
         "run_time": ["03:00","15:00"],
@@ -22,9 +22,9 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper19lgwcu692dtrpjja67j4tdp5ye8vgd3wv4ktyy",
+      "address": "shentuvaloper19lgwcu692dtrpjja67j4tdp5ye8vgd3wfd6s4w",
       "restake": {
-        "address": "certik1zz3wp5t24ej534nz5g7lxdazekx0aaekgxw59h",
+        "address": "shentu1zz3wp5t24ej534nz5g7lxdazekx0aaek86k6kp",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 1000000
       }

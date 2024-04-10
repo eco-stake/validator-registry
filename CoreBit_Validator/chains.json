@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "CoreBit_Validator",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1gauum2emldcgrs2qw5y9cqleawh4g8eym0wyq7",
+            "restake": {
+                "address": "core1glmmn3akmmvguvzq3znl4gugyfwsfyf7pcyqgt",
+                "run_time": "every 24 hours",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

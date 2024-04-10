@@ -62,7 +62,7 @@
       "restake": {
         "address": "fetch1r8egcurpwxftegr07gjv9gwffw4fk009c6xw65",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -215,7 +215,7 @@
       "restake": {
         "address": "akash1r8egcurpwxftegr07gjv9gwffw4fk009xuzdpe",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
       {
@@ -268,6 +268,24 @@
       "address": "pasgvaloper1325cykk2m3x445hsymyhx98enlpheplm7s4mzd",
       "restake": {
         "address": "pasg1r8egcurpwxftegr07gjv9gwffw4fk009glks4u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "andromeda",
+      "address": "andrvaloper1llr02tw2zvyx38kfuv0696jty2pzdqqcavrk7l",
+      "restake": {
+        "address": "andr1r8egcurpwxftegr07gjv9gwffw4fk009nv8gyw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+      {
+      "name": "oraichain",
+      "address": "oraivaloper16spaytw7nhdrv9lar0quwj6eex8cw9pvmtynxd",
+      "restake": {
+        "address": "orai1r8egcurpwxftegr07gjv9gwffw4fk009c5efes",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

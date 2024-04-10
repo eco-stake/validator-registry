@@ -51,7 +51,7 @@
 			"address": "celestiavaloper1dlsl4u42ycahzjfwc6td6upgsup9tt7cz8vqm4",
 			"restake": {
 				"address": "celestia1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dkgq7d8",
-				"run_time": "every 5 minutes",
+				"run_time": "08:00",
 				"minimum_reward": 100000
 			}
 		},
@@ -83,12 +83,12 @@
 			}
 		},
 		{
-			"name": "desmos",
-			"address": "desmosvaloper1567u3n4q6j0zm5mkgtqu9t7eq4g5pr5se74mr9",
+			"name": "dymension",
+			"address": "dymvaloper1hmd0k0ughtqd20s676tu0nvzsaetqcn373swdl",
 			"restake": {
-				"address": "desmos1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dn6u7qj",
-				"run_time": "every 1 hour",
-				"minimum_reward": 100000
+				"address": "dym1rddqmf6y36geq90daesm057uaagasjd0nlczty",
+				"run_time": "09:00",
+				"minimum_reward": 100000000000000000
 			}
 		},
 		{
@@ -98,24 +98,6 @@
 				"address": "evmos1rddqmf6y36geq90daesm057uaagasjd0rr925z",
 				"run_time": "every 1 hour",
 				"minimum_reward": 100000000000000000
-			}
-		},
-		{
-			"name": "gravitybridge",
-			"address": "gravityvaloper1haznywsf8l60xftvkgl79dstyuw3vw5x0v7kgn",
-			"restake": {
-				"address": "gravity1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9drjrkjz",
-				"run_time": "every 1 hour",
-				"minimum_reward": 100000
-			}
-		},
-		{
-			"name": "juno",
-			"address": "junovaloper1xdywquvz5g6r5wv6tpkj6chad0fkk459gf9ny6",
-			"restake": {
-				"address": "juno1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d3sj4sk",
-				"run_time": "every 24 hours",
-				"minimum_reward": 100000
 			}
 		},
 		{
@@ -141,24 +123,6 @@
 			"address": "persistencevaloper1xykmyvzk88qrlqh3wuw4jckewleyygupsumyj5",
 			"restake": {
 				"address": "persistence1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dfwhaew",
-				"run_time": "every 1 hour",
-				"minimum_reward": 100000
-			}
-		},
-		{
-			"name": "regen",
-			"address": "regenvaloper16dxk5trv9nz7jnpyvz48ngve45an4hkqkuafza",
-			"restake": {
-				"address": "regen1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dcq6jpw",
-				"run_time": "every 1 hour",
-				"minimum_reward": 100000
-			}
-		},
-		{
-			"name": "sentinel",
-			"address": "sentvaloper13gmgxsxdvmytnr75uscuw350n6f0qfrvgdacw4",
-			"restake": {
-				"address": "sent1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9due8hn9",
 				"run_time": "every 1 hour",
 				"minimum_reward": 100000
 			}

@@ -91,6 +91,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
-}
+},
+	{
+      "name": "sge",
+      "address": "sgevaloper1ygm7ml77ugftm2ty5g8pr9pqj36q3yy865ny3c",
+      "restake": {
+        "address": "sge18p7sulmgnaxwwzyukftgtkufr24npeeg52mnre",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+	{
+      "name": "composable",
+      "address": "centaurivaloper12xv9v4tdnmyffa6hxkedkzh35vkrzrk84durjh",
+      "restake": {
+        "address": "centauri18p7sulmgnaxwwzyukftgtkufr24npeegwqg3sq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+	{
+      "name": "juno",
+      "address": "junovaloper1aar0u2ta3x9waemz7d9ad0x228kv82a7uqgmfl",
+      "restake": {
+        "address": "juno18p7sulmgnaxwwzyukftgtkufr24npeegucxkn0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+	}
     ]
 }

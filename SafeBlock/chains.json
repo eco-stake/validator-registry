@@ -12,24 +12,6 @@
       }
     },
     {
-      "name": "tenet",
-      "address": "tenetvaloper12gsywhykycr8y0gfk06srwersj30h8rd96gg2x",
-      "restake": {
-        "address": "tenet1408uk4pmf4gdwxelrz3wgfks3ttxujwwktthpg",
-        "run_time": "every 1 hour",
-        "minimum_reward": 2000000000
-      }
-    },
-    {
-      "name": "passage",
-      "address": "pasgvaloper1wmy9fpmnc2wnjjutlsvv6xjj7nmn036v9r9efm",
-      "restake": {
-        "address": "pasg1r64t7u292f5d0ck4pt6ate6880ufwffmv7xrl5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000
-      }
-    },
-    {
       "name": "planq",
       "address": "plqvaloper1r3j34ch40555kgukc7xy8u45jnr3rnpapslpk7",
       "restake": {

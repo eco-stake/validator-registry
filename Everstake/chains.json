@@ -60,7 +60,7 @@
       "address": "injvaloper134dct56cq5v7uerxcy2cn4m06mqf4dxrlgpp24",
       "restake": {
         "address": "inj186u3vpyt6zxvyk7a4yv7h7cggtnexn93q8n5gc",
-        "run_time": "20:00",
+        "run_time": "every 1 week",
         "minimum_reward": 1000000000000000
       }
     },
@@ -81,7 +81,7 @@
       "restake": {
         "address": "tenet186u3vpyt6zxvyk7a4yv7h7cggtnexn93hke366",
         "run_time": "20:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000000000000000000
       }
     },
 	  

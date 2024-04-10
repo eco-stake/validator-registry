@@ -60,7 +60,7 @@
       "name": "canto",
       "address": "cantovaloper1xn5h73dw565qu9puft6vj5r64h5gfdevd9e9xd",
       "restake": {
-        "address": "canto1wcjn4f2evmjesgzx2m7u3h2cay9mehfg2t6avn",
+        "address": "canto1dms3695w76ucyxh6ezt9aauzthegzpk7euyhxm",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000000000000000
       }
@@ -105,7 +105,7 @@
       "name": "coreum",
       "address": "corevaloper1fq63eks78npnsgtja8m8nvvv5qmahqxawgpafz",
       "restake": {
-        "address": "core1wcjn4f2evmjesgzx2m7u3h2cay9mehfgtnrklq",
+        "address": "core1936m87h2p5qmxgtr673hg0jdfhtrfqkyfwzy7z",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
@@ -355,9 +355,9 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1qy7jncf45lluxaya5jaxf9r284jnmzz5fw2egh",
+      "address": "shentuvaloper1qy7jncf45lluxaya5jaxf9r284jnmzz5vkxzea",
       "restake": {
-        "address": "certik1m7xlymnpxl2d4llu67v08e8xs67dj2fzqa0uhh",
+        "address": "shentu1m7xlymnpxl2d4llu67v08e8xs67dj2fz0phjyp",
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }

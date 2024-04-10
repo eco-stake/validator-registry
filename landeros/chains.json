@@ -165,10 +165,28 @@
       }
     },
     {
+      "name": "dymension",
+      "address": "dymvaloper1qlurl7qwvv8whj46h29pzej0ymqn7ts0ct7459",
+      "restake": {
+        "address": "dym1tycj5llp8gjw00zxgf2wqt682ukx36q6ts3nyu",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "source",
       "address": "sourcevaloper1mlf8pdyvld99ee04l3x3zrxnhl3dzdwzt7f89h",
       "restake": {
         "address": "source12pt2ds9cu80yruy5t86fuuz5t6tm37ajmngr8z",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sge",
+      "address": "sgevaloper1kwfy6jpqyct87gatl2fp968lds3m5l7mgznh2u",
+      "restake": {
+        "address": "sge12pt2ds9cu80yruy5t86fuuz5t6tm37ajrq0rqk",
         "run_time": ["every 1 hour"],
         "minimum_reward": 1000000
       }
