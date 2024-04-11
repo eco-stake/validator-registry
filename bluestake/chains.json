@@ -235,6 +235,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper1f25mxxgjt8wd30hugfhh8gdwywxcch6zrmuwz6",
+      "restake": {
+        "address": "xpla1ly8wjkww7n9n98n4eajv0g3mhzqtjtf4ra664p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
