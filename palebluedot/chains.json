@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pale Blue Dot",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwvm2aqaz",
+      "restake": {
+        "address": "juno1e58ke9qk8ygl7jtadugctfxqeltvqut3hgl6av",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
