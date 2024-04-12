@@ -228,6 +228,15 @@
       }
     },
     {
+      "name": "humans",
+      "address": "humanvaloper1u7rhx9wp9m28qc5cv6h4558zrrng06fgxy4aly",
+      "restake": {
+        "address": "human163g9c65kv5v8lgvvwner3ruxntrdr50yxl9e99",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "injective",
       "address": "injvaloper1acgud5qpn3frwzjrayqcdsdr9vkl3p6hrz34ts",
       "restake": {
