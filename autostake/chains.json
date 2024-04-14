@@ -26,7 +26,7 @@
       "restake": {
         "address": "akash194ytn50yhh67rdha8akhs7c6zulnz4n2yvyy4e",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
@@ -192,15 +192,6 @@
       }
     },
     {
-      "name": "emoney",
-      "address": "emoneyvaloper1z0cwp2wezmaehlhzdmqpx55vhxupuk52d7ucjy",
-      "restake": {
-        "address": "emoney194ytn50yhh67rdha8akhs7c6zulnz4n2x5nhm7",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name": "empowerchain",
       "address": "empowervaloper1fvaa84qcq56uq76dcu2z920jg2zuxj3kc9xrfa",
       "restake": {
@@ -233,6 +224,15 @@
       "restake": {
         "address": "gitopia194ytn50yhh67rdha8akhs7c6zulnz4n2h0w5rq",
         "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1u7rhx9wp9m28qc5cv6h4558zrrng06fgxy4aly",
+      "restake": {
+        "address": "human163g9c65kv5v8lgvvwner3ruxntrdr50yxl9e99",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },
@@ -291,6 +291,15 @@
       }
     },
     {
+      "name": "lava",
+      "address": "lava@valoper1amkaaut9fs395v3vpuymp6zmggva32mkkvr7rq",
+      "restake": {
+        "address": "lava@194ytn50yhh67rdha8akhs7c6zulnz4n2307xtw",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1tn5prymrdzxldt6uwgmlaa8e3a45lx3zntqtz2",
       "restake": {
@@ -313,6 +322,15 @@
       "address": "odinvaloper1ns80t8zh50uelxrjw2ua6lchdym3j6xrgrwxg7",
       "restake": {
         "address": "odin194ytn50yhh67rdha8akhs7c6zulnz4n2dh0qqf",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "onomy",
+      "address": "onomyvaloper1vpj283gw4qzl8ytlesz0fvksxa3v24k3jc4wnz",
+      "restake": {
+        "address": "onomy194ytn50yhh67rdha8akhs7c6zulnz4n2nka4ax",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
@@ -444,6 +462,15 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper1c2uuulu9agt02fz4ynun2h32qxpydul8f5cqm9",
+      "restake": {
+        "address": "saga194ytn50yhh67rdha8akhs7c6zulnz4n2hys3t9",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "secretnetwork",
       "address": "secretvaloper12y30xefd0wg53xtyv9lw7mjcdvf8nxgzzva3sr",
       "restake": {
@@ -485,7 +512,7 @@
       "restake": {
         "address": "somm194ytn50yhh67rdha8akhs7c6zulnz4n29tx0af",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {
@@ -516,15 +543,6 @@
       }
     },
     {
-      "name": "tenet",
-      "address": "tenetvaloper1ppzsh293kufkrj2ay0jw3knxjl6gnhefz4wczq",
-      "restake": {
-        "address": "tenet163g9c65kv5v8lgvvwner3ruxntrdr50yegkk7q",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name": "teritori",
       "address": "torivaloper1g3pncd7m5ak8yeh9n42as57pvrcqqv4rjvh87h",
       "restake": {
@@ -538,7 +556,7 @@
       "address": "terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz",
       "restake": {
         "address": "terra194ytn50yhh67rdha8akhs7c6zulnz4n20nnrwr",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 100000000
       }
     },
@@ -557,7 +575,7 @@
       "restake": {
         "address": "umee194ytn50yhh67rdha8akhs7c6zulnz4n2mp5ug3",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000000
       }
     }
   ]

@@ -226,6 +226,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1wt3w6lewlgxvln4yjk4pwj93s7qhl8d72dcrvw",
+      "restake": {
+        "address": "orai1m5hgzum68rjf4c7zhezgkj8hlnmr0kgh9jdgtr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper1f25mxxgjt8wd30hugfhh8gdwywxcch6zrmuwz6",
+      "restake": {
+        "address": "xpla1ly8wjkww7n9n98n4eajv0g3mhzqtjtf4ra664p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }

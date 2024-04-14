@@ -1,0 +1,13 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Zulkis",
+  "identity": "9FF61BC196F4D5FA",
+  "website": "https://zulkis.com",
+  "description": {
+    "overview": "Zulkis nodes"
+  },
+  "contacts": {
+    "email": "mail@zulkis.com",
+    "discord": "zulkis9066"
+  }
+}
