@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Stake&Relax 🦥",
+  "chains": [
+    {
+      "name": "saga",
+      "address": "sagavaloper1l9aqqku8yk0p3w8kljmrwj32ztzz74earjl0sp",
+      "restake": {
+        "address": "saga1lguc9c63hgxyd2a3vr5l5p5924u9ua3gzhquwe",
+        "run_time": [
+          "09:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
