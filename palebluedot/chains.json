@@ -10,6 +10,15 @@
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwvz898ne",
+      "restake": {
+        "address": "chihuahua1e58ke9qk8ygl7jtadugctfxqeltvqut3z030mj",
+        "run_time": "21:00",
+        "minimum_reward": 500000000
+      }
     }
   ]
 }
