@@ -93,6 +93,15 @@
       }
     },
     {
+      "name": "evmos",
+      "address": "evmosvaloper1qgzmsvu7n96u006kne6w0u4jqxdj52u9yjxn7w",
+      "restake": {
+        "address": "evmos1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfu82szs",
+	"run_time": ["every 1 hour"],
+	"minimum_reward": 1000000000000000000
+      }
+    },  
+    {
       "name": "gitopia",
       "address": "gitopiavaloper1lkerplrd03lwdcynyrgmyqdcjgy92cknz4jex9",
       "restake": {
