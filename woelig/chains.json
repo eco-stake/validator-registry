@@ -224,7 +224,7 @@
       "restake": {
         "address": "shido1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8fl9497",
         "run_time": "every 1 minute",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     }
   ]
