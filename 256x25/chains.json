@@ -29,6 +29,15 @@
           "minimum_reward": 1000000
         }
       },
+        {
+        "name": "shido",
+        "address": "shidovaloper1ltfna5ud9dh76yx0klne9tqwveazjpp9h6tvu5",
+        "restake": {
+          "address": "shido1tal28ekp9cdq0hf97rk7r9hf9ad4cn8m90jyph",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
+      },
          {
         "name": "source",
         "address": "sourcevaloper1r9w0gr8e34hmp3hpn0p2jhmf8xvczapts28lx9",

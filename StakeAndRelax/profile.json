@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Stake&Relax 🦥",
+  "identity": "BD90F7F27099E9E3",
+  "website": "https://linktr.ee/stakeandrelax",
+  "description": {
+    "overview": "StakeandRelax to get Stake🥩&Rolex⌚Twitter:@StakeandRelax",
+    "team": "Monitoring 24/7 secure and reliable."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "stakeandrelax_validator@proton.me",
+    "telegram": "stakeandrelax_validator",
+    "twitter": "StakeandRelax",
+    "discord": "",
+    "others": {
+      "emergency": "stakeandrelax_validator@proton.me"
+    }
+  }
+}
