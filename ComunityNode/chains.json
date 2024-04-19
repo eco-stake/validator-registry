@@ -4,42 +4,33 @@
   "chains": [
     {
       "name": "planq",
-      "address": "plqvaloper1qyyzwm55snqrwuchmem7yzxmxkg3lsevxmdzel",
+      "address": "plqvaloper12p9wq6xe0sgksp9pa8pyw2vf6sx3ur5px6txhg",
       "restake": {
-        "address": "plq1usrve292qwu6nma66zd8ukns98d205wn3u7w83",
+        "address": "plq1zzvwq24mxttpx95n97zu6qh2k7y65msj3vz977",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000000000000
       
           }
        },
         {
-      "name": "lumenx",
-      "address": "lumenvaloper1aezdmj46nnd3fnapl05cnfwwnml24kq58zgu2l",
+      "name": "oraichain",
+      "address": "oraivaloper1t5p9rmxf9uww02pmt895d6a9ne49gaw4dhwh5p",
       "restake": {
-        "address": "lumen1w4fx4d8dj9zl5g9f9v3kgdqmjklrs4wyzt0fjx",
+        "address": "orai1c83eed3dw84hf2lj6ykg7vullx5657h6vjqk3s",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000
       
           }
        },
-            {
-      "name": "decentr",
-      "address": "decentrvaloper1xap2jzmux6t2feh7ytnp2v7tddcr2kzk0uhg4k",
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1y5e7xur4u02uhcxj6ms2g6c5cu54zjzz24752c",
       "restake": {
-        "address": "decentr1w4fx4d8dj9zl5g9f9v3kgdqmjklrs4wyusdkcd",
+        "address": "nibi1c83eed3dw84hf2lj6ykg7vullx5657h6gyjves",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000
       
           }
-       },
-          {
-         "name":"bitcanna",
-         "address":"bcnavaloper1zkjh6eq78svt9myrjn4qhj2x6jqtrtamjtyv6h",
-         "restake":{
-            "address":"bcna1w4fx4d8dj9zl5g9f9v3kgdqmjklrs4wydwmr3h",
-            "run_time":"every 15 minutes",
-            "minimum_reward":1000
-         }
-    }
+       }
     ]
  }

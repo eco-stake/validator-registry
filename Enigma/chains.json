@@ -17,7 +17,7 @@
       "restake": {
         "address": "celestia1pnmlutnxtgp2wvwvf66j6fc08dugsdhllz6hus",
         "run_time": "19:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
@@ -44,6 +44,17 @@
       "restake": {
         "address": "sei1pnmlutnxtgp2wvwvf66j6fc08dugsdhlry63qu",
         "run_time": "19:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "saga",
+      "address": "sagavaloper1v9uqwx20c7f3nf4ckzzvzjr4kxuqw37293gkv9",
+      "restake": {
+        "address": "saga1pnmlutnxtgp2wvwvf66j6fc08dugsdhlsmj4pm",
+        "run_time": [
+          "11:00"        
+        ],
         "minimum_reward": 100000
       }
     },
@@ -243,6 +254,15 @@
         "address": "nomic1ruw57z7ltrwlctecyw02nz9a25ymyvuqz09w24",
         "run_time": "",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1zx4p8utcjlzj2xuksxnvcj4r3cvdu2cxaqyn60",
+      "restake": {
+        "address": "dym16kv47hsamc24x9w4zkcccxwfrctyxg9kc2vslr",
+        "run_time": "19:00",
+        "minimum_reward": 100000000000000000
       }
     }
   ]

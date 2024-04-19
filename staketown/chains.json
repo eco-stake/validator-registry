@@ -91,6 +91,24 @@
         "run_time": "21:00",
         "minimum_reward": 10000000000000
       }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1y9cnrnknuq97pwh2yve4zpah3kn43zv43a7vgf",
+      "restake": {
+        "address": "plq1fezksqr9vm4x4zvfp50vycaj3dcs048f25v3vq",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1ry3453n79p9nlzcq7nm6yqfyluzqn0d4fehnat",
+      "restake": {
+        "address": "celestia1g82ghw7dy4v5tm208la39hdn42a5d0c0a54dds",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

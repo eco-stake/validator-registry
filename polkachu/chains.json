@@ -282,6 +282,15 @@
       }
     },
     {
+      "name": "sei",
+      "address": "seivaloper1mpe9rdk7ycujge7r9ncjt4ekamgrdcygvzwqe8",
+      "restake": {
+        "address": "sei1xrrfek3qpz4ja8ccrjklfy064asyqq9k778ejw",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "sommelier",
       "address": "sommvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pu0vlu3",
       "restake": {

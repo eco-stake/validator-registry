@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Pale Blue Dot",
+  "identity": "98606C0DFEE804D4",
+  "website": "https://palebluedot.zone",
+  "description": {
+    "overview": "A mote of dust suspended in a sunbeam"
+  },
+  "contacts": {
+    "email": "support@palebluedot.zone",
+    "others": {
+      "emergency": "support@palebluedot.zone"
+    }
+  }
+}

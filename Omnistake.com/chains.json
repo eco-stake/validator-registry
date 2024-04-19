@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Omnistake.com",
+  "chains": [
+    {
+      "name": "saga",
+      "address": "sagavaloper1am6qxsfxpzxdk7j8e8s37vs6pe8zr6m922nqte",
+      "restake": {
+        "address": "saga1dcxqrywdj7794zl5ygpeggrjm0px8hxpcvq3jq",
+        "run_time": "18:00",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1f7ffjjmv0ryenuw63fa5ngyz0wlcxkacwm7wzg",
+      "restake": {
+        "address": "canto19zzumr887r5f95q7vmw93jegq0ayuua83uq37y",
+        "run_time": "18:00",
+        "minimum_reward": 5000000
+      }
+    }
+  ]
+}

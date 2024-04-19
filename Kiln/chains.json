@@ -46,6 +46,15 @@
         "run_time": "09:00",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper146mj09yzu3mvz7pmy4dvs4z9wr2mst7ryjvncp",
+      "restake": {
+        "address": "fetch1u4whe0pwlgt7q7ph37qxalq2wfq4pkcd3yade6",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }

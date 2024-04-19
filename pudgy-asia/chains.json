@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pudgy Asia",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper1lmfyqzjtxdk9mt5wj93mc6ajsvqhnsqjdd6493",
+      "restake": {
+        "address": "dym1jwww76lw9zhgdchxs23egccakg9cnpfudqw5up",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

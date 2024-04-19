@@ -71,7 +71,7 @@
          "restake":{
             "address":"fetch1t3d2tlylpd2qllzm5uadcjpdm2u7v7pngkwfea",
             "run_time":"every 4 hours",
-            "minimum_reward":2500000000000000000
+            "minimum_reward":100000000000000000
          }
       },
       {
@@ -85,9 +85,9 @@
       },
       {
          "name":"shentu",
-         "address":"certikvaloper1l5zz0v9ss3klrmga49uxha7f0fmpxmjxzwqphw",
+         "address":"shentuvaloper1l5zz0v9ss3klrmga49uxha7f0fmpxmjx8kv6xy",
          "restake":{
-            "address":"certik1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnurm66p",
+            "address":"shentu1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnnlr5fh",
             "run_time":"every 4 hours",
             "minimum_reward":250000
          }

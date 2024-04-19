@@ -235,6 +235,42 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud",
+      "restake": {
+        "address": "dym1a2kjvsgxqqk0mrfpwlvv209zfjes2xz93qwy9c",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp",
+      "restake": {
+        "address": "source1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjxglr5t",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4",
+      "restake": {
+        "address": "zeta1a2kjvsgxqqk0mrfpwlvv209zfjes2xz94evh6x",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6",
+      "restake": {
+        "address": "nibi1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjh7zydx",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

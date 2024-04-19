@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "iStake",
+  "identity": "77837CAE2958D613",
+  "website": "https://www.istake.xyz",
+  "description": {
+    "overview": "We provide robust validator services for proof-of-stake protocols. Join the future of decentralized finance with confidence.",
+    "team": "At iStake, our team's unwavering passion for blockchain technology translates into industry-leading expertise in secure digital asset management. We are constantly pushing boundaries to deliver the most advanced staking solutions available."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@istake.xyz",
+    "telegram": "",
+    "twitter": "",
+    "discord": "",
+    "others": {
+      "emergency": "contact@istake.xyz"
+    }
+  }
+}

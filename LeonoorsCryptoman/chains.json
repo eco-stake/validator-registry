@@ -80,6 +80,15 @@
       "restake": {
         "address": "plq19samcrqzvhh7fm04nyf90ru49u33c28gqwtsqp",
         "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1pcy2f3mrutccpt9gnzdujh5p8yp375dc697vdr",
+      "restake": {
+        "address": "persistence1zf8gz27gs5py3ua9lpu958w24j0jyj0tveypcj",
+        "run_time": "every 1 hours",
         "minimum_reward": 1000000
       }
     },

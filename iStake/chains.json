@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "iStake",
+  "chains": [
+    {
+        "name": "nibiru",
+        "address": "nibivaloper1ew2hw9fakn4m33lzxrhzqhxrwk9na496tpemey",
+        "restake": {
+          "address": "nibi1h5udgzpa9cdn0vwmjjce6z6trjq224mddw5gpz",
+          "run_time": [
+            "8:00"
+          ],          
+          "minimum_reward": 1000000
+        }
+    }
+  ]
+}

@@ -48,6 +48,24 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper164k2sgrpemau4evtcg5y3vurzw2atm940yzsv3",
+      "restake": {
+        "address": "source10eumq5yvapfdan5nxsfkc3arskff3l9v8nt720",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1gsmhz20fteu5hyy4d29hn07ly6lstgzcg0q7rz",
+      "restake": {
+        "address": "shido1p7dwf33a347lwedeletzwcal7u9tgn57222t5g",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {

@@ -55,6 +55,33 @@
 			  "run_time": ["every 1 hour"],
 			  "minimum_reward": 1000000000000000000
 			}
+		},
+		{
+			"name": "nolus",
+			"address": "nolusvaloper1vytpvur69pn4f356kmkwwdeqpmr9ymejf4yt5d",
+			"restake": {
+			  "address": "nolus1g4uu3cs69x2rn4uyxhw6a02pptspyt6ctzglv4",
+			  "run_time": ["every 1 hour"],
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "nibiru",
+			"address": "nibivaloper15t60ugdvgsapkp779h4eanx0jjcef9vkva8m34",
+			"restake": {
+			  "address": "nibi1g4uu3cs69x2rn4uyxhw6a02pptspyt6c2hue8r",
+			  "run_time": ["every 1 hour"],
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "zetachain",
+			"address": "zetavaloper17upfnqevwsy7kl9zveegpxwh0yvp9cfj798dpn",
+			"restake": {
+			  "address": "zeta19rppc7evwe2dcjrsfwm7ugu3e53y5dp3qhm72p",
+			  "run_time": ["every 1 hour"],
+			  "minimum_reward": 1000000000000000000
+			}
 		}
 	]
 }

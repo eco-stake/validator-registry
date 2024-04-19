@@ -7,8 +7,50 @@
       "address": "omniflixvaloper1gapx0r4vdt0y68c4pex593ylwgc3qynzmvqmzp",
       "restake": {
         "address": "omniflix1t25n9292faqg4am3nja4zkejyfp5fxg0yqt09z",
-        "run_time": "every 1 minutes",
+        "run_time": "every 60 minutes",
         "minimum_reward": 1
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1n6d9rqrfwh5sprmfc965yqdvnc3wl339ceeqpv",
+      "restake": {
+        "address": "source1t25n9292faqg4am3nja4zkejyfp5fxg0ldrgzz",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1n74zmyvm554yhspdtgpkv0rnedxc3e8neu2v55",
+      "restake": {
+        "address": "juno1t25n9292faqg4am3nja4zkejyfp5fxg00ved4q",
+        "run_time": [
+          "00:00"
+        ],
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1m2rnrgs7lxqa8edatfr3qtletmcser478dg4au",
+      "restake": {
+        "address": "lava@1t25n9292faqg4am3nja4zkejyfp5fxg0pxdn43",
+        "run_time": [
+          "00:00"
+        ],
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper12t4kdan397fkmr8ryxt6uqkmdx9pez6zmwdl6v",
+      "restake": {
+        "address": "nibi1t25n9292faqg4am3nja4zkejyfp5fxg0wm70m0",
+        "run_time": [
+          "09:00"
+        ],
+        "minimum_reward": 10000
       }
     }
   ]
