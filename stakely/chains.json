@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper1gsq4dsxvgsswkgrsftz0k905rzjc0n2hv26xgj",
-      "restake": {
-        "address": "bcna1hl0jgxre5z0nkyjj07c5vfdy44yk44atr0jd80",
-        "run_time": "every 8 hour",
-        "minimum_reward": 20000000
-      }
-    },
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper16yupepagywvlk7uhpfchtwa0stu5f8cyhh54f2",
       "restake": {
@@ -90,15 +81,6 @@
         "address": "terra1hl0jgxre5z0nkyjj07c5vfdy44yk44atlmcvda",
         "run_time": "every 8 hour",
         "minimum_reward": 100000000
-      }
-    },
-    {
-      "name": "crescent",
-      "address": "crevaloper1wr0l9tnw3rsmk9tyqr707tta40f7qh2m7ueyq8",
-      "restake": {
-        "address": "cre1hl0jgxre5z0nkyjj07c5vfdy44yk44atah3f6s",
-        "run_time": "every 8 hour",
-        "minimum_reward": 1000000
       }
     },
     {
@@ -207,24 +189,6 @@
         "address": "celestia1hl0jgxre5z0nkyjj07c5vfdy44yk44atg4nu4s",
         "run_time": "every 8 hour",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "dydx",
-      "address": "dydxvaloper1vfe20hmx3rxxjcetwqns4xv8veuawasfc6fkz4",
-      "restake": {
-        "address": "dydx1hl0jgxre5z0nkyjj07c5vfdy44yk44atsxvg02",
-        "run_time": "every 8 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "dymension",
-      "address": "dymvaloper1cfezsl9hyqp8g4zkl4ln2tw9wlg53rsxgkf7hw",
-      "restake": {
-        "address": "dym135e4ecavyr73p6238edqlpwfwty3fhjncfcgzl",
-        "run_time": "every 8 hour",
-        "minimum_reward": 1000000000000000000
       }
     }
   ]
