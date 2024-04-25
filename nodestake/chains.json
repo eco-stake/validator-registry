@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "entangle",
+      "address": "entvaloper1zf7juq39h58p2j6h26fz5ueaygh5wrkeuanns6",
+      "restake": {
+        "address": "ent15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4r7wwwm",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "dhealth",
       "address": "dhvaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snn33uhmt",
       "restake": {
