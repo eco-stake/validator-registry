@@ -1,6 +1,6 @@
 {
 	"$schema": "../chains.schema.json",
-	"name": "shido",
+	"name": "Shidoverse",
 	"chains": [{
 		"name": "shido",
 		"address": "shido1utzuagl5zgpq67vqn09qladevgm79zj7yvxfr7",
