@@ -8,7 +8,8 @@
         "restake": {
           "address": "shido1864wz4nmnehk2kqk6hpu4s3zg3hypvlgxnsexj",
           "run_time": "every 1 minute",
-          "minimum_reward": 100000000000000000
+          "minimum_reward": 1000000
         }
-      }]
+      }
+    ]
 }
