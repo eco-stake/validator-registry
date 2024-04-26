@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MetaDefi",
+  "chains": [
+    {
+       "name": "shido",
+       "address": "shido18w4lpkcurhvpetdundnn0ke0cwggunrzqsaqgy",
+       "restake": {
+          "address": "shido15x9gdglr6dw220p95pll4fd7qw7taf2z5y5esd",
+           "run_time": "every 5 minutes",    
+           "minimum_reward": 1
+      }
+    },
+}
+
+
+
+
+
+
+
+
+
+   
