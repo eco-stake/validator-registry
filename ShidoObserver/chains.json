@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "SHIDO Observer",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper13at9nycw48ll8d4wauau2tfsl3vj9g879v28rn",
+        "restake": {
+          "address": "shido1864wz4nmnehk2kqk6hpu4s3zg3hypvlgxnsexj",
+          "run_time": "every 1 minute",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+}
