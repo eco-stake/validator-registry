@@ -6,7 +6,7 @@
         "name": "shido",
         "address": "shidovaloper190qfkmdc2nmpuacdlp4wnqu00949h87h674w86",
         "restake": {
-          "address": "shido190qfkmdc2nmpuacdlp4wnqu00949h87hz5wxc6",
+          "address": "shido1m655pk85gveapcn9egx0eywakmn5ddhusdfyjm",
           "run_time": "every 1 minute",
           "minimum_reward": 10000000000000000
         }
