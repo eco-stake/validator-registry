@@ -1,5 +1,0 @@
-{
-		"$schema": "../profile.schema.json",
-		"name": "ShidoItalia",
-		"identity": "3456A730CFFBB4BE"
-		}
