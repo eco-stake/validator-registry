@@ -129,6 +129,15 @@
         }
     },
     {
+      "name": "shido",
+      "address": "shidovaloper1m66h66vnyz7n0dkuxvxdvc046gddyyz5guvuxz",
+      "restake": {
+        "address": "shido1ggzpjmk46lv4ulng7p04k98mg038xk96dx54g4",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
+        }
+    },
+    {
       "name": "sge",
       "address": "sgevaloper1l4988md0lnpg4ln7vhvgy8zgnf3umhkejuuwvl",
       "restake": {

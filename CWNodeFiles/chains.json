@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "CryptoWav3z",
+    "chains": [
+        {
+        "name": "shido",
+        "address": "shidovaloper162zcltlsn868klgdmtxr53dun3as5pfqz046vs",
+        "restake": {
+          "address": "shido1hterpylcrws4vpkyty4a40a0th6uycnwq0p620",
+          "run_time": "every 1 minute",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }
