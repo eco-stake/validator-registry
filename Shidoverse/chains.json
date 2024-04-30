@@ -1,0 +1,13 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Shidoverse",
+	"chains": [{
+		"name": "shido",
+		"address": "shidovaloper1utzuagl5zgpq67vqn09qladevgm79zj7uxapu7",
+		"restake": {
+			"address": "shido1dygwh0s3xmwdtjtpprptyj073kyfnl0qgv0uzf",
+			"run_time": "every 1 minute",
+			"minimum_reward": 100000000000000000
+		}
+	}]
+}

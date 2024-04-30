@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "shido",
+      "address": "shidovaloper1gsmhz20fteu5hyy4d29hn07ly6lstgzcg0q7rz",
+      "restake": {
+        "address": "shido1p7dwf33a347lwedeletzwcal7u9tgn57222t5g",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {
