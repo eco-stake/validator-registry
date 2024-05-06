@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "desmos",
-      "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
-      "restake": {
-        "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "lumnetwork",
       "address": "lumvaloper1zjaa4qvqz3cwwhnvnfwk3w5ahvvsnngsdu6zuk",
       "restake": {
