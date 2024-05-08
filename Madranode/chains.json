@@ -3,7 +3,7 @@
   "name": "Madranode - FR",
   "chains": [
     {
-      "name": "composable",
+      "name": "picasso",
       "address": "picavaloper1d6kw0gf37p4ejlg6w6q8wrhtm2q59j2e52tu6v",
       "restake": {
         "address": "pica128rlx4suej0nxfafnay0ca9e67x73qwawugpjr",
