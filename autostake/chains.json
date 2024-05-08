@@ -475,7 +475,7 @@
       "address": "sedavaloper1ljrlnszqkqdvmrn2kpyx8ggwlw8f5cw89auk3f",
       "restake": {
         "address": "seda194ytn50yhh67rdha8akhs7c6zulnz4n2le9m0z",
-        "run_time": "every 1 minutes",
+        "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
     },
