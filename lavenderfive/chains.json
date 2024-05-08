@@ -136,9 +136,9 @@
     },
     {
       "name": "composable",
-      "address": "centaurivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj55qlt",
+      "address": "picavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zhul3v7",
       "restake": {
-        "address": "centauri12xpq68caw2aqdu70jm4k792g0v9prhrpyftcyt",
+        "address": "pica12xpq68caw2aqdu70jm4k792g0v9prhrpml9pyl",
         "run_time": [
           "12:00"        
         ],
