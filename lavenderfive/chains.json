@@ -459,6 +459,17 @@
       }
     },
     {
+      "name": "pryzm",
+      "address": "pryzmvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z2u8dhf",
+      "restake": {
+        "address": "pryzm12xpq68caw2aqdu70jm4k792g0v9prhrpcn3r7t",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "quasar",
       "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
       "restake": {
