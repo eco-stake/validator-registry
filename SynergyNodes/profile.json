@@ -1,7 +1,7 @@
 {
   "$schema": "../profile.schema.json",
   "name": "Synergy Nodes",
-  "identity": "AF9D7EF7CC70CE24",
+  "identity": "673CA76602A5AC88",
   "website": "https://www.synergynodes.com",
   "description": {
     "overview": "Synergy Nodes operates validator nodes for multiple Cosmos chains and also provide core infrastructure support for various blockchain protocols.",

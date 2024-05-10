@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Olim",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper1q43twwh2mnej3p3ffnrgc9fq2vh5p6hhc2w7pa",
+        "restake": {
+          "address": "shido16rhrcjtlngj9fdht9gqsngperjnh25h4hv8286",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+}
