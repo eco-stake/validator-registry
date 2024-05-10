@@ -1,8 +1,7 @@
 {
   "$schema": "../profile.schema.json",
   "name": "🇸🇪 In Bjorn We Trust",
-  "identity": "9166538D14254443",
-  "website": "",
+  "identity": "9166538D14254443"
     "contacts": {
       "email": "inbjornwetrust@gmail.com"
     }
