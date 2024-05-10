@@ -8,8 +8,8 @@
       "restake": {
         "address": "orai139akm5xtqgsp7uxkcfjspm7cj420k8hxxcngdc",
         "run_time": [
-          "00:00",
-          "12:00"
+          "00:10",
+          "12:10"
         ],
         "minimum_reward": 10000
       }
