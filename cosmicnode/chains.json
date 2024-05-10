@@ -1,17 +1,28 @@
 {
-    "$schema": "../chains.schema.json",
-    "name": "CosmicNode",
-    "chains": [
-      {
-        "name": "chihuahua",
-        "address": "chihuahuavaloper1v2srqzaqku25pdndegz3flhez6umfehpgstzuy",
-        "restake": {
-          "address": "chihuahua1u9rtjramea2extgfjqcjce6mym0yu647gs4w9h",
-          "run_time": [
-            "21:00"
-          ],
-          "minimum_reward": 100000
-        }
+  "$schema": "../chains.schema.json",
+  "name": "CosmicNode",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1v2srqzaqku25pdndegz3flhez6umfehpgstzuy",
+      "restake": {
+        "address": "chihuahua1u9rtjramea2extgfjqcjce6mym0yu647gs4w9h",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 100000
       }
-    ]
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1v2srqzaqku25pdndegz3flhez6umfehp92jjkz",
+      "restake": {
+        "address": "seda1v2srqzaqku25pdndegz3flhez6umfehpwu2fdm",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
 }
