@@ -6,10 +6,10 @@
       "name": "oraichain",
       "address": "oraivaloper1emrck0fzxqfhl68r0wqtddq5g6nx74f6xdpjs0",
       "restake": {
-        "address": "orai128jj7w4dqhzy7mkuwkcvxv4l03nu5y70chgwc8",
+        "address": "orai139akm5xtqgsp7uxkcfjspm7cj420k8hxxcngdc",
         "run_time": [
-          "00:00",
-          "12:00"
+          "00:10",
+          "12:10"
         ],
         "minimum_reward": 10000
       }
