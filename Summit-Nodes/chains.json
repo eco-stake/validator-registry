@@ -8,7 +8,7 @@
          "restake":{
             "address":"band1t3t8gfwm0jwwa5l6hlwuhvn893407gnn8k0yfl",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -17,7 +17,7 @@
          "restake":{
             "address":"evmos1g0pt7yj0hywuduh6242zwf7u6sj8hm70rmt50c",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -26,7 +26,7 @@
          "restake":{
             "address":"gravity1q52x3jrc2jrx7rv380z64tsw9m907zlhtczzu8",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -35,7 +35,7 @@
          "restake":{
             "address":"panacea1zs7sg5ggl6t23p868mltvdqpeymg4sjp2qrdyx",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -44,7 +44,7 @@
          "restake":{
             "address":"sent1q52x3jrc2jrx7rv380z64tsw9m907zlh5nxraq",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -53,7 +53,7 @@
          "restake":{
             "address":"lum1q52x3jrc2jrx7rv380z64tsw9m907zlh6zdnvm",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -62,7 +62,7 @@
          "restake":{
             "address":"ki1q52x3jrc2jrx7rv380z64tsw9m907zlh79p4am",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       },
       {
@@ -71,7 +71,7 @@
          "restake":{
             "address":"shentu1q52x3jrc2jrx7rv380z64tsw9m907zlh8u5rtj",
             "run_time":"every 12 hours",
-            "minimum_reward":1000000
+            "minimum_reward":100000
          }
       }
    ]
