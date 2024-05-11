@@ -391,9 +391,9 @@
     },
     {
       "name": "pryzm",
-      "address": "pryzm194ytn50yhh67rdha8akhs7c6zulnz4n2387yjs",
+      "address": "pryzmvaloper1ntuqwuhwkl65ct27uarm8r9cqhnup8zyr07ka7",
       "restake": {
-        "address": "pryzmvaloper1ntuqwuhwkl65ct27uarm8r9cqhnup8zyr07ka7",
+        "address": "pryzm194ytn50yhh67rdha8akhs7c6zulnz4n2387yjs",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
