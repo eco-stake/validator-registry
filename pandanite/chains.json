@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pandanite",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1nfs7cjj977s4cjzfnw3lwu32h9xnqdcyfsdcly",
+      "restake": {
+        "address": "orai128jj7w4dqhzy7mkuwkcvxv4l03nu5y70chgwc8",
+        "run_time": [
+          "01:30",
+          "13:30"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
