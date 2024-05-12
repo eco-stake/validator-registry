@@ -1,6 +1,6 @@
 { 
      "$schema": "../chains.schema.json", 
-     "name": "MagicShidoNode", 
+     "name": "MagicShidoNode | REStake", 
      "chains": [
          { 
          "name": "shido", 
