@@ -1,7 +1,8 @@
 {
   "$schema": "../profile.schema.json",
-  "name": "SHIDO4LIFE",
-  "identity": "38CD1CAA5B4F0C29"
-  "description" : "Stake and Earn Rewards | Auto-Compound Rewards | Delegate to Validators: MagicShidoNode or SHIDO4LIFE | Monitoring and Securing Network 24/7 with our Dedicated Servers consisting of Firewall Protection, Advance Security Modules, and Anti-malware Protection."
+  "name": "SHIDO4LIFE | REStake",
+  "identity": "38CD1CAA5B4F0C29",
+  "description" : "Stake and Earn Rewards | Auto-Compound Rewards | Delegate to Validators: MagicShidoNode or SHIDO4LIFE | Monitoring and Securing Network 24/7 with our Dedicated Servers consisting of Firewall Protection, Advance Security Modules, and Anti-malware Protection.",
+  "website": "https://x.com/magicshi20"
 }
 
