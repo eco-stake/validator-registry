@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper1kdjzef6ryeyhsah52q8xmzrg5dpqlh3r988gey",
-      "restake": {
-        "address": "cre17kxwsh0pnu25lqa97vdsc3f59mn3uswjlhv65w",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "sentinel",
       "address": "sentvaloper1ewmujlakdstee65lp6p30g0n6ul62aux7a9fk8",
       "restake": {
