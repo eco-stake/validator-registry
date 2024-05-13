@@ -202,9 +202,9 @@
     },
     {
       "name": "composable",
-      "address": "centaurivaloper19f0w9svr905fhefusyx4z8sf83j6et0g7x84zx",
+      "address": "picavaloper19f0w9svr905fhefusyx4z8sf83j6et0gmwvy3n",
       "restake": {
-        "address": "centauri1etsdevgm5ps240lrw9mg3p2j32tj96kt24gak7",
+        "address": "pica1etsdevgm5ps240lrw9mg3p2j32tj96kt4rxyk2",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
