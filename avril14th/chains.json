@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "seda",
+      "address": "sedavaloper1jl3rqcqtwhk00m59qu4qyqcyrqrnvwr5939c50",
+      "restake": {
+        "address": "seda1gpa2wtkg82thv8494fhlvhpkvmxn5hx2l9hrxd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "commercionetwork",
       "address": "did:com:valoper1gyagzzqz34fhywee6z4aenkjkwvl5w9737g7kv",
       "restake": {
