@@ -1,17 +1,69 @@
 {
-    "$schema": "../chains.schema.json",
-    "name": "CosmicNode",
-    "chains": [
-      {
-        "name": "chihuahua",
-        "address": "chihuahuavaloper1v2srqzaqku25pdndegz3flhez6umfehpgstzuy",
-        "restake": {
-          "address": "chihuahua1u9rtjramea2extgfjqcjce6mym0yu647gs4w9h",
-          "run_time": [
-            "21:00"
-          ],
-          "minimum_reward": 100000
-        }
+  "$schema": "../chains.schema.json",
+  "name": "CosmicNode",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1v2srqzaqku25pdndegz3flhez6umfehpgstzuy",
+      "restake": {
+        "address": "chihuahua1u9rtjramea2extgfjqcjce6mym0yu647gs4w9h",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000
       }
-    ]
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1v2srqzaqku25pdndegz3flhez6umfehp92jjkz",
+      "restake": {
+        "address": "seda1v2srqzaqku25pdndegz3flhez6umfehpwu2fdm",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1v2srqzaqku25pdndegz3flhez6umfehpl5j888",
+      "restake": {
+        "address": "tori1v2srqzaqku25pdndegz3flhez6umfehp6x3c42",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1v2srqzaqku25pdndegz3flhez6umfehpgk4rze",
+      "restake": {
+        "address": "pasg1v2srqzaqku25pdndegz3flhez6umfehpm2ltr9",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1v2srqzaqku25pdndegz3flhez6umfehpacerfs",
+      "restake": {
+        "address": "ki1v2srqzaqku25pdndegz3flhez6umfehpflh72w",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },      
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1v2srqzaqku25pdndegz3flhez6umfehpml8suu",
+      "restake": {
+        "address": "bcna1v2srqzaqku25pdndegz3flhez6umfehpzzksxg",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1qr04v967746u2vl6vt4r08dsl0zqlqzu75sn6x",
+      "restake": {
+        "address": "zeta1qr04v967746u2vl6vt4r08dsl0zqlqzu65g0hs",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
 }

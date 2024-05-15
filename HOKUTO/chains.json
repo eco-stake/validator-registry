@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "HOKUTO",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1cazgsvq0tw6u2zp0y3x3dm58p56z5n48zfp8lh",
+      "restake": {
+        "address": "orai128jj7w4dqhzy7mkuwkcvxv4l03nu5y70chgwc8",
+        "run_time": [
+          "00:00",
+          "12:13"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -2,6 +2,18 @@
   "$schema": "../chains.schema.json",
   "name": "AVIAONE.com 🟢",
   "chains": [
+    {	
+	  "name": "lava",
+      "address": "lava@valoper1hdg2exumzju4uazc8yfznz99qnr5z4u73whhdk",
+      "restake": {
+        "address": "lava@1sdtursdqgmlmlchhyywldrvfyry006jwqecunn",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "dymension",
       "address": "dymvaloper1vtf9ytvqg8k7n3hx7rt7fezktg7przxmeduldc",

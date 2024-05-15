@@ -162,7 +162,7 @@
       "restake": {
         "address": "kujira1hcgxjhvv43g9z6dc58g428jgc8hdlmf7986d0g",
         "run_time": "12:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -244,6 +244,15 @@
         "address": "pb1hcgxjhvv43g9z6dc58g428jgc8hdlmf7apns07",
         "run_time": "12:00",
         "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1svlf7e6znwkvr43vnxful8lfzpsmvwwgt2knpz",
+      "restake": {
+        "address": "seda1hcgxjhvv43g9z6dc58g428jgc8hdlmf7zp5dpr",
+        "run_time": "12:00",
+        "minimum_reward": 100000000000000000
       }
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Texas",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1zafupcjckkflxzfdmlcf7mdjudtyszarnl547y",
+      "restake": {
+        "address": "orai128jj7w4dqhzy7mkuwkcvxv4l03nu5y70chgwc8",
+        "run_time": [
+          "01:00",
+          "13:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
