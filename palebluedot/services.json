@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Pale Blue Dot",
+  "services": [
+    {
+      "title": "Pale Blue Dot",
+      "description": "A mote of dust suspended in a sunbeam",
+      "url": "https://palebluedot.zone"
+    }
+  ]
+}

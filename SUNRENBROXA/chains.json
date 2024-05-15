@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "oraichain",
+      "address": "oraivaloper1a4acd446j6qqsqlq5ypnj8l00jdrcz3jypvzn7",
+      "restake": {
+        "address": "orai1xllz2yrx4llfwm792geccfz7rey72m0d5q2e95",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1tylme70t04tua5pd2my6zvzwavs02guvd837ug",
       "restake": {

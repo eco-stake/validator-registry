@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "oraichain",
+      "address": "oraivaloper108st96sq3mj708n7m756e4pu2tnf0ex97yujve",
+      "restake": {
+        "address": "orai1vurwf9w9dqjzf4qdm4z48qtw87k00hf8yha68v",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 108000
+      }
+    },
+    {
       "name": "umee",
       "address": "umeevaloper108uz380f2cq0smyescunqwz9lrk5apnzamv3r2",
       "restake": {

@@ -20,7 +20,7 @@
       "address": "celestiavaloper1eualhqh07w7p45g45hvrjagkcxsfnflzdw5jzg",
       "restake": {
         "address": "celestia1g3laz9zpgy8x4k3gdkydf4umnepaug4wxdkc40",
-        "run_time": "20:00",
+        "run_time": "every 1 week",
         "minimum_reward": 100000
       }
     },	

@@ -147,6 +147,15 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper1nfha2308jhh2k7jfsa29gpa5t7kqv48wzuje4w",
+      "restake": {
+        "address": "saga106n92ygqknaw5wcgl2e9v0duxxux6nttgvsuvd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800
+      }
+    },
+    {
       "name": "sommelier",
       "address": "sommvaloper1fpwexrflqq066c80qfgs875qq39ws3t689gj28",
       "restake": {

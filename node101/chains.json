@@ -138,6 +138,24 @@
       }
     },
     {
+      "name": "agoric",
+      "address": "agoricvaloper1k334nqagmmxajt32hdtxrpnsavz0njwa3mtcqc",
+      "restake": {
+        "address": "agoric1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5mwjt7z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1lrzxwu4dmy8030waevcpft7rpxjjz26csrtqm4",
+      "restake": {
+        "address": "celestia1ydgj7csawc0k4f7qguy6zd5vs7q5cqx5cepy5e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "stride",
       "address": "stridevaloper1lrzxwu4dmy8030waevcpft7rpxjjz26cyguf0h",
       "restake": {
