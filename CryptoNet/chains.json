@@ -138,15 +138,6 @@
       }
     },
     {
-      "name": "8ball",
-      "address": "8ballvaloper1wc4v5kufn0yv2qrlfk78s7g5f22jpwx9m86wnv",
-      "restake": {
-        "address": "8ball1zz3wp5t24ej534nz5g7lxdazekx0aaek8mjw8r",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "planq",
       "address": "plqvaloper1ewvh80umgq5l38ujju49vm22sl534x99meh6e2",
       "restake": {
