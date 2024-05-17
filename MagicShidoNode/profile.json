@@ -1,5 +1,9 @@
 {
   "$schema": "../profile.schema.json",
   "name": "MagicShidoNode | REStake",
-  "identity": "38CD1CAA5B4F0C29"
+  "identity": "38CD1CAA5B4F0C29",
+  "website": "https://x.com/magicshi20",
+    "contacts": {
+      "email": "magicshidonode@gmail.com"
+    }
 }
