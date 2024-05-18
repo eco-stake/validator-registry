@@ -84,15 +84,6 @@
       }
     },
     {
-      "name": "dydx",
-      "address": "dydxvaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgjl6yg0z",
-      "restake": {
-        "address": "dydx14gra89zm8753pfuhvujjulmtkf2qq70fsacuar",
-        "run_time": "17:28",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "celestia",
       "address": "celestiavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj8g0ng0",
       "restake": {
