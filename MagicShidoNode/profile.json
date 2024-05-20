@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "MagicShidoNode | REStake",
+  "identity": "38CD1CAA5B4F0C29",
+  "website": "https://x.com/magicshi20",
+  "description": {
+    "overview": "Stake | Earn | Auto-Compound Your Rewards. We focus on Transparency and High Security. Our Dedicated Servers are monitored and secured 24/7 using Firewall Protection, Advance Security Modules, and Anti-malware Protection."
+  },
+    "contacts":{
+      "telephone":"",
+      "email":"magicshidonode@gmail.com",
+      "telegram":"@magicshi20",
+      "twitter":"@MagicShi20",
+      "discord":"magicshi20",
+      "others":{
+         "emergency":""
+      }
+   }
+}
