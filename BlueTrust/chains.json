@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Blue Trust 🤝",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper1l22s8pngtada0fuddlttszrakr2q9rhskr6ceh",
+        "restake": {
+          "address": "shido1mcwwsk0t9quskjugmahwnpulp2whmnn8fp7r33",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }
