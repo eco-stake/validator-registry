@@ -17,7 +17,7 @@
       "restake": {
         "address": "orai1gvu0xvz0vut3xq07m87np9kns5y2pw5f58ryz7",
         "run_time": "09:00",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
@@ -53,7 +53,7 @@
       "restake": {
         "address": "human1epzch8k9778tkvnck7a56jzm7wts2sacr8hlkf",
         "run_time": "09:00",
-        "minimum_reward": 1000000000000
+        "minimum_reward": 100000000000000000
      }
     }
   ]

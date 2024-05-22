@@ -127,7 +127,15 @@
     "run_time": "every 1 minutes",
     "minimum_reward": 100000
   }
+},
+  {
+  "name": "nim",
+  "address": "nimvaloper1u54ap0rmwahyzaq75q7a7jmsusjzndz4pawssr",
+  "restake": {
+    "address": "nim13pc2era7rw65024je5neky46mhhjhgrjmxg6sq",
+    "run_time": "every 1 minutes",
+    "minimum_reward": 100000000000000000
+  }
 }
-
   ]
 }

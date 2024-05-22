@@ -206,6 +206,18 @@
     {
       "name": "zetachain",
       "address": "zetavaloper14nr64c9fsqanrezfcuprletu2d40frznuhw68r"
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper16htcaqe7p6k2handqd70jes5s3spxlnza240yj"
+    },
+    {
+      "name": "althea",
+      "address": "altheavaloper194zksk4m6d3pmmu9kyq24yr99qzw7cne456h2u"
+    },
+    {
+      "name": "bouncebit",
+      "address": "ethmvaloper1jurhq8uztc9h90esm0df269lgvzvd59h04gmql"
     }
   ]
 }

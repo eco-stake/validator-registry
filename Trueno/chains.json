@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Trueno",
+  "chains": [
+    {
+      "name": "dhealth",
+      "address": "dhvaloper18maty7jfvn7hgf56cpcegw9g9mqq7ehnzvlc2y",
+      "restake": {
+        "address": "dh15du3p9eue5zx655tpeveqe4qcz0sxdkeffvkd0",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

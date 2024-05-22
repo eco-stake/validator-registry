@@ -1,5 +1,20 @@
 {
   "$schema": "../profile.schema.json",
-  "name": "imorai",
-  "identity": "084D280C742F3E15"
+  "name": "IMdev",
+  "identity": "084D280C742F3E15",
+  "website": "https://www.imdev.app",
+  "description": {
+    "overview": "Just as love connects hearts, our validator nodes connect networks. Experience the power of decentralized love with us. Our love for blockchain is as decentralized as the technology itself. Dive into the world of validator nodes and feel the decentralized love.",
+    "team": "Always on job"
+  },
+  "contacts": {
+    "telephone": "+923453835383",
+    "email": "info@imdev.app",
+    "telegram": "https://t.me/+KKSOl2xm0ewyM2E0",
+    "twitter": "https://twitter.com/imdevapp",
+    "discord": "https://discord.com/invite/NGXngcwj",
+    "others": {
+      "emergency": "+923453835383"
+    }
+  }
 }
