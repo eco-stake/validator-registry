@@ -127,6 +127,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper10dcm7hqv9a5ajdjr9ctcu5pgg2969ag7qx0nyg",
+      "restake": {
+        "address": "bze1pchsyu3d8c0fezekqmh7ymkesv3gr0sc5rl2g2",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
