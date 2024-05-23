@@ -291,6 +291,15 @@
       }
     },
     {
+      "name": "kyve",
+      "address": "kyvevaloper1ujspafxlp0h8xkaes345367tzsw8kxrwza3jca",
+      "restake": {
+        "address": "kyve194ytn50yhh67rdha8akhs7c6zulnz4n27ey488",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "lava",
       "address": "lava@valoper1amkaaut9fs395v3vpuymp6zmggva32mkkvr7rq",
       "restake": {
