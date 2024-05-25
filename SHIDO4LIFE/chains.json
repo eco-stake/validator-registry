@@ -7,7 +7,7 @@
          "address": "shidovaloper1pa7j703548n9kd9fpptakdel3phgnx4enrqaeu", 
          "restake": { 
            "address": "shido1h3yjj9qns5gk242trg43z8py9esntjq2wsp6hz", 
-           "run_time": "every 1 minute", 
+           "run_time": "every 30 seconds", 
            "minimum_reward": 100000000000000000
                     } 
           }     ] 
