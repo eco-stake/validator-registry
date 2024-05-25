@@ -14,14 +14,14 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper1nvveer8gzjlm78me4zz45s4crvwf0pz0dhc5lw",
+      "name": "oraichain",
+      "address": "oraivaloper14uqadff9jf02kkzhppl6znczan4gu04ly87nnu",
       "restake": {
-        "address": "dig17kdv6l908jn48cpxfvf7zekdmm3vf5p7du65tp",
+        "address": "orai17kdv6l908jn48cpxfvf7zekdmm3vf5p7xm9ugf",
         "run_time": [
-          "17:00"
+          "17:05"
         ],
-        "minimum_reward": 20000000
+        "minimum_reward": 10000
       }
     },
     {
