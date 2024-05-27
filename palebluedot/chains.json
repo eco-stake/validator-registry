@@ -20,7 +20,7 @@
         "minimum_reward": 10000000000
       }
     },
-        {
+	{
       "name": "bitcanna",
       "address": "bcnavaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwv3gf4np",
       "restake": {
@@ -29,7 +29,7 @@
         "minimum_reward": 10000000
       }
     },
-        {
+	{
       "name": "bitsong",
       "address": "bitsongvaloper1lsnytfe0uxtzg860uv72rjeulhhujxu6cjsc8c",
       "restake": {
@@ -38,13 +38,13 @@
         "minimum_reward": 10000000
       }
     },
-        {
-      "name": "desmos",
-      "address": "desmosvaloper1w9u9h24gkx35ed9et9vzhjkllcqhla4z6enfyk",
+	{
+      "name": "mars",
+      "address": "marsvaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwvm5dcse",
       "restake": {
-        "address": "desmos13ll9cknfkuwnjc8l8047pfevfl2z7tt594a3tg",
+        "address": "mars1e58ke9qk8ygl7jtadugctfxqeltvqut3u89c0t",
         "run_time": "21:00",
-        "minimum_reward": 10000000
+        "minimum_reward": 1000000
       }
     }
   ]
