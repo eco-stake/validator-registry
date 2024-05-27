@@ -25,6 +25,17 @@
       }
     },
     {
+      "name": "seda",
+      "address": "sedavaloper1us5f67clf2fq4u0alr0h0r40pq525jm45ktpva",
+      "restake": {
+        "address": "seda17kdv6l908jn48cpxfvf7zekdmm3vf5p7rxl82m",
+        "run_time": [
+          "17:10"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "beezee",
       "address": "bzevaloper19fgph876c3rqxrn6xk5ch6wd73r3g05wzpsht0",
       "restake": {
