@@ -265,7 +265,7 @@
     },
     {
       "name": "kava",
-      "address": "kyvevaloper1ztr9jgwes7jynxf76m5h93ej48l9q6vm7mlc6d",
+      "address": "kavavaloper1hztgl202pvetspxch0pcchaqzrduw4qq64q08u",
       "restake": {
         "address": "kava194ytn50yhh67rdha8akhs7c6zulnz4n24za76y",
         "run_time": "every 5 minutes",
@@ -292,7 +292,7 @@
     },
     {
       "name": "kyve",
-      "address": "kyvevaloper1ujspafxlp0h8xkaes345367tzsw8kxrwza3jca",
+      "address": "kyvevaloper1ztr9jgwes7jynxf76m5h93ej48l9q6vm7mlc6d",
       "restake": {
         "address": "kyve194ytn50yhh67rdha8akhs7c6zulnz4n27ey488",
         "run_time": "every 5 minutes",
