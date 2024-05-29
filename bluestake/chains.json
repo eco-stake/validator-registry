@@ -138,6 +138,15 @@
       }
     },
     {
+      "name": "seda",
+      "address": "sedavaloper1rzhmtxp4w9096c70fsswvaygm5v63cyk23r9ne",
+      "restake": {
+        "address": "seda1m5hgzum68rjf4c7zhezgkj8hlnmr0kghq0hnf3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "sentinel",
       "address": "sentvaloper1wd944at7mn6eqm7c7m5lfd9ej3g6astqawjnqn",
       "restake": {
