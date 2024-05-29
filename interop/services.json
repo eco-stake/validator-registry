@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Interop",
+  "services": [
+    {
+      "title": "Interop",
+      "description": "Investing in protocols & primitives",
+      "url": "https://interop.ventures"
+    }
+  ]
+}

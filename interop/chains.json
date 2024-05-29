@@ -1,0 +1,29 @@
+{
+  "name": "Interop",
+  "chains": [
+    {
+      "name": "lava",
+      "address": "lava@valoper1cqks7sdvw968jjd90knphf9aqscfx0uq6fk0em",
+      "restake": {
+        "address": "lava@1wnmy46k8u392z90jhpgznqgeauly6dqvp9reg2",
+        "run_time": [
+          "06:17",
+          "18:17"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1cqks7sdvw968jjd90knphf9aqscfx0uqxuflqz",
+      "restake": {
+        "address": "pasg10jxattc283uslgkzm4rp9jvyesq3vjk8ngdjm8",
+        "run_time": [
+          "11:03",
+          "23:03"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

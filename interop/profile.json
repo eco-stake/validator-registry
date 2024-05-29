@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Interop",
+  "identity": "4E0CE8E709527EE0",
+  "website": "https://interop.ventures",
+  "description": {
+    "overview": "Interop Ventures is an early-stage venture fund investing in the Interchain economy. We believe that crypto-finance will unlock new fully digital economies enabled by modular, scalable and interoperable blockchain infrastructure.",
+    "team": "",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@interop.ventures",
+    "telegram": "",
+    "twitter": "interopvc",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
