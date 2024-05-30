@@ -435,6 +435,10 @@
       }
     },
     {
+      "name": "neutron",
+      "address": "neutronvaloper1gf4wlkutql95j7wwsxz490s6fahlvk2s7s9qdk"
+    },
+    {
       "name": "nibiru",
       "address": "nibivaloper1l23pucap323p9ku85v7df9rygws7l7nwv30sdg",
       "restake": {
