@@ -3,6 +3,15 @@
     "name": "Apple juice",
     "chains": [
       {
+        "name": "nibiru",
+        "address": "nibivaloper1sw654jxseqtju3ujshwm2r0hk999uajz844lj5",
+        "restake": {
+          "address": "nibi1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n7jj763",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
         "name": "sifchain",
         "address": "sifvaloper1hsxakzjzadrte27xkphdxpvdklelwzjcyr4rll",
         "restake": {
