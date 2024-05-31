@@ -124,8 +124,8 @@
       "address": "comdexvaloper195re7mhwh9urewm3rvaj9r7vm6j63c4sd78njd",
       "restake": {
         "address": "comdex194ytn50yhh67rdha8akhs7c6zulnz4n2wctp45",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
       }
     },
     {
