@@ -1,15 +1,15 @@
 {
   "$schema": "../profile.schema.json",
-  "name": "Pale Blue Dot",
+  "name": "Interstellr",
   "identity": "98606C0DFEE804D4",
-  "website": "https://palebluedot.zone",
+  "website": "https://PlanC.interstellr.xyz",
   "description": {
-    "overview": "A mote of dust suspended in a sunbeam"
+    "overview": "PoS Networks co-operate by TaRS & CaSe, maintain by KiPP. Welcome all Mannkind. Plenty of slaves for our robot colony."
   },
   "contacts": {
-    "email": "support@palebluedot.zone",
+    "email": "bulk_beings@interstellr.xyz",
     "others": {
-      "emergency": "support@palebluedot.zone"
+      "emergency": "bulk_beings@interstellr.xyz"
     }
   }
 }
