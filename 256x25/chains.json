@@ -3,6 +3,15 @@
     "name": "Apple juice",
     "chains": [
       {
+        "name": "nibiru",
+        "address": "nibivaloper1sw654jxseqtju3ujshwm2r0hk999uajz844lj5",
+        "restake": {
+          "address": "nibi1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n7jj763",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
         "name": "sifchain",
         "address": "sifvaloper1hsxakzjzadrte27xkphdxpvdklelwzjcyr4rll",
         "restake": {
@@ -20,13 +29,13 @@
           "minimum_reward": 1000000000000000000
         }
       },
-      {
-        "name": "gitopia",
-        "address": "gitopiavaloper1ue20mxe9wsa8ayh27hhaqurcy52kc6y3z54ja4",
+        {
+        "name": "shido",
+        "address": "shidovaloper1nq2sk5rlzunju00uv5nhagpw48awwrnqmd504n",
         "restake": {
-          "address": "gitopia1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nh03sup",
-          "run_time": "every 5 minutes",
-          "minimum_reward": 1000000
+          "address": "shido1a7aj3s6qe4c27rulj7rfhdqg3kyw33v7cvpd82",
+          "run_time": "every 1 minutes",
+          "minimum_reward": 100000000000000000
         }
       },
          {
@@ -39,15 +48,6 @@
         }
       },
         {
-        "name": "chihuahua",
-        "address": "chihuahuavaloper1twjvh6uny2e2xhne888jmzfs7qjepv5hy5ycj6",
-        "restake": {
-          "address": "chihuahua1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n2zmfjq",
-          "run_time": "00:00",
-          "minimum_reward": 1
-        }
-      },
-        {
         "name": "comdex",
         "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
         "restake": {
@@ -57,10 +57,10 @@
         }
       },
         {
-        "name": "persistence",
-        "address": "persistencevaloper1lywma98u56q3xvgn078k8sr8q6dcrhrpqsgm6e",
+        "name": "seda",
+        "address": "sedavaloper1dv25s76jze4w2u06hj85jwnja9r7af75uhas4p",
         "restake": {
-          "address": "persistence1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n8ms5ax",
+          "address": "seda1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nle6lsr",
           "run_time": "every 5 minutes",
           "minimum_reward": 1000000
         }

@@ -373,7 +373,7 @@
     },
     {
       "name": "sommelier",
-      "address": "sommvaloper1dlpuptu8k8rps38u9wdjmkwte69v27593alh5s",
+      "address": "sommvaloper150w0w9jpvvxkcy9pfrjglygqtmvcyhltl8hamu",
       "restake": {
         "address": "somm1m7xlymnpxl2d4llu67v08e8xs67dj2fztfu88k",
         "run_time": "every 10 minutes",
@@ -433,6 +433,19 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper1gf4wlkutql95j7wwsxz490s6fahlvk2s7s9qdk"
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1l23pucap323p9ku85v7df9rygws7l7nwv30sdg",
+      "restake": {
+        "address": "nibi1m7xlymnpxl2d4llu67v08e8xs67dj2fzsshjl0",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    } 
   ]
 }

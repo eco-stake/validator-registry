@@ -183,12 +183,12 @@
       }
     },
     {
-      "name": "dydx",
-      "address": "dydxvaloper1c4u24hycep9mzp6498ra9j2lm58v2y047s3za9",
+      "name": "nibiru",
+      "address": "nibivaloper1w26kzhwhely77xup3npfh70tzuc4amtx8j0743",
       "restake": {
-        "address": "dydx1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk5qkn66a",
+        "address": "nibi1ks0uf2zxgv6qjyzjwfvfxyv5vp2m6nk572e8ne",
         "run_time": "18:00",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {

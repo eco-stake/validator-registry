@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TakamulFi Validator",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1gcw6ru5akcmzvr3anqre8f3m8eml2rmrz8m6sl",
+      "restake": {
+        "address": "haqq1crhpr9308c6eegj27xtsvx2k2alwvvwlu2u5x7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

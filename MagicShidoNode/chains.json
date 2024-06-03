@@ -1,0 +1,14 @@
+{ 
+     "$schema": "../chains.schema.json", 
+     "name": "MagicShidoNode | REStake", 
+     "chains": [
+         { 
+         "name": "shido", 
+         "address": "shidovaloper1gdg92dfn5up40lgfwx9rxa2ed7r2wvvkx3jgyc", 
+         "restake": { 
+           "address": "shido1h3yjj9qns5gk242trg43z8py9esntjq2wsp6hz", 
+           "run_time": "every 30 seconds", 
+           "minimum_reward": 100000000000000000 
+                    } 
+          }     ] 
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Interstellr",
+  "identity": "98606C0DFEE804D4",
+  "website": "https://PlanC.interstellr.xyz",
+  "description": {
+    "overview": "PoS Networks co-operate by TaRS & CaSe, maintain by KiPP. Welcome all Mannkind. Plenty of slaves for our robot colony."
+  },
+  "contacts": {
+    "email": "bulk_beings@interstellr.xyz",
+    "others": {
+      "emergency": "bulk_beings@interstellr.xyz"
+    }
+  }
+}

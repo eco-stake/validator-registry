@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SHIN",
+  "chains": [
+    {
+      "name": "dhealth",
+      "address": "dhvaloper19lfyhar8x9uvhk8vpvyu0zxvyq380exx2cq2p6",
+      "restake": {
+        "address": "dh1ng3xejrsehqvvtmxauz2dtgst8n0h5vfvjzscr",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
