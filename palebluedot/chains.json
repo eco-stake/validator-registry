@@ -51,7 +51,16 @@
       "name": "kava",
       "address": "kavavaloper1g2nk6mnhk3c5ltcg2g4354avqjdx7pk4c8feyz",
       "restake": {
-        "address": "kava1e58ke9qk8ygl7jtadugctfxqeltvqut3a0guvh",
+        "address": "kava1n96gzl3vgj83y40xvax2lwrmargakkcch3gnlu",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "comdex",
+      "address": "comdexvaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwvxasyx3",
+      "restake": {
+        "address": "comdex1e58ke9qk8ygl7jtadugctfxqeltvqut3x47rr8",
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
