@@ -3,15 +3,6 @@
   "name": " AutoStake 🛡️ Slash Protected",
   "chains": [
     {
-      "name": "acrechain",
-      "address": "acrevaloper1ws43egqv720nglj53ks2qqv3z6lzrz3avs5jgw",
-      "restake": {
-        "address": "acre163g9c65kv5v8lgvvwner3ruxntrdr50y7nn5ph",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name": "agoric",
       "address": "agoricvaloper1df98lt4ph685ujr69jy5w8xvrtszad7te7pna9",
       "restake": {
@@ -48,28 +39,10 @@
       }
     },
     {
-      "name": "archway",
-      "address": "archwayvaloper1trz9nxaqhmnp30qgspmxq67mcn9ulyg8xwz7jv",
-      "restake": {
-        "address": "archway194ytn50yhh67rdha8akhs7c6zulnz4n2uu48x5",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name": "axelar",
       "address": "axelarvaloper1kafxdlrq8svz68j2tn8qtqk74j4yhylyf364pt",
       "restake": {
         "address": "axelar194ytn50yhh67rdha8akhs7c6zulnz4n2delt8z",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
-      "name": "carbon",
-      "address": "swthvaloper1wmwjagd5yw5rs8hnafkduqa6xq537mys5fjg4s",
-      "restake": {
-        "address": "swth194ytn50yhh67rdha8akhs7c6zulnz4n2kfr4l6",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
@@ -88,6 +61,15 @@
       "address": "bandvaloper1xs2penspev206jj0egh5qu7qmr6mjzfgj299xl",
       "restake": {
         "address": "band194ytn50yhh67rdha8akhs7c6zulnz4n2scfp5t",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "blockx",
+      "address": "blockxvaloper1ys08vhy9l282y40rqx4wex6msrsf2k6mxaxfw9",
+      "restake": {
+        "address": "blockx163g9c65kv5v8lgvvwner3ruxntrdr50yac2r60",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
@@ -540,15 +522,6 @@
         "address": "somm194ytn50yhh67rdha8akhs7c6zulnz4n29tx0af",
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "sifchain",
-      "address": "sifvaloper1lnhxf6war6qlldemkqzp0t3g57hpe9a6nh3tyv",
-      "restake": {
-        "address": "sif194ytn50yhh67rdha8akhs7c6zulnz4n2v2x4rg",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1
       }
     },
     {
