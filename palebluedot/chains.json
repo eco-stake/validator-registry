@@ -64,6 +64,15 @@
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
+    },
+	{
+      "name": "kichain",
+      "address": "kivaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwvh0hxxd",
+      "restake": {
+        "address": "ki1e58ke9qk8ygl7jtadugctfxqeltvqut3shdw7y",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
     }
   ]
 }
