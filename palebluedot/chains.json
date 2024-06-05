@@ -73,6 +73,15 @@
         "run_time": "21:00",
         "minimum_reward": 10000000
       }
+    },
+	{
+      "name": "gravitybridge",
+      "address": "gravityvaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwv87rjwm",
+      "restake": {
+        "address": "gravity1e58ke9qk8ygl7jtadugctfxqeltvqut392welc",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
     }
   ]
 }
