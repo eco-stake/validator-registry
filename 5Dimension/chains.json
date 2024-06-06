@@ -10,6 +10,15 @@
                 "run_time": "every 10 minutes",
                 "minimum_reward": 100000
             }
+        },
+        {
+            "name": "nibiru",
+            "address": "nibivaloper1f9h8ce4p6wmarjjhg2r3mvjhmrlh9h9mpneqn6",
+            "restake": {
+                "address": "nibi10yxfalh8wql0zvyrcfdu77267h5uxhdsn3jwlg",
+                "run_time": "every 10 minutes",
+                "minimum_reward": 100000
+            }
         }
     ]
 }
