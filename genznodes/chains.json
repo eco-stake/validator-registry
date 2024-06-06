@@ -33,7 +33,7 @@
       "name": "chain4energy",
       "address": "c4evaloper18wq5pmxruke33ks4707f453n32nhlkenpc6ttw",
       "restake": {
-        "address": "c4e19tzqk0kp67mx4wcedvmefhvk9r2xcxudz45eek",
+        "address": "c4e179u97xktrvdphyv9m8w036rkly0sqvn42h0m7y",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
           }
