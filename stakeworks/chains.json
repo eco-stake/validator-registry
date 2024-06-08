@@ -43,7 +43,7 @@
                 "address": "plqvaloper1qqhhajkdz8fzeqhp873l9f9fsmwqr0ul8llrpf",
                 "restake": {
                 "address": "plq1r0eq3j3c9gm2xdnud667dgg2teu8z4p2s8pl7j",
-                "run_time": "every 1 hour",
+                "run_time": "every 4 hour",
                 "minimum_reward": 1000000000000000000
                 }       
        },
