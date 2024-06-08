@@ -3,20 +3,11 @@
   "name": "FiftyDec",
   "chains": [
     {
-      "name": "humans",
-      "address": "humanvaloper1v0cld60f77sx3e2l7a5wh0e6ydx2hurlz46vnj",
-      "restake": {
-        "address": "human1k0x57k4hmwtxpdzuj8u5znjntxs292g598rvms",
-        "run_time": "every 4 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "nibiru",
       "address": "nibivaloper1sfplg68w4q6ptsxpyg4ldx2765x4dzgc2d7zvz",
       "restake": {
         "address": "nibi1wyd795r9um4vurfz6qn5t2f88yx3n4ealxaxzk",
-        "run_time": "every 4 minutes",
+        "run_time": "every 12 hours",
         "minimum_reward": 1000000
       }
     }
