@@ -100,6 +100,15 @@
         "run_time": "21:00",
         "minimum_reward": 1000000
       }
+    },
+	{
+      "name": "panacea",
+      "address": "panaceavaloper17pjxnsuqjapa3mcwe45mr6e45ge8hhyl4yy4v4",
+      "restake": {
+        "address": "",
+        "run_time": "21:00",
+        "minimum_reward": 100000000
+      }
     }
   ]
 }
