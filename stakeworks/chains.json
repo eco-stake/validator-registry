@@ -29,15 +29,6 @@
                 "minimum_reward": 1000000
                 }
         },   
-        {
-                "name": "echelon",
-                "address": "echelonvaloper1s5lytkd8ysmef9mp6ds7zpgwqj938pnecl8ee9",
-                "restake": {
-                "address": "echelon1r0eq3j3c9gm2xdnud667dgg2teu8z4p2vp24kh",
-                "run_time": "every 12 hours",
-                "minimum_reward": 1000000000000000000
-                }
-        },
        {
                 "name":"planq",
                 "address": "plqvaloper1qqhhajkdz8fzeqhp873l9f9fsmwqr0ul8llrpf",
