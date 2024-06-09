@@ -421,6 +421,10 @@
       }
     },
     {
+      "name": "sge",
+      "address": "sgevaloper1qzshy2n49qz67tzgzjfuuzl8mugu5vnn7e6v78"
+    },
+    {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
     }

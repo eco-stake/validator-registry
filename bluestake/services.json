@@ -1,0 +1,26 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "BlueStake 🚀",
+  "services": [
+    {
+      "title": "Snapshots",
+      "description": "To help validators to deploy or recover quickly, BlueStake provide frequent archives of the Blockchains from high-performance infrastructure.",
+      "url": "https://bluestake.net/snapshots"
+    },
+    {
+      "title": "State-Sync",
+      "description": "To help validators to deploy or recover quickly, BlueStake provides state-sync servers from high-performance infrastructure.",
+      "url": "https://bluestake.net/statesync"
+    },
+    {
+      "title": "RPC & LCD endpoints",
+      "description": "BlueStake provides public RPC and API endpoints to developers, node operators and users from high-performance infrastructure.",
+      "url": "https://bluestake.net/endpoints"
+    },
+    {
+      "title": "IBC Relayers",
+      "description": "BlueStake provides services to boost interoperability across different blockchain networks, relaying more than 50 IBC channels from high-performance infrastructure.",
+      "url": "https://bluestake.net/relayers"
+    }
+  ]
+}
