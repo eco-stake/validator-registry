@@ -29,7 +29,7 @@
                 "minimum_reward": 1000000
                 }
         },   
-       {
+        {
                 "name":"planq",
                 "address": "plqvaloper1qqhhajkdz8fzeqhp873l9f9fsmwqr0ul8llrpf",
                 "restake": {
@@ -37,6 +37,6 @@
                 "run_time": "every 4 hour",
                 "minimum_reward": 1000000000000000000
                 }       
-       },
+        }
   ]
 }          
