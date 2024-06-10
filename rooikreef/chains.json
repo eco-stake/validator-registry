@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "lambda",
+      "address": "lambvaloper1at4krvmfcquarfuglp0uuu2yfhw9jyp8lt4flf",
+      "restake": {
+        "address": "lamb1p7dwf33a347lwedeletzwcal7u9tgn577lucyp",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000000000000000
+      }
+    },    
+    {
       "name": "8ball",
       "address": "8ballvaloper130t5gf5xg9dy3qq5a42p0435qlc33t0ggvtq8p",
       "restake": {
@@ -56,6 +65,15 @@
         "minimum_reward": 100000
       }
     },
+    {
+      "name": "shido",
+      "address": "shidovaloper1gsmhz20fteu5hyy4d29hn07ly6lstgzcg0q7rz",
+      "restake": {
+        "address": "shido1p7dwf33a347lwedeletzwcal7u9tgn57222t5g",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 100000000000000000
+      }
+    },    
     {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",

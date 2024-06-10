@@ -1,11 +1,11 @@
 {
   "$schema": "../services.schema.json",
-  "name": "Pale Blue Dot",
+  "name": "Interstellr",
   "services": [
     {
-      "title": "Pale Blue Dot",
-      "description": "A mote of dust suspended in a sunbeam",
-      "url": "https://palebluedot.zone"
+      "title": "Interstellr",
+      "description": "PoS Networks co-operate by TaRS & CaSe, maintain by KiPP. Welcome all Mannkind. Plenty of slaves for our robot colony.",
+      "url": "https://PlanC.interstellr.xyz"
     }
   ]
 }

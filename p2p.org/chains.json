@@ -127,6 +127,24 @@
         "run_time": ["03:00" , "09:00", "15:00", "21:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper17kmuknu4f3sqfhqtzpx0znnz3nuh5slwcqz6cg",
+      "restake": {
+        "address": "dym124u62yv3wjamx3yj34kr0jay4eyf7encdy22jd",
+        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "saga",
+      "address": "sagavaloper15eryzkm5y7d2ldqf6he7g943g9hepxwa6puvjz",
+      "restake": {
+        "address": "saga1eyr6hh22vcyw8ahf3zr4p4f85dkqw649rm8n7c",
+        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "minimum_reward": 100000
+      }
     }
   ]
 }

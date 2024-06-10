@@ -84,10 +84,10 @@
       }
     },
     {
-      "name": "composable",
-      "address": "centaurivaloper15x9xf2yasra3les7pqgaezp64lwhaqrleq3kl0",
+      "name": "picasso",
+      "address": "picavaloper15x9xf2yasra3les7pqgaezp64lwhaqrlug68v6",
       "restake": {
-        "address": "centauri1g82ghw7dy4v5tm208la39hdn42a5d0c0g5fpnw",
+        "address": "pica1g82ghw7dy4v5tm208la39hdn42a5d0c0hz8cn6",
         "run_time": "21:00",
         "minimum_reward": 10000000000000
       }

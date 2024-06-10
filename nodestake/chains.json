@@ -12,11 +12,38 @@
       }
     },
     {
+      "name": "nim",
+      "address": "nimvaloper1q5t0zghhs7j9jyk2gm7wrupfv0d3sptutme0d5",
+      "restake": {
+        "address": "nim15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4h258vu",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "entangle",
+      "address": "entvaloper1zf7juq39h58p2j6h26fz5ueaygh5wrkeuanns6",
+      "restake": {
+        "address": "ent15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4r7wwwm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snn33uhmt",
+      "restake": {
+        "address": "dh10rk7dkg5wy9r6f2fd8rafvje6j2ctzt80mclvs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "dymension",
       "address": "dymvaloper1jpvku8u4al5kx4zm3hqm9j9faw3qhx6ss4ueq9",
       "restake": {
         "address": "dym15xjdrn6t0dyzgzfs8nagmg04yjvn8ls436wxzr",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
@@ -43,7 +70,7 @@
       "address": "nibivaloper19f0w9svr905fhefusyx4z8sf83j6et0g742nxz",
       "restake": {
         "address": "nibi1etsdevgm5ps240lrw9mg3p2j32tj96kte6pcm7",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
@@ -70,7 +97,7 @@
       "address": "celestiavaloper19f0w9svr905fhefusyx4z8sf83j6et0g57nch8",
       "restake": {
         "address": "celestia1etsdevgm5ps240lrw9mg3p2j32tj96ktl453gq",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
@@ -175,9 +202,9 @@
     },
     {
       "name": "composable",
-      "address": "centaurivaloper19f0w9svr905fhefusyx4z8sf83j6et0g7x84zx",
+      "address": "picavaloper19f0w9svr905fhefusyx4z8sf83j6et0gmwvy3n",
       "restake": {
-        "address": "centauri1etsdevgm5ps240lrw9mg3p2j32tj96kt24gak7",
+        "address": "pica1etsdevgm5ps240lrw9mg3p2j32tj96kt4rxyk2",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }

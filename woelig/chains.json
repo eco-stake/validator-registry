@@ -217,6 +217,24 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1p9dm3l7d05lnfmrggggqv2dxrzr2xjfevh32aq",
+      "restake": {
+        "address": "shido1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8fl9497",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "conscious",
+      "address": "cvnvaloper1fr709hdjtk3ehlj5sdn4u64juyw3pl3jazs2xy",
+      "restake": {
+        "address": "cvn1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8y675jg",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000000000000
+      }
     }
   ]
 }

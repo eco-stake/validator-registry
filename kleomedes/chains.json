@@ -298,6 +298,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "kyve",
+      "address": "kyvevaloper1dr8kxh8ltycr322xnepyzm75v8rze8f2ywk02s",
+      "restake": {
+        "address": "kyve1r8egcurpwxftegr07gjv9gwffw4fk009ufzun8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "seda",
+      "address": "sedavaloper18enlsxtmxa5eqqfpnn0sqwf7n0a6knr8mlgupm",
+      "restake": {
+        "address": "seda1r8egcurpwxftegr07gjv9gwffw4fk009afrjmz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

@@ -152,7 +152,7 @@
       "restake": {
         "address": "saga106n92ygqknaw5wcgl2e9v0duxxux6nttgvsuvd",
         "run_time": "every 1 hour",
-        "minimum_reward": 16180
+        "minimum_reward": 161800
       }
     },
     {

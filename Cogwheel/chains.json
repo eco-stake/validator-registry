@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Cogwheel",
+    "name": "Cogwheel ⚙️",
     "chains": [
         {
             "name": "dyson",
@@ -16,9 +16,9 @@
         },
         {
             "name": "composable",
-            "address": "centaurivaloper1ecxls8tq8csdqns7cpe8zcry864z8z0drgep7h",
+            "address": "picavaloper1ecxls8tq8csdqns7cpe8zcry864z8z0dxqjsdz",
             "restake": {
-                "address": "centauri1queqjvae6k6cuxqfhc8rmajwmvm36mv3h4n5zk",
+                "address": "pica1queqjvae6k6cuxqfhc8rmajwmvm36mv3gradzz",
                 "run_time": [
                     "09:00",
                     "21:00"

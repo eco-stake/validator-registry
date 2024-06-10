@@ -20,6 +20,24 @@
         "minimum_reward": 100000
       }
     },
+       {
+       "name": "oraichain",
+       "address": "oraivaloper1llyh95du5hnswtq245s87d4fwv6k6ht4vnx8v8",
+       "restake": {
+        "address": "orai1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnsfyycq",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+          }
+       },
+    {
+      "name": "althea",
+      "address": "altheavaloper19fmpww5ph44hxkg4z4a9yq5yszfkekgnz9hull",
+      "restake": {
+        "address": "althea17q3zwm3qfcfjs2pvp472tmqsae8n97pnpahur6",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    },
     {
       "name": "persistence",
       "address": "persistencevaloper1n4mw69thxqggt4p2j8t420nudn0gceve5kchck",
@@ -80,7 +98,7 @@
       "restake": {
         "address": "chihuahua1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnq0lfc3",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -292,9 +310,9 @@
     },
         {
       "name": "composable",
-      "address": "centaurivaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzar2p69",
+      "address": "picavaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzctpsfs",
       "restake": {
-        "address": "centauri1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn8slmaq",
+        "address": "pica1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqncx3za5",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000
       }
@@ -458,7 +476,7 @@
       "restake": {
         "address": "juno1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn4g3u70",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {

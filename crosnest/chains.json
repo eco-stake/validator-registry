@@ -398,9 +398,31 @@
       "address": "dymvaloper1fg7n4w7ffg7vdn5kuaesfkpsg69dyjkgeutq3y",
       "restake": {
         "address": "dym1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu39cv26",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 day",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "andromeda",
+      "address": "andrvaloper1phfe4g52xdq4cemtwhygqy696cy5af0eq7cg7l",
+      "restake": {
+        "address": "andr1v9vae554q55xa4pcfdm0p3kv8nxn50jkz80s3y",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1n94ljsx0quv8meu6k0hu3aeha5g5x68waxnvjq",
+      "restake": {
+        "address": "seda1v9vae554q55xa4pcfdm0p3kv8nxn50jkvzt2wg",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "sge",
+      "address": "sgevaloper1qzshy2n49qz67tzgzjfuuzl8mugu5vnn7e6v78"
     },
     {
       "name": "nomic",

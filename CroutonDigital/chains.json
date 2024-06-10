@@ -28,6 +28,15 @@
         "run_time": ["18:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper127chaf96mtdz33aqqnqmgnxtuas9d78pdalr5j",
+      "restake": {
+        "address": "dym1pdjax0ltrgfvsaegugmz7p245cdhnmdq0dxzq9",
+        "run_time": ["18:00"],
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }

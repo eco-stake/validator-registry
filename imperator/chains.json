@@ -84,15 +84,6 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper1hu64xnmav0m680n87pe5hw6yr2v92tw9pshrqf",
-      "restake": {
-        "address": "cre1eml7agwd5x084ennlg6apvskufzrlvnrjcfjq5",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "firmachain",
       "address": "firmavaloper13frzpda7gydx4zhn29awye757ffr863mc9mhsn",
       "restake": {
@@ -115,15 +106,6 @@
       "address": "persistencevaloper1ydtka79nhg62v36lgre6vlfjauvlelau9rvgwh",
       "restake": {
         "address": "persistence1hyn90eg436a6p5j9s6kq8cc5m9hn8awg2vu4q9",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "sentinel",
-      "address": "sentvaloper13vrf9z9d2mfuwss9jrkud3v3q8hu3cp0ngpsrz",
-      "restake": {
-        "address": "sent1eml7agwd5x084ennlg6apvskufzrlvnrdtvw3k",
         "run_time": "21:00",
         "minimum_reward": 100000
       }
@@ -279,6 +261,15 @@
         "address": "dym1xtk2ex5zmw7xk9s3vklz8nv8pq3cngagejuz4d",
         "run_time": "21:00",
         "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "dydx",
+      "address": "dydxvaloper1mwhwf9rqh64ktr8t8xnz37nhg7vvy42ec56jwe",
+      "restake": {
+        "address": "dydx1eml7agwd5x084ennlg6apvskufzrlvnrlf5n4w",
+        "run_time": "21:00",
+        "minimum_reward": 100000
       }
     }
   ]

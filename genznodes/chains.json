@@ -33,7 +33,7 @@
       "name": "chain4energy",
       "address": "c4evaloper18wq5pmxruke33ks4707f453n32nhlkenpc6ttw",
       "restake": {
-        "address": "c4e19tzqk0kp67mx4wcedvmefhvk9r2xcxudz45eek",
+        "address": "c4e179u97xktrvdphyv9m8w036rkly0sqvn42h0m7y",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000
           }
@@ -124,6 +124,24 @@
       "address": "realiovaloper1uhxl5f04c5zq0v7ngxvwvs9h9647zefx73t3x3",
       "restake": {
         "address": "realio1ggzpjmk46lv4ulng7p04k98mg038xk96tp8z9t",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
+        }
+    },
+    {
+      "name": "seda",
+      "address": "seda19tzqk0kp67mx4wcedvmefhvk9r2xcxudhrpvrf",
+      "restake": {
+        "address": "sedavaloper1ts072ugce9v0fjfjfp39e3neu52rwj0ryrqzz0",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
+        }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1m66h66vnyz7n0dkuxvxdvc046gddyyz5guvuxz",
+      "restake": {
+        "address": "shido1ggzpjmk46lv4ulng7p04k98mg038xk96dx54g4",
         "run_time": "every 6 hour",
         "minimum_reward": 1000000000000000000
         }

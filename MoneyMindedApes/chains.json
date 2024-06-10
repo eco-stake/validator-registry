@@ -4,16 +4,14 @@
   "chains": [
     {
       "name": "coreum",
-      "address": "corevaloper15nr84074r5kcwcs7pqyj32xekhc0awfd0wyvqs",
+      "address": "corevaloper1d64a0wd7urnu8fqgv03kzymzgtr7lep5jakkgg",
       "restake": {
         "address": "core1umkwvnm872q0aujcscdh02az0km56jffjnyl75",
         "run_time": [
           "00:00",
-	  "04:00",
-	  "08:00",
+	  "06:00",
 	  "12:00",
-	  "16:00",
-	  "20:00"
+	  "18:00"
         ],
         "minimum_reward": 1000000
       }
