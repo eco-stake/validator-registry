@@ -109,6 +109,24 @@
         "run_time": "19.37",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper13dgv286g2yaqj4dh6yda63mvtsfkjylekugq5n",
+      "restake": {
+        "address": "seda1grfk7t0k42yxpwqhr7kt4te7j73m2a3v5t3gz8",
+        "run_time": "19.37",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "saga",
+      "address": "sagavaloper1dazs5hls68jrgtlsr5xf9wkc9m4ueza3g2ltfl",
+      "restake": {
+        "address": "saga1grfk7t0k42yxpwqhr7kt4te7j73m2a3vukyzxq",
+        "run_time": "19.37",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
