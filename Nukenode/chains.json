@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Nuke",
+    "name": "Nuke Node | Restake",
     "chains": [
       {
         "name": "shido",
