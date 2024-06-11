@@ -58,28 +58,6 @@
       }
     },
     {
-      "name": "bitsong",
-      "address": "bitsongvaloper16cm4ew7zrzaa7rf250jhwq2lcz3a60xmw0h5v8",
-      "restake": {
-        "address": "bitsong1juy3unc6f2nwk3gjdq95hjzcesetd6h84asyhx",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "bitcanna",
-      "address": "bcnavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z05j958",
-      "restake": {
-        "address": "bcna12xpq68caw2aqdu70jm4k792g0v9prhrp6nk9g2",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "carbon",
       "address": "swthvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zw30a3g",
       "restake": {
@@ -166,17 +144,6 @@
           "12:00"        
         ],
         "minimum_reward": 100000000
-      }
-    },
-    {
-      "name": "desmos",
-      "address": "desmosvaloper1r0emf6ap6y5advzgtsf4uz3g68p5t5484j4alp",
-      "restake": {
-        "address": "desmos1nrt8va6he35w4vclr6sejkqpvsmr4vtas330me",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 1000000
       }
     },
     {
@@ -566,15 +533,6 @@
           "12:00"        
         ],
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "teritori",
-      "address": "torivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztl8j0u",
-      "restake": {
-        "address": "tori12xpq68caw2aqdu70jm4k792g0v9prhrpzh3dmg",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
       }
     },
     {
