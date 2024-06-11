@@ -15,7 +15,7 @@
       "name": "seda",
       "address": "sedavaloper1v2srqzaqku25pdndegz3flhez6umfehp92jjkz",
       "restake": {
-        "address": "seda1v2srqzaqku25pdndegz3flhez6umfehpwu2fdm",
+        "address": "seda1u9rtjramea2extgfjqcjce6mym0yu647at5c85",
         "run_time": "21:00",
         "minimum_reward": 100000000000000000
       }
@@ -24,25 +24,25 @@
       "name": "teritori",
       "address": "torivaloper1v2srqzaqku25pdndegz3flhez6umfehpl5j888",
       "restake": {
-        "address": "tori1v2srqzaqku25pdndegz3flhez6umfehp6x3c42",
+        "address": "tori1u9rtjramea2extgfjqcjce6mym0yu647f30fl9",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 1000000
       }
     },
     {
       "name": "passage",
-      "address": "pasgvaloper1v2srqzaqku25pdndegz3flhez6umfehpgk4rze",
+      "address": "pasgvaloper1pumeztwp8k3xgxawzf8pl3re2rtqpjexevn9wj",
       "restake": {
-        "address": "pasg1v2srqzaqku25pdndegz3flhez6umfehpm2ltr9",
+        "address": "pasg1u9rtjramea2extgfjqcjce6mym0yu647gap6f2",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
       "name": "kichain",
       "address": "kivaloper1v2srqzaqku25pdndegz3flhez6umfehpacerfs",
       "restake": {
-        "address": "ki1v2srqzaqku25pdndegz3flhez6umfehpflh72w",
+        "address": "ki1u9rtjramea2extgfjqcjce6mym0yu6476gf0qp",
         "run_time": "21:00",
         "minimum_reward": 10000
       }
@@ -51,18 +51,18 @@
       "name": "bitcanna",
       "address": "bcnavaloper1v2srqzaqku25pdndegz3flhez6umfehpml8suu",
       "restake": {
-        "address": "bcna1v2srqzaqku25pdndegz3flhez6umfehpzzksxg",
+        "address": "bcna1u9rtjramea2extgfjqcjce6mym0yu64734gpv8",
         "run_time": "21:00",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
       "name": "zetachain",
       "address": "zetavaloper1qr04v967746u2vl6vt4r08dsl0zqlqzu75sn6x",
       "restake": {
-        "address": "zeta1qr04v967746u2vl6vt4r08dsl0zqlqzu65g0hs",
+        "address": "zeta1hwwrjkt8w9twzv4fxpdf2n8x0ncnrx6yqdcl8f",
         "run_time": "21:00",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 100000000000000000
       }
     }
   ]

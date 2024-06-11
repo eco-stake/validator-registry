@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "comdex",
-      "address": "comdexvaloper1wusf6f0tm986erjewgnp0qyc7ezzxmc6h05knf",
-      "restake": {
-        "address": "comdex1w4du0y6705rqregfl6cktm7swds6t4ds64sryp",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "desmos",
       "address": "desmosvaloper14nfk5gm99gfrd7nwqtmtvzunzclz8720a6cqh7",
       "restake": {
@@ -61,15 +52,6 @@
       "address": "dymvaloper16eu7dmkxrtq5207tyudx8agnlu8k5qua7vqs4y",
       "restake": {
         "address": "dym100rlujehzj3t9yagsfk9mjx3r87dvtsfuzd72j",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1ufg2a3vc4vmsmxtjmckjzltqvz83ste98mr6x5",
-      "restake": {
-        "address": "evmos100rlujehzj3t9yagsfk9mjx3r87dvtsfv7sk45",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
@@ -197,15 +179,6 @@
       "restake": {
         "address": "sei1w4du0y6705rqregfl6cktm7swds6t4dsskrhmh",
         "run_time": "every 1 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "sentinel",
-      "address": "sentvaloper13ce8734a8vstdplk79dg4jemdsm8048t0hjplm",
-      "restake": {
-        "address": "sent1wxww8zvmgnsdq6npq5lh0a9erjyphh4end8ege",
-        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },

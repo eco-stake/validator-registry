@@ -35,7 +35,7 @@
           "11:29",
           "23:29"
         ],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -142,6 +142,18 @@
         "run_time": [
           "02:30",
           "14:30"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper16pj5gljqnqs0ajxakccfjhu05yczp9872r5360",
+      "restake": {
+        "address": "lava@1qa6ssu05nslkj2smaqcjx2x9fzanfkpfey75np",
+        "run_time": [
+          "05:22",
+          "17:22"
         ],
         "minimum_reward": 1000000
       }
