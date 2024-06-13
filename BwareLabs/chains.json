@@ -51,18 +51,6 @@
             }
         },
         {
-            "name": "umee",
-            "address": "umeevaloper14yth8x4a77q5rytxhv67e43p2hdzyguuwruls8",
-            "restake": {
-                "address": "umee12fxqz0vnh6vtpucsfzwfauamj6vpey2t24s0qm",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
-            }
-        },
-        {
             "name": "axelar",
             "address": "axelarvaloper1q2nyv5mwsu5r07x6djpgvm0jl9l9a5v88qllcd",
             "restake": {
@@ -72,18 +60,6 @@
                     "21:00"
                 ],
                 "minimum_reward": 1000000
-            }
-        },
-        {
-            "name": "evmos",
-            "address": "evmosvaloper1gyxqlahz6g9ws5cu0tk3gccgryzja7558f069r",
-            "restake": {
-                "address": "evmos155tmm6vh886lemp3ptxktl6ut2hrkldfahydcd",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000000000000000
             }
         },
         {
