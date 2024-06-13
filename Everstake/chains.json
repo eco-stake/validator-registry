@@ -23,16 +23,6 @@
         "run_time": "every 1 week",
         "minimum_reward": 100000
       }
-    },	
-	  
-    {
-      "name": "dydx",
-      "address": "dydxvaloper1dm25afltds6v8te6m2lt6p0t3m4ygah307p7qn",
-      "restake": {
-        "address": "dydx1g3laz9zpgy8x4k3gdkydf4umnepaug4w77fv04",
-        "run_time": "20:00",
-        "minimum_reward": 100000000000000000
-      }
     },	  
 	  
     {
@@ -61,7 +51,7 @@
       "restake": {
         "address": "inj186u3vpyt6zxvyk7a4yv7h7cggtnexn93q8n5gc",
         "run_time": "every 1 week",
-        "minimum_reward": 1000000000000000
+        "minimum_reward": 50000000000000000
       }
     },
 	  
@@ -76,21 +66,11 @@
     },
 	  
     {
-      "name": "tenet",
-      "address": "tenetvaloper1asx3h6xdz2hsksvlw0nte8gtl8xh9umstq7pef",
-      "restake": {
-        "address": "tenet186u3vpyt6zxvyk7a4yv7h7cggtnexn93hke366",
-        "run_time": "20:00",
-        "minimum_reward": 10000000000000000000
-      }
-    },
-	  
-    {
       "name": "stride",
       "address": "stridevaloper19nktvlnhd7j2tsyt97jyfnv3kdemx8cqx25ng7",
       "restake": {
         "address": "stride1g3laz9zpgy8x4k3gdkydf4umnepaug4w5v85mw",
-        "run_time": "20:00",
+        "run_time": "every 1 week",
         "minimum_reward": 10000
       }
     },
@@ -100,7 +80,7 @@
       "address": "seivaloper1ummny4p645xraxc4m7nphf7vxawfzt3p5hn47t",
       "restake": {
         "address": "sei1g3laz9zpgy8x4k3gdkydf4umnepaug4w6tk7fr",
-        "run_time": "20:00",
+        "run_time": "every 1 week",
         "minimum_reward": 100000
       }
     },
