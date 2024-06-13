@@ -3,6 +3,15 @@
     "name": "Apple juice",
     "chains": [
       {
+        "name": "evmos",
+        "address": "evmosvaloper1txjps3yasu4vk8wglwhsmfwgglsvn80v26mhyy",
+        "restake": {
+          "address": "evmos1a7aj3s6qe4c27rulj7rfhdqg3kyw33v74l87vx",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
         "name": "nibiru",
         "address": "nibivaloper1sw654jxseqtju3ujshwm2r0hk999uajz844lj5",
         "restake": {
