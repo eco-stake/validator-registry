@@ -105,6 +105,24 @@
       "name": "panacea",
       "address": "panaceavaloper17pjxnsuqjapa3mcwe45mr6e45ge8hhyl4yy4v4",
       "restake": {
+        "address": "panacea1nrmjsqphjhxzg45unzaksd3pfmhlhcqh3vkyuw",
+        "run_time": "21:00",
+        "minimum_reward": 100000000
+      }
+    },
+	{
+      "name": "shentu",
+      "address": "shentuvaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwv8puccu",
+      "restake": {
+        "address": "shentu1e58ke9qk8ygl7jtadugctfxqeltvqut3fwccgd",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "Teritori",
+      "address": "torivaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwv4ruzg6",
+      "restake": {
         "address": "",
         "run_time": "21:00",
         "minimum_reward": 100000000
