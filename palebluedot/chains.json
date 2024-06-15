@@ -123,7 +123,16 @@
       "name": "teritori",
       "address": "torivaloper1sjq3sxz55eqs4jfvmgaw4p5j5xzwwdwv4ruzg6",
       "restake": {
-        "address": "",
+        "address": "tori1e58ke9qk8ygl7jtadugctfxqeltvqut3rwtgpq",
+        "run_time": "21:00",
+        "minimum_reward": 100000000
+      }
+    },
+	{
+      "name": "Umee",
+      "address": "umeevaloper1mmqslm3xc7vlh254cw07369ps3tna6vh9amjss",
+      "restake": {
+        "address": "umee1e58ke9qk8ygl7jtadugctfxqeltvqut3nvp77z",
         "run_time": "21:00",
         "minimum_reward": 100000000
       }
