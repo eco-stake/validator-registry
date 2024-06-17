@@ -127,6 +127,24 @@
         "run_time": "21:00",
         "minimum_reward": 100000000
       }
+    },
+	{
+      "name": "Umee",
+      "address": "umeevaloper1mmqslm3xc7vlh254cw07369ps3tna6vh9amjss",
+      "restake": {
+        "address": "umee1e58ke9qk8ygl7jtadugctfxqeltvqut3nvp77z",
+        "run_time": "21:00",
+        "minimum_reward": 100000000
+      }
+    },
+	{
+      "name": "XPLA",
+      "address": "xplavaloper1e5gwkghrhf9w2e0v8d6veq54c7dsgae2fw6euw",
+      "restake": {
+        "address": "xpla1fa4w8dtfk3swhz4mnw4l37p2sgrkt258w7g2t7",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+      }
     }
   ]
 }
