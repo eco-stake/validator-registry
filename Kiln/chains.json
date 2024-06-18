@@ -55,6 +55,15 @@
         "run_time": "09:00",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1u9xeaqdjz3kky2ymdhdsn0ra5uy9tc3ep3yfhe",
+      "restake": {
+        "address": "zeta1ypnp8c69f9gxf90q4lxptftvqk5rusacqdlkh9",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
