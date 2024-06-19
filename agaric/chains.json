@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": ".agaric",
+  "name": "agaric",
   "chains": [
     {
         "name": "bitsong",
