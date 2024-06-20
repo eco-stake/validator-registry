@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": ".agaric",
+  "chains": [
+    {
+        "name": "bitsong",
+        "address": "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x",
+        "restake": {
+          "address": "bitsong1shheetj5xssp8pm5srfeaedd5ng5zm0kneavwd",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 5000000
+        }
+      }
+  ]
+}
