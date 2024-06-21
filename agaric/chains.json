@@ -7,7 +7,7 @@
       "address": "mantlevaloper197sjekwtktfrl5r6txrpwjf0px000ll3qtskjm",
       "restake": {
         "address": "mantle1z9j96enx2jyeappemaveetuc3en29dr3gsdqyq",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 1000000
       }
     },
@@ -31,9 +31,9 @@
     },
     {
       "name": "bitsong",
-        "address": "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x",
+        "address": "bitsongvaloper1cqj3wm5pcnz8dcjlgpj465ec83hvsgpc50c3le",
         "restake": {
-          "address": "bitsong1shheetj5xssp8pm5srfeaedd5ng5zm0kneavwd",
+          "address": "bitsong1zkkplxawys3c6e750achq0jek5nwxz6d58dzhp",
           "run_time": "every 15 minutes",
           "minimum_reward": 1000000
       }
