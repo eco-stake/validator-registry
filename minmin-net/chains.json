@@ -48,6 +48,15 @@
       }
     },
     {
+"name": "sge",
+      "address": "sgevaloper1kxyt0drc54w22s43a6rfqk6kuvqvdtgxgn4kw5",
+      "restake": {
+        "address": "sge1ad6hwttsftzsajnxvssp7jzzqzxe4p3ydu699w",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
 "name": "source",
       "address": "sourcevaloper1ptdr87ev232rst389qllf2dsu24jqvwp5uhgwt",
       "restake": {
