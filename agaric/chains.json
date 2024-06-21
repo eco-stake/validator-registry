@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "agaric",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper197sjekwtktfrl5r6txrpwjf0px000ll3qtskjm",
+      "restake": {
+        "address": "mantle1z9j96enx2jyeappemaveetuc3en29dr3gsdqyq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+     "name": "bitcanna",
+      "address": "bcnavaloper1c8l8dt2w2ehf5ffj9wef64jqegjhsp0ku3fq9t",
+      "restake": {
+        "address": "bcna1z9j96enx2jyeappemaveetuc3en29dr3vyxync",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1y8sw953hxdggp92g2zhwsv3ykq6l92fl7sczgs",
+      "restake": {
+        "address": "tori1z9j96enx2jyeappemaveetuc3en29dr35qpvq6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+        "address": "bitsongvaloper10fg3yklae97g8ueh5ut29mlwz8fdr6z8zrak6x",
+        "restake": {
+          "address": "bitsong1shheetj5xssp8pm5srfeaedd5ng5zm0kneavwd",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 1000000
+      }
+    }
+  ]
+}
