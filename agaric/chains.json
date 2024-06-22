@@ -11,6 +11,15 @@
         "minimum_reward": 1000000
       }
     },
+{
+      "name": "passage",
+      "address": "pasgvaloper1l2m7v75gnq782eg0hpt8annp95c46gftvyec3u",
+      "restake": {
+        "address": "pasg1z9j96enx2jyeappemaveetuc3en29dr34v0lk4",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+       }
+    },
     {
      "name": "bitcanna",
       "address": "bcnavaloper1c8l8dt2w2ehf5ffj9wef64jqegjhsp0ku3fq9t",
