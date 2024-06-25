@@ -100,6 +100,24 @@
         "run_time": "every 12 hours",
 
         "minimum_reward": 1000000
+      },
+      {
+      "name": "fetchhub",
+      "address": "fetchvaloper109yg6yhcyy5mfyteqmcn3pjca9nu9s39ch77en",
+      "restake": {
+        "address": "fetch1fzwyavdvpuyh93ylkfzgl5jjsjhakhnkkznj35",
+        "run_time": "every 12 hours",
+
+        "minimum_reward": 100000000000000000
+      },
+      {
+      "name": "zetachain",
+      "address": "zetavaloper19ge4myhgmcawn7ny8jrqvmc20czvkkjcw8wvh4",
+      "restake": {
+        "address": "zeta1j8kyeypk4wlpk49xmjdh45vfk5khfhp5p7ztl7",
+        "run_time": "every 12 hours",
+
+        "minimum_reward": 100000000000000000
       }
     }
   ]
