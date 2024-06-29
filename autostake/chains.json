@@ -107,7 +107,7 @@
       "restake": {
         "address": "comdex194ytn50yhh67rdha8akhs7c6zulnz4n2wctp45",
         "run_time": "every 10 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
