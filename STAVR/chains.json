@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "self",
+      "address": "selfvaloper15uzxtlq58j94axfncmfv8ctyn67srs6lcqs2mm",
+      "restake": {
+        "address": "self1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnx30mh6",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "sommelier",
       "address": "sommvaloper1fes322u0x7422ugc05xkxeav2zzd3kfgf898f4",
       "restake": {
