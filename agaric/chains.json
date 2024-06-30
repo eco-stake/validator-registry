@@ -20,13 +20,22 @@
         "minimum_reward": 1000000
        }
     },
+{
+      "name": "zetachain",
+      "address": "zetavaloper1rz9u8zv5xyv4crfyy7a9s7mghv9x2wx5a5eufr",
+      "restake": {
+        "address": "zeta1fw9gmkg498rqhqs2nc576qjy7s9z86xlaa4txk",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
     {
      "name": "bitcanna",
       "address": "bcnavaloper1c8l8dt2w2ehf5ffj9wef64jqegjhsp0ku3fq9t",
       "restake": {
         "address": "bcna1z9j96enx2jyeappemaveetuc3en29dr3vyxync",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000000
+        "minimum_reward": 7000000
       }
     },
     {
