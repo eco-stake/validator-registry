@@ -30,6 +30,20 @@
 			}
 		},
 		{
+			"name": "stargaze",
+			"address": "starsvaloper129rf2cltczhapja80mt48lezt2vzvh6zuz0ve4",
+			"restake": {
+				"address": "stars18e9px5aau6s22p2nrctjwapncj3y3em8shffj5",
+				"run_time": [
+					"04:00",
+					"10:00",
+					"16:00",
+					"22:00"
+				],
+				"minimum_reward": 1000
+			}
+		},
+		{
 			"name": "passage",
 			"address": "pasgvaloper1qc6z22dmzqy556d25us262g4vcg9sqtt0xh6ff",
 			"restake": {
