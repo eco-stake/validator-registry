@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "osmosis",
+      "address": "osmovaloper1h6pv6eymyf40w0xjuuacj3vnu9lxwq8u0nm7uj",
+      "restake": {
+        "address": "osmo1yd02c5usphmd88lcgkef53etgu7lyjh0nxv768",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "archway",
       "address": "archwayvaloper1hccgnft2asahy7hxrk4fx2y6nndk3rwre387zm",
       "restake": {
