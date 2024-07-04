@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ccdao.space",
+  "chains": [
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1mlul88erx8yrjm3frdpwysddrjqc5rstc9xag3",
+      "restake": {
+        "address": "cheqd1u26w0vqxqjakhvl8548fxhve6jfsumevxvwjkq",
+        "run_time": [
+          "16:00"
+          ],
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}
