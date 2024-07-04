@@ -3,7 +3,7 @@
   "name": "Decentrio",
   "chains": [
     {
-      "name": "Injective",
+      "name": "injective",
       "address": "injvaloper1mlsg82x0mnw88u2teg0kceautjktgcl08tqfs4",
       "restake": {
         "address": "inj16n80x7hrne66crhg36zcmlqd70gfyhcs6ard3v",
