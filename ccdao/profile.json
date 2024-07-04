@@ -1,0 +1,11 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "ccdao.space",
+  "identity": "3FE6B971262CC070",
+  "website": "https://ccdao.space",
+  "contacts": {
+    "email": "admin@ccdao.space",
+    "twitter": "@cCDAO_space",
+    "discord": "https://discord.gg/3CB4dseVRw"
+  }
+}
