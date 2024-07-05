@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "ccdao.space",
+  "name": "cCDAO validator node 🌟",
   "chains": [
     {
       "name": "cheqd",
