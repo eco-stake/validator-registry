@@ -35,7 +35,7 @@
       "restake": {
         "address": "cudos1p0mr7h222e7ljkcmuje8gz0ayv43u50qqqv2f3",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
