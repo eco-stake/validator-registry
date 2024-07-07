@@ -19,6 +19,15 @@
                 "run_time": "every 10 minutes",
                 "minimum_reward": 100000
             }
+        },
+        {
+          "name": "bandchain",
+          "address": "bandvaloper1sknmp6d6c7wykvncfv4l3rc55ys3y0z2kjgm5h",
+          "restake": {
+            "address": "band18lghe9s5yq9h0htzykga2zkgcygcf7vcyq28z7",
+            "run_time": "every 10 minutes",
+            "minimum_reward": 1000000
+          }
         }
     ]
 }
