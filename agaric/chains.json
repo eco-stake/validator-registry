@@ -20,6 +20,15 @@
         "minimum_reward": 5000000
        }
     },
+ {
+      "name": "sommelier",
+      "address": "sommvaloper1lec8mgdjnrry80qwq9upwcqk85446kdflkpt34",
+      "restake": {
+        "address": "somm1z9j96enx2jyeappemaveetuc3en29dr36gef2q",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
 {
       "name": "zetachain",
       "address": "zetavaloper1rz9u8zv5xyv4crfyy7a9s7mghv9x2wx5a5eufr",
