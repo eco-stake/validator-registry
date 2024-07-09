@@ -246,6 +246,15 @@
       }
     },     
     {
+      "name": "oraichain",
+      "address": "oraivaloper1rl9j9h8w7w5dy3mq8n4guy6wxl53nj2kqsfrne",
+      "restake": {
+        "address": "orai1tj0t93t6xjwe5dqptr62ej4pqvy2es0rxd7y7q",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },       
+    {
       "name": "panacea",
       "address": "panaceavaloper1567xwcxjjfdje4q8r4d76ek52xmsspr4t4fc89",
       "restake": {
