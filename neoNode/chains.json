@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Shido Neo Node",
+    "chains": [
+        {
+        "name": "shido",
+        "address": "shidovaloper1wftglqnx7c25sqnvp48f7tr426e2zvrcxs88qr",
+        "restake": {
+          "address": "shido1ng3u9q6l26nng4yhw5qzpj4aa43s46v2wx8gaj",
+          "run_time": "every 1 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }
