@@ -159,7 +159,7 @@
       "name": "chain4energy",
       "address": "c4evaloper1ctvfwlv9rrf7wrgzdunh8dlheh9d4t63r9xz22",
       "restake": {
-        "address": "c4e1eryru4nge3w3mdwv2h6mefsv679tem6mush42k",
+        "address": "c4e194ytn50yhh67rdha8akhs7c6zulnz4n220sw4a",
         "run_time": "every 5 minutes",
         "minimum_reward": 1
       }
