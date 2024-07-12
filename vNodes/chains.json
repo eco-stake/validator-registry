@@ -1,4 +1,4 @@
-    {
+{
   "$schema": "../chains.schema.json",  
   "name": "vNodes Validators",
     "chains": [
@@ -38,14 +38,20 @@
           "minimum_reward": 100000000
         }
       },
-              { 
-        "name": "elystestnet",
-        "address": "elysvaloper179as9jtzcz3mschvf5f3erf0pdag6a7pn4zk0z",
-        "restake": {
-          "address": "elys179as9jtzcz3mschvf5f3erf0pdag6a7pm4ftju",
-          "run_time": "every 1 hour",
-          "minimum_reward": 100000
+      {
+    "schema": "../../chains.schema.json",
+    "name": "vNodes[V]",
+    "chains": [
+        { 
+          "name": "elystestnet",
+          "address": "elysvaloper179as9jtzcz3mschvf5f3erf0pdag6a7pn4zk0z",
+          "restake": {
+              "address": "elys179as9jtzcz3mschvf5f3erf0pdag6a7pm4ftju",
+              "run_time": "every 1 hour",
+              "minimum_reward": 100000
+          }
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}
