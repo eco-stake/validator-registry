@@ -3,15 +3,6 @@
   "name": "Woelig Validators",
   "chains": [
     {
-      "name": "lambda",
-      "address": "lambvaloper1a6tn2al3l65hkf7kc3taapkx2mzru3yn02xwnu",
-      "restake": {
-        "address": "lamb1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8a2nx4h",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "echelon",
       "address": "echelonvaloper1tswl52qtws8lud7n8l09a7w2v5vcamzs26x9j3",
       "restake": {
@@ -27,15 +18,6 @@
         "address": "plq1slaaqufx2c26dxk0hy2ghvmsgd9ee8a804z5jf",
         "run_time": "every 1 minute",
         "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "vidulum",
-      "address": "vdlvaloper16xp908ggtnau0w7wzgmxtvxns845yflhp0eehu",
-      "restake": {
-        "address": "vdl1e762e7chsgz3aurtelcz948j8gscfr0q22js38",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
       }
     },
     {
@@ -268,6 +250,15 @@
       "address": "sifvaloper14yl88etgatwfvw68qluhw43yv22yhgfy79s8kp",
       "restake": {
         "address": "sif1e762e7chsgz3aurtelcz948j8gscfr0q2ndpn2",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "blockx",
+      "address": "blockxvaloper1j0gcdkkqs2jwvflzp95q63s8upjwhzd7d2qksd",
+      "restake": {
+        "address": "blockx1slaaqufx2c26dxk0hy2ghvmsgd9ee8a8l9nus0",
         "run_time": "every 1 minutes",
         "minimum_reward": 10000000000000000
       }
