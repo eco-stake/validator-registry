@@ -136,6 +136,24 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1vqpfry0lvs0m0sahkz5hh9cqd4zx576zu3a4ka",
+      "restake": {
+        "address": "sif1pchsyu3d8c0fezekqmh7ymkesv3gr0scv6uh4k",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "arkh",
+      "address": "arkhvaloper1jlycxh46g7z5x8c8n82dlpk3szhgkqx3qrq3qq",
+      "restake": {
+        "address": "arkh1pchsyu3d8c0fezekqmh7ymkesv3gr0sc9f0a5p",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
