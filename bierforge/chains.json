@@ -120,15 +120,6 @@
       }
     },
     {
-      "name": "lambda",
-      "address": "lambvaloper170tmtpz57pn22seq5z30zqzhycuflq8hctvh88",
-      "restake": {
-        "address": "lamb1ayttg2punr4v75hsjnt223x0xmp9fs64s3sv0q",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "beezee",
       "address": "bzevaloper10dcm7hqv9a5ajdjr9ctcu5pgg2969ag7qx0nyg",
       "restake": {
@@ -162,6 +153,15 @@
         "address": "nibi1pchsyu3d8c0fezekqmh7ymkesv3gr0sc7zhcnw",
         "run_time": "every 1 minute",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "blockx",
+      "address": "blockxvaloper1mn0jcdhhqsfn5vf2ekrxcf580pp7wl8qur474j",
+      "restake": {
+        "address": "blockx1ayttg2punr4v75hsjnt223x0xmp9fs64j7sk2c",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
       }
     }
   ]
