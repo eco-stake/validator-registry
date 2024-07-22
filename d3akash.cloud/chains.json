@@ -39,14 +39,16 @@
       }
     },      
     {
-      "name": "vidulum",
-      "address": "vdlvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mmx2x6s",
+      "name": "passage",
+      "address": "pasgvaloper19fezsaqahsp9ysjqjklghw3cj02lsnwkpfukuj",
       "restake": {
-        "address": "vdl1lqpe63lfy7qy8pwg7qrcxfagy6s0wwe6rymkxw",
-        "run_time": "09:00",
-        "minimum_reward": 1000000
-     }
-    },      
+        "address": "pasg1gvu0xvz0vut3xq07m87np9kns5y2pw5fyvvawj",
+        "run_time": [
+          "09:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "humans",
       "address": "humanvaloper1kamxjhapd8r5w8y5tlksk4an26u8m4g7jvqle6",
