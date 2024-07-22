@@ -125,7 +125,7 @@
       "restake": {
         "address": "dym17q3zwm3qfcfjs2pvp472tmqsae8n97pn8z7523",
         "run_time": "every 1 minutes",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -287,7 +287,7 @@
       "restake": {
         "address": "source1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn9ftefd",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -323,7 +323,7 @@
       "restake": {
         "address": "pica1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqncx3za5",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000
+        "minimum_reward": 1000000000000
       }
     },
     {
