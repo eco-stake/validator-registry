@@ -1,28 +1,41 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Interop",
   "chains": [
     {
-      "name": "lava",
-      "address": "lava@valoper1cqks7sdvw968jjd90knphf9aqscfx0uq6fk0em",
+      "name": "evmos",
+      "address": "evmosvaloper1wvgslxyxtg798cwsjj9epjcxxj8xqhj4a4pfzq",
       "restake": {
-        "address": "lava@1wnmy46k8u392z90jhpgznqgeauly6dqvp9reg2",
-        "run_time": [
-          "06:17",
-          "18:17"
-        ],
-        "minimum_reward": 1000000
+        "address": "evmos1jr8c0syzuhvx7cz6nr3qdgkr5wsk6drm7mw9cu",
+        "run_time": "10:00",
+        "minimum_reward": 500000000000000000
       }
     },
     {
-      "name": "passage",
-      "address": "pasgvaloper1cqks7sdvw968jjd90knphf9aqscfx0uqxuflqz",
+      "name": "juno",
+      "address": "junovaloper1u9xeaqdjz3kky2ymdhdsn0ra5uy9tc3e6685u6",
       "restake": {
-        "address": "pasg10jxattc283uslgkzm4rp9jvyesq3vjk8ngdjm8",
-        "run_time": [
-          "11:03",
-          "23:03"
-        ],
-        "minimum_reward": 1000000
+        "address": "juno1kvy6f35jt2hegljz7vj8u6sehadfpfr3q5dcu8",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper146mj09yzu3mvz7pmy4dvs4z9wr2mst7rq8p8gy",
+      "restake": {
+        "address": "osmo1kvy6f35jt2hegljz7vj8u6sehadfpfr37aandf",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1wr38atcruxqh4u49q998n065g2mhsrskl4et7n",
+      "restake": {
+        "address": "quick1kvy6f35jt2hegljz7vj8u6sehadfpfr3az73zf",
+        "run_time": "10:00",
+        "minimum_reward": 500000
       }
     }
   ]

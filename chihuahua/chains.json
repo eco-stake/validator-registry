@@ -1,16 +1,40 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "CHIHUAHUA",
+  "name": "Chihuahua",
   "chains": [
     {
-      "name": "oraichain",
-      "address": "oraivaloper1emrck0fzxqfhl68r0wqtddq5g6nx74f6xdpjs0",
+      "name": "osmosis",
+      "address": "osmovaloper15knxwwzq38lwe3e3rul8cpcew9n6u0gq7x38cj",
       "restake": {
-        "address": "orai139akm5xtqgsp7uxkcfjspm7cj420k8hxxcngdc",
-        "run_time": [
-          "00:10",
-          "12:10"
-        ],
+        "address": "osmo12q48j5xah5x5fwv2vuvc52j3ryfdq0lxvc545s",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1myyssc7g6hxsvq9qdtc25um8yacvx8e0v3cerg",
+      "restake": {
+        "address": "pasg12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8m7l0a",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1z6rfp8wzsx87pwt3z73gf2a67d6tgmfrsgzeda",
+      "restake": {
+        "address": "chihuahua12q48j5xah5x5fwv2vuvc52j3ryfdq0lx8k2trq",
+        "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper15y3t55ejgen5cfms49snu9jvkve45fma5ah998",
+      "restake": {
+        "address": "migaloo12q48j5xah5x5fwv2vuvc52j3ryfdq0lxfhwlhv",
+        "run_time": "12:00",
         "minimum_reward": 10000
       }
     }
