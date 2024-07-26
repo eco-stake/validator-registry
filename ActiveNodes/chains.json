@@ -29,15 +29,6 @@
         "minimum_reward": 1000000000
       }
     },
-        {
-      "name": "celestia",
-      "address": "celestiavaloper1t345w0vxnyyrf4eh43lpd3jl7z378rtsdn9tz3",
-      "restake": {
-        "address": "celestia1w4du0y6705rqregfl6cktm7swds6t4dsvsr38m",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
     {
       "name": "desmos",
       "address": "desmosvaloper14nfk5gm99gfrd7nwqtmtvzunzclz8720a6cqh7",
