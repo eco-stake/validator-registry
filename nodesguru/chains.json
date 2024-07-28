@@ -218,6 +218,14 @@
     {
       "name": "bouncebit",
       "address": "ethmvaloper1jurhq8uztc9h90esm0df269lgvzvd59h04gmql"
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper16c5ncz60n564f0ckm9y5rt5mjqc4hzvvew6wek"
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1jf8hal7smjsp0lpjuxu36erm2ksep7e5uvw4x6"
     }
   ]
 }
