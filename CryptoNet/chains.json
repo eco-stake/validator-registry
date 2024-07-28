@@ -30,15 +30,6 @@
       }
     },
     {
-      "name": "lambda",
-      "address": "lambvaloper1tvn94qr7jktmv79hc7mjplwwfxc2hpg00vjs00",
-      "restake": {
-        "address": "lamb1x8zysrq0jw6vq87h207ecv2m3yguv9rfj7wxzd",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "lumnetwork",
       "address": "lumvaloper1hhuc45gymxlrm25z7xgcehvaqjpat2r0hlyh8k",
       "restake": {
@@ -165,15 +156,6 @@
       }
     },
     {
-      "name": "vidulum",
-      "address": "vdlvaloper1f663f9ac0dzgxatrmk8wyf5yhzwrmpz3nqpjg4",
-      "restake": {
-        "address": "vdl174v2rawlqvyytv93nv0c2ww64p2y4ru8rwasyd",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "meme",
       "address": "memevaloper1kz4lzrxgy489wsxvfy3ecf3kv3fuvp8upg66jw",
       "restake": {
@@ -205,6 +187,15 @@
       "address": "gitopiavaloper1a0wc7n39yuy40r48fe02akce4cc96uvmn94jsy",
       "restake": {
         "address": "gitopia1zz3wp5t24ej534nz5g7lxdazekx0aaek3k45tl",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper1kh8aqhy07e8c8fd7x8zcz79gy3mfh986m6x6eq",
+      "restake": {
+        "address": "bze1zz3wp5t24ej534nz5g7lxdazekx0aaekj27gkt",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
