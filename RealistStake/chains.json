@@ -7,8 +7,8 @@
       "address": "humanvaloper18emrcfnq4x8342zhx763rkamme9q3ef9xykz0r",
       "restake": {
         "address": "human1dtykg2uafksjts82hqmr23jt2yyhxpnxns2uaz",
-        "run_time": "every 1 minutes",
-        "minimum_reward": 100000000000000000
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
       }
     }
    ]
