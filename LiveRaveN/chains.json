@@ -91,7 +91,7 @@
 			  "run_time": ["every 1 hour"],
 			  "minimum_reward": 1000000
 			}
-		}
+		},
 		{
 			"name": "andromeda",
 			"address": "andrvaloper18gmvjaw4shpucrsts6m6q44mvaakay4efug025",
