@@ -92,5 +92,14 @@
 			  "minimum_reward": 1000000
 			}
 		}
+		{
+			"name": "andromeda",
+			"address": "andrvaloper18gmvjaw4shpucrsts6m6q44mvaakay4efug025",
+			"restake": {
+			  "address": "andr1g4uu3cs69x2rn4uyxhw6a02pptspyt6c9eszja",
+			  "run_time": ["every 1 hour"],
+			  "minimum_reward": 1000000
+			}
+		}
 	]
 }
