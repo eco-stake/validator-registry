@@ -254,6 +254,15 @@
         "run_time": "12:00",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1jjmqzdm94pldrgldglgjye8c87v6hqy2elkgxg",
+      "restake": {
+        "address": "lava@1hcgxjhvv43g9z6dc58g428jgc8hdlmf7vh0s90",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
