@@ -1,0 +1,26 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "BabyScope",
+    "chains": [
+      
+      {
+        "name": "lava",
+        "address": "lava@valoper18rtt3ka0jc85qvvcnct0t7ayq6fva7697l737q",
+        "restake": {
+          "address": "lava@16ndf65w9z8870skqjnvvjhc0e8sqawemqh738r",
+          "run_time": "every 1 minute",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1jjukyfxfusatfjpx99cekxyvms95ergafme8l0",
+        "restake": {
+          "address": "evmos1mqcydh45ncrcvudp504yc992f5gqwzc5edr6ye",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }
+  
