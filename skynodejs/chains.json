@@ -39,6 +39,15 @@
         }
       },
       {
+        "name": "lava",
+        "address": "lava@valoper1th6g4q63ee0x3wr5tctrxsh3lugj2up6xxqwcv",
+        "restake": {
+          "address": "lava@1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lz4qnvy",
+          "run_time": "every 15 minute",
+          "minimum_reward": 100000
+        }
+      },
+      {
         "name": "kujira",
         "address": "kujiravaloper1th6g4q63ee0x3wr5tctrxsh3lugj2up6u2a8un",
         "restake": {
