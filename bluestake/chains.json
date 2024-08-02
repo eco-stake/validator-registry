@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "lava",
+      "address": "lava@valoper15duy3pdwwj32767vu8qqu7s4vx330tnf3as5qn",
+      "restake": {
+        "address": "lava@1m5hgzum68rjf4c7zhezgkj8hlnmr0kghwevwda",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "odin",
       "address": "odinvaloper1agc625vf57femlvg7aupvuje8v73swlmv6watw",
       "restake": {
