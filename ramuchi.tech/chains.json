@@ -4,9 +4,9 @@
   "chains": [
     {
       "name": "gravitybridge",
-      "address": "gravityvaloper1vf9f5sjy3m5yzx39nxk6xaagl3yq6wu0gj800k",
+      "address": "gravityvaloper1e7z58fe9e8q97wwyr8vu4ax6z89qhg0c0zv72r",
       "restake": {
-        "address": "gravity1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpdmvv46",
+        "address": "gravity1e7z58fe9e8q97wwyr8vu4ax6z89qhg0c7f4qqh",
         "run_time": "every 10 minutes",
         "minimum_reward": 1000000
       }
