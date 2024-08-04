@@ -56,6 +56,15 @@
         "minimum_reward": 5000000
       }
     },
+{
+      "name": "kujira",
+      "address": "kujiravaloper1lec8mgdjnrry80qwq9upwcqk85446kdfsf33k4",
+      "restake": {
+        "address": "kujira1z9j96enx2jyeappemaveetuc3en29dr38u5akq",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
     {
       "name": "bitsong",
         "address": "bitsongvaloper1cqj3wm5pcnz8dcjlgpj465ec83hvsgpc50c3le",
