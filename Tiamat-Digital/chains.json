@@ -1,4 +1,8 @@
 {
+  "$schema": "../chains.schema.json",
+  "name": "Tiamat Digital",
+  "chains": [
+{
       "name": "terra",
       "address": "terravaloper1np88utwhjupaepqsaarhqqg4vgl8gul7lppzjt",
       "restake": {
