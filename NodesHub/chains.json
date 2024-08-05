@@ -129,6 +129,24 @@
         "minimum_reward": 100000
       }	  
     },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper1375akla6alr790je24fswxs6mg6hc2ewvfsnwf",
+      "restake": {
+        "address": "dh144gg9k9jywjc3k7m444jqyw88prt5h2pphewne",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 10000000
+      }	  
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1sqq6h3krhuj24m45n5m7l3m8r2fgzuv4eep69p",
+      "restake": {
+        "address": "self1765r3rvgpj2fugjru8gr4s7yp26vdmz2xxv7ue",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 1000000
+      }	  
+    },	  
 		{
       "name": "firmachain",
       "address": "firmavaloper1hq5rh4p2whhx7ctjn6gjdz3kx9tfzcw2kkt79c",
