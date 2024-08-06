@@ -66,6 +66,15 @@
         }
     },
     {
+      "name": "routerchain",
+      "address": "routervaloper1z2vzapsu829r2pm0n2p9fr7hm7mc6k5z52peqg",
+      "restake": {
+        "address": "router1ggzpjmk46lv4ulng7p04k98mg038xk96h0zsxp",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000000000000000
+        }
+    },
+    {
       "name": "seda",
       "address": "seda19tzqk0kp67mx4wcedvmefhvk9r2xcxudhrpvrf",
       "restake": {
