@@ -55,6 +55,15 @@
 				"run_time": ["every 1 hour"],
 				"minimum_reward": 1000000
 			}
+		},
+		{
+			"name": "self",
+			"address": "selfvaloper1j6xy048dgx0cyplqgpqxsyu9e7u8pjms3qdjt7",
+			"restake": {
+				"address": "self1ytd099sqjsqsxvhh72hykwjh2vrqse2mcfw3yd",
+				"run_time": ["every 1 hour"],
+				"minimum_reward": 1000000
+			}
 		}
 	]
 }
