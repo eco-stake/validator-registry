@@ -3,6 +3,18 @@
   "name": "AVIAONE.com 🟢",
   "chains": [
     {	
+	  "name": "band",
+      "address": "bandvaloper1yeeh6rjec2qa8hczh46cl6zy8s7mvzx996qp5s",
+      "restake": {
+        "address": "band18juyrp5sh02kdfseaxkdn8yanzahrf7cpsqktc",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {	
 	  "name": "lava",
       "address": "lava@valoper1hdg2exumzju4uazc8yfznz99qnr5z4u73whhdk",
       "restake": {
