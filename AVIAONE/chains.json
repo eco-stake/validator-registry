@@ -3,7 +3,19 @@
   "name": "AVIAONE.com 🟢",
   "chains": [
     {	
-	  "name": "band",
+	  "name": "chihuahua",
+      "address": "chihuahuavaloper10g6q3pcjv30tnv5p9jg87yl6kgkncvdf9kmrfl",
+      "restake": {
+        "address": "chihuahua1sdtursdqgmlmlchhyywldrvfyry006jwm5zh4u",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000
+      }
+    },	  
+    {	
+	  "name": "bandchain",
       "address": "bandvaloper1yeeh6rjec2qa8hczh46cl6zy8s7mvzx996qp5s",
       "restake": {
         "address": "band1ms9ym23w6vcpgmx53l8mzcdr2p9shpy4axkwyg",
