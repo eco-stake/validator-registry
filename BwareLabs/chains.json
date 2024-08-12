@@ -3,30 +3,6 @@
     "name": "BwareLabs",
     "chains": [
         {
-            "name": "uptick",
-            "address": "uptickvaloper1vt5zgzp4e0pq59rapf0tf5xk5pvesvxwyndfex",
-            "restake": {
-                "address": "uptick155tmm6vh886lemp3ptxktl6ut2hrkldfvsfcm5",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000000000000000
-            }
-        },
-        {
-            "name": "nolus",
-            "address": "nolusvaloper1tvm8g9wmqvg369mufan8vaen0ua7s98x8wntdd",
-            "restake": {
-                "address": "nolus12fxqz0vnh6vtpucsfzwfauamj6vpey2twna0xv",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
-            }
-        },
-        {
             "name": "xpla",
             "address": "xplavaloper1dm0ccjtqv3spagv83h4d7nxm7pjzalmgsfe325",
             "restake": {
@@ -39,46 +15,10 @@
             }
         },
         {
-            "name": "persistence",
-            "address": "persistencevaloper1ez85xahtyprpkgw3lh0neprqlu0ws6xuegufkr",
-            "restake": {
-                "address": "persistence12fxqz0vnh6vtpucsfzwfauamj6vpey2tk0tr2d",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
-            }
-        },
-        {
             "name": "axelar",
             "address": "axelarvaloper1q2nyv5mwsu5r07x6djpgvm0jl9l9a5v88qllcd",
             "restake": {
                 "address": "axelar12fxqz0vnh6vtpucsfzwfauamj6vpey2tudmc0g",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
-            }
-        },
-        {
-            "name": "agoric",
-            "address": "agoricvaloper1gu9eh79ushxrq4c99jp4pkdd3x2glgmmml3dz5",
-            "restake": {
-                "address": "agoric1kfyknp4ch24qzw4c2l4e2p4dwm0fcmxqkartnv",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
-            }
-        },
-        {
-            "name": "aura",
-            "address": "auravaloper18xn0q75w7war9y9ryfe9wclglysumnukzwttvd",
-            "restake": {
-                "address": "aura12fxqz0vnh6vtpucsfzwfauamj6vpey2tr46jxs",
                 "run_time": [
                     "09:00",
                     "21:00"
@@ -111,18 +51,6 @@
             }
         },
         {
-            "name": "archway",
-            "address": "archwayvaloper1tunvmmw4v6nedchg3w355k9swt00ld0k0cp3zh",
-            "restake": {
-                "address": "archway12fxqz0vnh6vtpucsfzwfauamj6vpey2tdg35w7",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000000000000000
-            }
-        },
-        {
             "name": "dymension",
             "address": "dymvaloper1eq8un3tcrhd85s39jlc734epqc2euzvzewuzg3",
             "restake": {
@@ -132,42 +60,6 @@
                     "21:00"
                 ],
                 "minimum_reward": 1000000000000000000
-            }
-        },
-        {
-            "name": "haqq",
-            "address": "haqqvaloper128fmtp0swncy2v7vfzyh5p48fv5d07esupf9kd",
-            "restake": {
-                "address": "haqq155tmm6vh886lemp3ptxktl6ut2hrkldfa3qsun",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000000000000000
-            }
-        },
-        {
-            "name": "humans",
-            "address": "humanvaloper1dp7xw0jtwum4vmxw4e2nt43sqw03w3chs7h8dj",
-            "restake": {
-                "address": "human155tmm6vh886lemp3ptxktl6ut2hrkldfaemde6",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000000000000000
-            }
-        },
-        {
-            "name": "nibiru",
-            "address": "nibivaloper1pcmenc2my46uq7esscaav230x97j4alzzpecsu",
-            "restake": {
-                "address": "nibi12fxqz0vnh6vtpucsfzwfauamj6vpey2t0xffd6",
-                "run_time": [
-                    "09:00",
-                    "21:00"
-                ],
-                "minimum_reward": 1000000
             }
         }
     ]
