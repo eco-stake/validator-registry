@@ -301,6 +301,17 @@
       }
     },
     {
+      "name": "lava",
+      "address": "lava@valoper140l6y2gp3gxvay6qtn70re7z2s0gn57zqglxnm",
+      "restake": {
+        "address": "lava@12xpq68caw2aqdu70jm4k792g0v9prhrpcm3p84",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxy87g3",
       "restake": {
