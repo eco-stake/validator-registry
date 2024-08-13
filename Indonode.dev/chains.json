@@ -57,7 +57,6 @@
       }
     },
     {
-    {
       "name": "shido",
       "address": "shidovaloper145xez3t96wz9st98vhzrexjaumydvkyq0tp2gy",
       "restake": {
@@ -73,7 +72,8 @@
         "address": "c4e140fe54nq7yn9ll3lk02zk9nfwxr6338fgqq8ua",
         "run_time": "21:00",
         "minimum_reward": 1000000
-      },
+      }
+    },
       {
       "name": "self",
       "address": "self1pz7mrvat8mzu2h3rqadjmzhf5fu0tluzu8vl23",
