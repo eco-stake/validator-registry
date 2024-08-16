@@ -2,7 +2,7 @@
   "$schema": "../chains.schema.json",
   "name": "AVIAONE.com 🟢",
   "chains": [
-    {	
+    {
 	  "name": "chihuahua",
       "address": "chihuahuavaloper10g6q3pcjv30tnv5p9jg87yl6kgkncvdf9kmrfl",
       "restake": {
@@ -14,7 +14,7 @@
         "minimum_reward": 100000000
       }
     },	  
-    {	
+    {
 	  "name": "bandchain",
       "address": "bandvaloper1yeeh6rjec2qa8hczh46cl6zy8s7mvzx996qp5s",
       "restake": {

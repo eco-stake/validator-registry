@@ -3,6 +3,15 @@
   "name": "agaric",
   "chains": [
     {
+      "name": "agoric",
+      "address": "agoricvaloper1en32lzlkpw3krgjw5p3vavrqhdnw5dhjclh6ks",
+      "restake": {
+        "address": "agoric1zszk3wp9r802x63jgx25rh3c62rmyzgj92422h",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper197sjekwtktfrl5r6txrpwjf0px000ll3qtskjm",
       "restake": {
