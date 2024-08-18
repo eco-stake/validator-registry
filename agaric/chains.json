@@ -20,15 +20,6 @@
         "minimum_reward": 5000000
       }
     },
-{
-      "name": "passage",
-      "address": "pasgvaloper1l2m7v75gnq782eg0hpt8annp95c46gftvyec3u",
-      "restake": {
-        "address": "pasg1z9j96enx2jyeappemaveetuc3en29dr34v0lk4",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 5000000
-       }
-    },
  {
       "name": "sommelier",
       "address": "sommvaloper1lec8mgdjnrry80qwq9upwcqk85446kdflkpt34",
