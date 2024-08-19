@@ -6,7 +6,7 @@
       "name": "agoric",
       "address": "agoricvaloper1kh8nwuee2y353u6nmv8jffpvhtzs7xu8f4klam",
       "restake": {
-        "address": "agoric1kh8nwuee2y353u6nmv8jffpvhtzs7xu8ed9kp6",
+        "address": "agoric148kutx4cag3js995cesc0rpuwpe85hq7zk5ry3",
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
@@ -42,7 +42,7 @@
       "name": "persistence",
       "address": "persistencevaloper1pdse5rr5njkkka6qeu5m8u704h6z67w5r700vn",
       "restake": {
-        "address": "persistence1atgss2zpwl9m8fmm32gzrkjtqw3tdawguqw6tk",
+        "address": "persistence1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr93xq4c3",
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
