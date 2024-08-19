@@ -107,14 +107,14 @@
       "restake": {
         "address": "archway1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr92p6zuz",
         "run_time": "20:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
       "name": "sommelier",
       "address": "sommvaloper1cgdlryczzgrk7d4kkeawqg7t6ldz4x84yu305c",
       "restake": {
-        "address": "somm1cgdlryczzgrk7d4kkeawqg7t6ldz4x843zljnh",
+        "address": "somm1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9nkf28l",
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
@@ -123,7 +123,7 @@
       "name": "saga",
       "address": "sagavaloper1qpsluy5pgjt84jl4yf83e6kz02npgynwsqslj9",
       "restake": {
-        "address": "saga1qpsluy5pgjt84jl4yf83e6kz02npgynw7txuc5",
+        "address": "saga1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9pel53n",
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
