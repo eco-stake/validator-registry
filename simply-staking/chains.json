@@ -123,7 +123,7 @@
       "name": "saga",
       "address": "sagavaloper1qpsluy5pgjt84jl4yf83e6kz02npgynwsqslj9",
       "restake": {
-        "address": "saga1qpsluy5pgjt84jl4yf83e6kz02npgynw7txuc5",
+        "address": "saga1vqhz5g5sq8ku0ka5x9ygal9flkg5vzr9pel53n",
         "run_time": "20:00",
         "minimum_reward": 1000000
       }
