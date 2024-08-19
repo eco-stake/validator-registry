@@ -340,7 +340,7 @@
       "address": "osmovaloper1pxphtfhqnx9ny27d53z4052e3r76e7qq495ehm",
       "restake": {
         "address": "osmo194ytn50yhh67rdha8akhs7c6zulnz4n2pv6n63",
-        "run_time": "every 15 minutes",
+        "run_time": "every 10 minutes",
         "minimum_reward": 10000
       }
     },
