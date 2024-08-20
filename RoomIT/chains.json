@@ -55,6 +55,15 @@
          "run_time": "every 1 day",
          "minimum_reward": 1000000
           }
+    },
+    {
+      "name": "entangle",
+      "address": "entvaloper1yxhagvehavfjwtaar8a25vxwp349fauzsekyxn",
+      "restake": {
+         "address": "ethm1c898dvtfaucu2dxtz6nu4hj7qgxdsutjyj7k5e",
+         "run_time": "every 1 day",
+         "minimum_reward": 1000000
+          }
     }
   ]
 }
