@@ -39,13 +39,13 @@
           }
     },
     {
-      "name": "band",
+      "name": "bandchain",
       "address": "bandvaloper13tf84rkc9yflru6kty4xj8jtkuzl6fd66f3q3z",
       "restake": {
          "address": "band18nlqt4xxctalfctejyund4jujyd4v4e6vu9qkt",
          "run_time": "every 1 day",
          "minimum_reward": 1000000
-          }
+      }
     },
     {
       "name": "gitopia",
