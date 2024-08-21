@@ -280,6 +280,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "chain4energy",
+      "address": "c4evaloper1tjezjmxj6pp35c3v3z2myafjrxhl9a5m4sa29h",
+      "restake": {
+        "address": "c4e1dwjupkx24f7dspufy9fhp5dww3pv7yqd7u38zt",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
