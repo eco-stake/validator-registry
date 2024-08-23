@@ -285,7 +285,16 @@
       "name": "chain4energy",
       "address": "c4evaloper1tjezjmxj6pp35c3v3z2myafjrxhl9a5m4sa29h",
       "restake": {
-        "address": "c4e1dwjupkx24f7dspufy9fhp5dww3pv7yqd7u38zt",
+        "address": "c4e1e762e7chsgz3aurtelcz948j8gscfr0qvkm69l",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1q4r8agl75l8tsujwtw8xwgjl2gkesvp09jkhf0",
+      "restake": {
+        "address": "firma18rm97jcf5752w5zm888t0pwphay7esqhup74wh",
         "run_time": "every 1 minutes",
         "minimum_reward": 10000
       }
