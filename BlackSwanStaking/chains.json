@@ -6,7 +6,7 @@
 		"address": "syntvaloper1ahe4pan4f4ekgdpgs25yhtvx7meu226zt8vl8u",
 		"restake": {
 			"address": "synt1fn5zcx98dn586xr9l3dv0zlkau500ten8snrz2",
-			"run_time": "02:00,10:00,18:00",
+			"run_time": ["02:00","10:00","18:00"],
 			"minimum_reward": 1000000
 		}
 	}]
