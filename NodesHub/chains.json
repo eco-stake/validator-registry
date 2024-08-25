@@ -112,6 +112,15 @@
       }
 },
     {
+      "name": "router",
+      "address": "routervaloper1rsysmjf5hesypyzrdre25j450r474rx60hplue",
+      "restake": {
+        "address": "router1ltv0z3033yrpc23s2mtkswjx98h0pckh3tfnwn",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},	  
+    {
       "name": "furya",
       "address": "furyavaloper1yasjpwlug8355auvle465lp3k3y0yhuuc7ymvl",
       "restake": {
