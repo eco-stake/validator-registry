@@ -112,7 +112,7 @@
       }
 },
     {
-      "name": "router",
+      "name": "routerchain",
       "address": "routervaloper1rsysmjf5hesypyzrdre25j450r474rx60hplue",
       "restake": {
         "address": "router1ltv0z3033yrpc23s2mtkswjx98h0pckh3tfnwn",
