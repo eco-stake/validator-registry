@@ -48,15 +48,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper1aep37tvd5yh4ydeya2a88g2tkjz6f2lcrfjumh",
-      "restake": {
-        "address": "evmos1ksh2uvrvq7gftgdc8jd2n67pcwcztdxupe9y4u",
-        "run_time": "every 1 hour",
-        "minimum_reward": 40000000000
-      }
-    },
-    {
       "name": "fetchhub",
       "address": "fetchvaloper1a7l5xar7vyymvahfelar6vtkdar5x9a54l7zvc",
       "restake": {
@@ -418,6 +409,33 @@
         "address": "seda1v9vae554q55xa4pcfdm0p3kv8nxn50jkvzt2wg",
         "run_time": "every 1 day",
         "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1gaa80v5gm8kcfwqx6kje39mr9uffr5dssgvw3q",
+      "restake": {
+        "address": "lava@1v9vae554q55xa4pcfdm0p3kv8nxn50jkz5sh2y",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "routerchain",
+      "address": "routervaloper19kd04f7sp6k0jpsy9myuf2ncfxqym3mw8j7lm5",
+      "restake": {
+        "address": "router1ksh2uvrvq7gftgdc8jd2n67pcwcztdxukr4jsy",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1ejf2yrxupungnjlxnmq9tyfxyqakn43mxrv65s",
+      "restake": {
+        "address": "self1v9vae554q55xa4pcfdm0p3kv8nxn50jkl86wrq",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
       }
     },
     {
