@@ -298,6 +298,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "joltify",
+      "address": "joltvaloper1gnwlyhxsxzj0gdkxeyew9c07dznzqp3kaszaj6",
+      "restake": {
+        "address": "jolt1e762e7chsgz3aurtelcz948j8gscfr0q9wlt0g",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
