@@ -41,9 +41,9 @@
 },
     {
       "name": "fxcore",
-      "address": "fxvaloper1wqvsqhd5xxp02f0m4vnwftfg2ppmupnknmykht",
+      "address": "fxvaloper1wrz0a4plew74cxz50c8ggec082mtdw7mpl2k4r",
       "restake": {
-        "address": "fx1mgukftytaqvwew57qvqz8yv380vhh8zsz984uz",
+        "address": "fx1ltv0z3033yrpc23s2mtkswjx98h0pckh7qe7uj",
         "run_time": "every 1 day",
         "minimum_reward": 1000000
       }
