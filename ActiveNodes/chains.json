@@ -21,24 +21,6 @@
       }
     },
     {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper16epwpkwh37u9ma9yjwd0kglvsq9u5saxffzcuc",
-      "restake": {
-        "address": "chihuahua1w4du0y6705rqregfl6cktm7swds6t4ds70l0u5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000
-      }
-    },
-    {
-      "name": "desmos",
-      "address": "desmosvaloper14nfk5gm99gfrd7nwqtmtvzunzclz8720a6cqh7",
-      "restake": {
-        "address": "desmos10k8cylaqmmdy4pyf3jzjm6vt2c52pv6hncm5cv",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "dymension",
       "address": "dymvaloper16eu7dmkxrtq5207tyudx8agnlu8k5qua7vqs4y",
       "restake": {
@@ -79,15 +61,6 @@
       "address": "ixovaloper1c6nw58dd8ur9kt9k4fh8u64ea4892sg28mxkmu",
       "restake": {
         "address": "ixo1w4du0y6705rqregfl6cktm7swds6t4dsz0vne9",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "juno",
-      "address": "junovaloper189nl8q7rm4ks2t2l7qwe7j49w7sagw4y8uk2nd",
-      "restake": {
-        "address": "juno1w4du0y6705rqregfl6cktm7swds6t4dstg3662",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
