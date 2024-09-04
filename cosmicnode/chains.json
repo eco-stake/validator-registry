@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "seda",
-      "address": "sedavaloper1v2srqzaqku25pdndegz3flhez6umfehp92jjkz",
-      "restake": {
-        "address": "seda1u9rtjramea2extgfjqcjce6mym0yu647at5c85",
-        "run_time": "21:00",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "teritori",
       "address": "torivaloper1v2srqzaqku25pdndegz3flhez6umfehpl5j888",
       "restake": {
@@ -49,7 +40,7 @@
     },      
     {
       "name": "bitcanna",
-      "address": "bcnavaloper1v2srqzaqku25pdndegz3flhez6umfehpml8suu",
+      "address": "bcnavaloper1pumeztwp8k3xgxawzf8pl3re2rtqpjex29pksh",
       "restake": {
         "address": "bcna1u9rtjramea2extgfjqcjce6mym0yu64734gpv8",
         "run_time": "21:00",
