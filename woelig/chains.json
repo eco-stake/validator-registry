@@ -307,6 +307,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1swcu3p5zdwatlllxv68vsgrrfe66wuv2540v2f",
+      "restake": {
+        "address": "realio1slaaqufx2c26dxk0hy2ghvmsgd9ee8a80ckzgq",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000000000000
+      }
     }
   ]
 }
