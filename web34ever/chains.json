@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "shentu",
+      "address": "shentuvaloper1036rphfnyw49fzm5ajfud743j2qutlk9v8lgp2",
+      "restake": {
+        "address": "shentu1wswx53yjqla26jls2fsh099jdrpuw5ytyn9rj6",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy",
+      "restake": {
+        "address": "mantle1wswx53yjqla26jls2fsh099jdrpuw5ytjr6lld",
+        "run_time": "10:10",
+        "minimum_reward": 100000000
+      }
+    },
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y",
       "restake": {
@@ -35,7 +53,7 @@
       "restake": {
         "address": "bostrom1wswx53yjqla26jls2fsh099jdrpuw5yt054f7q",
         "run_time": "10:10",
-        "minimum_reward": 1000000000000
+        "minimum_reward": 10000000000000
       }
     },
     },
@@ -55,15 +73,6 @@
         "address": "tori1wswx53yjqla26jls2fsh099jdrpuw5ytwnknmh",
         "run_time": "10:10",
         "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "rebus",
-      "address": "rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu",
-      "restake": {
-        "address": "rebus19cllf5zpvskdxeru9jg38t99mjgp82y570dxh0",
-        "run_time": "10:10",
-        "minimum_reward": 10000000000000000000
       }
     },
     {
