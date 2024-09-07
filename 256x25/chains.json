@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Apple juice",
+    "name": "256x25",
     "chains": [
       {
         "name": "nibiru",
