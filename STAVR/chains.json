@@ -107,7 +107,7 @@
       "restake": {
         "address": "chihuahua1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnq0lfc3",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 100000000
       }
     },
     {
@@ -386,7 +386,7 @@
       "restake": {
         "address": "umee1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqn3v0cap",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -449,7 +449,7 @@
       "restake": {
         "address": "nois1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnjj0d4t",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -458,7 +458,7 @@
       "restake": {
         "address": "meme1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqna9ys7e",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -575,7 +575,7 @@
       "restake": {
         "address": "tori1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnpw9wzr",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     }
   ]
