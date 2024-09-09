@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "celestia",
+      "address": "celestiavaloper1csc30u6mpe7fq0m468jh7d4afk83rmsujtafgh",
+      "restake": {
+        "address": "celestia1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnjsrhr7",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "self",
       "address": "selfvaloper15uzxtlq58j94axfncmfv8ctyn67srs6lcqs2mm",
       "restake": {
