@@ -44,7 +44,7 @@
       "restake": {
         "address": "cosmos1lguc9c63hgxyd2a3vr5l5p5924u9ua3guyewfl",
         "run_time": "every 1 hour",
-        "minimum_reward": 50000
+        "minimum_reward": 100000
       }
     },
     {
@@ -71,7 +71,7 @@
       "restake": {
         "address": "juno1lguc9c63hgxyd2a3vr5l5p5924u9ua3g2k64wr",
         "run_time": "every 1 hour",
-        "minimum_reward": 50000
+        "minimum_reward": 100000
       }
     },
     {
