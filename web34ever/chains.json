@@ -53,7 +53,7 @@
       "restake": {
         "address": "bostrom1wswx53yjqla26jls2fsh099jdrpuw5yt054f7q",
         "run_time": "10:10",
-        "minimum_reward": 10000000000000
+        "minimum_reward": 1000000000
       }
     },
     {
