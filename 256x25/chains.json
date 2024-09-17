@@ -20,15 +20,6 @@
           "minimum_reward": 100000000
         }
       },
-      {
-        "name": "planq",
-        "address": "plqvaloper1ce3ph94mxpyqznyf65der8wx7g26x3q9c9qsrd",
-        "restake": {
-          "address": "plq1a7aj3s6qe4c27rulj7rfhdqg3kyw33v77xxvsa",
-          "run_time": "every 5 minutes",
-          "minimum_reward": 1000000000000000000
-        }
-      },
         {
         "name": "shido",
         "address": "shidovaloper1nq2sk5rlzunju00uv5nhagpw48awwrnqmd504n",
@@ -48,12 +39,12 @@
         }
       },
         {
-        "name": "comdex",
-        "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
+        "name": "firmachain",
+        "address": "firmavaloper1gaxuw2c0pzy7hprzryudqp9852h3x5f7celpzt",
         "restake": {
-          "address": "comdex1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nwc5924",
+          "address": "firma106xajw7d8u7vdhhwchtx6pak3nhhz5veu9duyq",
           "run_time": "every 5 minutes",
-          "minimum_reward": 1000000
+          "minimum_reward": 100000
         }
       },
         {
