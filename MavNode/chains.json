@@ -9,6 +9,22 @@
           "address": "shido1jfgkd490nk3007pmhfe4mk56f29xfqh09jfsup",
           "run_time": "every 1 minute",
           "minimum_reward": 100000000000000000
+        },
+        {
+        "name": "firmachain",
+        "address": "firmavaloper1xp3f2dt6g7cwlvt8k69j7mfflftuzetvjn4xh8",
+        "restake": {
+          "address": "firma137vvq46yrqh40fcejfk7y6cy2g0zgdjmutl4px",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        },
+        {
+        "name": "seda",
+        "address": "sedavaloper1wwga6mm5ujav73lzd2gjpzade0tm09p653k5wn",
+        "restake": {
+          "address": "seda15k6hszlwjsqa8t5yryxydtnd39un628c6hlh05",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
         }
       }
     ]
