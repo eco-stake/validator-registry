@@ -61,6 +61,42 @@
                 ],
                 "minimum_reward": 1000000000000000000
             }
+        },
+        {
+            "name": "lava",
+            "address": "lava@valoper1l9nnwd8eu3sjkws4tw2qe8s3uca9htfdc3x57h",
+            "restake": {
+                "address": "lava@12fxqz0vnh6vtpucsfzwfauamj6vpey2tqm64ry",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "routerchain",
+            "address": "routervaloper14hk4cjlyph56zfs3hluh92l9z3ccen3zldusnx",
+            "restake": {
+                "address": "router155tmm6vh886lemp3ptxktl6ut2hrkldf2d5ma4",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "zetachain",
+            "address": "zetavaloper1r75c82vn2jzadldrn5za58kajeaxl2nzy3469e",
+            "restake": {
+                "address": "zeta155tmm6vh886lemp3ptxktl6ut2hrkldffjmkc4",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
         }
     ]
 }
