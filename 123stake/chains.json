@@ -57,15 +57,7 @@
         "minimum_reward": 100000
       }
     },
-                   {
-      "name": "planq",
-      "address": "plqvaloper1rsfdz4l8xyv3cqfh0wfkk8nmx72hlt980zcjye",
-      "restake": {
-        "address": "plq1xtfheepfhswusphmnvsrkulwcutd2wcwkkfhms",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 10000000000000000
-      }
-    },
+  
                {
       "name": "cerberus",
       "address": "cerberusvaloper1teryendjzhaxn520ng946d2yprnh5jed49mydt",
