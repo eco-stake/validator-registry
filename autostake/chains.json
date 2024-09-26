@@ -408,6 +408,15 @@
       }
     },
     {
+      "name": "selfchain",
+      "address": "selfvaloper1460pvfxrff4ufsfytkklsqme2f7nh20rfe8v6x",
+      "restake": {
+        "address": "self194ytn50yhh67rdha8akhs7c6zulnz4n2vu5lz2",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "nolus",
       "address": "nolusvaloper1zpqag2cha3ezgyv5pvf4j38qtj8tkje60aqa5d",
       "restake": {
