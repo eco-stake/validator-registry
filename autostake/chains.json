@@ -408,7 +408,7 @@
       }
     },
     {
-      "name": "selfchain",
+      "name": "self",
       "address": "selfvaloper1460pvfxrff4ufsfytkklsqme2f7nh20rfe8v6x",
       "restake": {
         "address": "self194ytn50yhh67rdha8akhs7c6zulnz4n2vu5lz2",
