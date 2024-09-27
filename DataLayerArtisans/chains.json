@@ -1,0 +1,13 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Data Layer Artisans",
+	"chains": [{
+		"name": "synternet",
+		"address": "syntvaloper1cckkmg8h4454m0nktr99vkvg8z9pqpvwq8yg26",
+		"restake": {
+			"address": "synt19kr6558x66560fpc4d89q2gxj7ltcfke7qnjre",
+			"run_time": ["Every 12 hours"],
+			"minimum_reward": 100000000
+		}
+	}]
+}
