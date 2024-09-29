@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DavidsNode",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1rcafgcfmyn32frznu7h6vsxt3haza90t6lwrrm",
+      "restake": {
+        "address": "haqq1pjce9ct34lg24j4tjy3fnxpfzzwhkzhxfaru8h",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
