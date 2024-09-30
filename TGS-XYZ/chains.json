@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TGS Digital",
+  "chains": [
+    {
+      "name": "onomy",
+      "address": "onomyvaloper1a80f2tudr06k6jtg8yhgrq4and80slljnf64dy",
+      "restake": {
+        "address": "onomyvaloper1a80f2tudr06k6jtg8yhgrq4and80slljnf64d",
+        "run_time": "every minute",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}
