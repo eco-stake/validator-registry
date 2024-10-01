@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "pulsar",
+  "name": "Oraichanin_node",
   "chains": [
     {
       "name": "oraichain",
