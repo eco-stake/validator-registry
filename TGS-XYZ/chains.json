@@ -6,7 +6,7 @@
       "name": "onomy",
       "address": "onomyvaloper1a80f2tudr06k6jtg8yhgrq4and80slljnf64dy",
       "restake": {
-        "address": "onomyvaloper1a80f2tudr06k6jtg8yhgrq4and80slljnf64d",
+        "address": "onomy1jxwfqn89t2ezaskssjar5d0gvh0vtx9vuj95c0",
         "run_time": "every minute",
         "minimum_reward": 1000
       }
