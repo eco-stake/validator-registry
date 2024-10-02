@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Baraka.Fund",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1te388p3alf4hzh4v7082ta72fez0rkyfy6n27n",
+      "restake": {
+        "address": "haqq1622ckvwxggx5d46vsp53680stljkncc8mvw52t",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
