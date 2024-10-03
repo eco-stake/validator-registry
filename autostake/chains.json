@@ -71,7 +71,7 @@
       "restake": {
         "address": "blockx163g9c65kv5v8lgvvwner3ruxntrdr50yac2r60",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
@@ -188,7 +188,7 @@
       "restake": {
         "address": "human163g9c65kv5v8lgvvwner3ruxntrdr50yxl9e99",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -251,7 +251,7 @@
       "restake": {
         "address": "lava@194ytn50yhh67rdha8akhs7c6zulnz4n2307xtw",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
@@ -368,7 +368,7 @@
       "restake": {
         "address": "router163g9c65kv5v8lgvvwner3ruxntrdr50y3t20p2",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 10000
       }
     },
     {
