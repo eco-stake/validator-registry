@@ -48,6 +48,33 @@
       }
     },
     {
+      "name": "nomic",
+      "address": "nomic1mk05ju8jq0mxzx3kfr0wcct8an2htjh53m4yk5",
+      "restake": {
+        "address": "nomic13kese9addgd286tl9plw5c48qtc36g50tp35ud",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1ke3qlvuhcn537m47l3y3hj0v7jm48ka47nkduu",
+      "restake": {
+        "address": "uptick1nfx4w5eue6t898awk2j3j3gzkzk4xzzn9r44wm",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1m77eksxfz9q50qejnqf720sns7q0xtx8a7t9vq",
+      "restake": {
+        "address": "quick13kese9addgd286tl9plw5c48qtc36g50uajuk4",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj",
       "restake": {
