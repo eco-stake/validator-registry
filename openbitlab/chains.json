@@ -3,13 +3,12 @@
   "name": "openbitlab",
   "chains": [
     {
-      "name": "kujira",
-      "address": "kujiravaloper1umy6425nsccm22qvtugxsfyvpee60xfs9x3w0x",
+      "name": "synternet",
+      "address": "syntvaloper10e2xe93de4ysrerr7920hhm5t7n4ktfq930tv5",
       "restake": {
-        "address": "kujira1t5ykuy6eqyh495ew79zl46ea4fcaw63cpt6sm4",
+        "address": "synt1ht8cyhc2re7jky5sa7thdppayyu60urskq4n3z",
         "run_time": [
-          "09:00",
-          "21:00"
+          "08:00"
         ],
         "minimum_reward": 100000
       }
