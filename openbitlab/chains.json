@@ -8,7 +8,7 @@
       "restake": {
         "address": "synt1ht8cyhc2re7jky5sa7thdppayyu60urskq4n3z",
         "run_time": [
-          "08:00"
+          "every 24 hours"
         ],
         "minimum_reward": 100000
       }
