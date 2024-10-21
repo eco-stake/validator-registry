@@ -280,6 +280,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme",
+      "restake": {
+        "address": "nolus1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjktkzxs",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
