@@ -271,6 +271,33 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "furya",
+      "address": "furyavaloper1efptgq00hngrlgz2gc66g53jslw5eqknd55m02",
+      "restake": {
+        "address": "furya1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj0wat38",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme",
+      "restake": {
+        "address": "nolus1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjktkzxs",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomic19k66uuramzvll98f6r4ayqmvugats3e5l6zxj8",
+      "restake": {
+        "address": "nomic1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjur48hl",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
