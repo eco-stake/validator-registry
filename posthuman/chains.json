@@ -298,6 +298,42 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "odin",
+      "address": "odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p",
+      "restake": {
+        "address": "odin1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjymq7gl",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper157v7tczs40axfgejp2m43kwuzqe0wsy0xxh5gk",
+      "restake": {
+        "address": "stride1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjrsxpse",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l",
+      "restake": {
+        "address": "axelar1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjy4s405",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secret",
+      "address": "secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc",
+      "restake": {
+        "address": "secret133nkfx4sn4l5v6e0zcvyn809dm3d5t3f66zaac",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
