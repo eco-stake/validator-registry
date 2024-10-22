@@ -30,13 +30,13 @@
       }
     },
 	{
-      "name": "dymension",
-      "address": "dymvaloper12g3y9h5l2yujuz4fxl5lt35q3zlunyq7uqv6pj",
+      "name": "atomone",
+      "address": "atonevaloper1zrp3cnmqg7rlr7n4mc3cfl4khn5p9a2frykp2c",
       "restake": {
-        "address": "dym1ygrzk0exmsk0aa8tkyx4hw5de477qe8mduejq7",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000000000
+        "address": "atone1vvumkjdmen9fsgu88zqv8eulpn79g4g0lner8s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
-    }
+    },  
   ]
 }
