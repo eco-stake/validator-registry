@@ -1,0 +1,43 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Quasar",
+    "chains": [
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper12syxdn3qs7fxua3khvewsvdvrx6xw8cjlsknnm",
+        "restake": {
+          "address": "cosmos1s0mq9w28egg0zegm3lfeda2amnvxun5ya3ser3",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "xpla",
+        "address": "xplavaloper13drle8ewlf98qwx94q4cvurrcsy99f4tzwf35x",
+        "restake": {
+          "address": "xpla17rt55jy3mwzl7zv8xju3swdltwzq8jhycq7wnx",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "juno",
+        "address": "junovaloper1upy09fgzzzpdmgqcz2jh7642c8hp0lw3lwxve6",
+        "restake": {
+          "address": "juno1s0mq9w28egg0zegm3lfeda2amnvxun5ytrnzyd",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "dungeon",
+        "address": "dungeonvaloper1xe89l0djrmkd22tv3kctmfca52yk9d0vwemr88",
+        "restake": {
+          "address": "dungeon1s0mq9w28egg0zegm3lfeda2amnvxun5ynz0lf2",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+  }
+  

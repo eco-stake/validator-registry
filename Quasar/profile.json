@@ -1,0 +1,17 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "Quasar",
+    "identity": "BAD2060A89C6E9D4293754344241D5A16BC4F451",
+    "website": "https://quasarstaking.ai",
+    "description": {
+      "overview": "Building AI neuroworkers for Cosmos community."
+    },
+    "contacts": {
+    "twitter": "https://x.com/quasarstaking",
+    "telegram": {
+      "main_channel": "https://t.me/quasarstakingeng",
+      "chat": "@quasareng"
+    },
+    "discord": "https://discord.gg/CjHRz6dr"
+  }
+}
