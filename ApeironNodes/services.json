@@ -1,0 +1,11 @@
+{
+    "$schema": "../services.schema.json",
+    "name": "ApeiroNodes",
+    "services": [
+      {
+        "title": "ApeironNodes",
+        "description": "Professional PoS Validator-Relayer. Stake with us and get monthly airdrops & 100% Uptime",
+        "url": "https://apeironnodes.com"
+      }
+    ]
+  }
