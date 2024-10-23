@@ -8,10 +8,7 @@
     },
     "contacts": {
     "twitter": "https://x.com/quasarstaking",
-    "telegram": {
-      "main_channel": "https://t.me/quasarstakingeng",
-      "chat": "@quasareng"
-    },
+    "telegram": "https://t.me/quasarstakingeng",
     "discord": "https://discord.gg/CjHRz6dr"
   }
 }
