@@ -1,6 +1,6 @@
 {
     "$schema": "../services.schema.json",
-    "name": "ApeiroNodes",
+    "name": "ApeironNodes",
     "services": [
       {
         "title": "ApeironNodes",
