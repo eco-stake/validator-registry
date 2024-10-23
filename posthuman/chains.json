@@ -334,6 +334,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "dungeonchain",
+      "address": "dungeonvaloper1umkse9yx2w9aw5qam0gffatfht3yerllxcque3",
+      "restake": {
+        "address": "dungeon1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjwgemww",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
