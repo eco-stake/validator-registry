@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Insigma Σ",
+  "identity": "AAE2E594C0B4309D",
+  "website": "https://www.insigma.xyz",
+  "description": {
+    "overview": "Reliable Validator for a Decentralized Future"
+  }
+}
