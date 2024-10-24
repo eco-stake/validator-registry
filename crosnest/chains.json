@@ -439,6 +439,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1qlhx2zev88jsy6ghsluf7frfxrutkkf3dm29hf",
+      "restake": {
+        "address": "atone1v9vae554q55xa4pcfdm0p3kv8nxn50jk5vm4m3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sge",
       "address": "sgevaloper1qzshy2n49qz67tzgzjfuuzl8mugu5vnn7e6v78"
     },
