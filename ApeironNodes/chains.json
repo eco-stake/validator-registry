@@ -1,0 +1,43 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "ApeironNodes",
+    "chains": [
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper1tmwt5q22qqafyznjhhydn2u6kwpwn2r8unrdyn",
+        "restake": {
+          "address": "cosmos1grdzp324q2q4av3pmsjsufx3textkvrejmewj6",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "chain4energy",
+        "address": "c4evaloper1pyepajes0devhrafzq5zqy4w05ll0809e38nac",
+        "restake": {
+          "address": "c4e1grdzp324q2q4av3pmsjsufx3textkvre3rqrty",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "omniflixhub",
+        "address": "omniflixvaloper1tmwt5q22qqafyznjhhydn2u6kwpwn2r8ft5q7k",
+        "restake": {
+          "address": "omniflix1grdzp324q2q4av3pmsjsufx3textkvre09gh9y",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "dungeon",
+        "address": "dungeonvaloper1x9zvcyhxrej5tzvpfkxlsrukwlet5e44f8ah7q",
+        "restake": {
+          "address": "dungeon1grdzp324q2q4av3pmsjsufx3textkvreugxgcp",
+          "run_time": "21:00",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+  }
+  

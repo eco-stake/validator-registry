@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "plantree",
+    "chains": [
+        {
+            "name": "atomone",
+            "address": "atonevaloper1mlxsccj7dmk6dy4qljzusgqyr8f0uyyattkmly",
+            "restake": {
+                "address": "atone1v0jcah2vrme4he9557hvnky9ymmg4fh5eqg72z",
+                "run_time": "every 1 hour",
+                "minimum_reward": 10000
+            }
+        }
+    ]
+}

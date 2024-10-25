@@ -1,0 +1,13 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "ApeironNodes",
+    "identity": "B46D00D0174BE6AB",
+    "website": "https://apeironnodes.com",
+    "description": {
+      "overview": "Professional PoS Validator-Relayer."
+    },
+    "contacts": {
+    "twitter": "https://x.com/ApeironNodes",
+    "telegram": "https://t.me/ApeironNodes"
+  }
+}
