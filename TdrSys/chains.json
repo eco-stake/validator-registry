@@ -17,7 +17,34 @@
       "restake": {
         "address": "quick1y28qvyyfva2d8090c4ltgvn24hj023zuc9xx7c",
         "run_time": "18:00",        
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1nhrg0r7aj4z8s440g3fk2kmyazhaxjrme8s9r3",
+      "restake": {
+        "address": "terra1j4cl2wa58atete2fmxp7mt36zj7rskh5j9lspf",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1cs0dspacdhym4cwcm3f7suurfszvl6k5s9p06a",
+      "restake": {
+        "address": "terra1j4cl2wa58atete2fmxp7mt36zj7rskh5j9lspf",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1wqcqfm499f84cjnppqu03jrkqtwqsndpw9qxc5",
+      "restake": {
+        "address": "bitsong14h32uxp87atsqnuk9qwp6h8mzhjhy4f2pq3umg",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000
       }
     }
   ]
