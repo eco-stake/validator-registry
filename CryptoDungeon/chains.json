@@ -29,5 +29,14 @@
         "minimum_reward": 50000
       }
     }
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper13x4pynlp86prhcmtns742kgsgu7pjtzjxzxahv",
+      "restake": {
+        "address": "dungeon1w6su2zgdsvufhwl8pdcuephttz2vjw290k5t78",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    }
   ]
 }
