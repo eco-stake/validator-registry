@@ -82,7 +82,25 @@
         "run_time": "every 30 seconds",
         "minimum_reward": 100000000000000000
       }
-    },    
+    },
+    {
+      "name": "cnhostables",
+      "address": "cnhovaloper193sddmvhwu4urzp83dcurqxrqxc82l3d84n95y",
+      "restake": {
+        "address": "cnho10eumq5yvapfdan5nxsfkc3arskff3l9vazdlzp",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "conscious",
+      "address": "cvnvaloper1xfxvxzlkgc7gf2uakrk4ge8pl8t4wud5xaaerq",
+      "restake": {
+        "address": "cvn1p7dwf33a347lwedeletzwcal7u9tgn578032r7",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000000000000000
+      }
+    },
     {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
