@@ -57,6 +57,15 @@
          }
       },
       {
+         "name":"mantrachain",
+         "address":"mantravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0j0c6ef",
+         "restake":{
+            "address":"mantra1q52x3jrc2jrx7rv380z64tsw9m907zlhyr6764",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
          "name":"nibiru",
          "address":"nibivaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0rpejtc",
          "restake":{
