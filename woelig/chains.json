@@ -325,6 +325,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1k72w68fzsrs4r9wjnyda3mt33h2za0arvjrtum",
+      "restake": {
+        "address": "bb1e762e7chsgz3aurtelcz948j8gscfr0qvn2yqs",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     }
   ]
 }
