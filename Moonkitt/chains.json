@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Moonkitt",
+    "chains": [
+        {
+            "name": "atomone",
+            "address": "atonevaloper17v5lwndhdf7mcv6hgk0tnn90x8gy3shquej2mx",
+            "restake": {
+                "address": "atone1dcgdt8l5n50mlan7s8dehm7xlc8qdfa7l6tlce",
+                "run_time": "every 4 hours",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}
