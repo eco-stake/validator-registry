@@ -13,9 +13,9 @@
     },
     {
       "name": "atomone",
-      "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
+      "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
       "restake": {
-        "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
+        "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
         "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
