@@ -1,7 +1,8 @@
 {
     "$schema": "../chains.schema.json",
     "name": "Regenerator",
-    "chains": [{
+    "chains": [
+        {
             "name": "evmos",
             "address": "evmosvaloper1x322q9d7dvm0xw9966c8730pn083rv3q6ddtyx",
             "restake": {
@@ -9,15 +10,17 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 100000000000000000
             }
-        }, {
+        },
+        {
             "name": "juno",
             "address": "junovaloper1ywk2vuqezuslxxs8s7lv2t2622j6raf346guh6",
             "restake": {
                 "address": "juno1drn830y2l24pne08t7k7p7z6zms3x8p8tgem70",
-                "run_time": "every 1 hour",
+                "run_time": "00:00",
                 "minimum_reward": 50000
             }
-        }, {
+        },
+        {
             "name": "sifchain",
             "address": "sifvaloper1xwppqxzy869xaulf6ldsxkzapyhu59q3xzy7ld",
             "restake": {
@@ -25,7 +28,8 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 10000000
             }
-        }, {
+        },
+        {
             "name": "regen",
             "address": "regenvaloper174tvh2dty7vsvwn2cfsmkwq8tplqgr5f3m3nw8",
             "restake": {
@@ -33,7 +37,8 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 200000
             }
-        }, {
+        },
+        {
             "name": "teritori",
             "address": "torivaloper175rllzuh7sc0rq66cxlj0a85aawx9mnr39z7fk",
             "restake": {
@@ -41,7 +46,8 @@
                 "run_time": "every 5 minutes",
                 "minimum_reward": 10000
             }
-        }, {
+        },
+        {
             "name": "emoney",
             "address": "emoneyvaloper18mpn8e672qtnavlp2xz0c72dc3j67hhshptfcv",
             "restake": {
@@ -49,7 +55,8 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 1000000
             }
-        }, {
+        },
+        {
             "name": "lumnetwork",
             "address": "lumvaloper13t5jyunykkxse692f0tk92lqdkfryffa35ytfp",
             "restake": {
@@ -57,23 +64,33 @@
                 "run_time": "every 1 hour",
                 "minimum_reward": 10000
             }
-        }, {
+        },
+        {
             "name": "stride",
             "address": "stridevaloper1vnr65ea5qtlp282xwafqeqjpf8ln8ymtnyjxq6",
             "restake": {
-              "address": "stride1drn830y2l24pne08t7k7p7z6zms3x8p8736udl",
-              "run_time": "every 1 hour",
-              "minimum_reward": 100000
+                "address": "stride1drn830y2l24pne08t7k7p7z6zms3x8p8736udl",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000
             }
-        }, {
+        },
+        {
             "name": "canto",
             "address": "cantovaloper1jk5vf4an5fgg7xeyx2ujgjgxg47zvpa8va7fa0",
             "restake": {
-              "address": "canto16neph07fjlrsd6uzrul3jjxtkn3f6g06gpcar6",
-              "run_time": "every 1 hour",
-              "minimum_reward": 1000000000000000000
+                "address": "canto16neph07fjlrsd6uzrul3jjxtkn3f6g06gpcar6",
+                "run_time": "every 1 hour",
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "atomone",
+            "address": "atonevaloper174tvh2dty7vsvwn2cfsmkwq8tplqgr5f7rsyuj",
+            "restake": {
+                "address": "atone1drn830y2l24pne08t7k7p7z6zms3x8p8n6x80t",
+                "run_time": "every 1 hour",
+                "minimum_reward": 1
             }
         }
-
     ]
 }
