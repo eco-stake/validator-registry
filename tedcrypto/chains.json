@@ -160,6 +160,15 @@
         ],
         "minimum_reward": 1000000000000000000
       }
-    }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1tj7u05ynwnpezgym05jsh7q02av259548vg4g6",
+      "restake": {
+        "address": "jkl1jsmtq9z9qpeda0pyff9w8u66mkxrtzsex7k246",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
   ]
 }
