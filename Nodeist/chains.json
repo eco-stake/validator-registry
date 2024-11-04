@@ -42,26 +42,6 @@
 	    },
 		
 		 {
-      "name": "jackal",
-      "address": "jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a",
-      "restake": {
-        "address": "jkl1774zxs7m8rgg5jjz80p26ylk3h8q265e66wr0q",
-	"run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-	    },
-		
-		 {
-      "name": "chain4energy",
-      "address": "c4evaloper18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnuncplj",
-      "restake": {
-        "address": "c4e1774zxs7m8rgg5jjz80p26ylk3h8q265equel0p",
-	"run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-	    },
-		
-		 {
       "name": "acrechain",
       "address": "acrevaloper13f794j0q0ay2kvmh9j7zzf7xu8lp3sv6jfad02",
       "restake": {
@@ -102,6 +82,24 @@
          "address":"bluzellevaloper19nv3kalrfglugp3m3uw6rc66jvzjhy69xesevq",
          "restake":{
             "address":"bluzelle1pdagrst42gy7acejfvgml89mqur4guw2ytca89",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+    },
+      {
+         "name":"arkh",
+         "address":"arkhvaloper1gz3tmtdedl2er4cclwc3l0l5cqjlzgp6q2xwn2",
+         "restake":{
+            "address":"arkh1774zxs7m8rgg5jjz80p26ylk3h8q265e02uwcr",
+            "run_time":"every 1 hour",
+            "minimum_reward":10000
+         }
+       },
+      {
+         "name":"kyve",
+         "address":"kyvevaloper1nrfm9qw7s3xvra0t9xdxc0vhh6l7why5dgv267",
+         "restake":{
+            "address":"kyve1774zxs7m8rgg5jjz80p26ylk3h8q265e52dyam",
             "run_time":"every 1 hour",
             "minimum_reward":10000
          }

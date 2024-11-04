@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dora Factory",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1dknnk0nzap8h07elxays2ecldxq9elu3dzqvqr",
+      "restake": {
+        "address": "inj136g83mnzysauu8van6mmhz9jygnce326nlayur",
+        "run_time": "every 1 week",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

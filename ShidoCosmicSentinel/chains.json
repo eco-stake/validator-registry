@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Shido Cosmic Sentinel",
+    "chains": [
+        {
+        "name": "shido",
+        "address": "shidovaloper1xtz9vsuugv8xfruwnqrpw8fg9lw8js4ayvpvzy",
+        "restake": {
+          "address": "shido1ng3u9q6l26nng4yhw5qzpj4aa43s46v2wx8gaj",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }

@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TdrSys",
+  "chains": [
+    {
+      "name": "terra2testnet",
+      "address": "terravaloper10t3yytexn3mphr8mjg6agpdh8rm2w2rfe4mztz",
+      "restake": {
+        "address": "terra1yknmx9jncwr4pggum3zxr472zagmt4axn97pw3",
+        "run_time": "18:00",        
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1gh5z0yjk35ku0rvxsqr6yse6xt3r2388armckj",
+      "restake": {
+        "address": "quick1y28qvyyfva2d8090c4ltgvn24hj023zuc9xx7c",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1nhrg0r7aj4z8s440g3fk2kmyazhaxjrme8s9r3",
+      "restake": {
+        "address": "terra1j4cl2wa58atete2fmxp7mt36zj7rskh5j9lspf",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1cs0dspacdhym4cwcm3f7suurfszvl6k5s9p06a",
+      "restake": {
+        "address": "terra1j4cl2wa58atete2fmxp7mt36zj7rskh5j9lspf",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1wqcqfm499f84cjnppqu03jrkqtwqsndpw9qxc5",
+      "restake": {
+        "address": "bitsong14h32uxp87atsqnuk9qwp6h8mzhjhy4f2pq3umg",
+        "run_time": "18:00",        
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

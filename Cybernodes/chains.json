@@ -42,7 +42,7 @@
       "name": "bitcanna",
       "address": "bcnavaloper1lv73xg05zav7e0442c8lwnk8eqz9y54g2xtymp",
       "restake": {
-        "address": "bcna1lv73xg05zav7e0442c8lwnk8eqz9y54gnm6yp4",
+        "address": "bcna138nqemyrn2slceffzcstrngfv4anca9wt07la6",
         "run_time": "every 60 minutes",
         "minimum_reward": 1000000
       }

@@ -3,12 +3,21 @@
   "name": "Golden Ratio Staking",
   "chains": [
     {
+      "name": "archway",
+      "address": "archwayvaloper1n3fjzmr2kd9jy8rd2k9c9j30w5zrf3w4s3clvd",
+      "restake": {
+        "address": "archway106n92ygqknaw5wcgl2e9v0duxxux6nttr542pu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 16180000000000000000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1glk94taeyhfpje4zaz8dsfxmn4yr3g8kkzv4x5",
       "restake": {
         "address": "chihuahua106n92ygqknaw5wcgl2e9v0duxxux6ntt42yq2f",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000000
+        "minimum_reward": 16180000000
       }
     },
     {
@@ -17,7 +26,7 @@
       "restake": {
         "address": "comdex106n92ygqknaw5wcgl2e9v0duxxux6ntt3stvju",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 161800000
       }
     },
     {
@@ -26,7 +35,7 @@
       "restake": {
         "address": "cosmos106n92ygqknaw5wcgl2e9v0duxxux6nttklfwtt",
         "run_time": "every 1 hour",
-        "minimum_reward": 161800
+        "minimum_reward": 1618000
       }
     },
     {
@@ -53,7 +62,16 @@
       "restake": {
         "address": "evmos14pcslzl25jyueuwj956yjld0kfkrp0qakg9zan",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000000000000000
+        "minimum_reward": 161800000000000000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1agu7gu9ay39jkaccsfnt0ykjce6daycjuzyg2a",
+      "restake": {
+        "address": "inj14pcslzl25jyueuwj956yjld0kfkrp0qa7qrg4r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800000000000000
       }
     },
     {
@@ -62,7 +80,7 @@
       "restake": {
         "address": "juno106n92ygqknaw5wcgl2e9v0duxxux6nttqd24vh",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 16180000
       }
     },
     {
@@ -80,7 +98,16 @@
       "restake": {
         "address": "mars106n92ygqknaw5wcgl2e9v0duxxux6ntttzsh7s",
         "run_time": "every 1 hour",
-        "minimum_reward": 161800
+        "minimum_reward": 16180000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1yndxzm3tdn62vz2px0yj9yx6lrt4xccpjks55z",
+      "restake": {
+        "address": "migaloo106n92ygqknaw5wcgl2e9v0duxxux6nttmtq579",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800000
       }
     },
     {
@@ -89,7 +116,7 @@
       "restake": {
         "address": "osmo106n92ygqknaw5wcgl2e9v0duxxux6ntt7y67ae",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 16180000
       }
     },
     {
@@ -120,12 +147,30 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper1nfha2308jhh2k7jfsa29gpa5t7kqv48wzuje4w",
+      "restake": {
+        "address": "saga106n92ygqknaw5wcgl2e9v0duxxux6nttgvsuvd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 161800
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1fpwexrflqq066c80qfgs875qq39ws3t689gj28",
+      "restake": {
+        "address": "somm106n92ygqknaw5wcgl2e9v0duxxux6ntt6rxz6p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1618000
+      }
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1tn84uta3qhhk3fphcwydktpjlq6akgw380lxj4",
       "restake": {
         "address": "stars106n92ygqknaw5wcgl2e9v0duxxux6nttzr7nq6",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 1618000000
       }
     },
     {
@@ -134,7 +179,7 @@
       "restake": {
         "address": "stride106n92ygqknaw5wcgl2e9v0duxxux6ntt45fjl8",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 16180000
       }
     },
     {
@@ -143,7 +188,7 @@
       "restake": {
         "address": "tori106n92ygqknaw5wcgl2e9v0duxxux6ntt5t78sm",
         "run_time": "every 1 hour",
-        "minimum_reward": 1618000
+        "minimum_reward": 161800000
       }
     }
   ]

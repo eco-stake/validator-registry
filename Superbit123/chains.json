@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Superbit123 & DAOverse",
+    "chains": [
+        {
+        "name": "shido",
+        "address": "shidovaloper1jxyn0cata5n74py4lgyuzvyvjwmhfxq3heds28",
+        "restake": {
+          "address": "shido10jxhqzuevwknf55accz4q49rtmmsqqfhwc88dg",
+          "run_time": "every 1 minute",
+          "minimum_reward": 50000000000000000000
+        }
+      }
+    ]
+  }

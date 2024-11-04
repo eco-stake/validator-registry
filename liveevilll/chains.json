@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "liveevilll",
+  "chains": [
+    {
+      "name": "kyve",
+      "address": "kyvevaloper19fyaqaf37hr7449xqrg9fqqcwv4pzzgekc0fpm",
+      "restake": {
+        "address": "kyve1zeulfm9m84ddtf6jkcj3zhdywnv9ugud3730d4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

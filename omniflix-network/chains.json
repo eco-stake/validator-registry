@@ -25,6 +25,30 @@
         ],
         "minimum_reward": 10000
       }
-    }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1fhznrvfyv25f27se8pqw79ytfcwh45j0ppy6lz",
+      "restake": {
+        "address": "stars1npp5e2ejxwn5z08tw8ve2ppdwetu22c7juhvyh",
+        "run_time": [
+          "06:00",
+          "18:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1wuzqc83rdzfxxremcg9v6lt9adxfpz82au7pn5",
+      "restake": {
+        "address": "akash1npp5e2ejxwn5z08tw8ve2ppdwetu22c7tmdkku",
+        "run_time": [
+          "03:00",
+          "15:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }    
   ]
 }

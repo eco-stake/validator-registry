@@ -28,6 +28,33 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+       "name": "quicksilver",
+       "address": "quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7",
+       "restake": {
+         "address": "quick1sflqrmsyxx997np8cnm223p8pzjwpxq775s94q",
+         "run_time": "every 5 minutes",
+         "minimum_reward": 10000
+      }
+    },
+    {
+       "name": "ununifi",
+       "address": "ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd",
+       "restake": {
+         "address": "ununifi1sflqrmsyxx997np8cnm223p8pzjwpxq7rjn9ku",
+         "run_time": "every 1 hour",
+         "minimum_reward": 10000
+      }
+    },
+    {
+       "name": "secretnetwork",
+       "address": "secretvaloper1dpyhgvmc7qwxgtg8gcvcx62znmaqtp40plffst",
+       "restake": {
+         "address": "secret1cew76wlzd63r2vj4kmgk4u5kmgsyxu7a58kfm4",
+         "run_time": "every 1 hour",
+         "minimum_reward": 10000
+      }
     }
   ]
 }

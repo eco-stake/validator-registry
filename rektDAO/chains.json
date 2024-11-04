@@ -8,7 +8,7 @@
             "restake": {
                 "address": "stars1und6hl28vtdvhdxyf709nz0naxvathdjdv7zhk",
                 "run_time": "03:00",
-                "minimum_reward": 1000000
+                "minimum_reward": 100000000
             }
         },
         {
@@ -18,15 +18,6 @@
                 "address": "rebus1und6hl28vtdvhdxyf709nz0naxvathdjg622g3",
                 "run_time": "every 1 hour",
                 "minimum_reward": 100000000000000000
-            }
-        },
-        {
-            "name": "quicksilver",
-            "address": "quickvaloper1y9nk0d2xxdkjzl0ky0796s4fa8j4ytsjr7f2pa",
-            "restake": {
-                "address": "quick1und6hl28vtdvhdxyf709nz0naxvathdjj5ed94",
-                "run_time": "every 1 hour",
-                "minimum_reward": 100000
             }
         }
     ]

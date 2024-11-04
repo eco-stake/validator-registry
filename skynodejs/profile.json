@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Skynodes",
+  "identity": "078F5410FD08B19E",
+  "website": "https://skynodejs.net",
+  "description": {
+    "overview": "High Performance with Professional Validator and IBC Relayer.⚛️"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@skynodejs.net",
+    "telegram": "gokmenkesen",
+    "twitter": "gokmen_kesen",
+    "discord": "skyman3991",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Coreum-RestakeNode",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper13rmxh4jnl72l2pxhlyavk82gwnkny9nwge7q5x",
+            "restake": {
+                "address": "testcore1ll52avl4zqmzhvez8ec0nu37wy7la723akmph8",
+                "run_time": "every 1 hours",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}

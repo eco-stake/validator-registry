@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Loona.Systems",
+  "chains": [
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper18zrpan47cz7gmu5y7ze06xget83lzq9gzdyyp2",
+      "restake": {
+        "address": "quick1yveenhdr2v6hj5s64vzhc9e3d42zqxg3jeqfsw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1xmvq9x8mttehk6602smz3zdlcymgxscl8502d8",
+      "restake": {
+        "address": "nois1yveenhdr2v6hj5s64vzhc9e3d42zqxg3g4d39y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

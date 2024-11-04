@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "CroutonDigital",
+  "identity": "47B453B80ECFA342",
+  "website": "https://crouton.digital",
+  "description": {
+    "overview": "Your everyday crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.",
+    "team": "We are Crouton Digital international team based in Latvia with EU license for crypto , fiat operations, also we provide web3 services for all projects that we participate in. We run Validator nodes in multiple ecosystems and we are one the biggest relayers in cosmos ecosystem, we have rich infrastructure in different part of world. We are full time in crypto since 2020, Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "official@crouton.digital",
+    "telegram": "CroutonDigital",
+    "twitter": "CroutonDigital",
+    "discord": "ak32821",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

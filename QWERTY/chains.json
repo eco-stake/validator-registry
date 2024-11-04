@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "QWERTY.EXCHANGE",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1qndvee93f30q3ra2hncasphm22k97vpr89zusa",
+      "restake": {
+        "address": "inj1mdghukzdw3sne7x00xg0e6tr6urg7mu9k54ma6",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

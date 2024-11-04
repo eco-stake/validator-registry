@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "moonbeam",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper16xm86hll3ylg2nqz9mhw5umvadu9p8y76r7aw4",
+      "restake": {
+        "address": "like12w47j7xw5hdq8cprj3qrj4ychnc7835xd6fuqq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    }
+  ]
+}

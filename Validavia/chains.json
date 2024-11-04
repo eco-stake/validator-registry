@@ -12,13 +12,13 @@
         }
       },
       {
-           "name": "jackal",
-           "address": "jklvaloper16x8acruey6sm0mvjz0tunz6w96eakws607j70w",
-           "restake": {
-               "address":"jkl1nszxyfxr5fpajlcfle0tvhptxknf5z9td8xhfw",
-               "run_time": "20:30",
-               "minimum_reward": 100000
-           }
+      	"name": "juno",
+      	"address": "junovaloper1cj500uet7ssegwsmh24kt0hjw89ugez0q4wylf",
+      	"restake": {
+      	  "address": "juno1nszxyfxr5fpajlcfle0tvhptxknf5z9tzttahd",
+      	  "run_time": "20:30",
+      	  "minimum_reward": 100000
+      	}
       },
       {
            "name": "cheqd",
@@ -27,6 +27,24 @@
                "address":"cheqd1nszxyfxr5fpajlcfle0tvhptxknf5z9t6myxmq",
                "run_time": "20:30",
                "minimum_reward": 3000000000
+           }
+      },
+      {
+           "name": "empowerchain",
+           "address": "empowervaloper1cj500uet7ssegwsmh24kt0hjw89ugez0ddp5h8",
+           "restake": {
+               "address":"empower1nszxyfxr5fpajlcfle0tvhptxknf5z9tg4vd20",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
+           }
+      },
+      {
+           "name": "quasar",
+           "address": "quasarvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0r83exm",
+           "restake": {
+               "address" :"quasar1nszxyfxr5fpajlcfle0tvhptxknf5z9t66jma5",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
            }
       },
       {

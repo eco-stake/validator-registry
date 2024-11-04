@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "C.R.E.A.M",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1yyfm9wlugmkxte5eecutcvnx2r267ypqxvl6cj",
+      "restake": {
+        "address": "tori1zpsqlu8hszyztp45uz6qcy9f0vk2jneqy89d3l",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

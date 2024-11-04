@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SurfCrypto",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1pp424fvuk8k4z8phdlkuw5jze0a38xgnc9uqrh",
+      "restake": {
+        "address": "cro1n3f9q6wx0684sr5wru4gjtfy3ug7ljj0hpt4n3",
+        "run_time": "16:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

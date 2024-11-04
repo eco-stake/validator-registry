@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CatalystiX",
+  "chains": [
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1jwz6rslcp4h3lm0jst3vapd56q79e4pgdcqdu8",
+      "restake": {
+        "address": "nibi1avtsvg3agzydtls2xglylfgmz3f307mswfm3lg",
+        "run_time": "00:01",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1pqaencqr3we900vzwz2hxkptf6vdznj3m5hjxg",
+      "restake": {
+        "address": "terra15gq6sqre2c4fzkq6lxgdl6jgw7g4nuy7wamlfn",
+        "run_time": "00:01",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1kh3l4eslccd3usnvejpa4c9elg04hw8kcavlnp",
+      "restake": {
+        "address": "haqq12z52fh6j2dgrfh76afgg7eml3xax3usymydss7",
+        "run_time": "00:01",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

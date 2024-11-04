@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "emidev98",
+  "chains": [
+    {
+      "name": "terra2testnet",
+      "address": "terravaloper1zdpgj8am5nqqvht927k3etljyl6a52kwqndjz2",
+      "restake": {
+        "address": "terra1wq5geg5u8af2n2rjgrjhdemus7fmpjchqj4p7n",
+        "run_time": "17:00",        
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

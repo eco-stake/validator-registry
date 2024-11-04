@@ -28,6 +28,24 @@
         "run_time": "12:00",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper15rx8yquvs2fjkc4mstxvdkput3puzhkvh0vqpw",
+      "restake": {
+        "address": "mantle1l2spl6a344t5dkd646ecqapaxmh78cjwpxutpy",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name":"haqq",
+      "address": "haqqvaloper1zsujldhz9azrfewl0gex5ey8f6kvf9dk6ufk47",
+      "restake": {
+        "address": "haqq1w6u6prvcpq9x0cfjp4le5qw32fr3k9yc3hjufw",
+        "run_time": "12:00",
+        "minimum_reward": 1000000000000000000
+        }
     }
   ]
 }

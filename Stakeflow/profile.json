@@ -1,0 +1,18 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Stakeflow",
+  "identity": "205B591721D10A73",
+  "website": "https://validator.stakeflow.io/",
+  "description": {
+    "overview": "Stakeflow is a reliable and secure non-custodial validator that has been running since 2018. We focus on providing public goods for our delegators and supported chains. Check our block explorer https://stakeflow.io and website https://validator.stakeflow.io for more information."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "team@stakeflow.io",
+    "telegram": "https://t.me/stakeflow_validator",
+    "twitter": "https://twitter.com/sf_validator",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

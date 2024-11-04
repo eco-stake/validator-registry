@@ -1,0 +1,20 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MoneyMindedApes",
+  "chains": [
+    {
+      "name": "coreum",
+      "address": "corevaloper1d64a0wd7urnu8fqgv03kzymzgtr7lep5jakkgg",
+      "restake": {
+        "address": "core1umkwvnm872q0aujcscdh02az0km56jffjnyl75",
+        "run_time": [
+          "00:00",
+	  "06:00",
+	  "12:00",
+	  "18:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+ ]
+}

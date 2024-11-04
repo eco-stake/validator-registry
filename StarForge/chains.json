@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "StarForge",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1r4sqt5yqsazc5fsqmjewkt3702tv2dvgjclzh8",
+            "restake": {
+                "address": "core1hms2trktcv6fgfzvt8k6g9jaeap34f9e3eu4kh",
+                "run_time": "every 12 hours",
+                "minimum_reward": 10000
+            }
+        }
+    ]
+}

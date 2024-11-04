@@ -1,15 +1,24 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "0base.vc",
+  "name": "4sv",
   "chains": [
      {
-      "name": "axelar",
-      "address": "axelarvaloper148skr4d5vy6c9728zkf7cff9e5eykgwka3rvm7",
+      "name": "celestia",
+      "address": "celestiavaloper1vlugkygcx9dng7lsc03wjw997zq855xywma3pj",
       "restake": {
-        "address": "axelar1sl7kahlh4zeewuxd3fqkd7wqyc9vfy3lu60k8w",
-        "run_time": "every 1 hour",
+        "address": "celestia10wkqxgzdu6lhm47txjj3m2yzv6g307ft09ayau",
+        "run_time": "18:30",
         "minimum_reward": 1000000
       }
-    }
+ },
+  {
+      "name": "kyve",
+      "address": "kyvevaloper1ygelv7l5zaxqkg0pwws6fxkm3xqmppnshpkjny",
+      "restake": {
+        "address": "kyve10wkqxgzdu6lhm47txjj3m2yzv6g307ftfppzv4",
+        "run_time": "18:30",
+        "minimum_reward": 1000000
+      }
+ }
   ]
 }

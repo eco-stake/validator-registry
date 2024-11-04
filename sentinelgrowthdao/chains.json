@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Sentinel Growth DAO",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1nygcr5p33plzq4akfxnl3nr7nf59gnshnwf0ln",
+      "restake": {
+        "address": "sent1zm996wnzcq3z4pan6egw62le8lhr007w7vp2re",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

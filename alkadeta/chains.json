@@ -7,7 +7,7 @@
       "restake": {
         "address": "stars1re48lxn948kjq2pkjcczs90ukxysczxdg02rjl",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -43,13 +43,13 @@
        }
      },
      {
-      "name": "rebus",
-      "address": "rebusvaloper1ashuysu8yq026kncsreplrzrhcdz93hvjxk7vw",
+      "name": "nois",
+      "address": "noisvaloper17quau8ah8zdadkyflz0h6ead27n2yjj9wv8yxa",
       "restake": {
-        "address": "rebus1re48lxn948kjq2pkjcczs90ukxysczxdde7tdc",
+        "address": "nois1re48lxn948kjq2pkjcczs90ukxysczxddmq54k",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000000000000000
-      }
-    }
+        "minimum_reward": 100000
+       }
+     }
   ]
 }

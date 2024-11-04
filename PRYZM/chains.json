@@ -1,0 +1,60 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "PRYZM",
+    "chains": [
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper1hmd535f69t3x262m6s9wc6jd0dmel2zevhyuhm",
+        "restake": {
+          "address": "cosmos1jv6d0kvkynyur32unrxyah27txrpc73xg4kazw",
+          "run_time": ["21:00"],
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "terra",
+        "address": "terravaloper18vnm040mwk0d6plc60v5m9h2376gkcphknuwzs",
+        "restake": {
+          "address": "terra13kack03ekfqmrh2ax2hcdlsc5pcm6fza40kn33",
+          "run_time": ["21:00"],
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "osmosis",
+        "address": "osmovaloper14n8pf9uxhuyxqnqryvjdr8g68na98wn5amq3e5",
+        "restake": {
+          "address": "osmo1jv6d0kvkynyur32unrxyah27txrpc73xqw9d5u",
+          "run_time": ["21:00"],
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "injective",
+        "address": "injvaloper1v2wjf06nutm9phvh5hgc3twpst9q50y4f8ckd5",
+        "restake": {
+          "address": "inj1vgfrlg8jdeng084pw5unkg7na27chfkqpwkhf4",
+          "run_time": ["21:00"],
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "dymension",
+        "address": "dymvaloper1ulez27lxpfrpnfqdtgjxgdhr6fz42mgppq8rzv",
+        "restake": {
+          "address": "dym1vgfrlg8jdeng084pw5unkg7na27chfkqe6d47r",
+          "run_time": ["21:00"],
+          "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+        "name": "celestia",
+        "address": "celestiavaloper1u825srldhev7t4wnd3hplhrphahjfk7ff3wfdr",
+        "restake": {
+          "address": "celestia1jv6d0kvkynyur32unrxyah27txrpc73xel8dcr",
+          "run_time": ["21:00"],
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+  }

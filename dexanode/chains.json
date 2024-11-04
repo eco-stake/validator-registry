@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dexanode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper17nevjuc3n9sald8qwg2vq75t3k8ucmtg6ydazq",
+      "restake": {
+        "address": "plq17nevjuc3n9sald8qwg2vq75t3k8ucmtgy6q8y3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper122j3ttcfwz65hgvakvm8f2txaltaxu4sryffva",
+      "restake": {
+        "address": "empower122j3ttcfwz65hgvakvm8f2txaltaxu4smlhxzg",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+        "name": "decentr",
+        "address": "decentrvaloper1tnvur9kdpp78jg2y4w3mhtgwf2aekpl8sc9au4",
+        "restake": {
+           "address": "decentr1tnvur9kdpp78jg2y4w3mhtgwf2aekpl80hw3pz",
+           "run_time": "every 1 hour",
+           "minimum_reward": 1000000
+        }
+   },
+    {
+      "name": "lambda",
+      "address": "lambvaloper1mtp5duqcmw9udk8pmwh947exu29d94q2q6xatm",
+      "restake": {
+        "address": "lambvaloper1mtp5duqcmw9udk8pmwh947exu29d94q2q6xatm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

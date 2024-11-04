@@ -1,0 +1,134 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "B-Harvest",
+  "chains": [
+    {
+      "name": "archway",
+      "address": "archwayvaloper1wr8v2eept0n26nsa706k5a9kssnw7kdajfxm34",
+      "restake": {
+        "address": "archway1x34zfe2uqmazh9k0cx9rua9s2tqf6msxva7rgh",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1l954fcz7hu9sedc7fd4ltjs4ucs7af6csqsxlw",
+      "restake": {
+        "address": "axelar1x34zfe2uqmazh9k0cx9rua9s2tqf6msxac50fp",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1q894x7p4ugl3q5l47e8ksll5k5lmx74fxqez5y",
+      "restake": {
+        "address": "band1ah82keg8kt2452l6grjkwdpvs7vhrr6t0a5vll",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "canto",
+      "address": "cantovaloper1x7y6zcgmewm7pkktx24xur0dag50uler3465uv",
+      "restake": {
+        "address": "canto1q646upjy4lsjzgcksvzajdqtrurlc7x6stusff",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper14ntfv0qkg8522xe0pvrfgqxcmnj5x466v8z3tl",
+      "restake": {
+        "address": "celestia1x34zfe2uqmazh9k0cx9rua9s2tqf6msxgunhcd",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "coreum",
+      "address": "corevaloper1vsdgrlmq87qax45k32ghp94rcl3j03fwqe5lv4",
+      "restake": {
+        "address": "core1tcyqkgghttlhwxjsvefy6rxlnre9gdhfqpxtff",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv",
+      "restake": {
+        "address": "cosmos1x34zfe2uqmazh9k0cx9rua9s2tqf6msxekz8zq",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1zpy3qf7us3m0pxpqkp72gzjv55t70huy33t47x",
+      "restake": {
+        "address": "inj1q646upjy4lsjzgcksvzajdqtrurlc7x6g52y0e",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1m9y0c7j7wxyu3nqtmeevyfzzpga8jhdyqw42wx",
+      "restake": {
+        "address": "kava1j7lkn8ryftwdx7tcj9wskz8yywqudywp5l63my",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1ycq5mqre2xtygwqgl8q486xnse6z7ewp5ctktm",
+      "restake": {
+        "address": "nibi1x34zfe2uqmazh9k0cx9rua9s2tqf6msxwnx7tn",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper123nfq6m8f88m4g3sky570unsnk4zng4u6mkmvq",
+      "restake": {
+        "address": "osmo1x34zfe2uqmazh9k0cx9rua9s2tqf6msx3d3h5j",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1vws5gh9pcpd6xeljl9qgu28mkqtvket49aqn7e",
+      "restake": {
+        "address": "secret1jasdtptjqu5q8saxvmhsd28zhpde2yz2hrvk2e",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper1d8sezyezn5xf2c2yu6na3zy7c6g5yv386ykkq2",
+      "restake": {
+        "address": "xpla1q646upjy4lsjzgcksvzajdqtrurlc7x6u69ukj",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1gsn7qqrw5yj2gzucywkka9s3gpe5fg2x8v4z39",
+      "restake": {
+        "address": "zeta1q646upjy4lsjzgcksvzajdqtrurlc7x65en483",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
+
+

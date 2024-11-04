@@ -1,0 +1,24 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "sxlzptprjkt | VALIDATOR",
+    "chains": [
+       {
+        "name": "planq",
+        "address": "plqvaloper1axlm5re3z2cffe4397npec7e49ju5y772uplqd",
+        "restake": {
+          "address": "plq1axlm5re3z2cffe4397npec7e49ju5y775zv9xu",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 1000000000000000000
+        }
+    },
+          {
+        "name": "decentr",
+        "address": "decentrvaloper1xheppmt689acf7mp6je59tmjqgstjghkpqk29t",
+        "restake": {
+          "address": "decentr1xheppmt689acf7mp6je59tmjqgstjghk70axcu",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 1000000
+        }
+    }
+    ]
+}

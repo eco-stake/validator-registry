@@ -21,6 +21,78 @@
       }
     },
     {
+      "name": "kyve",
+      "address": "kyvevaloper1gwrhgrlpzkpcx06fkwhd6swuy688xjca38xmsw",
+      "restake": {
+        "address": "kyve1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyjxc4pj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1sztng2ln0wq7thqqyrjd02tc4hh6yu36m4l67x",
+      "restake": {
+        "address": "quick1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uywv93ny",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper10hmy2yhwhqqe8p7ax0hrdt4uxkumlhcf7tkkk2",
+      "restake": {
+        "address": "nois1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uy5qgfxw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1wfaarzcy2rpxr9564tlsyktcf9c75gf0zc57p2",
+      "restake": {
+        "address": "uptick1hx0hpm0x4x5lejup6y9m4hyeknk6m0arx74r2v",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1vy9qvad4rpczx6r5rwlqvn43l4mkl283m8gk4p",
+      "restake": {
+        "address": "aura1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uy77zpg0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1ak4dulf5zs06lu4jz8efzpa42pwrj8cdm35fgf",
+      "restake": {
+        "address": "source1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyrmva6g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1taava3hdv33ps7es7yvwjx7x08lzz3s2mqfp6v",
+      "restake": {
+        "address": "dym1hx0hpm0x4x5lejup6y9m4hyeknk6m0ar8997kn",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1he44du3wsg3qgysyj0wlclq20apj880k72m8ks",
+      "restake": {
+        "address": "nibi1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyjd36r9",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy",
       "restake": {

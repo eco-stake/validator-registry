@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "OnBlock Ventures",
+  "identity": "AF5088F50394C31E",
+  "website": "https://onblock.ventures",
+  "description": {
+    "overview": "The Leading Crypto VC in Southeast Asia",
+    "team": "We are talented and experienced entrepreneurs, engineers, researchers, and academics who are investing in and incubating early-stage blockchain and cryptocurrency projects."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "victor@onblock.ventures",
+    "telegram": "C_R_Y_P_T_O_C_A_T",
+    "twitter": "BeaconChain",
+    "discord": "BeaconChain#8571",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

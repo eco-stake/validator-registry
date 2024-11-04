@@ -1,0 +1,8 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "validator.network",
+  "identity": "357F80896B3311B4",
+  "contacts": {
+    "twitter": "validator_net"
+  }
+}

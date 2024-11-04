@@ -3,12 +3,12 @@
   "name": "CryptoDungeon",
   "chains": [
     {
-      "name": "desmos",
-      "address": "desmosvaloper15hkyq65xxastrnts2rep84lmysuy3k6qyk9k5c",
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj4djh7s",
       "restake": {
-        "address": "desmos1pauy7kedg4mjq8wevz3tmzgv46xrmzs2uh9gqa",
+        "address": "cosmos1w6su2zgdsvufhwl8pdcuephttz2vjw29p9td5u",
         "run_time": ["09:00", "21:00"],
-        "minimum_reward": 5000000
+        "minimum_reward": 50000
       }
     },
     {
@@ -27,6 +27,15 @@
         "address": "juno1w6su2zgdsvufhwl8pdcuephttz2vjw29hhgknq",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper13x4pynlp86prhcmtns742kgsgu7pjtzjxzxahv",
+      "restake": {
+        "address": "dungeon1w6su2zgdsvufhwl8pdcuephttz2vjw290k5t78",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
       }
     }
   ]
