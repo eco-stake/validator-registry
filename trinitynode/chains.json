@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "trinity_node",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1v26tdegnk79edw7xkk2xh8qn89vy6qej6yhsev",
+      "restake": {
+        "address": "orai1fhs3q750s80qzqqugzvqfpaffdwhc5ettq5fvn",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

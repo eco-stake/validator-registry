@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",  
+  "name": "#SoloNation",
+  "chains": [
+{
+    "name": "coreum",
+    "address": "corevaloper1gsaxrwfu5glgw764mqhc4t8f3yxg2h07rmwt0k",
+    "restake": {
+      "address": "core13p79h8s6usrs77dayvex0d6rrena5x8q96qu2v",
+      "run_time": [
+        "08:00",
+        "20:00"
+      ],
+      "minimum_reward": 10000
+      }
+    }
+  ] 
+} 

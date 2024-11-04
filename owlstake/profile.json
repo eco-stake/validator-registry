@@ -1,0 +1,20 @@
+{
+	"$schema": "../profile.schema.json",
+	"name": "owlstake",
+	"identity": "6B73E2068E0C0C4C",
+	"website": "https://owlstake.com",
+	"description": {
+		"overview": "VENTURING WITH US!",
+		"team": "We are a Professional Validator of PoS Cryptocurrencies who helps investors and token holders gain profits from their assets by consistently increasing their yields via non-custodial staking. Join us, stake, and earn."
+	},
+	"contacts": {
+		"telephone": "",
+		"email": "work@owlstake.com",
+		"telegram": "bettermanzZ",
+		"twitter": "owlstake",
+		"discord": "owlstake",
+		"others": {
+			"emergency": ""
+		}
+	}
+}

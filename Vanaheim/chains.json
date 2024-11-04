@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Vanaheim",
+  "chains": [
+    {
+      "name": "odin",
+      "address": "odinvaloper16l94qycfsepcyxsg5ygt3krwrzeepzj380qy8y",
+      "restake": {
+        "address": "odin1j4lmyc9p9sxc4xvlkmmdx5yyry24jk4tl3tz3a",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    }
+  ]
+}

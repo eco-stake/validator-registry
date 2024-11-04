@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Alpha Tree",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1caw9wwwcslezxx9f3xpanth6rqxjrdglasu0q2",
+            "restake": {
+                "address": "core16wq0nsge5j87ulw8tdn2ry9lflx537wles3j4s",
+                "run_time": "every 3 hours",
+                "minimum_reward": 990000
+            }
+        }
+    ]
+}

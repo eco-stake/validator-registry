@@ -1,0 +1,11 @@
+{
+    "$schema": "../services.schema.json",
+    "name": "Quasar",
+    "services": [
+      {
+        "title": "Quasar",
+        "description": "We build AI neuroworkers for Cosmos community.",
+        "url": "https://quasarstaking.ai"
+      }
+    ]
+  }

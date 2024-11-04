@@ -7,7 +7,7 @@
       "address": "sifvaloper1yxrxewndap7pkf75ucua7jgvg8e54kvmhnuj72",
       "restake": {
         "address": "sif1xllz2yrx4llfwm792geccfz7rey72m0dzwnvtv",
-        "run_time": "every day",
+        "run_time": "every 1 day",
         "minimum_reward": 1000000000000000000
       }
     },
@@ -15,9 +15,9 @@
       "name": "kava",
       "address": "kavavaloper1r2ea4069j7rfemtt2k6ej5glctg9qe3y86rltf",
       "restake": {
-        "address": "kava1r2ea4069j7rfemtt2k6ej5glctg9qe3y2vehn7",
-        "run_time": "every day",
-        "minimum_reward": 1000
+        "address": "kava1mtuk4v2gxkkwwg0sywhemgwqxjpndmflzfj420",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
       }
     }
   ]

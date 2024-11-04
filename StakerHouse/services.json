@@ -1,0 +1,16 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "StakerHouse",
+  "services": [
+    {
+      "title": "StakerHouse website",
+      "description": "Services to support node operators and delegators across various networks.",
+      "url": "https://stakerhouse.com"
+    },
+    {
+      "title": "Cosmos ecosystem explorer",
+      "description": "Block explorer for Cosmos chains",
+      "url": "https://cosmotracker.com"
+    }
+  ]
+}

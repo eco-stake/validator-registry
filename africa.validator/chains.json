@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "africa.validator",
+  "chains": [
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1gtyfav03q8n8p0yyex4v8zva2342dlgddzx87l",
+      "restake": {
+        "address": "ixo1p7nsds6n0udt3zhwgc9dtztqw4206h0yzy3tf2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

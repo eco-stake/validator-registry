@@ -12,6 +12,15 @@
       }
     },
        {
+      "name": "passage",
+      "address": "pasgvaloper1emwg59t5prrve0qf46wndma0qsxsslgq4ms9su",
+      "restake": {
+        "address": "pasg1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlw35e7",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+       {
       "name": "meme",
       "address": "memevaloper1wx2z70zsheh9qsfcrm3ypupwets38a33ed8my4",
       "restake": {
@@ -48,15 +57,7 @@
         "minimum_reward": 100000
       }
     },
-                   {
-      "name": "planq",
-      "address": "plqvaloper1rsfdz4l8xyv3cqfh0wfkk8nmx72hlt980zcjye",
-      "restake": {
-        "address": "plq1xtfheepfhswusphmnvsrkulwcutd2wcwkkfhms",
-        "run_time": "every 3 minutes",
-        "minimum_reward": 10000000000000000
-      }
-    },
+  
                {
       "name": "cerberus",
       "address": "cerberusvaloper1teryendjzhaxn520ng946d2yprnh5jed49mydt",

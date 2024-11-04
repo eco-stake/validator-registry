@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoNet-Test",
+  "chains": [
+    {
+      "name": "lumenxtestnet",
+      "address": "lumenvaloper1nz835fpf895v4vyvek5x2r8d8dyf0v6qajuxse",
+      "restake": {
+        "address": "lumen1zz3wp5t24ej534nz5g7lxdazekx0aaek6mkg0l",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

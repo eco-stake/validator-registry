@@ -8,7 +8,7 @@
         "restake": {
           "address": "stars1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8u782r5",
           "run_time": "every 60 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 500000
         }
       },
       {
@@ -26,7 +26,7 @@
         "restake": {
           "address": "gravity1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8vjz0dd",
           "run_time": "every 60 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 1000
         }
       },
       {
@@ -35,7 +35,7 @@
         "restake": {
           "address": "jkl1gzp80v9fugsgxh7u73hh8nuxaaqsm9k83u7x36",
           "run_time": "every 60 minutes",
-          "minimum_reward": 10000
+          "minimum_reward": 1000
         }
       }
     ]

@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AmsterdamNode - AutoStake",
+  "chains": [
+    {
+      "name": "cudos",
+      "address": "cudosvaloper19x6hxpuasshs80vy39j2kh2rcjhz0982wwz9r0",
+      "restake": {
+        "address": "cudos1j96jlcruunj772dh247wfappe00jrgsdrlzycr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

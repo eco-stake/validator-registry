@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Go and Singh ",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper106hu5d46yeuaxud2v2v9av8crltmegcauqltlj",
+            "restake": {
+                "address": "core1u28l387dngwr46m9cfxmfsf6uxvt8wd0ha2py7",
+                "run_time": "every 24 hours",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

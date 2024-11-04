@@ -7,7 +7,7 @@
       "address": "undvaloper14nv3yz7hk3qxjyv0fnk65p9jududct6quhyhyl",
       "restake": {
         "address": "und14pp5qt9kv6msl3jdxxk5vye3mf5eyugtwjz67v",
-        "run_time": "Every 12 hours",
+        "run_time": "00:00",
         "minimum_reward": 1000000000
        }
     }

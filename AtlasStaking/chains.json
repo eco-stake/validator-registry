@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Atlas Staking",
+  "chains": [
+    {
+      "name": "kava",
+      "address": "kavavaloper1ua2yqfjck23vsmynltcgrvvg5rhfkm4cy78vmq",
+      "restake": {
+        "address": "kava1e25f0vsnv8a6t040jx2aqac52dt7837x9v2pf5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper16c9s32mr3q59w6dupwreh5yyzu20nlp3ctxapu",
+      "restake": {
+        "address": "band1xga9ftqycldzueu2ggrsuwj6mznal3sn96r55q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

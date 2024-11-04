@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Partner Staking",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1hkjsxadg0a0dj5pwdyfnf8qm0az6wcxcwhdnry",
+      "restake": {
+        "address": "inj1h6awlz05a3ffr7en9qnmg33h5ae2q4ldsq7vnd",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

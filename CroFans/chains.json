@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CroFans 🚀",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl10skwvezaqkngyw9uyskzsqe2cu8jc2ysrrndry",
+      "restake": {
+        "address": "cro1g5gfuukht6cpehkee6mll453zlezhm8lat0kr3",
+        "run_time": "15:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

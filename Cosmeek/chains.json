@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cosmeek",
+  "chains": [
+    {
+      "name":"terra",
+      "address":"terravaloper15gs5cy87n5jxddf4vq94efre9uwkrt9xaaw9z7",
+      "restake":{
+        "address":"terra1vaxq6cg4r9c63rde4xy2pfhncuk87ww3qa93kr",
+        "run_time":"00:00",
+        "minimum_reward":1000000000
+      }
+    }
+  ]
+}

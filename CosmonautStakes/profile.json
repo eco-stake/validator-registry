@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Cosmonaut Stakes",
+  "identity": "5C1159DB8957B5AA",
+  "website": "https://x.com/CosmonautStakes",
+  "description": {
+    "overview": "Stake with us for a smooth and worry-free experience 🛡️. Validator, IBC/ICA Relayer, Public Infrastructure Provider and Tools Developer with 99%+ uptime and community involvement 🤖."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "dan@blocklift.net",
+    "telegram": "CosmonautStakes",
+    "twitter": "CosmonautStakes",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

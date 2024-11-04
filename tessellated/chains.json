@@ -64,6 +64,52 @@
 				"run_time": "every 4 hours",
 				"minimum_reward": 10000
 			}
+		},
+   		{
+			"name": "mars",
+			"address": "marsvaloper1gmmas9wdfmxu2f2hwwqhtw683uxumq2dnwfhcd",
+			"restake": {
+				"address": "mars1jw7a28g98q3e7ul9f78cuzxnaw67dax8mqjnm2",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
+		},
+		{
+			"name": "agoric",
+			"address": "agoricvaloper1rjsqwx2arcx9mz0ldtm44ytkfd3l60crvyxhku",
+			"restake": {
+				"address": "agoric1pw3r63qenx2kut0j0xcge4fk9yg06y3fg8relg",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
+		},
+		{
+			"name": "cudos",
+			"address": "cudosvaloper16uz64azhwsvfxfng0w0t4mfcupqfksx3fuykw4",
+			"restake": {
+				"address": "cudos1jw7a28g98q3e7ul9f78cuzxnaw67dax88vz4sy",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
+		},
+		{
+			"name": "dydx",
+			"address": "dydxvaloper1w7zmxnra5ckhzs3xhrxyneu0d8cutxhym2cqql",
+			"restake": {
+				"address": "dydx1jw7a28g98q3e7ul9f78cuzxnaw67dax80y9wwx",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
+		},
+		{
+			"name": "celestia",
+			"address": "celestiavaloper14nq28mnq3cknlxhnr0n2pxekueu34wfjgp266c",
+			"restake": {
+				"address": "celestia1jw7a28g98q3e7ul9f78cuzxnaw67dax8hh665u",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
 		}
+		
 	]
 }

@@ -1,0 +1,15 @@
+{
+   "$schema":"../chains.schema.json",
+   "name":"♥️♣️TerraCasino♦️♠️",
+   "chains":[
+      {
+         "name":"terra",
+         "address":"terravaloper1xjlc2jl4nyywuwgttkcjqjgxxdkafqrexd7e9l",
+         "restake":{
+            "address":"terra1p076w9h4z76jy65ydll7petl89x2x7payvmnew",
+            "run_time":"every 4 hours",
+            "minimum_reward":10000000
+         }
+      }
+ ]
+}

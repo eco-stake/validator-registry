@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Hex Technologies",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1u8npsgrcyk4csp0cpzecwkvcqw4e6thqzcrvp7",
+      "restake": {
+        "address": "inj177az243er8d3agxr8r34pfq8ktq9hda9nq26t9",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

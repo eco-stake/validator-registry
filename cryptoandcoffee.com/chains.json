@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Crypto and Coffee",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1lpykm8ru865ca8hy392uvtnpeqacj3tvwz9f2n",
+      "restake": {
+        "address": "akash1cq0qjtyp2lu440hy26q7y9sskygr5jwy73ulqr",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1te02m7t9m9l58yatvn89tmlmkk5zsy7ruh3m6j",
+      "restake": {
+        "address": "nolus1cq0qjtyp2lu440hy26q7y9sskygr5jwy96p8mu",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper14c0mhs3nfu6a2wxaks9ev2epvlw0gyvepv3n28",
+      "restake": {
+        "address": "gitopia1cq0qjtyp2lu440hy26q7y9sskygr5jwydjk0k6",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1yy0u33sdgemd9ulsx5j8z08ua5qvnm6s4uulh6",
+      "restake": {
+        "address": "chihuahua1cq0qjtyp2lu440hy26q7y9sskygr5jwyslukcm",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1takqhlw9qx0vs97f66t9588kkalg844c3kfrl9",
+      "restake": {
+        "address": "meme1cq0qjtyp2lu440hy26q7y9sskygr5jwyd4807n",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}

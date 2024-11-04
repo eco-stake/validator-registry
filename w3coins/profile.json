@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "w3coins",
+  "identity": "63C62007AB5345E3",
+  "website": "https://www.w3coins.io",
+  "description": {
+    "overview": "w3coins is a Professional Validator and web3 Venture Capital. Stake Your Cryptocurrency with us to Maximize Your Earnings."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@w3coins.io",
+    "telegram": "w3coins_Official_Group",
+    "twitter": "w3coins_io",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

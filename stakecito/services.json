@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Stakecito",
+  "services": [
+    {
+      "title": "Stakecito",
+      "description": "Securing & Decentralizing PoS Networks. ",
+      "url": "https://stakecito.com"
+    }
+  ]
+}

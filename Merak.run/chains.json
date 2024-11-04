@@ -46,7 +46,16 @@
         "run_time": "every 1 hour",
         "minimum_reward": 11000000
       }
+    },      {
+      "name": "nyx",
+      "address": "nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd",
+      "restake": {
+        "address": "n18hnw9arscc559gqt0eake3guyyv9k6wq2duy45",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000
+      }
     }
+
   
   ]
 }

@@ -19,6 +19,24 @@
         "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1t9pdehdfa5p026u03s68ceknpx36xg4py0ps5r",
+      "restake": {
+        "address": "kyve12jryjmur05k460xsxleg2a3e7tfvt42gurfps0",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper19vhun9rn57f94mnryyjr5naxhkt87rhx2d94c2",
+      "restake": {
+        "address": "migaloo12jryjmur05k460xsxleg2a3e7tfvt42gxeddw9",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000
+      }
+    }   
   ]
 }

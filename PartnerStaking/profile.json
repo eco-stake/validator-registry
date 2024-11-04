@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Partner Staking",
+  "identity": "8AB00A2EC2EB71BD",
+  "website": "https://partnerstaking.com",
+  "description": {
+    "overview": "Your stake and our tech knowledge makes for a great partnership"
+  },
+  "contacts": {
+    "email": "support@partnerstaking.com",
+    "telegram": "partnerstaking",
+    "twitter": "PartnerStaking"
+  }
+}

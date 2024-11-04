@@ -1,32 +1,14 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "   Goatlabs V 🐐",
+  "name": "GOAT V🐐",
   "chains": [
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper18twaqg4vaextnm5dddgmlm5quwymaswkchqt3a",
-      "restake": {
-        "address": "cerberus1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrjhkgq5",
-        "run_time": "every 4 minutes",
-        "minimum_reward": 10000000
-      }
-    },
     {
       "name": "chihuahua",
       "address": "chihuahuavaloper1m4jcru5nsmtzgt4ha8fj4egau3w89cqzdrngnh",
       "restake": {
         "address": "chihuahua1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrd9m05a",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 10000000
-      }
-    },
-    {
-      "name": "juno",
-      "address": "junovaloper189p0ze3jue9vxhm8pe3jy0gn3vkgyf2jhewtls",
-      "restake": {
-        "address": "juno1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrcz46jr",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000
       }
     },
     {
@@ -34,8 +16,35 @@
       "address": "pasgvaloper1m4jcru5nsmtzgt4ha8fj4egau3w89cqzd9dfd2",
       "restake": {
         "address": "pasg1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrdg0mcq",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper154327a0ud04jtdecac8uhecmnz3kqdueqtevmc",
+      "restake": {
+        "address": "bitsong1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrzeyfhs",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "8ball",
+      "address": "8ballvaloper1wcddcyc7clr42g3mxr0xhkx7dspw37g8hpsyfn",
+      "restake": {
+        "address": "8ball1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrx9kvkq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper13trlt0dp6ttwqgaaru3fn265n8vjf7826uje4d",
+      "restake": {
+        "address": "jkl1uxwnhyjd2m5y6mpqsdg95y4ty0a5jtfrhwcsvq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]

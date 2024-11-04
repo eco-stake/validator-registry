@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Interstellr",
+  "services": [
+    {
+      "title": "Interstellr",
+      "description": "PoS Networks co-operate by TaRS & CaSe, maintain by KiPP. Welcome all Mannkind. Plenty of slaves for our robot colony.",
+      "url": "https://PlanC.interstellr.xyz"
+    }
+  ]
+}

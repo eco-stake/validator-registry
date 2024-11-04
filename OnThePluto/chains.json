@@ -3,21 +3,30 @@
   "name": "OnThePluto",
   "chains": [
     {
-      "name": "rebus",
-      "address": "rebusvaloper1xrvgdqjqhkp9ptzgl3hgd6q5ausq776e9n7za8",
-      "restake": {
-        "address": "rebus1uvl4gm7yy6luvzlf4767tvgxkv5xkh5zc4cg3e",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 200000000000000000
-      }
-    },
-    {
       "name": "quicksilver",
       "address": "quickvaloper1c60cey5jlw95606r9k2ft60jxewrryjg3dusdx",
       "restake": {
-        "address": "quick12ckf947w66a306qgg4m3c537nynhu9qxmyhcp7",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "address": "quick1mr3rk72vejmpr28mjrs9lvqacq8hz8c92kajy0",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1wv076zk657dvpmf7g59ewsey6dptahxn80wmzr",
+      "restake": {
+        "address": "uptick1m9u7y3n85r6wty0c0gyna3gpcdyyzmt68v86dd",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1u32kdvz3t2ef7l894z8jyp64l8pme9kq2m074q",
+      "restake": {
+        "address": "haqq1m9u7y3n85r6wty0c0gyna3gpcdyyzmt6kdwj22",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

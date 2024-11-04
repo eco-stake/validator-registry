@@ -1,0 +1,17 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "DatumInfinitum",
+	"chains": [{
+		"name": "synternet",
+		"address": "syntvaloper1av9d9475azy4xam50qlvfa35ugedlg07g9kpg7",
+		"restake": {
+			"address": "synt1fgrvza074n3hvrcg6fd0kyf64cd25twm6pm4ym",
+			"run_time": [
+			"00:15",
+			"08:15",
+			"16:15"
+			],
+			"minimum_reward": 1000000
+		}
+	}]
+}
