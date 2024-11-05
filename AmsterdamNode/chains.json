@@ -3,10 +3,10 @@
   "name": "AmsterdamNode - AutoStake",
   "chains": [
     {
-      "name": "cudos",
-      "address": "cudosvaloper19x6hxpuasshs80vy39j2kh2rcjhz0982wwz9r0",
+      "name": "fetchhub",
+      "address": "fetchvaloper1g7wlwa5ny5ytwj4fhtyl83xz2phfrsqnnc6sft",
       "restake": {
-        "address": "cudos1j96jlcruunj772dh247wfappe00jrgsdrlzycr",
+        "address": "fetch1j96jlcruunj772dh247wfappe00jrgsd3nzlyp",
         "run_time": [
           "09:00",
           "21:00"
