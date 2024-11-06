@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "ShidoValidatorX",
+    "name": "ValidatorX",
     "chains": [
       {
         "name": "shido",
