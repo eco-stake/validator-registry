@@ -102,6 +102,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1nlgdsf8kxwtk0u36xd8k29h6s4teaunq0c8x3f",
+      "restake": {
+        "address": "atone10eumq5yvapfdan5nxsfkc3arskff3l9v0qw8vf",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },    
+    {
       "name": "arkh",
       "address": "arkhvaloper1nfvsj4k9ufmae393r5u7098zfhpwrav8u5lzde",
       "restake": {
