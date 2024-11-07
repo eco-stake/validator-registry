@@ -255,6 +255,15 @@
       }
     },
     {
+      "name": "mantrachain",
+      "address": "mantravaloper1jyx4czsy8unap4hsg74za2ymqawxkjzew0kq9k",
+      "restake": {
+        "address": "mantra194ytn50yhh67rdha8akhs7c6zulnz4n2zur80e",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "nois",
       "address": "noisvaloper1ymh63hmdpp2ymhgqv24q7d0736yeycn95c6evz",
       "restake": {
