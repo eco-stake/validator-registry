@@ -4,7 +4,7 @@
   "chains": [
     {
       "name": "cosmoshub",
-      "address": "cosmos160794m2vw5yu2dvmsw8lcjh33ur26myjrghweq",
+      "address": "cosmosvaloper160794m2vw5yu2dvmsw8lcjh33ur26myjxurm4n",
       "restake": {
         "address": "cosmos14x94hjtjfzl4mwm6ucahfp5tjcct2e6er8x873",
         "run_time": [
