@@ -100,6 +100,15 @@
             "run_time":"every 12 hours",
             "minimum_reward":100000
          }
+      },
+      {
+         "name":"stargaze",
+         "address":"starsvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0zasexl",
+         "restake":{
+            "address":"stars1q52x3jrc2jrx7rv380z64tsw9m907zlhm588j7",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
       }
    ]
 }
