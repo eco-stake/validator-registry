@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
+      "restake": {
+        "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper12v3458kg298ckge36lsqafmmggj3pywj062p2q",
       "restake": {

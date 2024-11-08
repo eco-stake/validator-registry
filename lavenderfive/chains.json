@@ -169,6 +169,17 @@
       }
     },
     {
+      "name": "fetchhub",
+      "address": "fetchvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z6q9rh3",
+      "restake": {
+        "address": "fetch12xpq68caw2aqdu70jm4k792g0v9prhrpn70qz0",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "firmachain",
       "address": "firmavaloper1sl53c25dhhac36fsuj0cgw55dm4pzvjxv2mzn6",
       "restake": {
