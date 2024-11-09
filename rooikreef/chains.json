@@ -107,7 +107,7 @@
       "restake": {
         "address": "atone10eumq5yvapfdan5nxsfkc3arskff3l9v0qw8vf",
         "run_time": "every 1 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 100000
       }
     },    
     {
