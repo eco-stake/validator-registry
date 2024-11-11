@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Shinobi-Validator",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper196f7nd7grhs3kljdmu7mx52d5p78dt5j9zu495",
+        "restake": {
+          "address": "shido196f7nd7grhs3kljdmu7mx52d5p78dt5jag8a65",
+          "run_time": "every 1 minute",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+}
