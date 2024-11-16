@@ -173,14 +173,23 @@
         "minimum_reward": 500000000000000000
       }
     },  
-      {
-         "name":"provenance",
-         "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",
-         "restake":{
-            "address":"pb10ckyufenegvw8czkqxck08q7gn92k2zz93g0ut",
-            "run_time":"every 4 hours",
-            "minimum_reward":500000000
-         }
-      }
+    {
+   "name": "osmosis",
+   "address": "osmovaloper1czsuul2n7252wcrvk9dvjcjg2qn2qcdd9ue74s",
+   "restake": {
+     "address": "osmo1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnns5adc",
+     "run_time": "every 4 hours",
+     "minimum_reward": 100000
+     }
+   },  
+    {
+   "name":"provenance",
+   "address":"pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre",
+   "restake":{
+      "address":"pb10ckyufenegvw8czkqxck08q7gn92k2zz93g0ut",
+      "run_time":"every 4 hours",
+      "minimum_reward":500000000
+   }
+ }
    ]
 }
