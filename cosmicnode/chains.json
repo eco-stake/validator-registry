@@ -63,6 +63,54 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },{
+      "name": "selfchain",
+      "address": "selfvaloper1v2srqzaqku25pdndegz3flhez6umfehp88jmxc",
+      "restake": {
+        "address": "self1u9rtjramea2extgfjqcjce6mym0yu647ww9u2u",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },{
+      "name": "stargaze",
+      "address": "starsvaloper1v2srqzaqku25pdndegz3flhez6umfehp8s9c7n",
+      "restake": {
+        "address": "stars1u9rtjramea2extgfjqcjce6mym0yu647le0a0y",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },{
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1v2srqzaqku25pdndegz3flhez6umfehpaxjyzf",
+      "restake": {
+        "address": "cosmos1u9rtjramea2extgfjqcjce6mym0yu647t9cqy4",
+        "run_time": "21:00",
+        "minimum_reward": 50000
+      }
+    },{
+      "name": "assetmantle",
+      "address": "mantlevaloper1v2srqzaqku25pdndegz3flhez6umfehpxfeq29",
+      "restake": {
+        "address": "mantle1u9rtjramea2extgfjqcjce6mym0yu6474pr9ml",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },{
+      "name": "irisnet",
+      "address": "iva1v2srqzaqku25pdndegz3flhez6umfehpcpv03v",
+      "restake": {
+        "address": "iaa1u9rtjramea2extgfjqcjce6mym0yu64778c3xy",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },{
+      "name": "sentinel",
+      "address": "sentvaloper1v2srqzaqku25pdndegz3flhez6umfehpuv099u",
+      "restake": {
+        "address": "sent1u9rtjramea2extgfjqcjce6mym0yu647s7weq6",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

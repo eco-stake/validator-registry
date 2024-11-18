@@ -29,6 +29,15 @@
         "minimum_reward": 100000
           }
        },
+       {
+         "name": "atomone",
+         "address": "atonevaloper13v0v7meel8kdevgcz9t379s0gcl7kldu04vrvh",
+          "restake": {
+            "address": "atone1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnd6wq0t",
+           "run_time": "every 10 minutes",
+           "minimum_reward": 10000
+          }
+       },
     {
       "name": "althea",
       "address": "altheavaloper19fmpww5ph44hxkg4z4a9yq5yszfkekgnz9hull",

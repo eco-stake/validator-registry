@@ -136,17 +136,6 @@
       }
     },
     {
-      "name": "cudos",
-      "address": "cudosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zsm56ef",
-      "restake": {
-        "address": "cudos12xpq68caw2aqdu70jm4k792g0v9prhrppj0m7d",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "dydx",
       "address": "dydxvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zq7tkd8",
       "restake": {

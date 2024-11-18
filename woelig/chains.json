@@ -334,6 +334,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper1u5f3sdrzt96zyh45y5fx7c88ymvn0e8yqlmvz5",
+      "restake": {
+        "address": "dungeon1e762e7chsgz3aurtelcz948j8gscfr0qpaa3k6",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     }
   ]
 }
