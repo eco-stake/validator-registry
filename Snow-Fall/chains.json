@@ -21,6 +21,15 @@
          }
       },
       {
+         "name":"assetmantle",
+         "address":"mantlevaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0ryvpjf",
+         "restake":{
+            "address":"mantle1q52x3jrc2jrx7rv380z64tsw9m907zlh3vtlx9",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
          "name":"bandchain",
          "address":"bandvaloper1gqsyphjwkqnp8ahffzx2ul2txru8jaztr3fzdg",
          "restake":{
