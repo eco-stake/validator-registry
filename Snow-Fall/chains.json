@@ -118,6 +118,15 @@
             "run_time":"every 12 hours",
             "minimum_reward":100000
          }
+      },
+      {
+         "name":"zetachain",
+         "address":"zetavaloper1fpcykzjjh2dzjz77my7ugpeq0unyjhtjf0flpz",
+         "restake":{
+            "address":"zeta1g0pt7yj0hywuduh6242zwf7u6sj8hm70h7500q",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
       }
    ]
 }
