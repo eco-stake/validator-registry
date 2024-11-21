@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "nomic",
+      "address": "nomic1gjgrytw58c377erlgt9d4uzg7a3rsh4k0gehv3",
+      "restake": {
+        "address": "nomic1gjgrytw58c377erlgt9d4uzg7a3rsh4k0gehv3",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "nim",
       "address": "nimvaloper1q5t0zghhs7j9jyk2gm7wrupfv0d3sptutme0d5",
       "restake": {
