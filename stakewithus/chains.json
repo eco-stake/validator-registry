@@ -1,5 +1,5 @@
 {
-  "name": "StakeWithUs",
+  "name": "Nansen",
   "chains": [
     {
       "name": "osmosis",
@@ -22,7 +22,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 500000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -102,18 +102,6 @@
       "address": "pasgvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvkgqv0n",
       "restake": {
         "address": "pasg1ltd3ynqjvy39r3lc48p4zlqa59hvam5tktnfyl",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "quicksilver",
-      "address": "quickvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn9dp5t",
-      "restake": {
-        "address": "quick1ltd3ynqjvy39r3lc48p4zlqa59hvam5t7h6psj",
         "run_time": [
           "00:00",
           "12:00"
