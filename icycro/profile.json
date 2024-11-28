@@ -1,4 +1,5 @@
 {
-"name": "IcyCRO.org | 0% fee",
+"$schema": "../profile.schema.json",
+"name": "IcyCRO.org",
 "identity": "E072BD129BFECFB1"
 }

@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Blockpower Capital",
+  "identity": "DF1CDD6E03CCF372",
+  "website": "https://blockpower.capital",
+  "description": {
+    "overview": "We are web 3.0 trusted validators and discerning investors focused on secure staking, enterprise grade infrastructures and high quality applications."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "leo@blockpower.capital",
+    "telegram": "Blockpower",
+    "twitter": "Blockpower_cap",
+    "discord": "https://discord.gg/BUmZ8pBeQv",
+    "others": {
+      "emergency": "harvey@blockpower.capital"
+    }
+  }
+}

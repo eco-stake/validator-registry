@@ -1,0 +1,69 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Cosmos Cats",
+    "chains": [
+        {
+            "name": "rebus",
+            "address": "rebusvaloper10889xealx5s5fa36fzzretlq5k679htnk975w4",
+            "restake": {
+                "address": "rebus1k925saegdkfcq4cxjde7nmzyvu6cc0mazpyt77",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000000000000000
+            }
+        },
+           {
+             "name": "cheqd",
+             "address": "cheqdvaloper1wvpl7df3cgutzdm06dl7kjdh50945wayz5umnp",
+             "restake": {
+                "address": "cheqd1k925saegdkfcq4cxjde7nmzyvu6cc0maaft7pe",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000      
+            }
+        },
+         {
+             "name": "teritori",
+             "address": "torivaloper1u95yrd65yr28v7yek0zchsadg5s3wklvcc9hzh",
+             "restake": {
+                "address": "tori1k925saegdkfcq4cxjde7nmzyvu6cc0ma3lsh3c",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000      
+            }
+        },
+         {
+             "name": "crescent",
+             "address": "crevaloper1ldfs26e2g6t007wz7j9jhgylazrjnjqw7uhlf2",
+             "restake": {
+                "address": "cre1k925saegdkfcq4cxjde7nmzyvu6cc0mahr5ml9",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000      
+            }
+        },
+         {
+             "name": "lambda",
+             "address": "lambvaloper1rzqsc6n5xmd635vc7xkfa053lxdtc5624tsq0w",
+             "restake": {
+                "address": "lamb1s36ccfkx6e8vg9tfqxp3qx9a8x48jgkzluv7mn",
+                "run_time": "every 1 hour",
+                "minimum_reward": 1000000000000000000      
+            }
+            },
+		 {
+             "name": "umee",
+             "address": "umeevaloper1xa3rtquya70le5tuq7f4gnvx0v8shmdm67wcs6",
+             "restake": {
+                "address": "umee1k925saegdkfcq4cxjde7nmzyvu6cc0mapa6pw6",
+                "run_time": ["21:00"],
+                "minimum_reward": 100000    
+            }
+            },
+            {
+             "name": "evmos",
+             "address": "evmosvaloper1jkqgnx9y8jm9gu6r56686f5s4hjmuvkau8w6zt",
+             "restake": {
+                "address": "evmos1s36ccfkx6e8vg9tfqxp3qx9a8x48jgkzx6u7qk",
+                "run_time": ["21:00"],
+                "minimum_reward": 100000000000000000      
+            }
+         }  
+    ]
+}

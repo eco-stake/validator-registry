@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "bellatora.co",
+  "services": [
+    {
+      "title": "bellatora.co",
+      "description": "Simple and Secure Staking With Bellatora",
+      "url": "https://bellatora.co"
+    }
+  ]
+}

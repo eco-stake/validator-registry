@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Fasthub.io",
+  "services": [
+    {
+      "title": "Fasthub.io",
+      "description": "Fast, secure and reliable staking service. Stake with confidence!",
+      "url": "https://fasthub.io"
+    }
+  ]
+}

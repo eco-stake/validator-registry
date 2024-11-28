@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🐸 SpacePepe Labs 🔬✅🎁",
+  "chains": [
+    {
+        "name": "evmos",
+        "address": "evmosvaloper1vm5fvg57aeqp7xwl3umev7z0364jzvcfzlnfew",
+        "restake": {
+          "address": "evmos1rzf2fqhu2ysvmyhe5c82rsrhrlhl9fatetqm0n",
+          "run_time": "08:00",
+          "minimum_reward": 1001
+        }
+    }
+  ]
+}

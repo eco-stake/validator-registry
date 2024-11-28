@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "DavidsNode",
+  "services": [
+    {
+      "title": "DavidsNode",
+      "description": "Join us.",
+      "url": "https://baraka.fund"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ChronoBit|Enterprise",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1q3j92zfnw9y94l9cghwzud2sdumlwszsr9kqdv",
+      "restake": {
+        "address": "sent1lth6kse3humj3qnunsj6d0vqy0cq2rqn2dzhtw",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    }  
+  ]       
+}

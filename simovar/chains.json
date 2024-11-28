@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "simovar",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1cqsr82tuvq2gtkan5rprggnmgyej76apcmwkuu",
+      "restake": {
+        "address": "plq1cqsr82tuvq2gtkan5rprggnmgyej76apx9rv6d",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    }
+ ]
+}

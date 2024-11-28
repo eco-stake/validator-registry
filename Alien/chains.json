@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Alien",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1suk0jr5ypajqh6ugz26q80jnc9a3ft78jyjamg",
+      "restake": {
+        "address": "rebus1suk0jr5ypajqh6ugz26q80jnc9a3ft78vnwzwt",
+        "run_time": "22:30",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

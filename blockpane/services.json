@@ -1,0 +1,39 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "[ block pane ]",
+  "services": [
+    {
+      "title": "Tenderduty",
+      "description": "Tenderduty is a tool for Tendermint validators that will reliably detect missed blocks and notify using Pagerduty.",
+      "url": "https://github.com/blockpane/tenderduty"
+    },
+    {
+      "title": "Cosmos account finder",
+      "description": "Helps identify if an account exists on multiple cosmos chains with the same public key.",
+      "url": "https://findaccount.blockpane.com/"
+    },
+    {
+      "title": "p2p-exposed",
+      "description": "Utility for validators to check if node related TCP ports are exposed to the internet. By requesting a specific URL it will perform a reverse port scan of the node and return the results.",
+      "url": "https://github.com/blockpane/p2p-exposed"
+    },
+    {
+      "title": "Juno network monitor",
+      "description": "Tool for visualizing the distribution of nodes on the network",
+      "url": "https://juno-stats.blockpane.com/"
+    },
+    {
+      "title": "Osmosis network monitor",
+      "url": "https://osmosis-stats.blockpane.com/"
+    },
+    {
+      "title": "Injective network monitor",
+      "url": "https://inj-stats.blockpane.com/"
+    },
+    {
+      "title": "",
+      "description": "",
+      "url": ""
+    }
+  ]
+}

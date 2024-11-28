@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PanteraStaking-Dime",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1h9gg3xavqdau6uy3r36vn4juvzsg0lqvszgtvc",
+      "restake": {
+        "address": "orai1m2g4fqcrmka0q2kzcczppq402h32cn0qf27f2m",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

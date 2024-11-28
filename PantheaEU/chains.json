@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Panthea EU",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper18uempxcg7e8xr0un2zc3x3add2zdr0vwdshhhc",
+      "restake": {
+        "address": "bcna1yqqsskp60ru889m2ac9rtdays6pt9xfy0g6p6t",
+        "run_time": ["03:00", "09:00", "15:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper16976fek2lpt6nnuj3r00ldw7lvhavvqt0mkxjy",
+      "restake": {
+        "address": "bitsong1ce3u6d0jwpzvgwnvktjwarwz2yzhae372qqhvw",
+        "run_time": ["03:00", "09:00", "15:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1p99dxczg9qu5x3d0yxc6wdwgz0n3mzsrtt2jsc",
+      "restake": {
+        "address": "pb1t2h366ql9tuw0uufpqc7m3ce875v6q04fhsgd8",
+        "run_time": ["03:00", "09:00", "15:00", "21:00"],
+        "minimum_reward": 10000000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lnmamkg",
+      "restake": {
+        "address": "shentu1yqqsskp60ru889m2ac9rtdays6pt9xfyavweqy",
+        "run_time": ["03:00", "09:00", "15:00", "21:00"],
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

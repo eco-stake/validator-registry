@@ -1,0 +1,32 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ROSNODEMONITORING",
+  "chains": [
+   {      "name": "teritori",
+      "address": "torivaloper1ll382k4tjy2uec57ljex306e476syr36rs6uk4",
+      "restake": {
+        "address": "tori1ffy2xe2wpy75dl6ecls3tw45kd3wlrzpfm6uxf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+       }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper14de6yy0g7kp5z9w7tg8wsnp8yg6vzxy4dmacat",
+      "restake": {
+        "address": "nois1ffy2xe2wpy75dl6ecls3tw45kd3wlrzp68sl3p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+     {
+      "name": "source",
+      "address": "sourcevaloper1ekf7pyst4z8zev9ucq5fcavagcup5a0kn0wcaw",
+      "restake": {
+        "address": "source1ffy2xe2wpy75dl6ecls3tw45kd3wlrzpdu5td8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": " Fenrir",
+  "chains": [
+    {
+      "name": "odin",
+      "address": "odinvaloper1hz4ec0y6unshsfdwk2qj3dm3htky8yez486u25",
+      "restake": {
+        "address": "odin1kguxehtwfwspcfxtca66yk5hcna5nnr2cmap3y",
+        "run_time": [
+          "02:00",
+          "08:00",
+          "14:00",
+          "20:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

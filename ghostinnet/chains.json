@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ghostinnet",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1phekwx93vtlk8yjqvvnppzgkfd9tt7e8qxmy2l",
+      "restake": {
+        "address": "kujira1xmdmznr3snzr5nq3dwwkyrprq5j4fl6zu0ws0x",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

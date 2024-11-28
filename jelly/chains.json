@@ -1,0 +1,23 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "jelly",
+    "chains": [
+      {
+        "name": "kujira",
+        "address": "kujiravaloper16y90ccjph8n5kx86apwtztydg6q03mcjzw9fak",
+        "restake": {
+          "address": "kujira16y90ccjph8n5kx86apwtztydg6q03mcj9mk6pe",
+          "run_time": "every 10 minutes",
+          "minimum_reward": 100000
+        }
+      }, {
+        "name": "bandchain",
+        "address": "bandvaloper1q4sta02v9tfssnsdnpj3ephygay2vdelqdqaup",
+        "restake": {
+          "address": "band1q4sta02v9tfssnsdnpj3ephygay2vdelvmy7e2",
+          "run_time": "every 10 minutes",
+          "minimum_reward": 100000
+        }
+      }
+    ]
+  }

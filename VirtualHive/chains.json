@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Virtual Hive",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1zc0z44e42qhzltqc8qpj5qrzn836d3lftnqmgw",
+      "restake": {
+        "address": "cosmos1hjtax7gswfecxc09nzmttdavne0af84lphsjal",
+        "run_time": [
+          "10:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

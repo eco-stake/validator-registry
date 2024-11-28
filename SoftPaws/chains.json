@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "SoftPaws",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper15z5dphcvgvtd9c0q7e7wau782ac0hzengnx0ug",
+            "restake": {
+                "address": "echelon15z5dphcvgvtd9c0q7e7wau782ac0hzenma6v3c",
+                "run_time": "08:00",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

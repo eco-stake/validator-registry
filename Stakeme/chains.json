@@ -1,0 +1,96 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ProNodes",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1vg55n0rme285ncdjd0dwhylm0f4dgyfn5ar48g",
+      "restake": {
+        "address": "evmos1su6tsndr8vq9cq38d5xwdsmt68rlx9y9gtkgq2",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+	  
+     {
+      "name": "bitsong",
+      "address": "bitsongvaloper1mz5q43032m6qwzsq2e3vkjgs7zqx4ksl7swf9v",
+      "restake": {
+        "address": "bitsong17swhfphmurxa6zyr4plx9cyc4993e7tgd86gz5",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+	  
+    {
+      "name": "kichain",
+      "address": "kivaloper1smw5499ydqxy6lwx3exvxje0qkjhj2ny8e0e3s",
+      "restake": {
+        "address": "ki17swhfphmurxa6zyr4plx9cyc4993e7tgsre0y0",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+	
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper105let5nrc5c73aupauarthpnkpjg9zh8awa2j7",
+      "restake": {
+        "address": "bcna17swhfphmurxa6zyr4plx9cyc4993e7tgm7cpgf",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }, 
+	  
+    {
+      "name": "umee",
+      "address": "umeevaloper1650kd9sqn2dh57yu3arvtu28q2xvxvnv725ux3",
+      "restake": {
+        "address": "umee17swhfphmurxa6zyr4plx9cyc4993e7tgnc4lyf",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+	  
+    {
+      "name": "crescent",
+      "address": "crevaloper1pe5r5xng5rtkxga8any4cx3lkfr8qax2nvf7za",
+      "restake": {
+        "address": "cre17swhfphmurxa6zyr4plx9cyc4993e7tg9xm94k",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    
+    {
+      "name": "persistence",
+      "address": "persistencevaloper178ecy0vcanpqqjetgjdyjjqadvu7yqaptla7n4",
+      "restake": {
+        "address": "persistence17swhfphmurxa6zyr4plx9cyc4993e7tg0zwnwl",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+
+    {
+      "name": "stride",
+      "address": "stridevaloper18g7e9hsjkl9u5papkkrfw5escqu86xtz3hft5u",
+      "restake": {
+        "address": "stride17swhfphmurxa6zyr4plx9cyc4993e7tgz9gu5h",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1jgf04cqt3jns5scpmtstux56r0x6tckhs0s0xh",
+      "restake": {
+        "address": "bostrom17swhfphmurxa6zyr4plx9cyc4993e7tgzaun7u",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }	  
+	  
+  ]
+}

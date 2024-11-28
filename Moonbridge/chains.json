@@ -1,0 +1,51 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Moonbridge",
+    "chains": [
+      {
+        "name": "composable",
+        "address": "picavaloper1p677qe3xgjgm3w7aeccmaqdgltf29rmrjz4mpd",
+        "restake": {
+          "address": "pica173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzelev5l",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000000000
+        }
+      },
+      {
+        "name": "empowerchain",
+        "address": "empowervaloper1w2lwvkzltl7g07mztvy9v2dzdq752a8ksu5vkw",
+        "restake": {
+          "address": "empower173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvz707z2x",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "gitopia",
+        "address": "gitopiavaloper1v3tgc8ntrv58nazpzz3h4f8ygyuehr8r9ynmq7",
+        "restake": {
+          "address": "gitopia173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzuma7lm",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "realio",
+        "address": "realiovaloper1hjtdzz9qfzyp78nftlfxnud3xtv7l5wlgr5lmw",
+        "restake": {
+          "address": "realio1ta69uz387st2kj02aseaax22cu8g8jcwwr4jng",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+        "name": "source",
+        "address": "sourcevaloper1cvwn6pu9jltrskvgqhgsa8vvd8vd8ykmvkfn8u",
+        "restake": {
+          "address": "source173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzysrhqx",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+  }

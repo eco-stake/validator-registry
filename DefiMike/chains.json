@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "🔥DefiMike🔥",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper1z35m6f47hjpfvd30naxpvwk5f0hgpc3krf5ezj",
+        "restake": {
+          "address": "shido142ds3ynr2se9atrzv7ngk5sunfjf2ll6uj6qxl",
+          "run_time": "every 1 minutes",
+          "minimum_reward": 10000000000000000
+        }
+      }
+    ]
+  }

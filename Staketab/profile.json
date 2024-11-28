@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Staketab",
+  "identity": "72200AE6CB11A0DE",
+  "website": "https://staketab.com/",
+  "description": {
+    "overview": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem.",
+    "team": "As a team we are dedicated to development of Web3. As we stake in a blockchain, we aim to make a considerable contribution in one."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "partners@staketab.com",
+    "telegram": "ducca",
+    "twitter": "staketab",
+    "discord": "duccaofficial",
+    "others": {
+      "emergency": "support@staketab.com"
+    }
+  }
+}

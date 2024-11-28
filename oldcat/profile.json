@@ -1,4 +1,19 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Oldcat",
-  "identity": "355613DDE80039C8"
+  "identity": "355613DDE80039C8",
+  "website": "https://oldcat.io",
+  "description": {
+    "overview": "A professional validator devoted to the Cosmos Ecosystem. We are validating more than 30 mainnets and testnets."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hkoldcat@pm.me",
+    "telegram": "oldcatv",
+    "twitter": "oldcatv",
+    "discord": "Kcat | Oldcat#1539",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

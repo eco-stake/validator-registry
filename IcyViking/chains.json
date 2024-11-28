@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Icy Viking",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl19zsj3eyhk678nz5z0nxgy5fsavw9dx347r9gfr",
+      "restake": {
+        "address": "cro1lqxy94ej8jce69g82rgtl0l9ftmklxmmw9v9yp",
+        "run_time": ["07:30", "19:30"],
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

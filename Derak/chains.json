@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Derak",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1gr0s77etqjfrfvfcmwwqxpdpa67tmwdpsjeayt",
+      "restake": {
+        "address": "plq1gdyf5g0f7turs8x53ax2lk7q7q7834m60cy4k4",
+        "run_time": "22:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

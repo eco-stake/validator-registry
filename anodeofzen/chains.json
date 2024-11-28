@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "anodeofzen",
+  "chains": [
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1x4sj6d9r9scxef8urmdfxcx37ut7yk2s2m8r68",
+      "restake": {
+        "address": "genesis18rwenegke6nvadz29j53arx4awgukjnugp8myp",
+        "run_time": ["22:22"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1mucx4y5a04ce7hx3mkyrp9g4yuuxj5jjey8flr",
+      "restake": {
+        "address": "source18rwenegke6nvadz29j53arx4awgukjnusm2ns2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1e2l3ardcyp43cz7gs9xd7hafwg5nvdjw4kh6kk",
+      "restake": {
+        "address": "kyve18rwenegke6nvadz29j53arx4awgukjnupx7mts",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

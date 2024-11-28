@@ -1,0 +1,12 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "web34ever",
+  "identity": "52D7E9C59B92F133",
+  "website": "https://web3validator.info",
+  "contacts": {
+    "email": "web34ever@gmail.com",
+    "telegram": "https://t.me/web34ever",
+    "twitter": "https://twitter.com/web34ever",
+    "discord": "web34ever"
+  }
+}

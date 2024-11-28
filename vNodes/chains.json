@@ -1,0 +1,51 @@
+    {
+  "$schema": "../chains.schema.json",  
+  "name": "vNodes Validators",
+    "chains": [
+      {
+        "name": "meme",
+        "address": "memevaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnu3vzc8x",
+        "restake": {
+          "address": "meme1zl2wl0fryq24yug2l9jrmjx73axydfn3a0urd7",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000
+        }
+      },
+      {
+        "name": "sifchain",
+        "address": "sifvaloper1kuw39g4zr5fx37qqq25qydd4gumu5rlu206dtk",
+        "restake": {
+          "address": "sif1zl2wl0fryq24yug2l9jrmjx73axydfn3xd9z9l",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+        "name": "chihuahua",
+        "address": "chihuahuavaloper1rns66d42lp038ptkfu2zf70u5g5rvu4adz83uq",
+        "restake": {
+          "address": "chihuahua1zl2wl0fryq24yug2l9jrmjx73axydfn3q986tk",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000
+        }
+      },
+      { 
+        "name": "cheqd",
+        "address": "cheqdvaloper1j9kcwdayaktu4ma4jeqq67t2tfze5pnuw489xq",
+        "restake": {
+          "address": "cheqd1zl2wl0fryq24yug2l9jrmjx73axydfn3djx5p9",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000
+        }
+      },
+              { 
+        "name": "elystestnet",
+        "address": "elysvaloper179as9jtzcz3mschvf5f3erf0pdag6a7pn4zk0z",
+        "restake": {
+          "address": "elys179as9jtzcz3mschvf5f3erf0pdag6a7pm4ftju",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000
+        }
+      }
+    ]
+  }

@@ -1,5 +1,6 @@
 {
   "name": "Nansen",
+  "$schema": "../chains.schema.json",
   "chains": [
     {
       "name": "osmosis",

@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "a41",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1v78emy9d2xe3tj974l7tmn2whca2nh9zp7s0u9",
+      "restake": {
+        "address": "cosmos1aqsqxax4zpaytfrtxtgqcpj9nem9q0ckzx7yjm",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper19cdcyqej774srr90qdyxggdf3hcqzq9mknqutc",
+      "restake": {
+        "address": "juno1aqsqxax4zpaytfrtxtgqcpj9nem9q0ck55al48",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper18m4wkxw865cmxu7wv43pk9wgssw022kjyxz6wz",
+      "restake": {
+        "address": "osmo1aqsqxax4zpaytfrtxtgqcpj9nem9q0ck2ad5yf",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1xvmgpwdqhrfytjj89h7wqwjds4ylrmhv2nkzcy",
+      "restake": {
+        "address": "sif1aqsqxax4zpaytfrtxtgqcpj9nem9q0ck8m3jas",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1p3ga5uyzl9hum0j5qv0f5vysyevvwc8rxxhqws",
+      "restake": {
+        "address": "stars1aqsqxax4zpaytfrtxtgqcpj9nem9q0ckk6fee2",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1peaw8ez02szsqhc3pf2xsfdfnqd6t2mhk44un4",
+      "restake": {
+        "address": "panacea1ge9nn4jcrnq0n2ru8akq3p43j9xygkfxrzhry0",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

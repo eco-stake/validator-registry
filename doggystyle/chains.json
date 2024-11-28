@@ -1,0 +1,18 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "doggystyle",
+	"chains": [{
+			"name": "chihuahua",
+			"address": "chihuahuavaloper1sh37qp8vyp9v27uwk2r7evqssp63nz3nnh59ae",
+			"restake": {
+				"address": "chihuahua1cs4jxnxjl54y3xnk4aud5g4n334nxsnndn78lr",
+				"run_time": [
+					"06:00",
+					"12:00",
+					"18:00"
+				],
+				"minimum_reward": 1000000
+			}
+		}
+	]
+}

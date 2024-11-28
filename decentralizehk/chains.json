@@ -1,47 +1,12 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "#decentralizehk",
   "chains": [
-    {
-      "name": "bitsong",
-      "address": "bitsongvaloper1ltu429emv4tkn34n7795dxmeagl78ffqazwf9c",
-      "restake": {
-        "address": "bitsong197yc3g8drkf8fyv6fr4ynddy2n22kauunjhehs",
-        "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "cerberus",
-      "address": "cerberusvaloper14vq30fa9mkw00vhnvmtlqxwwnxucl7may9ran2",
-      "restake": {
-        "address": "cerberus197yc3g8drkf8fyv6fr4ynddy2n22kauuru9cq5",
-        "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
     {
       "name": "cosmoshub",
       "address": "cosmosvaloper1m73mgwn3cm2e8x9a9axa0kw8nqz8a492ms63vn",
       "restake": {
         "address": "cosmos197yc3g8drkf8fyv6fr4ynddy2n22kauulm934l",
-        "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "juno",
-      "address": "junovaloper18eancryfzd7n0ag9xy3azqvxgkjla2mrs2uznx",
-      "restake": {
-        "address": "juno197yc3g8drkf8fyv6fr4ynddy2n22kauuffx2jr",
-        "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "lumnetwork",
-      "address": "lumvaloper1sgeam9kyphrzrcau8l5an729mtngxahte76zkn",
-      "restake": {
-        "address": "lum197yc3g8drkf8fyv6fr4ynddy2n22kauu23ccqt",
         "run_time": "22:00",
         "minimum_reward": 100000
       }
@@ -56,30 +21,12 @@
       }
     },
     {
-      "name": "bostrom",
-      "address": "bostromvaloper19hsqcy8w8m3jxjcjdjmas4tnfpkrnm80ptywhu",
+      "name": "akash",
+      "address": "akashvaloper1s9q9ewnpr3jd89lnrme3yjnqdadhpzxdz3q7lf",
       "restake": {
-        "address": "bostrom197yc3g8drkf8fyv6fr4ynddy2n22kauuug3ztc",
+        "address": "akash197yc3g8drkf8fyv6fr4ynddy2n22kauujqgkv9",
         "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "fetchhub",
-      "address": "fetchvaloper1qxf05cpxeeqpkqkxs72nvgt9sjf08yu64n3hkt",
-      "restake": {
-        "address": "fetch197yc3g8drkf8fyv6fr4ynddy2n22kauuvxv4hg",
-        "run_time": "22:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "desmos",
-      "address": "desmosvaloper14zea53kzyz3vdgc99jxgltkmdesnjj86zhlcsc",
-      "restake": {
-        "address": "desmos197yc3g8drkf8fyv6fr4ynddy2n22kauutrgpz8",
-        "run_time": "22:00",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     }
   ]

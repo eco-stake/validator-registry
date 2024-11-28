@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Test Validator Please Ignore",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper19v9rywp4ajm646cx9tvr3lplw4h3g2f27gxg07",
+      "restake": {
+        "address": "cerberus1xqr6ew6x4qkxe832hhjmfpu9du9vnkhxwkf03n",
+        "run_time": "17:00",
+        "minimum_reward": 1
+      }
+    }
+  ]
+}

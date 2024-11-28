@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dnsarz",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1kk4j6t8gsd6t3x2lun8pgpa5hee2nw3xhza4q9",
+      "restake": {
+        "address": "acre1kk4j6t8gsd6t3x2lun8pgpa5hee2nw3xw6v9zc",
+        "run_time": ["21:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

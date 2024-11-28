@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Doma🏠Nodes",
+  "chains": [
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1g09pl3j043uqpw7zqkrdsxw3ve7u63efj2q0gy",
+      "restake": {
+        "address": "mantle1hw95yxm4dmyver9jkkwp2ctl6u2uxmenu4r3m5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+        {
+      "name": "fetchhub",
+      "address": "fetchvaloper1lc08skneh274vq5rm5hxwrnnhhgvkx2zeqsvkz",
+      "restake": {
+        "address": "fetch1hw95yxm4dmyver9jkkwp2ctl6u2uxmen3v3sxf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    }
+  ]
+}

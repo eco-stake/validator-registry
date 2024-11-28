@@ -1,0 +1,20 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CommunityDriven 🚀 ",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1n898aw37m862gkrtpvmf7lfzzvjuc7fn57vmu9",
+      "restake": {
+        "address": "cro1y9rr984gwkllfnr802x3pfcqa39kaget88hlk2",
+        "run_time": [
+          "00:00",
+          "06:00",
+          "12:00",
+          "18:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

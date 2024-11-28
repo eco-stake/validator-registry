@@ -1,4 +1,5 @@
 {
   "name": "Nansen",
+  "$schema": "../profile.schema.json",
   "identity": "609F83752053AD57"
 }

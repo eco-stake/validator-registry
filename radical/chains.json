@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Radical",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1sva8pqqcyehwmcrlye3ak0ujltfpp5jt58sjhl",
+      "restake": {
+        "address": "cerberus12cusard2ddsx6rjue3svgpd4e59ydjf5d43mvk",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

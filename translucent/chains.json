@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Translucent",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper152aldlfeunf4qj6fs6em9s9qv0tupdextjxqzk",
+      "restake": {
+        "address": "acre130r6g5m8277d3n04qpvf58awtnnrcyym5jyzs9",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

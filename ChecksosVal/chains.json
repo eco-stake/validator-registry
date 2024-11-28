@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ChecksosVal",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1edkvw32vpje34lgapxur58p2x789k88d9gc8re",
+      "restake": {
+        "address": "kujira1xdlx2emsz589c06ajv7m4pcpwqkafcdd26ny7y",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+   ]
+}

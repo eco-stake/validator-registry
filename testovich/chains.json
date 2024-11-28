@@ -1,0 +1,42 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "testovich",
+    "chains": [
+      {
+        "name": "stargaze",
+        "address": "starsvaloper1tnx3z8ke9za65v32qxhu65mav2282jru8989a6",
+        "restake": {
+          "address": "stars1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8u782r5",
+          "run_time": "every 60 minutes",
+          "minimum_reward": 500000
+        }
+      },
+      {
+        "name": "assetmantle",
+        "address": "mantlevaloper1lt4fvjm3ru5qgtasjeyw4zzth69ryxdnlu2svj",
+        "restake": {
+          "address": "mantle1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8kxtjh0",
+          "run_time": "every 60 minutes",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "gravitybridge",
+        "address": "gravityvaloper19f7g4lh6unla4rp38u8mcyjcq4elt5zy2pwx63",
+        "restake": {
+          "address": "gravity1gzp80v9fugsgxh7u73hh8nuxaaqsm9k8vjz0dd",
+          "run_time": "every 60 minutes",
+          "minimum_reward": 1000
+        }
+      },
+      {
+        "name": "jackal",
+        "address": "jklvaloper1wc0d9vrfrx5drsleuhdezlzyjw02yzap8che4w",
+        "restake": {
+          "address": "jkl1gzp80v9fugsgxh7u73hh8nuxaaqsm9k83u7x36",
+          "run_time": "every 60 minutes",
+          "minimum_reward": 1000
+        }
+      }
+    ]
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "Simply Staking",
-  "identity": ""
+  "identity": "4095165BF57B60BE"
 }

@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "KujiDAO",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1546l88y0g9ch5v25dg4lmfewgelsd3v966qj3y",
+      "restake": {
+        "address": "kujira1m38vu5ynkdc76vfmyduxdy56yd47hrpdlegvg2",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

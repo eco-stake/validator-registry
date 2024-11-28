@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Digital Kitchen",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1626v0ct6cdtnx5kme9ycs09x06e8vnn7q3j8vu",
+      "restake": {
+        "address": "juno18fd8xgqmxu0cw3hsxzktdpjft3jv7mvllp3r9g",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Antorai",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper13ckyvg0ah9vuujtd49yner2ky92lej6nwjvrjv",
+      "restake": {
+        "address": "orai17fvnkeaac7gv5k3hvjrn6cfwgj0p4m563ylhyp",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 500000
+      }
+    }
+    ]
+}

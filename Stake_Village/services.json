@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Stake Village",
+  "services": [
+    {
+      "title": "Stake Village",
+      "description": "node operation infrastructure support: Discord bots, faucet, chain state, ibc state, state-sync, seed, peers, IBC relaying, PRC, API, GRPC, JSON RPC etc.",
+      "url": "https://stakevillage.net/"
+    }
+  ]
+}

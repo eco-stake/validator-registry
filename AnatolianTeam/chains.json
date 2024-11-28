@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Anatolian Team",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9",
+      "restake": {
+        "address": "rebus1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxdl3w4p7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1ehmnl9jdf2hnj78va888gtpz9e3d4g4ll3wthh",
+      "restake": {
+        "address": "stride1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxddsdupy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8",
+      "restake": {
+        "address": "jkl1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxdh9r3vh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper10uc3h2348v9dxa7evkjhep8xxtsd8f7de3xg5t",
+      "restake": {
+        "address": "acre12gsfxf7l453ldryedpz7dcmsqy7q3mf3tm79gf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1786wmwws6avkrkx9nwv3az6g2j9ha953ydusdv",
+      "restake": {
+        "address": "empower1sekwwd2a2k3lvmh9w2qvzjlt09gvnvxdjhft0k",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper12tmn00ne92n5nljf3t5apyy2jtkfjfetdhvgca",
+      "restake": {
+        "address": "uptick12gsfxf7l453ldryedpz7dcmsqy7q3mf3z76aw4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

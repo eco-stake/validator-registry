@@ -1,0 +1,116 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CosmicNode",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1v2srqzaqku25pdndegz3flhez6umfehpgstzuy",
+      "restake": {
+        "address": "chihuahua1u9rtjramea2extgfjqcjce6mym0yu647gs4w9h",
+        "run_time": "21:00",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1v2srqzaqku25pdndegz3flhez6umfehpl5j888",
+      "restake": {
+        "address": "tori1u9rtjramea2extgfjqcjce6mym0yu647f30fl9",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1pumeztwp8k3xgxawzf8pl3re2rtqpjexevn9wj",
+      "restake": {
+        "address": "pasg1u9rtjramea2extgfjqcjce6mym0yu647gap6f2",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kichain",
+      "address": "kivaloper1v2srqzaqku25pdndegz3flhez6umfehpacerfs",
+      "restake": {
+        "address": "ki1u9rtjramea2extgfjqcjce6mym0yu6476gf0qp",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },      
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1pumeztwp8k3xgxawzf8pl3re2rtqpjex29pksh",
+      "restake": {
+        "address": "bcna1u9rtjramea2extgfjqcjce6mym0yu64734gpv8",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1qr04v967746u2vl6vt4r08dsl0zqlqzu75sn6x",
+      "restake": {
+        "address": "zeta1hwwrjkt8w9twzv4fxpdf2n8x0ncnrx6yqdcl8f",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },{
+      "name": "atomone",
+      "address": "atonevaloper1v2srqzaqku25pdndegz3flhez6umfehp503lj6",
+      "restake": {
+        "address": "atone1u9rtjramea2extgfjqcjce6mym0yu64799y8jd",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },{
+      "name": "selfchain",
+      "address": "selfvaloper1v2srqzaqku25pdndegz3flhez6umfehp88jmxc",
+      "restake": {
+        "address": "self1u9rtjramea2extgfjqcjce6mym0yu647ww9u2u",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },{
+      "name": "stargaze",
+      "address": "starsvaloper1v2srqzaqku25pdndegz3flhez6umfehp8s9c7n",
+      "restake": {
+        "address": "stars1u9rtjramea2extgfjqcjce6mym0yu647le0a0y",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },{
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1v2srqzaqku25pdndegz3flhez6umfehpaxjyzf",
+      "restake": {
+        "address": "cosmos1u9rtjramea2extgfjqcjce6mym0yu647t9cqy4",
+        "run_time": "21:00",
+        "minimum_reward": 50000
+      }
+    },{
+      "name": "assetmantle",
+      "address": "mantlevaloper1v2srqzaqku25pdndegz3flhez6umfehpxfeq29",
+      "restake": {
+        "address": "mantle1u9rtjramea2extgfjqcjce6mym0yu6474pr9ml",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },{
+      "name": "irisnet",
+      "address": "iva1v2srqzaqku25pdndegz3flhez6umfehpcpv03v",
+      "restake": {
+        "address": "iaa1u9rtjramea2extgfjqcjce6mym0yu64778c3xy",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },{
+      "name": "sentinel",
+      "address": "sentvaloper1v2srqzaqku25pdndegz3flhez6umfehpuv099u",
+      "restake": {
+        "address": "sent1u9rtjramea2extgfjqcjce6mym0yu647s7weq6",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

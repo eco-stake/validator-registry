@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CosmoBook",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1lx6v8y99xrylq3llapke5lnln4sht66f372gkg",
+      "restake": {
+        "address": "rebus1sflqrmsyxx997np8cnm223p8pzjwpxq7y6rzcy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1y5w9vx6qe0ta55z44l505lvmcl9qqjx48733ck",
+      "restake": {
+        "address": "umee1sflqrmsyxx997np8cnm223p8pzjwpxq78xaggq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1nnygsslaytzs5ncm396j800sj5nld0hk5tyl4m",
+      "restake": {
+        "address": "plq1tjdjlytrg8mp32qzjlxp94d66yzuls9spx72ly",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+       "name": "quicksilver",
+       "address": "quickvaloper150fjce8p3j6j64axzjhhfz0exk4kda79z29hk7",
+       "restake": {
+         "address": "quick1sflqrmsyxx997np8cnm223p8pzjwpxq775s94q",
+         "run_time": "every 5 minutes",
+         "minimum_reward": 10000
+      }
+    },
+    {
+       "name": "ununifi",
+       "address": "ununifivaloper1ydtts8a9r5jr0qmls9cy60p2j9ewvg6mk0rsrd",
+       "restake": {
+         "address": "ununifi1sflqrmsyxx997np8cnm223p8pzjwpxq7rjn9ku",
+         "run_time": "every 1 hour",
+         "minimum_reward": 10000
+      }
+    },
+    {
+       "name": "secretnetwork",
+       "address": "secretvaloper1dpyhgvmc7qwxgtg8gcvcx62znmaqtp40plffst",
+       "restake": {
+         "address": "secret1cew76wlzd63r2vj4kmgk4u5kmgsyxu7a58kfm4",
+         "run_time": "every 1 hour",
+         "minimum_reward": 10000
+      }
+    }
+  ]
+}

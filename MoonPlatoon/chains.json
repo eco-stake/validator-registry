@@ -1,0 +1,14 @@
+{
+  "name": "Moon Platoon",
+  "chains": [
+    {
+      "name": "terra2",
+      "address": "terravaloper1j4cc2p4f4t4m3z37gumr6cr64vm605aa4wmcyf",
+      "restake": {
+        "address": "terra1h9hq9knwvccam78hl9mq8kdwe0nx2f07vntca5",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

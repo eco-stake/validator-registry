@@ -1,0 +1,55 @@
+{
+  "name": "alkadeta",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1wz3692qvg6g3kcnnyta40rn2jj5jfhxqzntq0s",
+      "restake": {
+        "address": "stars1re48lxn948kjq2pkjcczs90ukxysczxdg02rjl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1yla8xys4ykt4aau2d7ju8vhl9zmlmw3c8ns0sy",
+      "restake": {
+        "address": "gravity1re48lxn948kjq2pkjcczs90ukxysczxdcr0xux",
+        "run_time": [
+          "19:00"
+        ],
+        "minimum_reward": 100000
+       }
+     },
+     {
+      "name": "evmos",
+      "address": "evmosvaloper13h9qxch4r8ep2x8ynwlmcvcl6h902zg5elznhq",
+      "restake": {
+        "address": "evmos13hj83djnh863x5239fs6c4qat8jwuwf830zf09",
+        "run_time": [
+          "19:15",
+          "22:15"
+        ],
+        "minimum_reward": 100000000000000000
+       }
+     },
+     {
+      "name": "agoric",
+      "address": "agoricvaloper1ud49jmefce60m0fqvm9y0v860fptssgrpwu6h2",
+      "restake": {
+        "address": "agoric1rvs9rdxfxn0sv0h9vps7vx24qvjqxkvdc45slg",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 500000
+       }
+     },
+     {
+      "name": "nois",
+      "address": "noisvaloper17quau8ah8zdadkyflz0h6ead27n2yjj9wv8yxa",
+      "restake": {
+        "address": "nois1re48lxn948kjq2pkjcczs90ukxysczxddmq54k",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+       }
+     }
+  ]
+}

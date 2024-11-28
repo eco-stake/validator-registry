@@ -1,0 +1,60 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Validavia",
+    "chains": [
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1wxllvjqmha2p437dpczat82wzpr8gem04jkwmz",
+        "restake": {
+          "address": "evmos1edyyndl5sw6u6v4glrdag88mzhhak0p65wey3m",
+          "run_time": "20:30",
+          "minimum_reward": 10000000000000000
+        }
+      },
+      {
+      	"name": "juno",
+      	"address": "junovaloper1cj500uet7ssegwsmh24kt0hjw89ugez0q4wylf",
+      	"restake": {
+      	  "address": "juno1nszxyfxr5fpajlcfle0tvhptxknf5z9tzttahd",
+      	  "run_time": "20:30",
+      	  "minimum_reward": 100000
+      	}
+      },
+      {
+           "name": "cheqd",
+           "address": "cheqdvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0cjfkwl",
+           "restake": {
+               "address":"cheqd1nszxyfxr5fpajlcfle0tvhptxknf5z9t6myxmq",
+               "run_time": "20:30",
+               "minimum_reward": 3000000000
+           }
+      },
+      {
+           "name": "empowerchain",
+           "address": "empowervaloper1cj500uet7ssegwsmh24kt0hjw89ugez0ddp5h8",
+           "restake": {
+               "address":"empower1nszxyfxr5fpajlcfle0tvhptxknf5z9tg4vd20",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
+           }
+      },
+      {
+           "name": "quasar",
+           "address": "quasarvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0r83exm",
+           "restake": {
+               "address" :"quasar1nszxyfxr5fpajlcfle0tvhptxknf5z9t66jma5",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
+           }
+      },
+      {
+        "name": "rebus",
+        "address": "rebusvaloper1nrx8ekdehynmxvxtl6vrhzthpm2ksa90x96ld2",
+        "restake": {
+          "address": "rebus1nszxyfxr5fpajlcfle0tvhptxknf5z9t9ntny8",
+          "run_time": "every 30 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "adanode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1wqyfhjmn37w6jp4wq23z6alnnxx7fu2rxsa7lt",
+      "restake": {
+        "address": "plq1sjvvmt7djrlv63q6h7f3hwsy3n9ulz9z4pjccm",
+        "run_time": "every 14 hours",
+        "minimum_reward": 100
+          }
+       } 
+    ]
+ }

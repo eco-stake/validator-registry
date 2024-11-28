@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "OriginStake",
+  "services": [
+    {
+      "title": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Aura Network.",
+      "url": "https://originstake.com"
+    }
+  ]
+}

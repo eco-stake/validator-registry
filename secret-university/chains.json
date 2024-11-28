@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Secret University | scrt.university",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1dc6lhau0gnqh9rup2zv7z2jj4q9wwtkcm3edmq",
+      "restake": {
+        "address": "secret1g3dvmsfmlt43c3uud67me3taqaupwrd0cky0qz",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

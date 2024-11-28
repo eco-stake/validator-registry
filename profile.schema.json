@@ -1,0 +1,112 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"name"
+	],
+	"properties": {
+		"name": {
+			"$id": "#root/name", 
+			"title": "Name", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"ECO Stake 🌱"
+			],
+			"pattern": "^.*$"
+		},
+		"identity": {
+			"$id": "#root/identity", 
+			"title": "Identity", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"5992A6D423A406D6"
+			],
+			"pattern": "^.*$"
+		},
+		"website": {
+			"$id": "#root/website", 
+			"title": "Website", 
+			"type": "string",
+			"default": "",
+			"examples": [
+				"https://ecostake.com"
+			],
+			"pattern": "^http.*$"
+		},
+		"description": {
+			"$id": "#root/description", 
+			"title": "Description", 
+			"type": "object",
+			"required": [
+				"overview"
+			],
+			"properties": {
+				"overview": {
+					"$id": "#root/description/overview", 
+					"title": "Overview", 
+					"type": "string",
+					"default": "",
+					"pattern": "^.*$"
+				},
+				"team": {
+					"$id": "#root/description/team", 
+					"title": "Team", 
+					"type": "string",
+					"default": "",
+					"pattern": "^.*$"
+				},
+				"security": {
+					"$id": "#root/description/security", 
+					"title": "Security", 
+					"type": "string",
+					"default": "",
+					"pattern": "^.*$"
+				}
+			}
+		},
+		"contacts": {
+			"$id": "#root/contacts", 
+			"title": "Contacts", 
+			"type": "object",
+			"required": [],
+			"properties": {
+				"telephone": {
+					"$id": "#root/contacts/telephone", 
+					"title": "Telephone", 
+					"type": "string"
+				},
+				"email": {
+					"$id": "#root/contacts/email", 
+					"title": "Email", 
+					"type": "string"
+				},
+				"telegram": {
+					"$id": "#root/contacts/telegram", 
+					"title": "Telegram", 
+					"type": "string"
+				},
+				"twitter": {
+					"$id": "#root/contacts/twitter", 
+					"title": "Twitter", 
+					"type": "string"
+				},
+				"discord": {
+					"$id": "#root/contacts/discord", 
+					"title": "Discord", 
+					"type": "string"
+				},
+				"others": {
+					"$id": "#root/contacts/others", 
+					"title": "Others", 
+					"type": "object",
+					"required": [],
+					"additionalProperties": true
+				}
+			}
+		}
+	}
+}

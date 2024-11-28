@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cephalopod Equipment Corp",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5s833swz",
+      "restake": {
+        "address": "osmo12dv4fmc0rgugw6s0g97tjpntz0mgawrccqyetc",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper16k579jk6yt2cwmqx9dz5xvq9fug2tekvlu9qdv",
+      "restake": {
+        "address": "cosmos12dv4fmc0rgugw6s0g97tjpntz0mgawrcsmhfa2",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1kl83t6gm2y5lgg5c5h3sz87tt5fg3cmyl2sksd",
+      "restake": {
+        "address": "regen12dv4fmc0rgugw6s0g97tjpntz0mgawrc0eu4tw",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sjyfzx8",
+      "restake": {
+        "address": "akash12dv4fmc0rgugw6s0g97tjpntz0mgawrcaq6wys",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5shcm4rq",
+      "restake": {
+        "address": "agoric12u2hv52muycgpwprnv0xhe9xuhs9ls7u80t29j",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sujlhnj",
+      "restake": {
+        "address": "juno12dv4fmc0rgugw6s0g97tjpntz0mgawrcxf5j6k",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sy4c9zy",
+      "restake": {
+        "address": "cheqd12dv4fmc0rgugw6s0g97tjpntz0mgawrc7emfkm",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1x20lytyf6zkcrv5edpkfkn8sz578qg5sqfyqnp",
+      "restake": {
+        "address": "ixo12dv4fmc0rgugw6s0g97tjpntz0mgawrc0wfmee",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper10xhy8xurfwts9ckjkq0ga92mrjz9txyy6y8l2g",
+      "restake": {
+        "address": "evmos16cwc2f2aldn3xrpkfra4hcdugwxt7j3hyfw9mc",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

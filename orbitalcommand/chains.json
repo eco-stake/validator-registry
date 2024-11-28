@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Orbital Command",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd",
+      "restake": {
+        "address": "terra18528d2jvd0e0hh26h5n4a78c6yc7g762vmv7vy",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "terra2",
+      "address": "terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf",
+      "restake": {
+        "address": "terra18528d2jvd0e0hh26h5n4a78c6yc7g762vmv7vy",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "osmosis",
+      "address": "osmovaloper13e2ale5hzxx2ca70eg50psd894hn7gkkn6w6ly",
+      "restake": {
+        "address": "osmo1jezguhpsartc36yqsfrrhp84ts3nnpw3u5uwcv",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    },    
+    {
+      "name": "mars",
+      "address": "marsvaloper1dqskfw38k5vsckclzq755jg0vtk044rt9n4x3d",
+      "restake": {
+        "address": "mars1jezguhpsartc36yqsfrrhp84ts3nnpw3fjk8m9",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

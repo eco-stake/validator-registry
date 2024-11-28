@@ -1,0 +1,45 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Brochain",
+  "services": [
+    {
+      "title": "Brochain website",
+      "description": "Our website provides numerous services for other noder operators, as well as services for delegators across our networks.",
+      "image": "https://static.brocha.in/logos/brobadge-dark.svg",
+      "url": "https://brocha.in"
+    },
+    {
+      "title": "Auto-compounding",
+      "description": "Automatically restake your earn staking rewards.",
+      "image": "https://static.brocha.in/logos/brobadge-dark.svg",
+      "url": "https://brocha.in/auto-compounding"
+    },
+    {
+      "title": "Upgrade monitoring",
+      "description": "Monitor upgrades on our supported cosmos chains. Never miss and upgrade again.",
+      "image": "https://static.brocha.in/logos/brobadge-dark.svg",
+      "url": "https://brocha.in/upgrade-monitor"
+    },
+    {
+      "title": "Testnet explorer",
+      "description": "Block explorer for Cosmos testnets",
+      "image": "https://static.brocha.in/logos/brobadge-dark.svg",
+      "url": "https://testnet-explorer.brocha.in"
+    },
+    {
+      "title": "Mainnet explorer",
+      "description": "Block explorer for Cosmos mainnets",
+      "image": "https://static.brocha.in/logos/brobadge-dark.svg",
+      "url": "https://explorer.brocha.in"
+    },
+    {
+      "title": "CØPR - Cosmos Proposal bot for Discord",
+      "description": "Subscribe to the bot to get notified of every proposal from the chains of your choosing, ether in a channel or DMs.",
+      "image": "https://static.brocha.in/logos/copr.png",
+      "url": "https://github.com/Bro-Chain/copr"
+    }
+  ]
+}
+
+
+

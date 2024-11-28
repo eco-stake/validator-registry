@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "rch",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ztgqknvdcl78f68hmdusjktx6r3rwy8rnjnplw",
+      "restake": {
+        "address": "rebus12fq77uaam3tucpxhsnyr2rq38dws5g7m6j3rl3",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1h9s35hf3m54nqzm0gs302705d79l8upq2rju9y",
+      "restake": {
+        "address": "uptick1x26ddadt277j5qnlf6f0sc92u4d8rjqu32j95f",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

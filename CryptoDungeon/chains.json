@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoDungeon",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj4djh7s",
+      "restake": {
+        "address": "cosmos1w6su2zgdsvufhwl8pdcuephttz2vjw29p9td5u",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj0m9tz2",
+      "restake": {
+        "address": "stars1w6su2zgdsvufhwl8pdcuephttz2vjw294eusld",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjeknkwx",
+      "restake": {
+        "address": "juno1w6su2zgdsvufhwl8pdcuephttz2vjw29hhgknq",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper13x4pynlp86prhcmtns742kgsgu7pjtzjxzxahv",
+      "restake": {
+        "address": "dungeon1w6su2zgdsvufhwl8pdcuephttz2vjw290k5t78",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

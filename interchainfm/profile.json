@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "interchain.FM🥩",
   "identity": "8E92184569CD8E2D"
 }

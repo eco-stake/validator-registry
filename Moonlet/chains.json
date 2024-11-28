@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Moonlet",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1yfnaup5wa3vdzx3wx9auhvzl85saqj37tqxqnu",
+      "restake": {
+        "address": "cosmos1gdypnl5jjv3v9frvzj9d3wulpqwn6r58msw5cp",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    }
+  ]
+}

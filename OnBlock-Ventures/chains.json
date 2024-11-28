@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OnBlock Ventures",
+  "chains": [
+    {
+      "name": "aura",
+      "address": "auravaloper1n9qg9e023p5xlaffg802wsyywa2uy9q8nz53t8",
+      "restake": {
+        "address": "aura1vh8hrk6d9svpxa08n3z9c9q23fu8ah9h7v92xt",
+        "run_time": ["every 10 minutes"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

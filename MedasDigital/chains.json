@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MedasDigital",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1zh99whfy65lnj3xcd8qf6ztt9qeyqw5kgz2ct8",
+      "restake": {
+        "address": "bcna1e2w68724re8a36e53mln7nh3994p5f3sj2z4nz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1n00fcnszy0qymnw392tw2awmf3q687xqau5mzh",
+      "restake": {
+        "address": "sent1e2w68724re8a36e53mln7nh3994p5f3snpydll",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper12amtv2rmzsgp57kamte9l04fgrkst3mvm8p7v7",
+      "restake": {
+        "address": "mars1e2w68724re8a36e53mln7nh3994p5f3s48tdwt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

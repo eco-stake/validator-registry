@@ -1,4 +1,15 @@
 {
-  "name": "BlueStake 🚀 | 100% insurance",
-  "identity": "2C12B61930DF3586"
+  "$schema": "../profile.schema.json",
+  "name": "BlueStake 🚀",
+  "identity": "2C12B61930DF3586",
+  "website": "https://bluestake.net",
+  "description": {
+    "overview": "BlueStake is an enterprise-grade validator offering highly secure and reliable infrastructure. Our systems are distributed across multiple datacenters and are monitored 24/7 to ensure optimal performance and security.",
+    "team": "BlueStake was founded by a team of DevOps engineers with decades of experience. We provide a wide range of services for the ecosystem and actively participate in various testnets. We are hard believers in cosmos ecosystem.",
+    "security": "BlueStake maintains a highly reliable staking infrastructure, designed with maximum security and performance in mind. Our infrastructure is distributed across multiple datacenters and follow all security best practices: we have backup servers for all networks, we use remote signing to protect validator keys, and our infrastructure is monitored 24/7. We also offer soft slash insurance to protect your assets."
+  },
+  "contacts": {
+    "email": "hello@bluestake.net",
+    "twitter": "blueStakeNet"
+  }
 }

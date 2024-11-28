@@ -1,0 +1,14 @@
+{
+  "name": "Ceres Ventures",
+  "chains": [
+    {
+      "name": "terra2",
+      "address": "terravaloper1q8w4u2wyhx574m70gwe8km5za2ptanny9mnqy3",
+      "restake": {
+        "address": "terra1q6z6rjaa8cm4wr24mgeg9jqtw7rs77rpel0msm",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

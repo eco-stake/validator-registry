@@ -1,0 +1,69 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Node Guardians",
+    "chains": [
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper1jst8q8flpn94u9uvkpae8mrkk3a5pjhxx529z2",
+        "restake": {
+          "address": "cosmos12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvt8u46j3",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "osmosis",
+        "address": "osmovaloper15xstrgzpwhduklvyhy9g7gu774lm8cjjxdvlw6",
+        "restake": {
+          "address": "osmo12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvt08x2yr",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "axelar",
+        "address": "axelarvaloper1gsdk6eed465n0arjekwruwsfwyugasu55fdg7a",
+        "restake": {
+          "address": "axelar12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtrjrjes",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "kyve",
+        "address": "kyvevaloper1mwh26fcmuz8hsfjlujvn86366d8j3ter6yvxs3",
+        "restake": {
+          "address": "kyve12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtsjcve4",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "nyx",
+        "address": "nvaloper12ut47cxmnwgflwwryw4akvkrfda4kn0elzy6jc",
+        "restake": {
+          "address": "n12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvt4czcd5",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "celestia",
+        "address": "celestiavaloper1m58punvt32u07ra4p6x7krgxakye3m90rzgm4c",
+        "restake": {
+          "address": "celestia12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtkky2gu",
+          "run_time": "09:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "dydx",
+        "address": "dydxvaloper1xwk95hxuude0zz4syvymlkrhjmjkqga7qx6w2r",
+        "restake": {
+          "address": "dydx12nfcw6ygqlsfcxf4fhqtc7g0dm6ekdvtw9m7jx",
+          "run_time": "09:00",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }

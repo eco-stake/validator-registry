@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Disperze",
   "chains": [
     {
@@ -10,7 +11,16 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1sp9frqwep52chwavv3xd776myy8gyyvkv5uysl",
+      "restake": {
+        "address": "evmos1fr6dylwlhaetqke95agqnyk29la9hqkxy0jplg",
+        "run_time": "every 4 hour",
+        "minimum_reward": 500000000000000000
       }
     }
   ]

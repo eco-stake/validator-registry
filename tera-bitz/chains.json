@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "tera bitz ❤ 🔥 ✅",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper16x9gyxllhcptd5nut58r5ss3my8hznkkwxxdz5",
+      "restake": {
+        "address": "terra1qzkxujhklvfra6x4lnmca9mmzj8eje9ng4msv9",
+        "run_time": "16:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

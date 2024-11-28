@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Snow fall",
+  "identity": "AE7E53FAC7B1CD90",
+  "website": "https://www.snow-fall.io/",
+  "description": {
+    "overview": "Generate a steady return by hosting a Masternode or delegating your cryptos to our Nodes."
+  },
+  "contacts": {
+  "discord": "https://discord.gg/rWTQFPYVVX",
+  "twitter": "https://x.com/Snow_FalI"
+
+}
+}

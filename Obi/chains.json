@@ -1,0 +1,66 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Obi by Bites Digital",
+  "chains": [
+    {
+      "name": "canto",
+      "address": "cantovaloper1yfwhkl66wh8sm0aasvg6p7zgpnrxuj5f8z45cv",
+      "restake": {
+        "address": "canto10tx7fadungwfffhjcln3k6rzk39l2kwxqy0xtw",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14ts0j42qkpr43a3tgxr7zz6l6zdf7hdes5jpma",
+      "restake": {
+        "address": "osmo1dp67gfvhsffyn42k4srsw29wm6d55u9mlx9m3l",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper14ts0j42qkpr43a3tgxr7zz6l6zdf7hdeaayydd",
+      "restake": {
+        "address": "migaloo13vxflm7u0r6c2tnps6q9xl45v8sktw0gmup33v",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1pujrvwt9xve0u0t472x5wm0lf5r37thakp7pvw",
+      "restake": {
+        "address": "secret1dp67gfvhsffyn42k4srsw29wm6d55u9m4czz63",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper14ts0j42qkpr43a3tgxr7zz6l6zdf7hde3mf2ae",
+      "restake": {
+        "address": "sei13vxflm7u0r6c2tnps6q9xl45v8sktw0gmyeazr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "web34ever",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx",
+      "restake": {
+        "address": "juno1wswx53yjqla26jls2fsh099jdrpuw5yt64zp8m",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1036rphfnyw49fzm5ajfud743j2qutlk9v8lgp2",
+      "restake": {
+        "address": "shentu1wswx53yjqla26jls2fsh099jdrpuw5ytyn9rj6",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy",
+      "restake": {
+        "address": "mantle1wswx53yjqla26jls2fsh099jdrpuw5ytjr6lld",
+        "run_time": "10:10",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y",
+      "restake": {
+        "address": "gravity1wswx53yjqla26jls2fsh099jdrpuw5ytghnz90",
+        "run_time": "10:10",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x",
+      "restake": {
+        "address": "stars1wswx53yjqla26jls2fsh099jdrpuw5ytcmk8tk",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j",
+      "restake": {
+        "address": "bostrom1wswx53yjqla26jls2fsh099jdrpuw5yt054f7q",
+        "run_time": "10:10",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "likecoin",
+      "address": "likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv",
+      "restake": {
+        "address": "like1wswx53yjqla26jls2fsh099jdrpuw5ytlmacru",
+        "run_time": "10:10",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f",
+      "restake": {
+        "address": "tori1wswx53yjqla26jls2fsh099jdrpuw5ytwnknmh",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm",
+      "restake": {
+        "address": "omniflix1wswx53yjqla26jls2fsh099jdrpuw5yt3esrhe",
+        "run_time": "10:10",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

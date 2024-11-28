@@ -1,0 +1,71 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "123stake.com",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper172t6myuydj4euw96pxtwftg6fnw4pfgf3mjyz4",
+      "restake": {
+        "address": "tori1uzcagr0ss5ryn7a7244gwxuy9ls0kvwj7zl803",
+        "run_time": "every 3 minutes",        
+        "minimum_reward": 100000
+      }
+    },
+       {
+      "name": "passage",
+      "address": "pasgvaloper1emwg59t5prrve0qf46wndma0qsxsslgq4ms9su",
+      "restake": {
+        "address": "pasg1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlw35e7",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+       {
+      "name": "meme",
+      "address": "memevaloper1wx2z70zsheh9qsfcrm3ypupwets38a33ed8my4",
+      "restake": {
+        "address": "meme1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjzf7ent",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+               {
+      "name": "rebus",
+      "address": "rebusvaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
+      "restake": {
+        "address": "rebus1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+
+           {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1vntrgjjt92vddykr5n30lhcmzvf67kuasfzs8x",
+      "restake": {
+        "address": "chihuahua1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjlr9q4r",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+               {
+      "name": "lambda",
+      "address": "lambvaloper1ej7w5xdd8js5qerz5x4w93dvvhlgqhgws7stgk",
+      "restake": {
+        "address": "lamb1uzcagr0ss5ryn7a7244gwxuy9ls0kvwj83fq4v",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    },
+  
+               {
+      "name": "cerberus",
+      "address": "cerberusvaloper1teryendjzhaxn520ng946d2yprnh5jed49mydt",
+      "restake": {
+        "address": "cerberus1uzcagr0ss5ryn7a7244gwxuy9ls0kvwjq3g8p2",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+   ]
+}

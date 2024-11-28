@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Omnistake.com",
+  "identity": "A5F79527539464C1",
+  "website": "https://omnistake.com",
+  "description": {
+    "overview": "Omnistake is a trusted non custodial staking provider, currently operating across multiple blockchains: SUI, ICP, Saga, Canto, Cartesi, Near."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "support@omnistake.com",
+    "telegram": "",
+    "twitter": "omnistake",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

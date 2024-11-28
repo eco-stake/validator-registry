@@ -1,0 +1,79 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "👽Stigga👽 Restake Enabled ⚡️",
+  "chains": [
+		{
+      "name": "sifchain",
+      "address": "sifvaloper19ln6t3ry43zxa20gex37qwlccm7xwrk8s5yvrf",
+      "restake": {
+        "address": "sif185p02q5rgf32urnqpf5wpd9drcptf46r8pl2nq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+	}
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper158nshw593764esewcykul0pj884g5naqu3726f",
+      "restake": {
+        "address": "jkl185p02q5rgf32urnqpf5wpd9drcptf46rmz7d95",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+	}
+    },
+	{
+      "name": "kichain",
+      "address": "kivaloper17ky5whv24fgnjttrx2qsx0r59m3cz4dvfcqwss",
+      "restake": {
+        "address": "ki185p02q5rgf32urnqpf5wpd9drcptf46rn3pncl",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+	 }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1ljvdlhws6j5md5srpy7jdrxpuhpx2k7w98ad7u",
+      "restake": {
+        "address": "nois185p02q5rgf32urnqpf5wpd9drcptf46rn5dksn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+	 }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1snq5f3mzw8kpvwrud50hfjsvx42jzlka0zj6ak",
+      "restake": {
+        "address": "realio12w0wlwp7w8pex4zy7tpq6u4tlv6aledylaq62j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000
+	}
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1zu9ppvwn84j4mzs7lmm40p6ta6y0xk8zsnspjm",
+      "restake": {
+        "address": "persistence185p02q5rgf32urnqpf5wpd9drcptf46rvsk0j0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+	}
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1wlfhee383mvvq6vfxpgeaq845540sg406fh92w",
+      "restake": {
+        "address": "uptick12w0wlwp7w8pex4zy7tpq6u4tlv6aledy9wct0e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+	}
+    },
+	{
+      "name": "gravitybridge",
+      "address": "gravityvaloper1t2ljwdvkuecrkxwftpftnh54j5wez5jg4n7yrv",
+      "restake": {
+        "address": "gravity185p02q5rgf32urnqpf5wpd9drcptf46rxvzyer",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      
+      }
+    }
+  ]
+}

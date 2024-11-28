@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Brightlystake",
+  "identity": "545033B5FD01FC86",
+  "website": "https://Brightlystake.com",
+  "contacts": {
+    "telephone": "",
+    "email": "contact@brightlystake.com",
+    "telegram": "brightlystake",
+    "twitter": "brightlystake",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

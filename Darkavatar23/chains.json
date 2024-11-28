@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Darkavatar23",
+  "chains": [
+     {
+      "name": "desmos",
+      "address": "desmosvaloper1srknp0z8u254n35elc053sr24y8nmymcvl0fm9",
+      "restake": {
+        "address": "desmos1t466k6t5tlzsqtxg2yl5cwghms7aepu4vefsc9",
+        "run_time": [
+          "07:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

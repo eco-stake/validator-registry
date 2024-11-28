@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "gopher",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1534tslwra4hrvt8k8tdwh5aghmc74hvt6v9kp4",
+      "restake": {
+        "address": "tori1ekc25rth7qz29rc7jyeuaemfv06jluk93julcx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

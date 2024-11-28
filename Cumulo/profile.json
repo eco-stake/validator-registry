@@ -1,0 +1,13 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Cumulo",
+  "identity": "77158D6796D16CD0",
+  "website": "https://cumulo.pro",
+  "description": {
+    "overview": "Cumulo is a trusted professional validator team that brings security, quality and growth to the blockchain ecosystem. Get the most out of your tokens by staking with us."   
+  },
+  "contacts": {
+    "email": "cumulo.pro@gmail.com",
+    "twitter": "Cumulo_pro"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Gelotto",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxw9uq8w",
+      "restake": {
+        "address": "osmo17htrh2z4uxpv33mg7g7k4qedwe0hljpx4a6g5l",
+        "run_time": "every 8 hours",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhx4xj867",
+      "restake": {
+        "address": "juno17htrh2z4uxpv33mg7g7k4qedwe0hljpxt52r93",
+        "run_time": "every 8 hours",
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1v4crs2adgcu2cdm2jxq07mw7ugzx0z4x6alxeg",
+      "restake": {
+        "address": "evmos10txj5e88tz3h5jmjx9g7pg2h9ztl5wxa06vcsw",
+        "run_time": "every 8 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1cqdhr7arcezmkhy32qzsqsjvq2rheuhxrty6kj",
+      "restake": {
+        "address": "stars17htrh2z4uxpv33mg7g7k4qedwe0hljpxf679fu",
+        "run_time": "every 8 hours",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qe9fgph",
+      "restake": {
+        "address": "tori17htrh2z4uxpv33mg7g7k4qedwe0hljpxlj73ea",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper19zcnlx080sju8yd0rne6j7eaftvjadv9j43klc",
+      "restake": {
+        "address": "jkl17htrh2z4uxpv33mg7g7k4qedwe0hljpxyc8fmj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qwpsd65",
+      "restake": {
+        "address": "chihuahua17htrh2z4uxpv33mg7g7k4qedwe0hljpx7nykr0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qwtj4ax",
+      "restake": {
+        "address": "nois17htrh2z4uxpv33mg7g7k4qedwe0hljpxvw5jw4",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4q37z5fl",
+      "restake": {
+        "address": "rebus17htrh2z4uxpv33mg7g7k4qedwe0hljpxvv2dkm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1j7fgj7v9nqjg6wfda9paldcxezd8yv4qtvgc05",
+      "restake": {
+        "address": "archway17htrh2z4uxpv33mg7g7k4qedwe0hljpxgd4ug6",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1yxy0l0q99cglsq07ycwegspu7u2ttphnsvv496",
+      "restake": {
+        "address": "pasg17htrh2z4uxpv33mg7g7k4qedwe0hljpx77sz0j",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

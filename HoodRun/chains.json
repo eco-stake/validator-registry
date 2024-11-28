@@ -1,0 +1,61 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "HoodRun",
+    "chains": [
+      {
+        "name": "evmos",
+        "address": "evmosvaloper17aplkq60nqqnawztjlxyk0wwtc9l2uv955003h",
+        "restake": {
+          "address": "evmos1l5xccz6hhk4e8xd42mzrzjpfe5e9xyuxqqhwhd",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "axelar",
+        "address": "axelarvaloper18qydpumkn244ska4xw8890nc67l9e5qqm7c36r",
+        "restake": {
+          "address": "axelar1huydnawzyugn8ntmuux843flkza27vykzx84sp",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000000
+        }
+      },
+      {
+        "name": "rebus",
+        "address": "rebusvaloper1kyk5wapta83vgyyv2ke5cfw5yhkf6gz2fq7q2v",
+        "restake": {
+          "address": "rebus1huydnawzyugn8ntmuux843flkza27vykhzjg0k",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "quicksilver",
+        "address": "quickvaloper155zar9tfnacjs6drm2nhk0cvp35y6fgsnf5ue6",
+        "restake": {
+          "address": "quick1huydnawzyugn8ntmuux843flkza27vykdvp0zj",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000000
+        }
+      },
+      {
+        "name": "archway",
+        "address": "archwayvaloper1c2f4nd85gcntlleqtx84vcnedqejlhu2r3yhkv",
+        "restake": {
+          "address": "archway1huydnawzyugn8ntmuux843flkza27vyknrde3h",
+          "run_time": "every 1 hour",
+          "minimum_reward": 10000000
+        }
+      },
+      {
+        "name": "dymension",
+        "address": "dymvaloper1sadsshcnm9xxln6g6wewhxfh7tj6mhdyvrfpnu",
+        "restake": {
+          "address": "dym1l5xccz6hhk4e8xd42mzrzjpfe5e9xyuxsu2xgt",
+          "run_time": "every 1 hour",
+          "minimum_reward": 100000000000000000
+        }
+      }
+      
+    ]
+  }

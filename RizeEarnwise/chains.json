@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Rize Earnwise",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1eg7rdhf8mz8dhkxq6r2dtfkxkyds3330jggvkv",
+            "restake": {
+                "address": "core15tz9d9z0juj88hqmye6xnewvp9dqrzarm9vv5k",
+                "run_time": "every 1 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

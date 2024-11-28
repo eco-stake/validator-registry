@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakePool",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1a0qd36kpdkqzzuqnxyg9mryvttv6mm5wnp5hg0",
+      "restake": {
+        "address": "acre1m0xzss3xm9rnxzcut3lxdwa0w99jj0haz4n3fq",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1gg2a6n0whtu589294grn9cs2lf4gjp0zss3f5x",
+      "restake": {
+        "address": "comdex1wfke92wrvkqtwq7pl8l0xuuhnkxfzegnjf4vkq",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1jxrep9wsepfd09e24qmwq3gu6e85w23892yv9f",
+      "restake": {
+        "address": "cro15lwmmvztx0tq3ewep39g4fvgvgwvemcp4686zk",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 100000000 
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper19cqgl632n54hk8flkpaxnjd0ya7fnr49djukyx",
+      "restake": {
+        "address": "bcna14wadcw4h5pc7st9hee3dz6szz88slt8y3czwur",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1s4yf5ks8ynmealpa0qq7rc4psu89ym3v942e2s",
+      "restake": {
+        "address": "persistence1758fa5ltjeeq4jkjt9v2yh0n4c45pqkc6ld6nk",
+        "run_time": ["07:00", "19:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

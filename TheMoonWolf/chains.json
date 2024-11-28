@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "🌙 TheMoonWolf SK/CZ 🐺",
+    "chains": [
+        {
+            "name": "echelon",
+            "address": "echelonvaloper19ufg6swysu36ajvgm2jx5rvq6aufnwr7pxd8wu",
+            "restake": {
+                "address": "echelon1da340fjcp9h3w6qc9c9na7kgjx8a8t0ya9xg52",
+                "run_time": "08:00",
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
+}

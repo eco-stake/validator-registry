@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Qubelabs",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1f08fffp8zz42jj0f6wh3gyu7he4hf6zzs6mn8j",
+      "restake": {
+        "address": "evmos1rxjq9gwhhajcraxxtnj0km30yjxasyaeq5884w",
+        "run_time": "19:10",
+        "minimum_reward": 10000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1j2jq259d3rrc24876gwxg0ksp0lhd8gy49k6st",
+      "restake": {
+        "address": "celestia124z333d6kv9y7gnl90prs2krzwhv0duv5mu79j",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

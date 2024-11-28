@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Notional",
+  "identity": "3804A3D13B6CB379",
+  "website": "https://notional.ventures",
+  "description": {
+    "overview": "Edge Validation, Relaying, and Open-Source Software Development",
+    "team": "",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "",
+    "telegram": "",
+    "twitter": "notionaldao",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

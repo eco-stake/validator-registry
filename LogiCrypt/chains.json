@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LogiCrypt",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper10yu096gyvvtn57fapjkn7sgdfayxzs6tg408kh",
+      "restake": {
+        "address": "rebus17xenxr8u3j7x9xcs3ktu6dn462jkp8xyy9jwu4",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

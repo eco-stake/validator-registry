@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "SerGo",
+  "identity": "B3B62EB8C84738B9",
+  "website": "https://sergo.dev",
+  "description": {
+    "overview": "We validate with expertise, you earn with confidence."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@sergo.dev",
+    "telegram": "",
+    "twitter": "",
+    "discord": "SerGo#8747",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

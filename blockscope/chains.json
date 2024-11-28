@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Blockscope.net",
+  "chains": [
+    {
+      "name": "crescent",
+      "address": "crevaloper1rcrvkz6zydr9srhk57w4jdny8w26hfjju45twa",
+      "restake": {
+        "address": "cre1k8mymzl8sapy2yqyyce5a35u09rnuae7s0dx7d",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

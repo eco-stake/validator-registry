@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "reef 🇪🇺 🇩🇪",
   "identity": "1C40196E0F1B5A8D"
 }

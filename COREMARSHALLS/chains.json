@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "CORE MARSHALLS",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1m2zzfv08ndxjnxnxu9tlwa3r2myte5up6w3vfm",
+            "restake": {
+                "address": "core1xy0urtt2fdek9tjl2072t62h0a9qzzwfszfdvx",
+                "run_time": "every 6 hours",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

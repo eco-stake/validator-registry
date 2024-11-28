@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "wosmongton",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1thsw3n94lzxy0knhss9n554zqp4dnfzx78j7sq",
+      "restake": {
+        "address": "osmo10j3c8zvw9u5x2cfhljux8eky5ms0hag39r9keu",
+        "run_time": "18:00",
+        "minimum_reward": 250000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Shido Surp00",
+    "chains": [
+      {
+        "name": "shido",
+        "address": "shidovaloper1vdr99sr6zy3r4qenv0nqs295jlpy4mn0lqqx4c",
+        "restake": {
+          "address": "shido1ruzxekzlemm6ls46qtcx00g4k6lk2ar9hjust0",
+          "run_time": "every 1 minute",
+          "minimum_reward": 1000000
+        }
+      }
+    ]
+}

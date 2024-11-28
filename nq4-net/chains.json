@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NQ4.NET",
+  "chains": [
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1yhj9uqacyjrqyt58d548ywayhw52ff524tw3gh",
+      "restake": {
+        "address": "band1z993x6k2ukpu02pwhd725tegl7nga0mcqwswh5",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1u9zcl5rvwv653msdqcevl7s3z43ckz5rcc4lta",
+      "restake": {
+        "address": "fetch1wvnf6a42r7tr4hcjxg8gzlcqx6pegvq4k4hw9t",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1a7xflafgxct35xhncmat33hp3v58kr3dfly48x",
+      "restake": {
+        "address": "kava1ueljtgcj9qt6rqumhvufl9ykm25gd40g9a2tqm",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "certikvaloper13yhqdx8ycpyadfzque9ucj5ewe80qvh7vw0sh4",
+      "restake": {
+        "address": "certik1u9wv3uqpmlxxwaupafzv74d2w7k3l77svmtq9q",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

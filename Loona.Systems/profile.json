@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Loona.Systems",
+  "identity": "6D013687F3351C06",
+  "website": "https://loona.systems",
+  "description": {
+    "overview": "Professional blockchain validation",
+    "team": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "rjsimp.001@gmail.com",
+    "telegram": "@rjsimp001",
+    "twitter": "@Rjsimp_001",
+    "discord": "rjsimp#1081",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

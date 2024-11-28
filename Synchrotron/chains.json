@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",  
+  "name": "Synchrotron",
+  "chains": [
+{
+    "name": "coreum",
+    "address": "corevaloper1r4k9kr6sugcj9pmvtza93eaats6qwxwck8saak",
+    "restake": {
+      "address": "core100djxuu2gfgm3qeqxprh30gjpxsuhg2qeml79j",
+      "run_time": [
+        "09:00",
+        "21:00"
+      ],
+      "minimum_reward": 10000
+      }
+    }
+  ] 
+} 

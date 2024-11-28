@@ -1,0 +1,66 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Blockdaemon",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper10nzaaeh2kq28t3nqsh5m8kmyv90vx7ym5mpakx",
+      "restake": {
+        "address": "cosmos1tar2llkpqe88tdnwy2yjdd55xsxa5answefncm",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+			"name": "cryptoorgchain",
+			"address": "crocncl1cwvkulh93vv3jv7larahd4646cnpf384hu4sjf",
+			"restake": {
+				"address": "cro1u6zcvc5t444gka50wukgc4zw62vdcsqccka463",
+				"run_time": [
+          "09:00",
+          "21:00"
+        ],
+				"minimum_reward": 1000
+			}
+		},
+    {
+			"name": "celestia",
+			"address": "celestiavaloper1evu846d408jdz5ju4883gtq9pnjvs8hz9cqnwr",
+			"restake": {
+				"address": "celestia1tar2llkpqe88tdnwy2yjdd55xsxa5anslncrzk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+				"minimum_reward": 1000
+			}
+		},
+    {
+      "name": "osmosis",
+      "address": "osmovaloper14537vk6xr9qfptpw2090c589w7a8cm0e0wyv3u",
+      "restake": {
+        "address": "osmo1tar2llkpqe88tdnwy2yjdd55xsxa5ansxz6rwf",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name":"provenance",
+      "address":"pbvaloper193mx3wsed089rnmuf0t9080qlefgyf60cehfz9",
+      "restake":{
+         "address":"pb1w64xr8ahhmeulkarxae0q0q9luqyx5c640us0z",
+         "run_time": [
+          "09:00",
+          "21:00"
+        ],
+         "minimum_reward": 1000
+      }
+   }
+  ]
+}

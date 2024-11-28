@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OneStar",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper18hpew39uymssr52w8euxqh4zrrjt02x7k0jmhk",
+      "restake": {
+        "address": "terra1ytgclmfzp3tz3j9z6aeh0ewds4nh3vksyddmcr",
+        "run_time": "11:00",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1yt7hhu4xpwe2dqg6euda5t3pvx0mhsmvap548h",
+      "restake": {
+        "address": "terra1ytgclmfzp3tz3j9z6aeh0ewds4nh3vksyddmcr",
+        "run_time": "11:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
