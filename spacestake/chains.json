@@ -46,6 +46,24 @@
         "run_time": "every 4 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1hj99pyu4pyun8p22pyd8nu5v5g2rdd2l0d5c5z",
+      "restake": {
+        "address": "kava1qmz94mpglzseplyy7wqyz0ep99cvtswl9yvmnq",
+        "run_time": "every 4 hours",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1sgvmu56yg3rtpyylrqmvhse2waswn6j3j3l074",
+      "restake": {
+        "address": "zeta1ypwym0rz4gn4qgj3y34u8hxjpq5x45r4dgex87",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }

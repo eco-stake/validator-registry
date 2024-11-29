@@ -454,6 +454,15 @@
     {
       "name": "nomic",
       "address": "nomic1xewp986hcaudlx04epgpcpu556tte28lsd7t6z"
+    },
+    {
+      "name": "althea",
+      "address": "altheavaloper1vya85wwh6gkxqdsquqt0ckymjttglm794emcul",
+      "restake": {
+        "address": "althea1ksh2uvrvq7gftgdc8jd2n67pcwcztdxuh63yr3",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
