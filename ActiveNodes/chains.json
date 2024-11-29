@@ -21,42 +21,6 @@
       }
     },
     {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper16epwpkwh37u9ma9yjwd0kglvsq9u5saxffzcuc",
-      "restake": {
-        "address": "chihuahua1w4du0y6705rqregfl6cktm7swds6t4ds70l0u5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000
-      }
-    },
-        {
-      "name": "celestia",
-      "address": "celestiavaloper1t345w0vxnyyrf4eh43lpd3jl7z378rtsdn9tz3",
-      "restake": {
-        "address": "celestia1w4du0y6705rqregfl6cktm7swds6t4dsvsr38m",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "comdex",
-      "address": "comdexvaloper1wusf6f0tm986erjewgnp0qyc7ezzxmc6h05knf",
-      "restake": {
-        "address": "comdex1w4du0y6705rqregfl6cktm7swds6t4ds64sryp",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "desmos",
-      "address": "desmosvaloper14nfk5gm99gfrd7nwqtmtvzunzclz8720a6cqh7",
-      "restake": {
-        "address": "desmos10k8cylaqmmdy4pyf3jzjm6vt2c52pv6hncm5cv",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "dymension",
       "address": "dymvaloper16eu7dmkxrtq5207tyudx8agnlu8k5qua7vqs4y",
       "restake": {
@@ -102,21 +66,12 @@
       }
     },
     {
-      "name": "juno",
-      "address": "junovaloper189nl8q7rm4ks2t2l7qwe7j49w7sagw4y8uk2nd",
-      "restake": {
-        "address": "juno1w4du0y6705rqregfl6cktm7swds6t4dstg3662",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
       "restake": {
         "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -143,7 +98,7 @@
       "restake": {
         "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {

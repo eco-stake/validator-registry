@@ -3,15 +3,6 @@
   "name": "Foxinodes",
   "chains": [
     {
-      "name": "kichain",
-      "address": "kivaloper1yuq3090q2l7fe6y7s27g3u0dy5t020aujuld8a",
-      "restake": {
-        "address": "ki17kxwsh0pnu25lqa97vdsc3f59mn3uswj2jws9h",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "sentinel",
       "address": "sentvaloper1ewmujlakdstee65lp6p30g0n6ul62aux7a9fk8",
       "restake": {
@@ -27,15 +18,6 @@
         "address": "bitsong1r7gnrrkks3e7uu8zz2mmwuhm0dmxxhj2guy4c2",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "likecoin",
-      "address": "likevaloper1l3cdl8yujt22hcpahaje5j42nyltysa6g98mph",
-      "restake": {
-        "address": "like17kxwsh0pnu25lqa97vdsc3f59mn3uswjgrrazc",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000
       }
     },
     {
@@ -63,6 +45,15 @@
         "address": "agoric1xrgpkuy5w5sjale30ge2zyu09cykxq5dcyd45z",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1h7akavny3gx37rc57cth7h7829v6z72j3qmtnq",
+      "restake": {
+        "address": "atone17kxwsh0pnu25lqa97vdsc3f59mn3uswj4lrchm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]

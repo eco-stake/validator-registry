@@ -83,6 +83,15 @@
 			}
 		},
 		{
+			"name": "lava",
+			"address": "lava@valoper1a7lvaxnec0amga54ex695pfmvpq497ck2l8d6f",
+			"restake": {
+				"address": "lava@1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dl6xts8",
+				"run_time": "every 12 hour",
+				"minimum_reward": 100000
+			}
+		},
+		{
 			"name": "kyve",
 			"address": "kyvevaloper1e6z8q86vujhcmjet0ncfmv7xh50gncgfygetvf",
 			"restake": {
@@ -133,6 +142,15 @@
 			"restake": {
 				"address": "stars1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dn7xnum",
 				"run_time": "every 24 hours",
+				"minimum_reward": 100000
+			}
+		},
+		{
+			"name": "synternet",
+			"address": "syntvaloper1phg72ay28m80036xg572aw683tvrkl5y5l2zuf",
+			"restake": {
+				"address": "synt1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9dg9zrnz",
+				"run_time": "every 12 hour",
 				"minimum_reward": 100000
 			}
 		},

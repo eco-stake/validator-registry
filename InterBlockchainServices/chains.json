@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
+      "restake": {
+        "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper12v3458kg298ckge36lsqafmmggj3pywj062p2q",
       "restake": {
@@ -253,6 +262,24 @@
         "address": "seda1hcgxjhvv43g9z6dc58g428jgc8hdlmf7zp5dpr",
         "run_time": "12:00",
         "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1jjmqzdm94pldrgldglgjye8c87v6hqy2elkgxg",
+      "restake": {
+        "address": "lava@1hcgxjhvv43g9z6dc58g428jgc8hdlmf7vh0s90",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper16upxvnr8dzqc60vq9rta27trlfcyv2qx57ut57",
+      "restake": {
+        "address": "sent1hcgxjhvv43g9z6dc58g428jgc8hdlmf705wvxd",
+        "run_time": "12:00",
+        "minimum_reward": 10000
       }
     }
   ]

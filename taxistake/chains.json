@@ -39,10 +39,10 @@
       }
     },
     {
-      "name": "mars",
-      "address": "marsvaloper1w25tqmlw60s9qkk4xqwcfl6kw2t4q9nvc4hrx9",
+      "name": "atomone",
+      "address": "atonevaloper1hk38pmr663m5achae0as20zzp27uxj3yyuvuh3",
       "restake": { 
-        "address": "mars1zes4r58xkmkahwxvr5wcp7lcuqhaxj9maht5tq",
+        "address": "atone1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mw2w2gr",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }

@@ -2,6 +2,24 @@
   "name": "Interop",
   "chains": [
     {
+      "name": "osmosis",
+      "address": "osmovaloper146mj09yzu3mvz7pmy4dvs4z9wr2mst7rq8p8gy",
+      "restake": {
+        "address": "osmo1kvy6f35jt2hegljz7vj8u6sehadfpfr37aandf",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1wr38atcruxqh4u49q998n065g2mhsrskl4et7n",
+      "restake": {
+        "address": "quick1kvy6f35jt2hegljz7vj8u6sehadfpfr3az73zf",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
       "name": "lava",
       "address": "lava@valoper1cqks7sdvw968jjd90knphf9aqscfx0uq6fk0em",
       "restake": {

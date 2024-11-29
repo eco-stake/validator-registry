@@ -1,13 +1,13 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Apple juice",
+    "name": "256x25",
     "chains": [
       {
         "name": "nibiru",
-        "address": "nibivaloper1sw654jxseqtju3ujshwm2r0hk999uajz844lj5",
+        "address": "nibivaloper19udgpc5yhpjusn2aerrpgzu5z2ewphrc6dpwkg",
         "restake": {
           "address": "nibi1f0urgzy5vs7kqg5ntu25hy5x9wswsa3n7jj763",
-          "run_time": "every 5 minutes",
+          "run_time": "every 1 hour",
           "minimum_reward": 100000
         }
       },
@@ -18,15 +18,6 @@
           "address": "sif1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nv2e3uf",
           "run_time": "every 5 minutes",
           "minimum_reward": 100000000
-        }
-      },
-      {
-        "name": "planq",
-        "address": "plqvaloper1ce3ph94mxpyqznyf65der8wx7g26x3q9c9qsrd",
-        "restake": {
-          "address": "plq1a7aj3s6qe4c27rulj7rfhdqg3kyw33v77xxvsa",
-          "run_time": "every 5 minutes",
-          "minimum_reward": 1000000000000000000
         }
       },
         {
@@ -48,12 +39,12 @@
         }
       },
         {
-        "name": "comdex",
-        "address": "comdexvaloper194pqz6wjwuwnrzx46yckwcu9p37hp5emym8awu",
+        "name": "firmachain",
+        "address": "firmavaloper1gaxuw2c0pzy7hprzryudqp9852h3x5f7celpzt",
         "restake": {
-          "address": "comdex1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nwc5924",
+          "address": "firma106xajw7d8u7vdhhwchtx6pak3nhhz5veu9duyq",
           "run_time": "every 5 minutes",
-          "minimum_reward": 1000000
+          "minimum_reward": 100000
         }
       },
         {

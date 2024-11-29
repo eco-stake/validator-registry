@@ -41,9 +41,9 @@
 },
     {
       "name": "fxcore",
-      "address": "fxvaloper1wqvsqhd5xxp02f0m4vnwftfg2ppmupnknmykht",
+      "address": "fxvaloper1wrz0a4plew74cxz50c8ggec082mtdw7mpl2k4r",
       "restake": {
-        "address": "fx1mgukftytaqvwew57qvqz8yv380vhh8zsz984uz",
+        "address": "fx1ltv0z3033yrpc23s2mtkswjx98h0pckh7qe7uj",
         "run_time": "every 1 day",
         "minimum_reward": 1000000
       }
@@ -112,6 +112,15 @@
       }
 },
     {
+      "name": "routerchain",
+      "address": "routervaloper1rsysmjf5hesypyzrdre25j450r474rx60hplue",
+      "restake": {
+        "address": "router1ltv0z3033yrpc23s2mtkswjx98h0pckh3tfnwn",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},	  
+    {
       "name": "furya",
       "address": "furyavaloper1yasjpwlug8355auvle465lp3k3y0yhuuc7ymvl",
       "restake": {
@@ -129,6 +138,33 @@
         "minimum_reward": 100000
       }	  
     },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper1375akla6alr790je24fswxs6mg6hc2ewvfsnwf",
+      "restake": {
+        "address": "dh144gg9k9jywjc3k7m444jqyw88prt5h2pphewne",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 10000000
+      }	  
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1sqq6h3krhuj24m45n5m7l3m8r2fgzuv4eep69p",
+      "restake": {
+        "address": "self1765r3rvgpj2fugjru8gr4s7yp26vdmz2xxv7ue",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 1000000
+      }	  
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1d3hahjfnr6579rpt7fkste4jaj6ne0jvqttj05",
+      "restake": {
+        "address": "atone1765r3rvgpj2fugjru8gr4s7yp26vdmz2ddd9yg",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 10
+      }	  
+    },	  
 		{
       "name": "firmachain",
       "address": "firmavaloper1hq5rh4p2whhx7ctjn6gjdz3kx9tfzcw2kkt79c",

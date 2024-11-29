@@ -2,6 +2,42 @@
   "$schema": "../chains.schema.json",
   "name": "AVIAONE.com 🟢",
   "chains": [
+    {
+	  "name": "stargaze",
+      "address": "starsvaloper1rga96xefepj46hnghllstzlqrxjfua0xk6sk6q",
+      "restake": {
+        "address": "stars1sdtursdqgmlmlchhyywldrvfyry006jwvacyl0",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+	  "name": "chihuahua",
+      "address": "chihuahuavaloper10g6q3pcjv30tnv5p9jg87yl6kgkncvdf9kmrfl",
+      "restake": {
+        "address": "chihuahua1sdtursdqgmlmlchhyywldrvfyry006jwm5zh4u",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000000
+      }
+    },	  
+    {
+	  "name": "bandchain",
+      "address": "bandvaloper1yeeh6rjec2qa8hczh46cl6zy8s7mvzx996qp5s",
+      "restake": {
+        "address": "band1ms9ym23w6vcpgmx53l8mzcdr2p9shpy4axkwyg",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 250000
+      }
+    },
     {	
 	  "name": "lava",
       "address": "lava@valoper1hdg2exumzju4uazc8yfznz99qnr5z4u73whhdk",

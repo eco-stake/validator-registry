@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "andromeda",
-      "address": "andrvaloper1aqfcry6dpqkzn6yvg2k7f89kgu3tcyzwqx0cth",
-      "restake": {
-        "address": "andr1g82ghw7dy4v5tm208la39hdn42a5d0c054vlts",
-        "run_time": "21:00",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "quicksilver",
       "address": "quickvaloper15c237w8j2nc2qumcvphr8m4pd8gh82whtzztzz",
       "restake": {
@@ -106,6 +97,15 @@
       "address": "celestiavaloper1ry3453n79p9nlzcq7nm6yqfyluzqn0d4fehnat",
       "restake": {
         "address": "celestia1g82ghw7dy4v5tm208la39hdn42a5d0c0a54dds",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1ed7c8uxxzkk2hvjka3ud6jq5y0d7h90k49sr8r",
+      "restake": {
+        "address": "lava@1g82ghw7dy4v5tm208la39hdn42a5d0c05xncss",
         "run_time": "21:00",
         "minimum_reward": 1000000
       }

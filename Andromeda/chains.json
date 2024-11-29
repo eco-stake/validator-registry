@@ -3,18 +3,6 @@
   "name": "Andromeda",
   "chains": [
     {
-      "name": "oraichain",
-      "address": "oraivaloper1425a2jysn9lkacvuwmde89vxqlpxa0xdrt3wdv",
-      "restake": {
-        "address": "orai184mqncrvryyherdw98l72qgdazkpp0enkvq0ur",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "seda",
       "address": "sedavaloper1qlc53z46633myl8sznf7sfr0kuchg6zkua2krt",
       "restake": {

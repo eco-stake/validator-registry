@@ -120,6 +120,15 @@
       }
     },
     {
+       "name": "haqq",
+       "address": "haqqvaloper1y5plmnldwsdfwrspwzye7sg73j398jh8j6r42r",
+       "restake": {
+         "address": "haqq1cj5j0q89wws9vvae4k2ckhs3ddyn7hlfupwdxw",
+	 "run_time": ["06:00", "12:00", "18:00", "00:00"],
+         "minimum_reward": 1000000000000000000
+      }
+    },  
+    {
       "name": "impacthub",
       "address": "ixovaloper1wudw7wc0wrm7yc38phef6f8gckqkapvgqa6npu",
       "restake": {

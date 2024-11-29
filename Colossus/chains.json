@@ -13,6 +13,16 @@
     },
 
     {
+      "name": "cosmosicsprovidertestnet",
+      "address": "cosmosvaloper10jt73m3mlkmsqsys7jl7aktzj9nsdrgxxvy4j5",
+      "restake": {
+        "address": "cosmos1lluf7ts6qdu5ydypmleccfd8yulqvgrfkpvhr6",
+        "run_time": "every 6 hours",
+        "minimum_reward": 50000
+      }
+    },
+
+    {
       "name": "cosmoshub",
       "address": "cosmosvaloper18s3k8dt73e28rraqk70u9xwtv9wlav83n5mqjx",
       "restake": {
@@ -49,6 +59,36 @@
         "address": "secret1hq4mnz2lwjulg0n29jkesjydnau5w2aypl43sj",
         "run_time": "every 6 hours",
         "minimum_reward": 100000
+      }
+    },
+
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1nvmc3ntrrc6z0af5zw9hgx6nppdstxtrnzw8x9",
+      "restake": {
+        "address": "haqq1x33v9wf8tfp39wkhgfxvzzg36n8l8jaxj27xaj",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+
+    {
+      "name": "celestia",
+      "address": "celestiavaloper12zvew6zvvz9qajhwscuc6jrauma5a9tzvf5jey",
+      "restake": {
+        "address": "celestia1lluf7ts6qdu5ydypmleccfd8yulqvgrf8ta8eh",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1qy7mkd5jf4zacpfnpp5z73z5tmg7455jmsfqlu",
+      "restake": {
+        "address": "fetch1lluf7ts6qdu5ydypmleccfd8yulqvgrf9u9npd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

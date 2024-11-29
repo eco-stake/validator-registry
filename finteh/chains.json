@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "finteh",
+  "chains": [
+    {
+      "name": "lava",
+      "address": "lava@valoper1cde73nkhe3j3twx7jygj62hprlvfmmal7aa483",
+      "restake": {
+        "address": "lava@1mlap8x2y2ntkfkrfygejy42el8dw098g4d9p88",
+        "run_time": "every 10-15 days",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

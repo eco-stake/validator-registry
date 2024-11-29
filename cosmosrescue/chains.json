@@ -3,39 +3,12 @@
   "name": "cosmosrescue",
   "chains": [
     {
-      "name": "mars",
-      "address": "marsvaloper1ffl9mcqlglrc6cxepgj0u2rc4hx5nnhv3w4a8l",
-      "restake": {
-        "address": "mars1p4557mdpc2qk8vcemeqgrcg55gs2uyznetw5jm",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "kujira",
-      "address": "kujiravaloper1hurk0saxyytlngra2schlfu0n4nl8w4rnu6gy3",
-      "restake": {
-        "address": "kujira1p4557mdpc2qk8vcemeqgrcg55gs2uyzn474422",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "fetchhub",
       "address": "fetchvaloper1zd3v6empaqulrfaekku4e7f8ztn85khtjhq3ur",
       "restake": {
         "address": "fetch1p4557mdpc2qk8vcemeqgrcg55gs2uyznht7f9h",
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000000
-      }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper1exhpryhmqhnae5gf63zlkvgs04mhal597jquct",
-      "restake": {
-        "address": "ki1p4557mdpc2qk8vcemeqgrcg55gs2uyzn4mxzr5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
       }
     },
     {
@@ -75,12 +48,12 @@
        }
     },
     {
-       "name":"secretnetwork",
-       "address":"secretvaloper1xtg9ypjasxxxjen8k2n5zcxgc73pq7pnvsmm70",
+       "name":"akash",
+       "address":"akashvaloper1qx9knjqah8s0l4rhwmapsd6cuah4948jy0gf0t",
        "restake":{
-          "address":"secret1u4rm5gqswjyqhtyatu56q42avnzlg0gxklj3v9",
+          "address":"akash1p4557mdpc2qk8vcemeqgrcg55gs2uyznfd6276",
           "run_time":"every 1 hour",
-          "minimum_reward": 10000
+          "minimum_reward": 100000
        }
     },
     {

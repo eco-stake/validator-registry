@@ -35,7 +35,7 @@
           "11:29",
           "23:29"
         ],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -94,18 +94,6 @@
         "run_time": [
           "01:03",
           "13:03"
-        ],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g86tx29",
-      "restake": {
-        "address": "evmos19tavvzn00yxhf27ra6z303es8hqg32gmw3d2mu",
-        "run_time": [
-          "04:41",
-          "16:41"
         ],
         "minimum_reward": 1000000000000000000
       }

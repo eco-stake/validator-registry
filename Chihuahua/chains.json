@@ -28,15 +28,6 @@
         "run_time": "12:00",
         "minimum_reward": 10000
       }
-    },
-    {
-      "name": "migaloo",
-      "address": "migaloovaloper15y3t55ejgen5cfms49snu9jvkve45fma5ah998",
-      "restake": {
-        "address": "migaloo12q48j5xah5x5fwv2vuvc52j3ryfdq0lxfhwlhv",
-        "run_time": "12:00",
-        "minimum_reward": 10000
-      }
     }
   ]
 }

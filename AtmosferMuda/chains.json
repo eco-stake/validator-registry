@@ -7,8 +7,8 @@
       "address": "sentvaloper1qksz3uscxvjyv8jdxw7lu26xqksddxwjwf7tvh",
       "restake": {
         "address": "sent1undh8du4l3gycl7c8rvqxfygwn022cmmagr49p",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -16,8 +16,8 @@
       "address": "decentrvaloper1y9hxpqhqwzqgvvxxcs9tw5l5seg8vt20tqd45r",
       "restake": {
         "address": "decentr16fhpp935l7r4x6z7vfhmj0d6r0fgudjadn8ajf",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     }
   ]
