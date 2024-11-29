@@ -159,18 +159,6 @@
       }
     },
     {
-      "name": "mars",
-      "address": "marsvaloper16pj5gljqnqs0ajxakccfjhu05yczp9870ral7t",
-      "restake": {
-        "address": "mars1xmlf509uayc4vpztnxefgngueevug67f2p9sk9",
-        "run_time": [
-          "08:29",
-          "20:29"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "neutron",
       "address": "neutronvaloper15urq2dtp9qce4fyc85m6upwm9xul3049zewslw",
       "restake": {
