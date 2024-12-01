@@ -12,6 +12,15 @@
          }
       },
       {
+         "name":"althea",
+         "address":"altheavaloper192gu3czvj3x6rp5fe6vl6vsaw95g86uqqa46kg",
+         "restake":{
+            "address":"althea1g0pt7yj0hywuduh6242zwf7u6sj8hm704cl5e4",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000000
+         }
+      },
+      {
          "name":"aura",
          "address":"auravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0am46v3",
          "restake":{
@@ -43,24 +52,6 @@
          "address":"gravityvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmnxp2sgt",
          "restake":{
             "address":"gravity1q52x3jrc2jrx7rv380z64tsw9m907zlhtczzu8",
-            "run_time":"every 12 hours",
-            "minimum_reward":100000
-         }
-      },
-      {
-         "name":"kichain",
-         "address":"kivaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0c4vz3u",
-         "restake":{
-            "address":"ki1q52x3jrc2jrx7rv380z64tsw9m907zlh79p4am",
-            "run_time":"every 12 hours",
-            "minimum_reward":100000
-         }
-      },
-      {
-         "name":"lumnetwork",
-         "address":"lumvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmne84vf8",
-         "restake":{
-            "address":"lum1q52x3jrc2jrx7rv380z64tsw9m907zlh6zdnvm",
             "run_time":"every 12 hours",
             "minimum_reward":100000
          }
