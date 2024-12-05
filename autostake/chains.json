@@ -390,6 +390,15 @@
       }
     },
     {
+      "name": "synternet",
+      "address": "syntvaloper13k9ra8m5xjwxp8tp4ql78pclgqr9gkqqzjwhly",
+      "restake": {
+        "address": "synt194ytn50yhh67rdha8akhs7c6zulnz4n2xs6wgt",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "nolus",
       "address": "nolusvaloper1zpqag2cha3ezgyv5pvf4j38qtj8tkje60aqa5d",
       "restake": {
