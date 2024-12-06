@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "mantra",
+      "address": "mantravaloper1x70l4dcj30nr4x52ph3jmkpgz79qgktxxnx8jk",
+      "restake": {
+        "address": "mantra1etsdevgm5ps240lrw9mg3p2j32tj96kt95093h",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1sdlfp8n5fcfa7qw7770ngqs02k876gf62etqdx",
+      "restake": {
+        "address": "self1etsdevgm5ps240lrw9mg3p2j32tj96ktt5cauy",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "xion",
       "address": "xionvaloper1sdlfp8n5fcfa7qw7770ngqs02k876gf6uxwwmu",
       "restake": {
