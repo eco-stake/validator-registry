@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "xion",
+      "address": "xionvaloper1xjsxhgwqg2jgl0m9l2fawjxuq6k0klyfdpljjr",
+      "restake": {
+        "address": "xion1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpe7fcal",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "neutaro",
       "address": "neutarovaloper1dtfsg20ynrmxx4qzn8mjlxfp8cdt3286sutr5w",
       "restake": {
