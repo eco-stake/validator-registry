@@ -172,6 +172,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "aaronetwork",
+      "address": "aaronvaloper1ec8kkc2mfatsvvjsq4ac4qh80w8gqkcnj9texu",
+      "restake": {
+        "address": "aaron1pchsyu3d8c0fezekqmh7ymkesv3gr0scgewzev",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
