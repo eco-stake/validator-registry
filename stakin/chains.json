@@ -189,7 +189,7 @@
 				"run_time": "every 12 hour",
 				"minimum_reward": 100000
 			}
-		}
+		},
 		{
 			"name": "zetachain",
 			"address": "zetavaloper1nkgty88qc6q9c24h3xgu5jnseegkdrmm69xuvz",
