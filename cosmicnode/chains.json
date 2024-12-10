@@ -112,12 +112,12 @@
         "minimum_reward": 100000
       }
     },{
-	"name": "xion",
-	"address": "xionvaloper1v2srqzaqku25pdndegz3flhez6umfehp3ch4sz",
-	"restake": {
-		"address": "xion1u9rtjramea2extgfjqcjce6mym0yu647fvzzj7",
+      "name": "xion",
+      "address": "xionvaloper1v2srqzaqku25pdndegz3flhez6umfehp3ch4sz",
+      "restake": {
+        "address": "xion1u9rtjramea2extgfjqcjce6mym0yu647fvzzj7",
 	"run_time": "21:00",
-	"minimum_reward": 100000
+        "minimum_reward": 100000
       }
     }
   ]
