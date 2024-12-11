@@ -547,7 +547,7 @@
       "address": "xionvaloper1m52l7gp04gqvqs24puxxghy3gqjhtd8eagdklu",
       "restake": {
         "address": "xion194ytn50yhh67rdha8akhs7c6zulnz4n2t7np6g",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     }
