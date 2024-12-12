@@ -219,6 +219,15 @@
       }
     }, 
     {
+      "name": "kopi",
+      "address": "kopivaloper10dtdsvge8374uy8p6rm3f88als8qt6ahn5r5xu",
+      "restake": {
+        "address": "kopi1tj0t93t6xjwe5dqptr62ej4pqvy2es0ryccnj9",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },     
+    {
       "name": "kyve",
       "address": "kyvevaloper1h4kmxv56unpz9sa4hkmhf52kf75tlle89pg57r",
       "restake": {
