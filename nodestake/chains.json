@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "elys",
+      "address": "elysvaloper1yt0whdf62s5fry5tpavzfazpm4x5fq0ndej86k",
+      "restake": {
+        "address": "elys1etsdevgm5ps240lrw9mg3p2j32tj96ktwluxl0",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "mantra",
       "address": "mantravaloper1x70l4dcj30nr4x52ph3jmkpgz79qgktxxnx8jk",
       "restake": {
