@@ -1,0 +1,222 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Cosmostation",
+    "chains": [
+        {
+            "name": "cosmoshub",
+            "address": "cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn"
+        },
+        {
+            "name": "agoric",
+            "address": "agoricvaloper13j5emt4pt273flx44c9uawrsk0fl3fmcg4sa4k"
+        },
+        {
+            "name": "althea",
+            "address": "altheavaloper1hpcxmrknwxmcvj8p69ye50sy86l3pkl0udw9cf"
+        },
+        {
+            "name": "akash",
+            "address": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz"
+        },
+        {
+            "name": "archway",
+            "address": "archwayvaloper1lq9la9sh5kjla8x7pg74p7djy2f74u6g60nl9e"
+        },
+        {
+            "name": "assetmantle",
+            "address": "mantlevaloper1cw3dwtw5h49vh83uayzda5l7jyu7k83wqwht0x"
+        },
+        {
+            "name": "atomone",
+            "address": "atonevaloper1wez3ehdwxfygeeu2lj44swcdpds08t3pgnlwc8"
+        },
+        {
+            "name": "axelar",
+            "address": "axelarvaloper1kj8j6hkmgfvtxpgfuskj602sxs5dsfkm6ewm4l"
+        },
+        {
+            "name": "bandchain",
+            "address": "bandvaloper17d3uhcjlh4jyqcep82jfsrg8avsngklxxan5tg"
+        },
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper1wf3q0a3uzechxvf27reuqts8nqm45sn2yq26g3"
+        },
+        {
+            "name": "celestia",
+            "address": "celestiavaloper1uqj5ul7jtpskk9ste9mfv6jvh0y3w34vtpz3gw"
+        },
+        {
+            "name": "chihuahua",
+            "address": "chihuahuavaloper1tgcypttehx3afugys6eq28h0kpmswfkgtten6j"
+        },
+        {
+            "name": "coreum",
+            "address": "corevaloper1ll9gdh5ur6gyv6swgshcm4zkkw4ttakt0zghmr"
+        },
+        {
+            "name": "cryptoorgchain",
+            "address": "crocncl1xdmxh2hf68x7r5fwnu09ddyvrt2d6nwgyqzucr"
+        },
+        {
+            "name": "dydx",
+            "address": "dydxvaloper1vl5ty47uwpfv4mcutwv4zam09mvvvdgy09n0l5"
+        },
+        {
+            "name": "dymension",
+            "address": "dymvaloper1vr9j6wn93malnqp8kz5d8660sjpjktdsdmh5ug"
+        },
+        {
+            "name": "evmos",
+            "address": "evmosvaloper1f35jtt5m68zlxkpxn75403vv82cchahqvfsrup"
+        },
+        {
+            "name": "fetchhub",
+            "address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz"
+        },
+        {
+            "name": "govgen",
+            "address": "govgenvaloper1z0a7mkpfsrxr5dnndv7eulgw8rgwm44th7kfnf"
+        },
+        {
+            "name": "gravitybridge",
+            "address": "gravityvaloper18ytfr4s8lfccy048zl00y3akujxqvq75pzczg5"
+        },
+        {
+            "name": "humans",
+            "address": "humanvaloper1448esk9ghsvkr7xrsfmlvdcf4dqc6vz8jkxete"
+        },
+        {
+            "name": "injective",
+            "address": "injvaloper1rvqzf9u2uxttmshn302anlknfgsatrh5v7fl7e"
+        },
+        {
+            "name": "irisnet",
+            "address": "iva18pva3yzzzaxj7l5a9uk66a0q7lflscyw966jud"
+        },
+        {
+            "name": "juno",
+            "address": "junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa"
+        },
+        {
+            "name": "kava",
+            "address": "kavavaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwu6lgey7"
+        },
+        {
+            "name": "kichain",
+            "address": "kivaloper1ss2f0nl7sn42x8x0d337mj9welzml8h00msg4x"
+        },
+        {
+            "name": "kyve",
+            "address": "kyvevaloper17xuyhz7s5hkwglmkf3qsrlyr3wk9qvqz5c4mul"
+        },
+        {
+            "name": "lumnetwork",
+            "address": "lumvaloper1kjjpdtn5ts3qmj70sfgfm67t24y8yhrzr6fwte"
+        },
+        {
+            "name": "mantrachain",
+            "address": "mantravaloper1rpye98maf8ank802zrkhrfvqjxvwznhcrudnw7"
+        },
+        {
+            "name": "panacea",
+            "address": "panaceavaloper1rr89tj2jjlmf6xvc4a9plp4fll225ugqtk73r9"
+        },
+        {
+            "name": "neutron",
+            "address": "neutronvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4eptfc8er"
+        },
+        {
+            "name": "noble",
+            "address": "noblevaloper1v7xapp6ns7uwzs7yk7n2n6mqjjznk5wt39ccgc"
+        },
+        {
+            "name": "nyx",
+            "address": "nvaloper1upxrtt7nm7dpqe3ee9apaj838j9n2p2rqaswjn"
+        },
+        {
+            "name": "omniflixhub",
+            "address": "omniflixvaloper1xskpp827c569nxd0w20uvrx39szdjf7utl72fz"
+        },
+        {
+            "name": "onomy",
+            "address": "onomyvaloper1fewecfptznhtdvxe5sqw2m6axyes6kst384lhc"
+        },
+        {
+            "name": "osmosis",
+            "address": "osmovaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep88n0y4"
+        },
+        {
+            "name": "passage",
+            "address": "pasgvaloper153p66lfas8gr46l5d8x3urpgv0vq77wkxceuyc"
+        },
+        {
+            "name": "persistence",
+            "address": "persistencevaloper1rq598kexpsdmhxq63qq74v3tf22u6yvlre4r00"
+        },
+        {
+            "name": "provenance",
+            "address": "pbvaloper13905qnf0mc8f8h3dawsq0894ded0ct83f66l56"
+        },
+        {
+            "name": "quasar",
+            "address": "quasarvaloper14mugyqxjvtzk39au6klgpcyz4vpxgxsjf7c5uk"
+        },
+        {
+            "name": "regen",
+            "address": "regenvaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0f5erue"
+        },
+        {
+            "name": "saga",
+            "address": "sagavaloper1nv7mzp90rjxkgrr7ymcfqufgjeqtr7ptfeflz8"
+        },
+        {
+            "name": "sei",
+            "address": "seivaloper1hnkkqnzwmyw652muh6wfea7xlfgplnyj0ku4w4"
+        },
+        {
+            "name": "sentinel",
+            "address": "sentvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf43yj25"
+        },
+        {
+            "name": "shentu",
+            "address": "shentuvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfyte2cf"
+        },
+        {
+            "name": "sommelier",
+            "address": "sommvaloper16zlu8yrmccwssv7tywc74jsh6nen4t5ur5ef67"
+        },
+        {
+            "name": "stafihub",
+            "address": "stafivaloper1acevwl8z4qllae7hzepq6y0medl7expq95svxx"
+        },
+        {
+            "name": "stargaze",
+            "address": "starsvaloper1ulvgmlttxhrnmegu57sj0n2qc7xvtrn9245jtu"
+        },
+        {
+            "name": "stride",
+            "address": "stridevaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep44vuaf"
+        },
+        {
+            "name": "teritori",
+            "address": "torivaloper1fk6ypywxnlnvlfnnx3kz93fq0rqzc0m3ylt4zm"
+        },
+        {
+            "name": "terra",
+            "address": "terravaloper1564j3fq8p8np4yhh4lytnftz33japc03wn40kg"
+        },
+        {
+            "name": "umee",
+            "address": "umeevaloper1hn8mjjvgzd07tfhcl8jvux5k72hheg3t2xkhq0"
+        },
+        {
+            "name": "xion",
+            "address": "xionvaloper1aymujrhq0kndynezn520lz6wqcehp52gzjkyn2"
+        },
+        {
+            "name": "xpla",
+            "address": "xplavaloper1qvpc0ysp0lflngg7c6vy5wpyjln0yfc5cq0fku"
+        }
+    ]
+}
