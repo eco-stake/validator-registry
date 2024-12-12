@@ -181,6 +181,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper1ercq0n3jp2kmhsk383yvfaz0k8lv84deu6ty8t",
+      "restake": {
+        "address": "elys1pchsyu3d8c0fezekqmh7ymkesv3gr0scf82xhl",
+        "run_time": "every 1 minute",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
