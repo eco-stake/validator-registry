@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1w2am36drrffjlynrqla9sylpw9gmkn56cg9e3h",
+      "restake": {
+        "address": "atone194ytn50yhh67rdha8akhs7c6zulnz4n28h4y6m",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "aura",
       "address": "auravaloper1z8qlzq3ag2mzccg4xr2n805swr5rl3ugdh3euf",
       "restake": {
