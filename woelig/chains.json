@@ -406,6 +406,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "medasdigital",
+      "address": "medasvaloper1zr2fnutt8fxhjmwdgv38l04mhl4xy0es8g280l",
+      "restake": {
+        "address": "medas1e762e7chsgz3aurtelcz948j8gscfr0q2a7lvm",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     }
   ]
 }
