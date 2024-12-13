@@ -34,7 +34,7 @@
       "address": "atonevaloper1w2am36drrffjlynrqla9sylpw9gmkn56cg9e3h",
       "restake": {
         "address": "atone194ytn50yhh67rdha8akhs7c6zulnz4n28h4y6m",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },
