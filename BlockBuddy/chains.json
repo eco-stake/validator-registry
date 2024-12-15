@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlockBuddy",
+  "chains": [
+    {
+      "name": "shido",
+      "address": "shidovaloper16a22vhw5fhp459g4939u793wvcu7fdcxyvm6aw",
+      "restake": {
+        "address": "shido1y7q34zdx5a8a2prgj2pfdgfghsncftae5al9s3",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}
