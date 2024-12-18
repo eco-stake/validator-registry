@@ -3,6 +3,24 @@
     "name": "256x25",
     "chains": [
       {
+        "name": "blockx",
+        "address": "blockxvaloper1x3nzx64zumad5g6xgx478uum6tgjshs5ccuc7g",
+        "restake": {
+          "address": "blockx1a7aj3s6qe4c27rulj7rfhdqg3kyw33v7wkhyjm",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "medasdigital",
+        "address": "medasvaloper1lktz0dts4q5rqaucdl0g32j862hw3ks5lhfs3z",
+        "restake": {
+          "address": "medas1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nvy20rc",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
         "name": "nibiru",
         "address": "nibivaloper19udgpc5yhpjusn2aerrpgzu5z2ewphrc6dpwkg",
         "restake": {
