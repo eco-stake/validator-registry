@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "🐔 The Chicken Coop 🦝",
+  "name": "🐔 The Chicken Coop 🦝 Homestead",
   "chains": [
     {
       "name":"acrechain",
@@ -101,7 +101,16 @@
         "minimum_reward": 100000000
       }
     },
-        {
+    {
+      "name": "elys",
+      "address": "elysvaloper1hkdq42kg5vam5kv78mpu8j2au84mxh4djh5mmj",
+      "restake": {
+        "address": "elys1lpmfdfzknt3kg4l4ujkduzn245zj85xfr67g29",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "jackal",
       "address": "jklvaloper1dhapp9yglujucwgeq8uzvt5uv9nukxf22ql9a6",
       "restake": {
