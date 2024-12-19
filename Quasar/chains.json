@@ -27,8 +27,9 @@
           "address": "dungeon1s0mq9w28egg0zegm3lfeda2amnvxun5ynz0lf2",
           "run_time": "every 1 hour",
           "minimum_reward": 100000
+          }
         },
-          {
+       {
         "name": "elys",
         "address": "elysvaloper1wc53p7wghd7vnxzhqh8u944rl782q4k6925cz3",
         "restake": {
@@ -39,4 +40,3 @@
       }
     ]
   }
-  
