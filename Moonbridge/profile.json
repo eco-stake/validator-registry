@@ -2,7 +2,7 @@
   "$schema": "../profile.schema.json",
   "name": "Moonbridge",
   "identity": "6F7C6C0637B4BD6F",
-  "website": "https://moonbridge.team",
+  "website": "https://moonbridge.org",
   "description": {
     "overview": "Build your bridge to the future of decentralized finance",
     "team": "",
