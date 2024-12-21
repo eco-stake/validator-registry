@@ -4,20 +4,11 @@
     "chains": [
       {
         "name": "cosmoshub",
-        "address": "cosmosvaloper12syxdn3qs7fxua3khvewsvdvrx6xw8cjlsknnm",
+        "address": "cosmosvaloper14yncgrhz5t0j6p9yfm0eht65ltter2kqwkn6dc",
         "restake": {
           "address": "cosmos1s0mq9w28egg0zegm3lfeda2amnvxun5ya3ser3",
           "run_time": "every 1 hour",
           "minimum_reward": 200000
-        }
-      },
-      {
-        "name": "juno",
-        "address": "junovaloper1upy09fgzzzpdmgqcz2jh7642c8hp0lw3lwxve6",
-        "restake": {
-          "address": "juno1s0mq9w28egg0zegm3lfeda2amnvxun5ytrnzyd",
-          "run_time": "every 1 hour",
-          "minimum_reward": 2000000
         }
       },
       {
