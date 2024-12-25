@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "ZeroPercentFeeUSTCAirdrops LUNC Community ",
+  "name": " 0% Fee & USTC Airdrops  - LUNC Community ",
   "chains": [
     {
       "name": "terra",
