@@ -1,17 +1,17 @@
 {
   "$schema": "../profile.schema.json",
   "name": "WhisperNode🤐",
-  "identity": "9C7571030BEF5157",
+  "identity": "C99B3A6836BF0CB8",
   "website": "https://WhisperNode.com",
   "description": {
-    "overview": "Whispernode is a grassroots validator team that’s 100% focused on decentralization, security, & the cosmos ecosystem. We started with just one validator on Secret Network and have now grown to supporting 20+ Cosmos mainnet networks. We love the Web3 space and consider ourselves blessed to be able to do what we do everyday.",
-    "team": "The WhisperNode team is comprised of 3 members - Brendan (founder), Nick (partner/software engineer), & gh0st (partner/sys admin). Combined, we have over 15+ years of experience in blockchain, and over 25+ years in the tech sector.",
+    "overview": "Whispernode is a grassroots validator team that’s 100% focused on decentralization, security, & the cosmos ecosystem. We started with just one validator on Secret Network. We love the Web3 space and consider ourselves blessed to be able to do what we do everyday.",
+    "team": "WhisperNode is now a Cosmos focused subbrand of Liquify.io. Our team now combines WhisperNode's Cosmos expertise with Liquify's long-standing excellence in RPC and Infra provisioning",
     "security": "We strive to be incrementally better at what we do every single day, and thus reinvest a lot of our resources from delegators into improving WhisperNode (more on this below). WhisperNode works 24/7 to ensure that delegators can sleep peacefully, knowing their funds are #SAFU. We use TMKMS remote signers to ensure we NEVER double-sign, and run infrastructure across the globe to maintain a high level of decentralization + failover."
   },
   "contacts": {
     "telephone": "",
     "email": "security@whispernode.com",
-    "telegram": "gh0stdotexe",
+    "telegram": "BKBlockchain",
     "twitter": "whispernode",
     "discord": "https://discord.gg/4E5KZsRtjE",
     "others": {

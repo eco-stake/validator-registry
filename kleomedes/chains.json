@@ -148,9 +148,9 @@
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1ppeu2c9nkkptmhu2vxmwt2pjfyvn4pwl6ydulk",
+      "address": "shentuvaloper1ppeu2c9nkkptmhu2vxmwt2pjfyvn4pwllup8wu",
       "restake": {
-        "address": "certik1r8egcurpwxftegr07gjv9gwffw4fk009v0naeg",
+        "address": "shentu1r8egcurpwxftegr07gjv9gwffw4fk009rntn27",
         "run_time": "every 1 hour",
         "minimum_reward": 2000000
       }
@@ -333,6 +333,15 @@
         "address": "atone1r8egcurpwxftegr07gjv9gwffw4fk00998ndwm",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "xion",
+      "address": "xionvaloper132q9hsj56y4vkpaj9xmnu8vth0vkfrxynd7n6v",
+      "restake": {
+        "address": "xion1r8egcurpwxftegr07gjv9gwffw4fk009fw4gwg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]

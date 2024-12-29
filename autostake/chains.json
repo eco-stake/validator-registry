@@ -30,6 +30,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1w2am36drrffjlynrqla9sylpw9gmkn56cg9e3h",
+      "restake": {
+        "address": "atone194ytn50yhh67rdha8akhs7c6zulnz4n28h4y6m",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "aura",
       "address": "auravaloper1z8qlzq3ag2mzccg4xr2n805swr5rl3ugdh3euf",
       "restake": {
@@ -390,6 +399,15 @@
       }
     },
     {
+      "name": "synternet",
+      "address": "syntvaloper13k9ra8m5xjwxp8tp4ql78pclgqr9gkqqzjwhly",
+      "restake": {
+        "address": "synt194ytn50yhh67rdha8akhs7c6zulnz4n2xs6wgt",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "nolus",
       "address": "nolusvaloper1zpqag2cha3ezgyv5pvf4j38qtj8tkje60aqa5d",
       "restake": {
@@ -531,6 +549,15 @@
         "address": "umee194ytn50yhh67rdha8akhs7c6zulnz4n2mp5ug3",
         "run_time": "every 5 minutes",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "xion",
+      "address": "xionvaloper1m52l7gp04gqvqs24puxxghy3gqjhtd8eagdklu",
+      "restake": {
+        "address": "xion194ytn50yhh67rdha8akhs7c6zulnz4n2t7np6g",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
       }
     }
   ]

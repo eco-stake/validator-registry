@@ -72,6 +72,10 @@
       }
     },
     {
+      "name": "elys",
+      "address": "elysvaloper1wnv3j92za5cnsfuhlw4c9jl3ttdl36smk9yujm"
+    },
+    {
       "name": "empowerchain",
       "address": "empowervaloper1msjwmclw77h5j0t69n7j2p9ur5ra46uxqaedxz",
       "restake": {
