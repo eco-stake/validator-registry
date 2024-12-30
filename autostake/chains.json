@@ -98,7 +98,7 @@
       "restake": {
         "address": "chihuahua194ytn50yhh67rdha8akhs7c6zulnz4n22zyddp",
         "run_time": "every 10 minutes",
-        "minimum_reward": 100000000
+        "minimum_reward": 1000000000
       }
     },
     {
