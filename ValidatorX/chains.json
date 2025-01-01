@@ -4,9 +4,9 @@
     "chains": [
       {
         "name": "shido",
-        "address": "shidovaloper1x4f56h72c26lcudescrjrna0s3sm5sc25l0z5j", 
+        "address": "shidovaloper1x4f56h72c26lcudescrjrna0s3sm5sc25l0z5j",
         "restake": {
-          "address": "shido1x4f56h72c26lcudescrjrna0s3sm5sc2v452tj", 
+          "address": "shido1x4f56h72c26lcudescrjrna0s3sm5sc2v452tj",
           "run_time": "every 1 minute",
           "minimum_reward": 1000000
         }
