@@ -43,10 +43,8 @@
       "address": "pasgvaloper19fezsaqahsp9ysjqjklghw3cj02lsnwkpfukuj",
       "restake": {
         "address": "pasg1gvu0xvz0vut3xq07m87np9kns5y2pw5fyvvawj",
-        "run_time": [
-          "09:00"        
-        ],
-        "minimum_reward": 100000
+        "run_time": "09:00",
+        "minimum_reward": 1000000
       }
     },
     {
@@ -56,6 +54,15 @@
         "address": "human1epzch8k9778tkvnck7a56jzm7wts2sacr8hlkf",
         "run_time": "09:00",
         "minimum_reward": 100000000000000000
+     }
+    },
+    {
+      "name": "ASI",
+      "address": "fetchvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mnvg20n",
+      "restake": {
+        "address": "fetch1gvu0xvz0vut3xq07m87np9kns5y2pw5f5furp6",
+        "run_time": "09:00",
+        "minimum_reward": 10000000000000000
      }
     }
   ]
