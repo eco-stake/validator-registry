@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IIIyJIeP",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper176yy5702epk59gaaqtgv567rdyv2gx36cjns7a",
+      "restake": {
+        "address": "osmo1ks3r0dg9uwthj0n0x35q6se4rfxhyspcatcxvx",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
