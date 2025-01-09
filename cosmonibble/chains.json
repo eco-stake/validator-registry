@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "IIIyJIeP",
+  "name": "CosmoNibble",
   "chains": [
     {
       "name": "osmosis",
