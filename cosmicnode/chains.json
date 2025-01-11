@@ -127,6 +127,14 @@
         "run_time": "21:00",
         "minimum_reward": 100000
       }
+    },{
+      "name": "seda",
+      "address": "sedavaloper1v2srqzaqku25pdndegz3flhez6umfehp92jjkz",
+      "restake": {
+        "address": "seda1u9rtjramea2extgfjqcjce6mym0yu647at5c85",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
