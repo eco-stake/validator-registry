@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "kava",
+      "address": "kavavaloper1qevj3fw5l3fhh65k6jx4x5x5f8upv58evd22de",
+      "restake": {
+        "address": "kava1qs4vwslhldkrl695hzgdh8hyt3fgrp52cnlx3k",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "zenrock",
+      "address": "zenvaloper1sdlfp8n5fcfa7qw7770ngqs02k876gf69qf260",
+      "restake": {
+        "address": "zen1etsdevgm5ps240lrw9mg3p2j32tj96kt5jhq7u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "kopi",
       "address": "kopivaloper10n3fs6fkl4fp9dcsdfl2vl3ay7pk7snnz28rf8",
       "restake": {
