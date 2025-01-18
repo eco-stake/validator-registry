@@ -279,6 +279,17 @@
       }
     },
     {
+      "name": "mantrachain",
+      "address": "mantravaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zrfcwf7",
+      "restake": {
+        "address": "mantra12xpq68caw2aqdu70jm4k792g0v9prhrptgvqrz",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "neutron",
       "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
     },
