@@ -359,7 +359,7 @@
       "restake": {
         "address": "bze1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjal2kkz",
         "run_time": "every 1 hours",
-        "minimum_reward": 5000000000
+        "minimum_reward": 100000000
       }
     }
   ]
