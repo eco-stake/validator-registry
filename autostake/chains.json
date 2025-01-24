@@ -323,7 +323,7 @@
       "restake": {
         "address": "orai194ytn50yhh67rdha8akhs7c6zulnz4n26ylqds",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000
       }
     },
     {
