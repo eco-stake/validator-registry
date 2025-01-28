@@ -226,6 +226,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "althea",
+      "address": "altheavaloper15dr09h0k7uua9wy4ud6yjfls95luh4q2tz7nk4",
+      "restake": {
+        "address": "althea1pchsyu3d8c0fezekqmh7ymkesv3gr0sca9k0kc",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000000000
+      }
     }
   ]
 }
