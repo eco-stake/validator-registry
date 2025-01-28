@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Blocks United",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1jmykcq8gylmy5tgqtel4xj4q62fdt49sl584xd",
+      "restake": {
+        "address": "cosmos1m8ufpuk83tvqcmkzu7xzpep5g8ztx7nlg0guam",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+	  ]
+}
