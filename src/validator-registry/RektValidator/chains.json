@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Rekt Validator",
+  "chains": [
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1e4y8vr6964aqgnz3ncfws0suwqakxvxmy27g9c",
+      "restake": {
+        "address": "desmos1uaj7yq3nvjc5kuzguccy6fknyqfr2zstvjws6u",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

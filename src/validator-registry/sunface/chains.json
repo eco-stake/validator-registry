@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SunFace.org airdrops for stakers",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1s7xrzju6p9dms958j6zkddr7yqg6hmves2qgu4",
+      "restake": {
+        "address": "chihuahua1juv28kuzuv85hzl5s3scz5rvlv7c9d5cszruv0",
+        "run_time": "22:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

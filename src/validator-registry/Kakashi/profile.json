@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Kakashido Ninjanode",
+  "identity": "BDE91CFEF3D2DA60",
+  "website": "https://twitter.com/ninjanodeio",
+    "contacts": {
+      "email": "kakashininjanode@gmail.com"
+    }
+}

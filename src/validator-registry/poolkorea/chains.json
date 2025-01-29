@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PoolKOREA ⚡ 자동 재투자 ⚡",
+  "chains": [
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1068lx20jqswpwtykfezssdkn524kqlmlqjeqpa",
+      "restake": {
+        "address": "lum19pqrxrl6n0g0mky4y79hlfzchprmsp5jxdyjew",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

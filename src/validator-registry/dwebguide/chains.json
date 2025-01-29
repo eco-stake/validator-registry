@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dWeb Guide",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1pzqahufgfhnngz0y5try5tku2cpayu46psdfr6",
+      "restake": {
+        "address": "cro1nn35y7g8ny9p32szewrec97wdyh9nzz3farnfu",
+        "run_time": "00:15",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

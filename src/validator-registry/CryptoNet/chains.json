@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoNet",
+  "chains": [
+    {
+      "name": "shentu",
+      "address": "shentuvaloper19lgwcu692dtrpjja67j4tdp5ye8vgd3wfd6s4w",
+      "restake": {
+        "address": "shentu1zz3wp5t24ej534nz5g7lxdazekx0aaek86k6kp",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1hhuc45gymxlrm25z7xgcehvaqjpat2r0hlyh8k",
+      "restake": {
+        "address": "lum1xpw7qmxsc9v9vfw3v0uxy83y3ynald6mntzgy6",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1zqwvh3amm30xyctzqkqcv2dm22sprd9vga6agl",
+      "restake": {
+        "address": "decentr1zz3wp5t24ej534nz5g7lxdazekx0aaekyq5h95",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper13ypu2s4kfstzs62v70muakk42dmlpv5u6vz2pd",
+      "restake": {
+        "address": "sent1zz3wp5t24ej534nz5g7lxdazekx0aaek54y6qn",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper1ewvh80umgq5l38ujju49vm22sl534x99meh6e2",
+      "restake": {
+        "address": "plq1x8zysrq0jw6vq87h207ecv2m3yguv9rfqpl59n",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1g2q8pucmu3px03e2lqdeze7u0cy7tyhrvgx4tj",
+      "restake": {
+        "address": "firma1dh3mgt9l3vv5jj8t8ccshzqmlcg0n52rxv2ka2",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bluzelle",
+      "address": "bluzellevaloper1qvuygk3deahgffgxnzegc0ycnzculjh83dejgv",
+      "restake": {
+        "address": "bluzelle1rvr2adsun4676s7jqapa209j2ee4d70yy9hqtg",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1a0wc7n39yuy40r48fe02akce4cc96uvmn94jsy",
+      "restake": {
+        "address": "gitopia1zz3wp5t24ej534nz5g7lxdazekx0aaek3k45tl",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper1kh8aqhy07e8c8fd7x8zcz79gy3mfh986m6x6eq",
+      "restake": {
+        "address": "bze1zz3wp5t24ej534nz5g7lxdazekx0aaekj27gkt",
+        "run_time": ["03:00","15:00"],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

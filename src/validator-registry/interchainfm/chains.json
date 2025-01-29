@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "interchain.FM🥩",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper125kjmvuv5sv7qct2t6wc99h3mp7hpyxw37dcgg",
+      "restake": {
+        "address": "osmo1tah24yf5pndrwwc8hsdmjahgyf4s5s7nherfmw",
+        "run_time": "1:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1z96p06tf6pqeca9gatv8h9hp83z2ng4l6erxj4",
+      "restake": {
+        "address": "cosmos1tah24yf5pndrwwc8hsdmjahgyf4s5s7nlzsedu",
+        "run_time": "1:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

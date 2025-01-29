@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ITA Stakers",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq",
+      "restake": {
+        "address": "bitsong15fxx0tg028ugrxnj782aapd0knupauknyapvq3",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1u0xqasxgl6qkkckd860pt4xjqryxek4y05jwy6",
+      "restake": {
+        "address": "desmos10gqy32et4k2zydrrl30t7pfa854mu56pj3xdht",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1t6t8ttmlzw5fgehx5wlfc02sefj5etwvk6yz9j",
+      "restake": {
+        "address": "chihuahua1ljahtlzw6zy7fea6yywavuvvlq96vec9sskar8",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

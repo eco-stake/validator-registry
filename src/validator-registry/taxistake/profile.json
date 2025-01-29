@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "TaxiStake",
+  "identity": "536585A71903C50F",
+  "website": "https://www.taxistake.com",
+  "description": {
+    "overview": "Come ride with TaxiStake"
+  },
+  "contacts": {
+    "email": "validators@taxistake.com",
+    "telegram": "https://t.me/shapeshiftofficial",
+    "twitter": "https://twitter.com/TaxiStake"
+  }
+}
+

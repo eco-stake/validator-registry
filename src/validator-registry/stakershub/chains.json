@@ -1,0 +1,61 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Stakers Hub",
+  "chains": [
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1f4kmcewkr5jatxu7gm2em6hqst2ujg8ec9p5xn",
+      "restake": {
+        "address": "decentr1709spkwudstcnlpvt6cpwhh6lylxxylym9h60j",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "echelon",
+      "address": "echelonvaloper1lxnxwj8t52e78ws3lrp0ugyt4kuljadyek7zq7",
+      "restake": {
+        "address": "echelon1htypggxzv5t9pkesu9la2d0urlvafgeyxsrzcu",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 20000000
+      }
+    },
+    {
+      "name": "lumenxtestnet",
+      "address": "lumenvaloper1f4kmcewkr5jatxu7gm2em6hqst2ujg8ef9pmlk",
+      "restake": {
+        "address": "lumen1709spkwudstcnlpvt6cpwhh6lylxxyly97499e",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lumenx",
+      "address": "lumenvaloper1f4kmcewkr5jatxu7gm2em6hqst2ujg8ef9pmlk",
+      "restake": {
+        "address": "lumen1709spkwudstcnlpvt6cpwhh6lylxxyly97499e",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1zh66emq9l3qxj4ezhevl8wxd9qzkprqgyud5xl",
+      "restake": {
+        "address": "sent1709spkwudstcnlpvt6cpwhh6lylxxylyts8h24",
+        "run_time": [
+          "every 1 hour"
+        ],
+        "minimum_reward": 500000000
+      }
+    }
+  ]
+}

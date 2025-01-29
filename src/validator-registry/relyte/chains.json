@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Relyte",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1gh20fpn3jg6yv5csljpy2zwellksyuxcxztcy9",
+      "restake": {
+        "address": "cerberus1f5exrqqv9q2cy3sannyu42u94ght7zcwmgdggr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

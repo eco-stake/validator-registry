@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LunaClassic.com",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1a0lhtrf5dcpdtld9k5praqw0hp5n9plgq3lrt9",
+      "restake": {
+        "address": "terra1sdtqlyzat84z9hv86d3gxa2tu5xq26cwdcp0xy",
+        "run_time": "01:15",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

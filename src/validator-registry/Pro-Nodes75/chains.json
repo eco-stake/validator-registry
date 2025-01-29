@@ -1,0 +1,57 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Pro-Nodes75",
+	"chains": [		
+		{
+			"name": "evmos",
+			"address": "evmosvaloper1cn3mdzauql5af585mq0xksn26lmlh7naplgs6c",
+			"restake": 
+			{
+				"address": "evmos15awlwz5twkvjrvtte36sqre03zq75tutug6c92",
+				"run_time": ["07:10",
+					"19:10" ],
+				"minimum_reward": 200000000000000000
+			}
+		},
+		{
+			"name": "umee",
+			"address": "umeevaloper1vn5ysf7u9dssn2pm6h8agmqerxc5mq79p3e9ny",
+			"restake": 
+			{
+				"address": "umee1kr33u3tq4uxn35g5jakxt3thuxqlqp9yapc3ry",
+				"run_time": ["00:00","06:00","12:00","18:00"],
+				"minimum_reward": 200000
+			}
+		},
+		{
+			"name": "terra2",
+			"address": "terravaloper1puzp2yjqps43x7nse33svljc550xjz35jxg432",
+			"restake": 
+			{
+				"address": "terra12tfcch3m28qy07kw6xh7nwu9g5ecerf8m7nnae",
+				"run_time": ["00:00","12:00"],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "archway",
+			"address": "archwayvaloper1wcynzzk7fj2fsgz2dmk3qr0hk0msezxs48jhcd",
+			"restake": 
+			{
+				"address": "archway1kr33u3tq4uxn35g5jakxt3thuxqlqp9y6ue2dp",
+				"run_time": ["12:00"],
+				"minimum_reward": 1000000000000000000
+			}
+		},
+		{
+			"name": "dymension",
+			"address": "dymvaloper128sljm393cl62zwttfdkm65pkaz56gt0zf79sp",
+			"restake": 
+			{
+				"address": "dym15awlwz5twkvjrvtte36sqre03zq75tutv58s6v",
+				"run_time": ["00:00","06:00","12:00","18:00"],
+				"minimum_reward": 500000000000000000
+			}
+		}
+	]
+}

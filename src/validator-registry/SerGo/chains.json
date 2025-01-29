@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SerGo",
+  "chains": [
+    {
+      "name": "aura",
+      "address": "auravaloper1hx623n48w57vvy2fj04f7nfa9jymnvsnm2vay9",
+      "restake": {
+        "address": "aura1mgwft0dpeqmracgy64rz52gss6zwpp3zj87jgf",
+        "run_time":"every 6 hours",
+         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1q6y2a5rrwgsykdu7h407n8emwstmkdt8kcu30q",
+      "restake": {
+        "address": "jkl1mgwft0dpeqmracgy64rz52gss6zwpp3zs08pn0",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },	
+    {
+      "name": "lambda",
+      "address": "lambvaloper15x9pvc9ksnwua2hj39uu4lam3ehhjn7qtmcg9c",
+      "restake": {
+        "address": "lamb15ksrfc2pd94eqa0jgn3vpy96mh9rl35ndh8h7p",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "mises",
+      "address": "misesvaloper1zt95w80m662m6fujpqgv8ahp0yaxxtvnltmqlg",
+      "restake": {
+        "address": "mises1mgwft0dpeqmracgy64rz52gss6zwpp3zxp8s0u",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1x04g9ameendpemes5zm6a78sx69664xe7ldn7f",
+      "restake": {
+        "address": "sif1mgwft0dpeqmracgy64rz52gss6zwpp3zvvxx9m",
+        "run_time": "every 6 hour",
+        "minimum_reward": 10000000000000000000
+      }
+	},
+    {
+      "name": "uptick",
+      "address": "uptickvaloper108u3vnpyeszmeyhw5p7z3qxret3c98s7w59txr",
+      "restake": {
+        "address": "uptick15ksrfc2pd94eqa0jgn3vpy96mh9rl35n9k6zxa",
+        "run_time": "every 6 hour",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

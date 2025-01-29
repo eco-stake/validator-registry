@@ -1,0 +1,21 @@
+{
+    "$schema":"../profile.schema.json",
+    "name":"The Space Ape Society ✨🔭🦍",
+    "identity":"350E0AE90C1148FB",
+    "website":"https://www.tsas.io/",
+    "description":{
+       "overview":"Apes Together Strong 🦍🦧🐒 #TSAS",
+       "team":"",
+       "security":""
+    },
+    "contacts":{
+       "telephone":"",
+       "email":"thespaceapesociety@gmail.com",
+       "telegram":"",
+       "twitter":"@tsas_validator",
+       "discord":"https://discord.gg/jpwJTb8RCF",
+       "others":{
+          "emergency":""
+       }
+    }
+ }

@@ -1,0 +1,52 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PRO Delegators",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper18sqvyf4ss84qree7gndph5chmm82fglsqfylwn",
+      "restake": {
+        "address": "cosmos1vvumkjdmen9fsgu88zqv8eulpn79g4g03n9y3g",
+        "run_time": "every 4 hour",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "osmosis",
+      "address": "osmovaloper1r7spsjagrmcfv96w5dxtttajvnxczhcpgfk74g",
+      "restake": {
+        "address": "osmo1vvumkjdmen9fsgu88zqv8eulpn79g4g0egk586",
+        "run_time": "every 4 hour",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "nolus",
+      "address": "nolusvaloper17rskjptvphrktvqz3wrnqpeh6gqp825mujae8t",
+      "restake": {
+        "address": "nolus1vvumkjdmen9fsgu88zqv8eulpn79g4g08r4mnd",
+        "run_time": "every 4 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1zrp3cnmqg7rlr7n4mc3cfl4khn5p9a2frykp2c",
+      "restake": {
+        "address": "atone1vvumkjdmen9fsgu88zqv8eulpn79g4g0lner8s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper12w8a3hlgladrn6tr5s72s77h0zfw6y64ecpvqy",
+      "restake": {
+        "address": "elys1vvumkjdmen9fsgu88zqv8eulpn79g4g03nuru2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+	  
+  ]
+}

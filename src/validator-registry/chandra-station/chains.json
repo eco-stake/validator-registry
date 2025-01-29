@@ -1,0 +1,96 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Chandra Station ",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx5kk698d",
+      "restake": {
+        "address": "akash1uwqjtgjhjctjc45ugy7ev5prprhehc7w5xcfwl",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx5pd5hur",
+      "restake": {
+        "address": "chihuahua1uwqjtgjhjctjc45ugy7ev5prprhehc7w6gcqk8",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx59hp5ft",
+      "restake": {
+        "address": "comdex1uwqjtgjhjctjc45ugy7ev5prprhehc7w7jhvwj",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper1dv3v662kd3pp6pxfagck4zyysas82adspfvtw4",
+      "restake": {
+        "address": "dig1uwqjtgjhjctjc45ugy7ev5prprhehc7wpfu947",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "emoney",
+      "address": "emoneyvaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx5ev9y8d",
+      "restake": {
+        "address": "emoney1uwqjtgjhjctjc45ugy7ev5prprhehc7wk706qc",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper18zt355ccyxd3kj23mz5hdz00qqn5lk5kjnj74m",
+      "restake": {
+        "address": "evmos1ey55yn6mvhmykvp6vmfnrr7jwz5ya8jm2t3rcs",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1728s3k0mgzmc38eswpu9seghl0yczupyhc695s",
+      "restake": {
+        "address": "gravity1uwqjtgjhjctjc45ugy7ev5prprhehc7wad8kjd",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper106y6thy7gphzrsqq443hl69vfdvntgz260uxlc",
+      "restake": {
+        "address": "juno1uwqjtgjhjctjc45ugy7ev5prprhehc7w00k4se",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper10ymws40tepmjcu3a2wuy266ddna4ktas0zuzm4",
+      "restake": {
+        "address": "osmo1uwqjtgjhjctjc45ugy7ev5prprhehc7w3xx7ph",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1lxh0u07haj646pt9e0l2l4qc3d8htfx543ss9m",
+      "restake": {
+        "address": "sent1uwqjtgjhjctjc45ugy7ev5prprhehc7wzxrhn2",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

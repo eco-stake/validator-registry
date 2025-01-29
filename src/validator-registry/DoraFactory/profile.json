@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Dora Factory",
+  "identity": "545AE344AB790D22",
+  "website": "https://dorafactory.org",
+  "description": {
+    "overview": "Dora Factory is the digital infrastructure for public good staking and decentralized governance - decentralize POS networks and empower public goods.",
+    "team": "Dora Factory is a the new generation blockchain infrastructure for public good staking and decentralized governance, decentralizing blockchain networks and empowering an everlasting hacker movement on blockchain and beyond."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "node-operation@mail.dorafactory.org",
+    "telegram": "votadevopsupport",
+    "twitter": "DoraFactory",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

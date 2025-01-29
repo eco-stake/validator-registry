@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "web3tax.info",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1krkmg6f0sjwalkx3nq39yt0upxgys7alcjytq4",
+      "restake": {
+        "address": "cerberus1h666jcyjycu90w3j6q6cpswsmzh9f73txjnkf9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1krkmg6f0sjwalkx3nq39yt0upxgys7alme6lps",
+      "restake": {
+        "address": "lum1h666jcyjycu90w3j6q6cpswsmzh9f73t0lwkf6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1mxfquem28y5sh2xw4png4e8uws9z4gyhx9wz2h",
+      "restake": {
+        "address": "meme1h666jcyjycu90w3j6q6cpswsmzh9f73ty29gmy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Made In Block",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1juczud9nep06t0khghvm643hf9usw45r23gsmr",
+      "restake": {
+        "address": "juno1ljahtlzw6zy7fea6yywavuvvlq96vec99hcg9e",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc",
+      "restake": {
+        "address": "cosmos1ljahtlzw6zy7fea6yywavuvvlq96vec9n9mnz9",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "crescent",
+      "address": "crevaloper1zegq2j52zh7g23k8dzfawwmz64j8d52uqfnzhn",
+      "restake": {
+        "address": "cre1zegq2j52zh7g23k8dzfawwmz64j8d52uzand6e",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1juczud9nep06t0khghvm643hf9usw45r3jxhxn",
+      "restake": {
+        "address": "osmo1ljahtlzw6zy7fea6yywavuvvlq96vec9m7gr5h",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

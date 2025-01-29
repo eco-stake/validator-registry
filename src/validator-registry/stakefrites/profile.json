@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Stake Frites 🥩 🍟",
+  "identity": "7817CA2B0981F769",
+  "website": "https://stakefrites.co",
+  "description": {
+    "overview": "Our team is committed to leveling up the Cosmos ecosystem with our innovative tools and high-quality content. We're beefing up security, decentralization, and growth 🚀 Join us in this mission to create a better blockchain world 🌐.",
+    "team": "5 team members and about 10 years of experience.",
+    "security": "Our zero-trust framework ensures rigorous access control, with SSH access restricted to key-based authentication and all logins, including SSH, safeguarded by 2FA. We closely monitor our servers, with any unauthorized attempts triggering immediate notifications through SMS and/or PagerDuty. Additionally, we use a password manager for secure credential storage, upholding our commitment to maintaining a fortress-like security posture for our infrastructure."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "security@stakefrites.co",
+    "telegram": "",
+    "twitter": "stakefrites_",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

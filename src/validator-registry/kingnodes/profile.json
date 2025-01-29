@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "kingnodes 👑",
+  "identity": "30E6CD38D9721222",
+  "website": "https://kingnodes.com",
+  "description": {
+    "overview": "Kingnodes are a dedicated PoS validator with strong uptime and commitment to security",
+    "team": "The Kingnodes team are dedicated to being available to our community, providing the best service and responding to feedback, and providing the highest uptime and security."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "nullmames@kingnodes.com",
+    "telegram": "kingnodes",
+    "twitter": "kingnodes",
+    "discord": "https://discord.gg/TBuaH3GYpN",
+    "others": {
+      "emergency": "security@kingnodes.com"
+    }
+  }
+}

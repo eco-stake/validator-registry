@@ -1,0 +1,18 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Nomblocks.io",
+    "chains": [
+      {
+        "name": "onomy",
+        "address": "onomyvaloper1525nrrumgc6cd3fexj9cyaanmh93j9a4vzf334",
+        "restake": {
+          "address": "onomy1dectq7n5mu2qp2eda0xefp03qc4vjh5jgzmf9t",
+          "run_time": [
+	    "00:00",
+	    "12:00"
+	  ],
+          "minimum_reward": 1000000000000000000
+        }
+      }
+    ]
+}

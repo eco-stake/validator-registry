@@ -1,0 +1,33 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Plural",
+    "chains": [
+      {
+        "name": "cosmoshub",
+        "address": "cosmosvaloper1uyccnks6gn6g62fqmahf8eafkedq6xq400rjxr",
+        "restake": {
+          "address": "cosmos13d2yfg6uw37fxdpc04fxd2z5cuqmdkry6f9xej",
+          "run_time": "22:00",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "evmos",
+        "address": "evmosvaloper13xh50decza8q4ud97ts2epvmtcxnug0tjl532z",
+        "restake": {
+          "address": "evmos1vuqg0hd7vuxnpq94m4upk07ylmp6w7ptynkv63",
+          "run_time": "22:00",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "osmosis",
+        "address": "osmovaloper1f6taewxze2sxang7293dff6qju4r4uwg7znp6j",
+        "restake": {
+          "address": "osmo13d2yfg6uw37fxdpc04fxd2z5cuqmdkryjjkk0q",
+          "run_time": "22:00",
+          "minimum_reward": 100000
+        }
+      }
+    ]
+  }

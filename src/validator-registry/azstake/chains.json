@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "azstake",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1r4egnngxqudu7nsxa6uygcygn36j30v7w3luh6",
+      "restake": {
+        "address": "evmos1czfankzgd7p2245kyszuse70jy7sjzmnz5qmul",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper10m848yf5f66qytun249z9k56nvtvknwenp0dts",
+      "restake": {
+        "address": "gravity1kxd2f28ugzwyv9twexw88kpajvgf94xgeghxtr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1926sz228mm6yjlwye9hfxxh0hh4nm4aqfp29l7",
+      "restake": {
+        "address": "stars1kxd2f28ugzwyv9twexw88kpajvgf94xgfyjr96",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper142xnwdgpmpzgsyckxwyd5c9ppmmvqa9k7c4fh8",
+      "restake": {
+        "address": "umee1kxd2f28ugzwyv9twexw88kpajvgf94xg0wcp2e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

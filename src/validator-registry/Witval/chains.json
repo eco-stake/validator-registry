@@ -1,0 +1,59 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Witval",
+	"chains": [{
+			"name": "akash",
+			"address": "akashvaloper1qwlcuf2c2dhtgy8z5y7xxqev96km0n5mw30ls2",
+			"restake": {
+				"address": "akash1334362q9lzxqu042s4maqd33g9ff9zrfnq2duv",
+				"run_time": "16:30",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+                        "name": "juno",
+                        "address": "junovaloper16msryt3fqlxtvsy8u5ay7wv2p8mglfg9g70e3q",
+                        "restake": {
+                                "address": "juno1334362q9lzxqu042s4maqd33g9ff9zrfgfy3z2",
+                                "run_time": "16:30",
+                                "minimum_reward": 10000000
+                        }
+                },
+		{
+			"name": "cosmoshub",
+			"address": "cosmosvaloper1ddle9tczl87gsvmeva3c48nenyng4n56nghmjk",
+			"restake": {
+				"address": "cosmos1334362q9lzxqu042s4maqd33g9ff9zrf7m829k",
+				"run_time": "16:30",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "regen",
+			"address": "regenvaloper1h5z08rzvrwt3pzdjc03upvuh2x0j3yskldyqvj",
+			"restake": {
+				"address": "regen1334362q9lzxqu042s4maqd33g9ff9zrfpevknj",
+				"run_time": "16:30",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "gravitybridge",
+			"address": "gravityvaloper1v55ah3flqgwhkss38asgw3ye8naevzwt8fly7a",
+			"restake": {
+				"address": "gravity1334362q9lzxqu042s4maqd33g9ff9zrf6t4jq7",
+				"run_time": "16:30",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "evmos",
+			"address": "evmosvaloper10pcga9su5me3dp5g4jln49uxjq7c9s2u9qy9zu",
+			"restake": {
+				"address": "evmos16saqy8ddfvquys02pfsjxezj5g4qcaec0qd70j",
+				"run_time": "16:30",
+				"minimum_reward": 10000000
+			}
+		}
+	]
+}

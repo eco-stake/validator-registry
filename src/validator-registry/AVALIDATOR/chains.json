@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "⛩🥚AVALIDATOR🥚⛩",
+  "chains": [
+{
+      "name": "teritori",
+      "address": "torivaloper1wn2a8up7mxw63g0xlgyepedz48ppqcqvw4kpap",
+      "restake": {
+        "address": "tori1af5feqgsjs05quz89w6gx6a6hg8cf07krjavrh",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

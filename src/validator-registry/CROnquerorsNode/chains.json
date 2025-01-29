@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CROnquerorsNode",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1s078nr9kp4ulsxgnsasnr3k6zg5q9erps348eg",
+      "restake": {
+        "address": "cro1xmannxgcr6szlg9uh66mxxxxs80d0ae4rr9eus",
+        "run_time": "21:00",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

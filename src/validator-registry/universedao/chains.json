@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "UniverseDAO",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1rdtztev7z7udxnq4nl74l9976ww6u7tkpnadvs",
+      "restake": {
+        "address": "juno1rdmypyp36l44xkkg5rnm2uxuyhvejr7ge0xwug",
+        "run_time": "01:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

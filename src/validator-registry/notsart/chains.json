@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NOTs.Art",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1tksh2f6fgwdpn2p73e8wvc2zkl9ey6e95vgvwd",
+      "restake": {
+        "address": "cerberus1v4xvyv2yar2ytrj7d78dk9e253s9g7n07qyew3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1tksh2f6fgwdpn2p73e8wvc2zkl9ey6e9dc03nx",
+      "restake": {
+        "address": "chihuahua1v4xvyv2yar2ytrj7d78dk9e253s9g7n0pjf76c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

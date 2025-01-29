@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "kjnodes",
+  "identity": "1C5ACD2EEF363C3A",
+  "website": "https://kjnodes.com",
+  "description": {
+    "overview": "Providing professional staking services with high performance and availability.",
+    "team": "We are team of talented DevOps engineers from Latvia with more than 10 years experience working in IT industry. Crypto enthusiasts and node operators in various crypto ecosystems. kjnodes was founded at the beginning of 2022. We are still young but very ambitious professionals ready to provide our services and support to our customers."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "stake@kjnodes.com",
+    "telegram": "kjnodes",
+    "twitter": "kjnodes",
+    "discord": "kjnodes#8455",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

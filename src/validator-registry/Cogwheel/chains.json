@@ -1,0 +1,72 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Cogwheel ⚙️",
+    "chains": [
+        {
+            "name": "dyson",
+            "address": "dysvaloper1zjqm4lngspfqkp68psuv4suxwjfxftkexprcqt",
+            "restake": {
+                "address": "dys1queqjvae6k6cuxqfhc8rmajwmvm36mv3v7krcx",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000
+            }
+        },
+        {
+            "name": "composable",
+            "address": "picavaloper1ecxls8tq8csdqns7cpe8zcry864z8z0dxqjsdz",
+            "restake": {
+                "address": "pica1queqjvae6k6cuxqfhc8rmajwmvm36mv3gradzz",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 100000000000
+            }
+        },
+        {
+            "name": "juno",
+            "address": "junovaloper1sz9nuewea8dlje7lzqymzyww8q0hun5q5ryep7",
+            "restake": {
+                "address": "juno1queqjvae6k6cuxqfhc8rmajwmvm36mv39danpe",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "nibiru",
+            "address": "nibivaloper1s7dm9d34jehmudn8afhchzf9l46wt4nz7fauzs",
+            "restake": {
+                "address": "nibi1queqjvae6k6cuxqfhc8rmajwmvm36mv3y6630k",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "atomone",
+            "address": "atonevaloper14ddv0apf90h6u46zy4e6msct9hx04nte0zcyfe",
+            "restake": {
+                "address": "atone1queqjvae6k6cuxqfhc8rmajwmvm36mv3alz0sa",
+                "run_time": "every 1 hours",
+                "minimum_reward": 10000
+            }
+        },
+        {
+            "name": "elys",
+            "address": "elysvaloper1q9jc2szeplhdksu64lnjzppjctu5mp0kxun06u",
+            "restake": {
+                "address": "elys1queqjvae6k6cuxqfhc8rmajwmvm36mv3nl80t8",
+                "run_time": "every 1 hours",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}

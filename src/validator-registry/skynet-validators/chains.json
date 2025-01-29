@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SkyNet | Validators",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1zfcmwh56kmz4wqqg2t8pxrm228dx2c6hzh0ewm",
+      "restake": {
+        "address": "akash1z0xzvw999jh7ekce7eqnex2fj7cnn6xwrqht87",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1r34mlqewsxrde38vp3tzwh3rk5vt6ez0slzuvu",
+      "restake": {
+        "address": "cerberus16r56awgxe7mkrwpsnurjexfdg0n3f4f3dgf090",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1y6m72uxs6hhsudxqpq73rsdgkjh6nhkqef8pej",
+      "restake": {
+        "address": "chihuahua1z0xzvw999jh7ekce7eqnex2fj7cnn6xwdwhzlx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1001
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper17ue85ck027c4grv7nuks7k7p4fqnlc55uqhskj",
+      "restake": {
+        "address": "desmos1z0xzvw999jh7ekce7eqnex2fj7cnn6xw6rhufu",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1zfcmwh56kmz4wqqg2t8pxrm228dx2c6hs487gh",
+      "restake": {
+        "address": "gravity1z0xzvw999jh7ekce7eqnex2fj7cnn6xw2tg5mv",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1zfcmwh56kmz4wqqg2t8pxrm228dx2c6hhzhtx7",
+      "restake": {
+        "address": "osmo1z0xzvw999jh7ekce7eqnex2fj7cnn6xwxqfugk",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper18s567a3dxf09q7erpcp8q20dpauugxwx8xsrcc",
+      "restake": {
+        "address": "umee1upe9xslwkqmmd8m7f7nuyhedhjc6saqhy4pldd",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

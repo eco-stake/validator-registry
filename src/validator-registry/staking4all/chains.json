@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Staking4All",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper19w9y9sj2h87n35jdeclhgpujyh4wr7pkgtrymh",
+      "restake": {
+        "address": "dym1t2cwdcpxsgl5ktel3h8p403pnqs4gftt8y3myf",
+        "run_time":  ["06:00", "18:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper19kr4f4ndyek6kwa0vt3w4un8he0tkekufa8t2g",
+      "restake": {
+        "address": "celestia18k7ljnklft2f3vzge5wj7k5u7rzapcshpm5zpc",
+        "run_time": ["06:00", "18:00"],
+        "minimum_reward": 500000
+       }
+     },
+     {
+      "name": "persistence",
+      "address": "persistencevaloper1tzn8rk09ez2gm55sffpyzt7ccn5yzshpql8rug",
+      "restake": {
+        "address": "persistence18k7ljnklft2f3vzge5wj7k5u7rzapcsh7arp43",
+        "run_time": ["06:00", "18:00"],
+        "minimum_reward": 100000
+       }
+     },
+     {
+      "name": "aura",
+      "address": "auravaloper19vuwa84qfgn63e6k8eqng5jkvqf5kwhamecfzr",
+      "restake": {
+         "address": "aura18k7ljnklft2f3vzge5wj7k5u7rzapcsht8jsev",
+         "run_time": ["06:00","18:00"],
+                "minimum_reward": 1000000
+            }
+      },
+     {
+      "name": "cudos",
+      "address": "cudosvaloper1avnl53xv6kj7dk5u35jlk52vxwg95n9zlh3jl8",
+      "restake": {
+         "address": "cudos18k7ljnklft2f3vzge5wj7k5u7rzapcsh3qvd9q",
+         "run_time": ["06:00","18:00"],
+                "minimum_reward": 1000000
+            }
+      },
+     {
+      "name": "mars",
+      "address": "marsvaloper1f5j47mp5v6z2h9trgkl9m0y5phmmcyf89t7u4v",
+      "restake": {
+         "address": "mars18k7ljnklft2f3vzge5wj7k5u7rzapcshdvutww",
+         "run_time": ["06:00","18:00"],
+                "minimum_reward": 1000000
+            }
+      }
+  ]
+}

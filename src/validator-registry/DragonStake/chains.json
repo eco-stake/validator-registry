@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DragonStake",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper15r4tc0m6hc7z8drq3dzlrtcs6rq2q9l2nvwher",
+      "restake": {
+        "address": "cosmos1dg8u5qll7fjm9nnwqns0ullhtc6g552ugd0eqj",
+        "run_time": "9:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper10qpycc2egucukw8afcz4us7xlxxmfwh6rscvjz",
+      "restake": {
+        "address": "evmos1uzjr9euyy4dflxta40lar6w5jm8jdm8gpeszf0",
+        "run_time": "20:00",
+        "minimum_reward": 1000000000000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper15r4tc0m6hc7z8drq3dzlrtcs6rq2q9l269dvfs",
+      "restake": {
+        "address": "atone1dg8u5qll7fjm9nnwqns0ullhtc6g552uxdn7k2",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

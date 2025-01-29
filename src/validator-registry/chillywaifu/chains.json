@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Chilly Waifu Validation (Chill Validation)",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper14mwwdad00y7lwwmmk3yw2l2qhn6jzjpy28fmfw",
+      "restake": {
+        "address": "secret13x5lkafjz2x7ue468cqc65ea6uajq7uctnadgl",
+        "run_time": "15:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

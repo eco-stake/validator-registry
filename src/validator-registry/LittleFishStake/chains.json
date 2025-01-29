@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "LittleFishStake",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1g7hu9zdr299sgjzvc552t64pkz8r0xtq2mgrv0",
+      "restake": {
+        "address": "kujira1ttlh4f6vdjecx7ktre6lr5feljy966dekaskqh",
+        "run_time": [
+          "00:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "GiantWhale",
+  "chains": [ ]
+}

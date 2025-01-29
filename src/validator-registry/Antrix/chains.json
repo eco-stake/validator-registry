@@ -1,0 +1,14 @@
+{
+  "name": "Antrix Validators",
+  "chains": [
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper13zg52xkk4wpn3ml6nfmm3kqjl5ue5d24nt6ecc",
+      "restake": {
+        "address": "fetch1g2kexkyjg95gjfaw6t8y2mkmfwvpq8ls30dvj9",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000000000000000000
+      }
+    }
+  ]
+}

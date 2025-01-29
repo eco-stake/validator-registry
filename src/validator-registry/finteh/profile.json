@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "finteh",
+  "identity": "EEEA76E0A487DDCB",
+  "website": "https://finteh.org/nodes",
+  "description": {
+    "overview": "we can help another validators move to bare metal servers"
+  },
+  "contacts": {
+    "telegram": "finteh",
+    "twitter": "finteh"
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "UD",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1vtc6xlwpeuf9r5ee5hxq40hcllxcad9pnl99xn",
+      "restake": {
+        "address": "bitsong1g4zywrluj6ac0xpu6f6jqul52rv0am66mklupq",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1mzar2v3xh3at49t2azg9qnkuc9nfvyurqmatuv",
+      "restake": {
+        "address": "desmos1g4zywrluj6ac0xpu6f6jqul52rv0am66r8qy5h",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1qckuz6ks3kgjjnp26gtw3ya3e2l7tdp4hcvyem",
+      "restake": {
+        "address": "lum1g4zywrluj6ac0xpu6f6jqul52rv0am66z4sakm",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

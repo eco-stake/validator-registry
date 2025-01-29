@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Bored Ape Server",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1ztx53a02e292sf7gedj56f29ynvmcas03kz09c",
+      "restake": {
+        "address": "juno1v9qka9m6cxefx0kn754rekph883hkc9pdngs8c",
+        "run_time": "01:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper17z6mxxmkk5vykq6m4c2vexqjs6eq0zqualtqu3",
+      "restake": {
+        "address": "osmo1v9qka9m6cxefx0kn754rekph883hkc9pn6cmkk",
+        "run_time": "01:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1v6ack3xwvnktwkq00kw4ld5xxlw55r5zmh26k0",
+      "restake": {
+        "address": "evmos1yxhg5lssulavxk2z4ptczvjt3ham67v4n3c2v9",
+        "run_time": "02:30",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1ra9ajj3xxg04c534u79amrps65sksmcn30sppq",
+      "restake": {
+        "address": "rebus1v9qka9m6cxefx0kn754rekph883hkc9p2tg75j",
+        "run_time": "06:15",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "100% insurance | Stakewolle.com",
+  "identity": "6386E8C1B6217AC2",
+  "website": "https://stakewolle.com/",
+  "contacts": {
+    "telephone": "",
+    "email": "partners@stakewolle.com",
+    "telegram": "stakewolle",
+    "twitter": "stakewolle",
+    "discord": "https://discord.gg/jRsyqGyXk8",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

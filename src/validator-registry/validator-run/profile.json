@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Validator.run",
+  "identity": "2CC4D67B2136C051",
+  "website": "https://validator.run/",
+  "description": {
+    "overview": "Validator.run is supporter of next-level blockchain infrastructure and staking services.",
+    "team": "We are the Validator.run team - a professional PoS validator, that is focused on blockchain consumers & validators. We help teams to easily join the Cosmos SDK community and make their project valuable."
+  },
+  "contacts": {
+    "email": "contact@validator.run",
+    "telegram": "arda1975",
+    "twitter": "ValidatorRun"
+  }
+}

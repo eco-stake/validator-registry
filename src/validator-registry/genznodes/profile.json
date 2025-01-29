@@ -1,0 +1,19 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "genznodes",
+    "identity": "86D0A9427E51D239",
+    "website": "https://genznodes.dev",
+    "description": {
+      "overview": "genznodes is Non-Custodial staking service provider , IBC relayer & Node service . Stake with us and get some rewards !"
+    },
+    "contacts": {
+      "telephone": "",
+      "email": "genzbit@genznodes.dev",
+      "telegram": "https://t.me/Genzbit",
+      "twitter": "https://twitter.com/genznodes",
+      "discord": "https://discord.gg/uCbvUfna4z",
+      "others": {
+        "emergency": "validator@genznodes.dev"
+      }
+    }
+}

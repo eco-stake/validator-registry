@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakerHouse",
+  "chains": [
+   {
+      "name": "andromeda",
+      "address": "andrvaloper10tptnjcsf7as7ylvl7ea0ma9dh8wqlm42r0kke",
+      "restake": {
+        "address": "andr193w9rkakghyl6mfrvx2hhyvqpa4fcjsx7clwvk",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000
+      }
+   },
+   {
+      "name": "assetmantle",
+      "address": "mantlevaloper1uac4u9c60tj97fx3lvscefe0m3t3fmrrlv3vzl",
+      "restake": {
+        "address": "mantle193w9rkakghyl6mfrvx2hhyvqpa4fcjsxchvf03",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "comdex",
+      "address": "comdexvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dr5vpwsk",
+      "restake": {
+        "address": "comdex193w9rkakghyl6mfrvx2hhyvqpa4fcjsxpu4wfv",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "lumnetwork",
+      "address": "lumvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w84k3adu",
+      "restake": {
+        "address": "lum104umae7zya05u92uftusvzgprwzras23pvmuq9",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000000
+      }
+   },
+   {
+      "name": "passage",
+      "address": "pasgvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52drss2vmr",
+      "restake": {
+        "address": "pasg193w9rkakghyl6mfrvx2hhyvqpa4fcjsx9twkay",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "sge",
+      "address": "sgevaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dryw869h",
+      "restake": {
+        "address": "sge193w9rkakghyl6mfrvx2hhyvqpa4fcjsxcnfj83",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+   },
+   {
+      "name": "stargaze",
+      "address": "starsvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w8qfxwn9",
+      "restake": {
+        "address": "stars193w9rkakghyl6mfrvx2hhyvqpa4fcjsxj0q3m2",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+   },
+   {
+      "name": "uptick",
+      "address": "uptickvaloper15xpgkjt3euv60z2u7p4ggjslgc5zt49uu6p48m",
+      "restake": {
+        "address": "uptick1enjpvs0cgwu3zm7jqk7a3zw7qggup26n9zvc22",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+      }
+   }
+  ]
+}

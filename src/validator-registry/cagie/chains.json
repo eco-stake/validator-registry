@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "cagie",
+  "chains": [
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper14d92gdqcmg3kc4d4uwm2a9y6n9gzd8qkvgq2ec",
+      "restake": {
+        "address": "quick1ae7engy62y24jftq9y5xgp5krzpt7fu7knlg7y",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper160rp4z97ng990qf7mt4kgw6h924lf6ztwssw6t",
+      "restake": {
+        "address": "kyve1ae7engy62y24jftq9y5xgp5krzpt7fu72ezvvj",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper190r5g0cntxf3tys833juvtawctc739g2ugtlgp",
+      "restake": {
+        "address": "plq1u3es4l4ek0nue6elr0276nlxhnnj4750szjnlv",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

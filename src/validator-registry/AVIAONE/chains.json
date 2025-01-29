@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AVIAONE.com 🟢",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper1342p4lqh94s8qrk48vz2x6nlh3p2hqx4autnd9",
+      "restake": {
+        "address": "atone1sdtursdqgmlmlchhyywldrvfyry006jwkpn7zx",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1vtf9ytvqg8k7n3hx7rt7fezktg7przxmeduldc",
+      "restake": {
+        "address": "dym19j0q5aucg9m2gs7zf37flm3pe677zyz4ur9xml",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1avppws8r46qc67ykp94ytkuff5zzg9f5kpp6ke",
+      "restake": {
+        "address": "fetch1sdtursdqgmlmlchhyywldrvfyry006jwtuxakf",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 5000000000000000000
+      }
+    }
+  ]
+}

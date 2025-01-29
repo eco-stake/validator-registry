@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Multiplex",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1a4qlael79p76my9pml6thwhnnzsxyy4ajrvd9s",
+      "restake": {
+        "address": "cosmos1vf336tp2wua20nc8lf8za7jtp757ujj3esm7ww",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1dj0mysdn05447p9ncsq9g424fv2ynaxryhpjkc",
+      "restake": {
+        "address": "evmos1er4gen5kehmpmgqxhtsjf46sg99e69lq3c5d4t",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1w32vrtn97e0cl6lmayux07g37v5jgt6tejze9h",
+      "restake": {
+        "address": "stride1vf336tp2wua20nc8lf8za7jtp757ujj36mmz6z",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper14f0uuyvumwx9ml6vflk3zx8tsfhzxefq8m4z22",
+      "restake": {
+        "address": "stars1vf336tp2wua20nc8lf8za7jtp757ujj3dvvr9l",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1rjfcgqrgmlmrptramcjy7kymnc5k6j7qet5spr",
+      "restake": {
+        "address": "persistence1vf336tp2wua20nc8lf8za7jtp757ujj3huadq2",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper182d2cjt4al2qxkrgx2kp3v8rvm2jc50ft8wz57",
+      "restake": {
+        "address": "osmo1vf336tp2wua20nc8lf8za7jtp757ujj33tgwcu",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

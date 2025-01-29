@@ -1,0 +1,24 @@
+ {
+  "$schema": "../chains.schema.json",
+  "name": "NodesRun.Com",
+  "chains": [
+   {
+      "name": "source",
+      "address": "sourcevaloper1g27wkdl5kyd9nk4ku9waswnqvy6ufd0v437jas",
+      "restake": {
+        "address": "source1fayua8uzxua5nryw83wx8h9qhycg9acerkwwh7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+	 {
+      "name": "uptick",
+      "address": "uptickvaloper13jldgq5fulwe3qjdw4c0hw4dld060w9e9ga79n",
+      "restake": {
+        "address": "uptick1hzc9c95q6h6730n24ss4n6v3max7n28p74xmgm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+    }
+    }
+  ]
+}

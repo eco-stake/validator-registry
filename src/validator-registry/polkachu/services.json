@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "polkachu.com",
+  "services": [
+    {
+      "title": "polkachu.com",
+      "description": "One-stop shop for node operation infrastructure support: state-sync, node snapshot, seed, peers, IBC relaying, PRC, API, chain upgrade watcher, etc.",
+      "url": "https://polkachu.com"
+    }
+  ]
+}

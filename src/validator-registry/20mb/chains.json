@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "20MB | Restake ✅",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1gypqhk3hszgcg08h9kj5fja8xzl63txmt3m6k6",
+      "restake": {
+        "address": "cerberus1wve3tc8sj42yl3trw3lt0rcyp5medvya027yan",
+        "run_time": "22:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1ttw6u36w7jxjpadt5eh8vnt5a8wpx6ju2wkuj6",
+      "restake": {
+        "address": "cheqd1wve3tc8sj42yl3trw3lt0rcyp5medvyaa0jdrf",
+        "run_time": "22:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper14xwftsm2nrhdzp5md42fg5cf3cndnkz0al2dzs",
+      "restake": {
+        "address": "chihuahua1wve3tc8sj42yl3trw3lt0rcyp5medvyascnrf6",
+        "run_time": "22:00",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

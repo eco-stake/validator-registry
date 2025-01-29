@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NarwhalSecurityAssociation",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper10lz5n6tv7hswsm4m3mj5fs5x0h6lt2w4vxtr38",
+      "restake": {
+        "address": "kujira1sqqckf89jca2xehnj4tuda48h0an8xgpny9f53",
+        "run_time": "09:00",
+        "minimum_reward": 10
+      }
+    }
+  ]
+}

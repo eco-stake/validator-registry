@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": " entropic.nodes",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1kdqjzvznnufaykuwpu2glu9g33jshw8w2zxpsr",
+      "restake": {
+        "address": "cerberus1w3pe97xn72djdhdvmk7wm3ylzht7z3kcdk7j0s",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 50000000
+      }
+    }
+  ]
+}

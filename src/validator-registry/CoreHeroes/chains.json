@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CoreHeroes",
+  "chains": [
+    {
+      "name": "coreum",
+      "address": "corevaloper16djhza7768xc4mlnf0rd582tg7swvyy438h42v",
+      "restake": {
+        "address": "core1y3cdze5u9d9trvxpywka2qxvk63cc2rsc8cwl9",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

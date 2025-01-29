@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🪐 𝕊ecret 𝕊aturn | 1% forever",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d",
+      "restake": {
+        "address": "secret1zpmzxljkuzjqg20dvfwf9lnuk3pcxme5rkup7h",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

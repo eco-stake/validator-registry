@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Trivium | Trivium.Network",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw",
+      "restake": {
+        "address": "secret1cpzlkfep9z8wjthvk5csxfkmjhmqncsl963pqg",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

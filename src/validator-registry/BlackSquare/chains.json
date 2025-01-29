@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlackSquare",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1hunvqjnzlt80vnhjjx9q2u6qe0mlnvfeamg9dq",
+      "restake": {
+        "address": "tori1xf69mufmwwkgkwqrn7rnw9juh74y0uw52ex5nu",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

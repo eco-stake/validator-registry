@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Coding Everyday",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper1fdpmw3k73asq89gt0qvf9j97pgg2kapkkzmdq3",
+      "restake": {
+        "address": "like1fgjc0mucuqxurq0qvdn9ec53dslwxdcjuzhcx9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    }
+  ]
+}

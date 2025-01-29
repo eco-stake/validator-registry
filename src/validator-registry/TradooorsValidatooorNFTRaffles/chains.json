@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Tradooors Validatooor | NFT Raffles",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1ssptq8zljxmvm9h7g5yaxyv9khpf84793dkt3j",
+      "restake": {
+        "address": "juno13cdz7se08juhup4wssldfl0g6fq69xpm29eeqw",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

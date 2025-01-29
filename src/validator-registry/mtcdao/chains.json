@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MTC DAO - MidnightTeddyClub.art",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper17m3c795fz4f36zjgjhr3vkf7e9pn3xxuryeww9",
+      "restake": {
+        "address": "secret14hqn2mr82kyacele3nmaw8hmfczfpy37kjpqun",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

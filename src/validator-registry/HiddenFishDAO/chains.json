@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Hidden Fish DAO 🎣",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1cspup9z0xy8cy2qgyrae43lfmyacz67v8fz8nw",
+      "restake": {
+        "address": "cro19zs4yfxwf943drs6pyjw3p2r3myvzf6qq57yap",
+        "run_time": ["07:30", "19:30"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

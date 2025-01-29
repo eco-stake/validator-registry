@@ -1,0 +1,54 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Don Cryptonium",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1rj6324uq904z5zr96zg6ew9qjyau9u6h5nflg6",
+      "restake": {
+        "address": "cosmos19vpt6kqxel8ty727ftg7hn4rgyzr89m56m4u53",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1gr56uqre7dsqjkknssne7rc9wunsk08gmh3c7h",
+      "restake": {
+        "address": "juno19vpt6kqxel8ty727ftg7hn4rgyzr89m5vfk8nd",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1excmz0f7k9z3ydchv8t2pde8v45hjl2x3ud5q3",
+      "restake": {
+        "address": "kujira19vpt6kqxel8ty727ftg7hn4rgyzr89m5tnhyem",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper1nswmneefw07ual8t73ry62cf8lg0nwc2fgr4gy",
+      "restake": {
+        "address": "centauri19vpt6kqxel8ty727ftg7hn4rgyzr89m573cqsz",
+        "run_time": [
+          "12:00",
+          "24:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

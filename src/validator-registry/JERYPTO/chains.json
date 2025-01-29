@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "JERYPTO",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1qln73e3hglyjn3jgrana7ujwkllhu06cuh7e25",
+      "restake": {
+        "address": "rebus1u3hfnw0pgc6nehw4j6hnn65ev5xy6v3vdmfjhw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

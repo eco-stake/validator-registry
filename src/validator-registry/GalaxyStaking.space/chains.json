@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "GalaxyStaking.space 🌑",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1l5uvf66ry4a6jvdt4y695sc5d6dfld369p640f",
+      "restake": {
+        "address": "cro1lemc6jwfny6ryjaf37w62a6xdpttrr0t0var3n",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl10leq9pzrgecla7kskar59zw04atft5ehwtkafz",
+      "restake": {
+        "address": "cro1fvedw32vg68kv83s6zzgh4p06gydvf78t2z0cr",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl16mfms4pnyrx9uzal2ulh367cudsep48wcm7fgq",
+      "restake": {
+        "address": "cro19ewjs3w6r0frmgljhdts70hz9wlcyrfx2wed27",
+        "run_time": "18:00",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1d6c097pmd6avh0x3spfwc0cagc690e2mmkpx4h",
+      "restake": {
+        "address": "evmos1gx00xtkh9pvxjkgagzarhy9q70egk64jxet3qr",
+        "run_time": "20:15",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dabu Dabu",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1gl6mw8p76erqeltgt6kkqac57m6h5ufy28kas6",
+      "restake": {
+        "address": "cerberus18m7pnt8enhrlqf4rh7ff9uvcfsr6tmlm2d8f5m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper12d2a8hfrq784u9lfxp8qj2huxxglejzrqlylwt",
+      "restake": {
+        "address": "chihuahua18m7pnt8enhrlqf4rh7ff9uvcfsr6tmlm4l2wqj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

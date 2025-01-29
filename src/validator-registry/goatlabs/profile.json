@@ -1,0 +1,11 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "GOAT V🐐",
+  "identity": "274B9E95083E7BE0",
+  "website": "https://goats.place",
+  "contacts": {
+    "telephone": "",
+    "email": "goatlabsteam@gmail.com",
+    "twitter": "GOATValidator"
+  }
+}

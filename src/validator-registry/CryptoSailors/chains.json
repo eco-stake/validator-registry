@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoSailors",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1pske98rrpg6vwayjauncjqvfs6tj06xhmm9atm",
+      "restake": {
+        "address": "gravity1dm6xj4ycecwl934tr4sc7hup92uuvkenx30u4v",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper17cn500qdaqly0rqcp2alzewnggns997gq8l9s0",
+      "restake": {
+        "address": "agoric10h3kv624u6e6y2et6w5dcaa2h6dekeez4xlws6",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1c8ugacy98lccx5p8zryfmrxypvesqkr9879p5f",
+      "restake": {
+        "address": "bcna1dm6xj4ycecwl934tr4sc7hup92uuvkenc3d9ck",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

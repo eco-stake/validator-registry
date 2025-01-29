@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Matrixed.Link",
+  "identity": "E903E2F1EA108F5D",
+  "website": "https://MatrixedLink.io",
+  "description": {
+    "overview": "Your trusted blockchain infrastructure provider."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "validator@matrixed.link",
+    "telegram": "https://t.me/MatrixedLink",
+    "twitter": "MatrixedLink",
+    "discord": "https://discord.gg/xXE23gf85b",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

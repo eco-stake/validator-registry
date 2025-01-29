@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Valnodes - Carbon Neutral Staking",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1qwpnhmdlfj6gfyh0e29fjudh0ytfe5l7tjttul",
+      "restake": {
+        "address": "akash1yl54sf2ekqsc7y7r33267vhc546trx3ftzyns9",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1vrw2c99yvu5t9gugzuj38w35vmhmazzgx7dckk",
+      "restake": {
+        "address": "osmo1yl54sf2ekqsc7y7r33267vhc546trx3fwz6yld",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

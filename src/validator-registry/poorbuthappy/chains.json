@@ -1,0 +1,78 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "poorbuthappy",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1fk4up90cx352jwr6clug8pkg5jt28ha9whf6pu",
+      "restake": {
+        "address": "bitsong14a78h6202u4xg6phjnd8rmr5fq98zzdlfczze0",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bostrom",
+      "address": "bostromvaloper1r28nhrkwcvqs4qss2l7zqdvc2qfdl8arglv6nn",
+      "restake": {
+        "address": "bostrom14a78h6202u4xg6phjnd8rmr5fq98zzdlxzye98",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1axt95v5rpc97dtnl24mxtfj95gpxu59vn6xyvw",
+      "restake": {
+        "address": "desmos14a78h6202u4xg6phjnd8rmr5fq98zzdl3fa6vc",
+        "run_time": "every 4 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper132elwf5n6pjhxjh464khn8m2rzzr7wv4rlkwev",
+      "restake": {
+        "address": "fetch14a78h6202u4xg6phjnd8rmr5fq98zzdlkveweh",
+        "run_time": "every 4 hour",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper1lnqradz7whff07t60pzetvkhgqamt9xu9f2j6k",
+      "restake": {
+        "address": "lum14a78h6202u4xg6phjnd8rmr5fq98zzdlsmdrw5",
+        "run_time": "every 4 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper103h9yege9sqe5p0hhat3j2gwmyt0dxqg7fujst",
+      "restake": {
+        "address": "cerberus14a78h6202u4xg6phjnd8rmr5fq98zzdleksrwt",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
+      }
+    },
+        {
+      "name": "sifchain",
+      "address": "sifvaloper10sedrhvhdtt8fgwam4q0dm2mff6e449k8tajmc",
+      "restake": {
+        "address": "sif14a78h6202u4xg6phjnd8rmr5fq98zzdlqvlu5t",
+        "run_time": "every 4 hour",
+        "minimum_reward": 10000000000000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1ty57mt8ess8fry3k6llmv2m2lhj90xpqpmyk0c",
+      "restake": {
+        "address": "juno14a78h6202u4xg6phjnd8rmr5fq98zzdlnrn3uu",
+        "run_time": "every 4 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

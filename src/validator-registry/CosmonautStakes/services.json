@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Cosmonaut Stakes",
+  "services": [
+    {
+      "title": "Cosmonaut Stakes",
+      "description": "Stake with us for a smooth and worry-free experience 🛡️. Validator, IBC/ICA Relayer, Public Infrastructure Provider and Tools Developer with 99%+ uptime and community involvement 🤖.",
+      "url": "https://x.com/CosmonautStakes"
+    }
+  ]
+}

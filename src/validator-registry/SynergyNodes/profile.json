@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Synergy Nodes",
+  "identity": "673CA76602A5AC88",
+  "website": "https://www.synergynodes.com",
+  "description": {
+    "overview": "Synergy Nodes operates validator nodes for multiple Cosmos chains and also provide core infrastructure support for various blockchain protocols.",
+    "team": "Synergy Nodes is founded by couple of full time crypto & blockchain technology enthusiast who are committed to helping build core infrastructure for various blockchain protocols."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@synergynodes.com",
+    "telegram": "https://t.me/SynergyNodes",
+    "twitter": "https://twitter.com/SynergyNodes",
+    "discord": "https://discord.gg/UEppF4sBdM",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

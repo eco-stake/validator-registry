@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DeCrypto",
+  "chains": [
+    {
+      "name": "dig",
+      "address": "digvaloper1fhp54fwlfmpwwgrnfwk3v47v53yjtp8fw6nelw",
+      "restake": {
+        "address": "dig1wtcvjqx8097gtkjdemle9c0lm8gczm2a9va2hg",
+        "run_time": "11:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumnetwork",
+      "address": "lumvaloper18rd4dk828pfgw680hr93rxjfmj8zvr5xc03hd3",
+      "restake": {
+        "address": "lum1wtcvjqx8097gtkjdemle9c0lm8gczm2agjfgq8",
+        "run_time": "11:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "bitponder",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1ech3swu5jeuenxzgd0rq9xz6yz3yn6t0v2x0tw",
+      "restake": {
+        "address": "bitsong1m52073hvnza73uwrf45avgdwljyqx7p04qh3yw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

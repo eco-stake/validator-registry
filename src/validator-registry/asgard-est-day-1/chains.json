@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "☮ Asgard - est. day 1",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1up7anp4cq0kc799dccgfhesxp0mxklgrpgf856",
+      "restake": {
+        "address": "cro1vltdfsd0wujjhqks9dzx3qe5njdpkfszuy5zyv",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

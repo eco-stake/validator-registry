@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Blockfend Genesis Labs",
+  "chains": [
+    {
+      "name": "cheqd",
+      "address": "cheqdvaloper1m0f5mdkusqq24zhf8azjn2j5v2jqwqlt3ukrc0",
+      "restake": {
+        "address": "cheqd1ypntyymvjg90ntxwes3hxtmuvvh4fcr8w082sd",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

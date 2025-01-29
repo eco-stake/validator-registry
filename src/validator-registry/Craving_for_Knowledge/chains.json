@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Craving_for_Knowledge",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1ztqxj0v9hl8xr0kvqllk3lxtp669cd7jgsyjl9",
+      "restake": {
+        "address": "umee1sztexvuzfz23qufwd4cnzu5q5hcmsqdlyssyll",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1zs9j3fxw2ud8fq7n8xkggfp0lfy0glhvjjkjz5",
+      "restake": {
+        "address": "kyve1d5l6xlmnfanxlcclkc360v9fm3g9fcf8nvv2pr",
+        "run_time": "every 6 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "[SG] X Staking",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl14vxzdsxtmat7hvz58trk823adg3pjh4xh6ghm6",
+      "restake": {
+        "address": "cro1dfdcgy3y7jd8q9qfk427g6k53tg97uwnhwlghx",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Expandingspace.io | Let's Node",
+    "chains": [
+      {
+        "name": "evmos",
+        "address": "evmosvaloper1cw8035q5dh9yc5gmk9zzt6k2ven0w292uuk96v",
+        "restake": {
+          "address": "evmos1wezsy9t4enw2ec9k42uwrzne52n4fpwxfgfve3",
+          "run_time": "21:00",
+          "minimum_reward": 10000000000000000
+        }
+      }
+    ]
+  }

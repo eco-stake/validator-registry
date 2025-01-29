@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NMnode",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ujkquuvvpdyyq8qk0xn6j8y98uel5rf6nwvukr",
+      "restake": {
+        "address": "sif1k6gc7fs8m45vadweda593jrt86stlhjcdheur2",
+        "run_time": "19:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

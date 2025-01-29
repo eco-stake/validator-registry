@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dannypham",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1j80fpcsumfkxypvydvtwtz3j4sdwr8c2x9fw5y",
+      "restake": {
+        "address": "cerberus1zr3hn5faf8tjdc2h576qt02g8t5h9pevz478ge",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dig",
+      "address": "digvaloper1j80fpcsumfkxypvydvtwtz3j4sdwr8c2gfr33l",
+      "restake": {
+        "address": "dig1zr3hn5faf8tjdc2h576qt02g8t5h9pevxxh9lf",
+        "run_time": "22:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

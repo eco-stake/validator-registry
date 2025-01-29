@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SUNREN 🐳 | BROXA ⚛️😸",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1zy9xd2lz6df6gf55nq0ldase9sxtxlksdvfum2",
+      "restake": {
+        "address": "bitsong18vt2a2cst3962swp2t3384lm8d7e827j5fsylp",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper17llwevy05lp2azx4qqe3q39v4zgr5hpreltuqk",
+      "restake": {
+        "address": "meme1pgzv79hxav3qwnl9cvyyv962f6k2yzud9x06pm",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper1wh0whaxlfgjjvn2gu900tgv5fxrpfl3epgp5ku",
+      "restake": {
+        "address": "omniflix1xllz2yrx4llfwm792geccfz7rey72m0d6ddrne",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1a4acd446j6qqsqlq5ypnj8l00jdrcz3jypvzn7",
+      "restake": {
+        "address": "orai1xllz2yrx4llfwm792geccfz7rey72m0d5q2e95",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1tylme70t04tua5pd2my6zvzwavs02guvd837ug",
+      "restake": {
+        "address": "stars1xllz2yrx4llfwm792geccfz7rey72m0dn0t80k",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1t6x3s6std4uw5h0epmeexuldj3jvdgmpnttf4t",
+      "restake": {
+        "address": "umee1xllz2yrx4llfwm792geccfz7rey72m0d49p9q4",
+        "run_time": "every 1 day",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

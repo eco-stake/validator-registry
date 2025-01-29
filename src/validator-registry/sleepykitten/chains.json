@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "sleepykitten",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1lwfuc2lc27mk8yys2zcd0qttcwmnd6x7gks5m5",
+      "restake": {
+        "address": "evmos162rpvxpwjs79l7lsteeacxesag8uj5tlca6fa7",
+        "run_time": "22:00",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

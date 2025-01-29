@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Maximus",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1yuesquc0m29n3z50ny239gd5gwa0qt6wvksney",
+      "restake": {
+        "address": "chihuahua1w447dc34hcyvr96gpujj9w8sr9rzydmsmrn2sx",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

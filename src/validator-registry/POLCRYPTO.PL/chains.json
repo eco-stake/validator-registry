@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "POLCRYPTO.PL",
+  "chains": [
+	{
+      "name": "chain4energy",
+      "address": "c4evaloper1226j2n8vw6shkjcgm3smrj5hceksgwjvwtfrqj",
+      "restake": {
+        "address": "c4e14lrqhuwlfuf2e826prnzq60864sd4zapuztq96",
+	    "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+	}
+	]
+}

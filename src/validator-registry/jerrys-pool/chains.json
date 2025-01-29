@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Jerry's Pool",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1s7cu28403gzdvy5tttyskm3zxjejxcv6j5ngp9",
+      "restake": {
+        "address": "cro1lj3qga40dc0w2pacfrd2s6puk43ua2vczlv690",
+        "run_time": "16:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1lldjhjnn32e8vek7cxe9g05nf8j74y0xs5zmsu",
+      "restake": {
+        "address": "evmos1rpymd5hgwm8xdqeuzkh2qazxk8cvarm628yysr",
+        "run_time": "19:30",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

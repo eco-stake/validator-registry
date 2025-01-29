@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "reef 🇪🇺 🇩🇪",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl15zztsrl3f9snfwtq6zmrlu6j897z5vtk7fymcz",
+      "restake": {
+        "address": "cro1s60nw85s4c2gz6lcszxkeesmqygjkgh6p3vuve",
+        "run_time": "12:00",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

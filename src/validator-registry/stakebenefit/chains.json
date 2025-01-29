@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeBenefit",
+  "chains": [
+    {
+      "name": "meme",
+      "address": "memevaloper1deuhexdkyh22c24sj48vqhxckq70m7xfp08fck",
+      "restake": {
+        "address": "meme109qtk363jyu4ak8p2n4gah6wfg23lhuxfcv667",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

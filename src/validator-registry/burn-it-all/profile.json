@@ -1,0 +1,8 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Burn It All!!!",
+  "contacts": {
+    "telegram": "burntokens",
+    "twitter": "LuncBurnItAll"
+  }
+}

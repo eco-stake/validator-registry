@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Palamar",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1pxnyrlgzjc6dxkh8ghna7u2vqpwnkzzfutlt34",
+      "restake": {
+        "address": "rebus1hp7e3r4ycmkwe4zfm2rkscsu4hvn8st7nhsva9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}     

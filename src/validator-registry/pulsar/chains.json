@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Oraichain_node",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1qjvw60k7n74t2lagtt2g7fu5zwg9s5tr5wwsee",
+      "restake": {
+        "address": "orai1vt7qe9wklpy2z4vdl5ejgh6utma5udnkyk3ane",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CafeValidator",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper13r2avh5y99w2duw4wpsh3vtx77j0s9h5zp2q3q",
+      "restake": {
+        "address": "cerberus1cvj2yu8fmtr2my4a7y4r5rnt69flqvcvk5jjsd",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1y53zdszvt87fjg9hn50kg78850el26k0l9wxwl",
+      "restake": {
+        "address": "chihuahua1cvj2yu8fmtr2my4a7y4r5rnt69flqvcvfxl4yy",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

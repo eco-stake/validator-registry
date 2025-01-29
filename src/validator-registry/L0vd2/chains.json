@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "L0vd2 ❤️",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper15kywkhdljlkfvvzwkshnquz2x63nrxewfr4lga",
+      "restake": {
+        "address": "umee1gpzd9qz7zvk4ak87dj7wc7gfztqu62hts5rnt0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

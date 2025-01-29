@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Aoi Node",
+  "chains": [
+    {
+      "name": "planq",
+        "address": "plqvaloper1cjy95aj48zrsz3k35xn2q4f294q99pj6e9vyff",
+      "restake": {
+        "address": "plq1cjy95aj48zrsz3k35xn2q4f294q99pj68mp70c",
+        "run_time": "19:00",
+        "minimum_reward": 10
+          }
+       } 
+    ]
+ } 

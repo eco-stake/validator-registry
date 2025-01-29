@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Psycho Node",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2lhujx8",
+      "restake": {
+        "address": "akash1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz244j5kd",
+        "run_time": "10:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper12kz3rd47mpljfzqc9ygrpelj5kp6tx0dl8ylrk",
+      "restake": {
+        "address": "sent12kz3rd47mpljfzqc9ygrpelj5kp6tx0dqzmjvl",
+        "run_time": "10:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "persistence",
+      "address": "persistencevaloper17egy2hqqrutajzvf4f6qe2qzc3uey7ysvkeftp",
+      "restake": {
+        "address": "persistence17egy2hqqrutajzvf4f6qe2qzc3uey7ys9je5zc",
+        "run_time": "10:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper182d5yfc5wwaphwjm5wqj9xmsf0vmp30qrtjllu",
+      "restake": {
+        "address": "evmos182d5yfc5wwaphwjm5wqj9xmsf0vmp30qw9a07p",
+        "run_time": "10:30",
+        "minimum_reward": 1000
+      }
+    },
+    {
+        "name": "gravity",
+        "address": "gravityvaloper1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2d454qt",
+        "restake": {
+          "address": "gravity1d4sctjlcqjrfkxpp0a5hwsntfhzy7mz2u7dt2l",
+          "run_time": "10:30",
+          "minimum_reward": 1000
+      }
+    }
+  ]
+}

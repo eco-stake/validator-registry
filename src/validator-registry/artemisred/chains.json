@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Artemis.red",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1jjlfeshltdy6ngnf5tg6aeaygsvf0kxg8wck04",
+      "restake": {
+        "address": "secret185yhf2a4a94en9t8qzwp8qkwx3dfx48m4k3lk7",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

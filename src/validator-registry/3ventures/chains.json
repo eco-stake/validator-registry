@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "3ventures.io",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1prg8nk6erqn2nz77ll39t5kzgrdkjadcr9xeu4",
+      "restake": {
+        "address": "umee1fmrkm9sv664jteazv04372wh4dx3qqurnywpuy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper16kfqskzcdxejf54z86gzmh59fglquw23eeyepp",
+      "restake": {
+        "address": "chihuahua1fmrkm9sv664jteazv04372wh4dx3qqurz87se5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1ywfhwv96yl7qlp2v5jj80jf2j533e3j6jy4g4k",
+      "restake": {
+        "address": "stars1fmrkm9sv664jteazv04372wh4dx3qqur4wyrn8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper17qqfyynlqakqu4gv6mqvvvat98zaqqnrz6pq7r",
+      "restake": {
+        "address": "gravity1fmrkm9sv664jteazv04372wh4dx3qqur9zpxa7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1nrq7untlgx7k76yu69hy79e3jwsunnxzl0xhcm",
+      "restake": {
+        "address": "decentr1fmrkm9sv664jteazv04372wh4dx3qqur2u42e7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1g2d2qy9gpfrl7j38w7anfg4m59zdr80jjusw57",
+      "restake": {
+        "address": "genesis1fmrkm9sv664jteazv04372wh4dx3qqurlm8gur",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "konstellation",
+      "address": "darcvaloper1g49f6kg70cv4z8whzc2exslv9xgcxxgnl9xhhe",
+      "restake": {
+        "address": "darc1fmrkm9sv664jteazv04372wh4dx3qqur7n804p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1vqry05pl7ezfujtx52qjnsljc6sxx38030hpa4",
+      "restake": {
+        "address": "axelar1fmrkm9sv664jteazv04372wh4dx3qqur9u9knh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },    {
+      "name": "passage",
+      "address": "pasgvaloper1uz8lu94fnccsala80at0rg566wg3rqf82k7p85",
+      "restake": {
+        "address": "pasg1fmrkm9sv664jteazv04372wh4dx3qqurz22y4f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000
+      }
+    }
+  ]
+}

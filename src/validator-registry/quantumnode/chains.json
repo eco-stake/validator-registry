@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "QuantumNode.io - Token and NFT airdrops to all delegators",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1m5dzr80ag23sqmw2cnzelj73xmsd62qtnswujc",
+      "restake": {
+        "address": "cerberus1q200ut9chx7t0nnde4h526vdxwudktgkrz9muf",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1jdlfdu2gaj0tlchzjhdnh5r7lfzt6l0zxlhkr6",
+      "restake": {
+        "address": "chihuahua1q200ut9chx7t0nnde4h526vdxwudktgkusgugq",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1297950qqq6yxhgsms6t5dks66gyk6sctplnyd7",
+      "restake": {
+        "address": "juno1q200ut9chx7t0nnde4h526vdxwudktgkfhxfw7",
+        "run_time": "21:00",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

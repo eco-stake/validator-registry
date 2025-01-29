@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Winner",
+  "chains": [
+      {
+        "name": "bitsong",
+        "address": "bitsongvaloper19v2m08nt0hljn267ays78tkwlxxf5gsdd4lv3j",
+        "restake": {
+          "address": "bitsong1vqlk7acpvajlea689w0fgwgwl6gxz3e96l72aa",
+          "run_time": [
+            "09:00",
+            "21:00"
+          ],
+          "minimum_reward": 1000
+        }
+      }
+    ]
+}

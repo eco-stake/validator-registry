@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DeFi100-iCosmosDAO",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1k9lay7ec328u2cmmtp8m8309msztt5hz7euvcc",
+      "restake": {
+        "address": "evmos1n4dc77hxkdds9c2sgz0779vlnuhxatm0dampqe",
+        "run_time": "16:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1d5hmn9es40tlmdaljepz8xwxh83sypxclkmyyg",
+      "restake": {
+        "address": "osmo13acw5m4sjh54cnar3rghgjx0sh5rnct848nee4",
+        "run_time": "16:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1675zynd76yeteugp33hexjjszwlqx753r43xzl",
+      "restake": {
+        "address": "rebus13z23qackaev23j9segg5ldz54r2vs3glpgxvf4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1xpyql3vw67h8l99n3sswy5ev94ntwt9cu42jqg",
+      "restake": {
+        "address": "tori1y7f8n4nc55hwndq2nttr8gz87upcydrtzsr00q",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

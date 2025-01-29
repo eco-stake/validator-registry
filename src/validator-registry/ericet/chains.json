@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ericet",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper198ljzq359ygqauxargj7je28sxlnj0tj2h7m73",
+      "restake": {
+        "address": "cerberus1fvk8rfqdxh4wyewhdk636hryw98v23h22t4sk8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper15ksyw7t5t9e7w9n3d2jqqmv7y334mfrhfvvnge",
+      "restake": {
+        "address": "evmos1xc3rax4n2xs3d7df2ap8cscgtcm7faku627glt",
+        "run_time": "20:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1a7taydvzhkd5vrndlykqtj7nsk2erdp2aaeqq0",
+      "restake": {
+        "address": "tori1fvk8rfqdxh4wyewhdk636hryw98v23h25czscu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1gu37wc0k49eh07z4huk0h2mjp5qkdaj8f0kzlf",
+      "restake": {
+        "address": "rebus1fvk8rfqdxh4wyewhdk636hryw98v23h28xkvh6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+     {
+      "name": "jackal",
+      "address": "jklvaloper1cp07k4ueagl98nk5q0n2vz2yrvwgnw5ckznd9m",
+      "restake": {
+        "address": "jkl1fvk8rfqdxh4wyewhdk636hryw98v23h20jmg6n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

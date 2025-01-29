@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MTnode",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1pv7ae4kvlyme7r443xl07e2mjuulqr3cs0v89w",
+      "restake": {
+        "address": "gravity1s0ncp8tlxwhmvhyrvrglcvl4l2lxd5wqewxt0r",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1jnum75gr8jsn4xn9u48kc9ma5c4mrmvzsvad6j",
+      "restake": {
+        "address": "stars1s0ncp8tlxwhmvhyrvrglcvl4l2lxd5wqfzrwp6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1sex685w68vvv563nsyv8nezawq4hhg7qjkyhzg",
+      "restake": {
+        "address": "umee1s0ncp8tlxwhmvhyrvrglcvl4l2lxd5wq0gfvwe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

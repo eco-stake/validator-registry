@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "1% | One Percent",
+  "identity": "200D6312B97F131E",
+  "website": "https://onepercent.tech",
+  "description": {
+    "overview": "Professional blockchain validator, non custodial staking provider"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "onepercenttech90@gmail.com",
+    "telegram": "https://t.me/onepercent_tech",
+    "twitter": "https://twitter.com/onepercent_tech",
+    "discord": "https://discord.gg/onepercent_tech",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

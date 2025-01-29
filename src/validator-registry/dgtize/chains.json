@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Dgtize Stake",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1ta2yj7yee373evu8xy73gludh8psy55rnczcqw",
+      "restake": {
+        "address": "sif1pfp235023cktu4aqlhuka8mgs8k8g9vw7dxu3h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Pixel Finance",
+  "chains": [
+    {
+      "name": "panacea",
+      "address": "panaceavaloper12xzqggqy3y5avjkc30q2m7eay8vrzl795dp29d",
+      "restake": {
+        "address": "panacea1w9rjm9yurs79ytk39kckd0sv2k2x8vwnma0um5",
+        "run_time": "15:30",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

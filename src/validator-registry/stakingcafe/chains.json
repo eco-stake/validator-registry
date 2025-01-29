@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "☕ staking.cafe",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1kpjk50aeseqxltvkeclr5qzxq5eggt7ddelfgg",
+      "restake": {
+        "address": "cro1gr7hmvnv36m4suqa9uzjlr2076gz37kqgaenaw",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

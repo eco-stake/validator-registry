@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Stake a Tree 🌲",
+  "chains": [
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1t5g3n7wa9nlut4p8yu00sartvfe7q0g0zzsred",
+      "restake": {
+        "address": "bcna10y9kj0uczltu42pdnjhktymdtyvj0f952raxhz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1zenjnsd73e2tf2etplyavw9d0shr5q9zlfn5ug",
+      "restake": {
+        "address": "cerberus10y9kj0uczltu42pdnjhktymdtyvj0f95v5dw2m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1sz72m22qwxu258p2edgplg7wvhxj0u7mhu3yr5",
+      "restake": {
+        "address": "chihuahua10y9kj0uczltu42pdnjhktymdtyvj0f95nxqf7j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper108dv605xyha692htmx0fadk39kn4vxepmruaz8",
+      "restake": {
+        "address": "jkl10y9kj0uczltu42pdnjhktymdtyvj0f95fdrkx0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1sz72m22qwxu258p2edgplg7wvhxj0u7m8qchfr",
+      "restake": {
+        "address": "stride10y9kj0uczltu42pdnjhktymdtyvj0f95ncdmtu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+} 

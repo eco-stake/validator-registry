@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SF RES Land",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1x8drn3260ezg3se6j7w7wqhy090u4wsjt9raj8",
+      "restake": {
+        "address": "chihuahua1x9e5qkjzzmfhw4dt05aludazwvd5x634ssjj76",
+        "run_time": ["00:00","12:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

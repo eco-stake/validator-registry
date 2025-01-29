@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CIVians",
+  "chains": [
+    {
+      "name": "unification",
+      "address": "undvaloper10rrwge9erexjwqs52k4cagz6m8x68jutua4e64",
+      "restake": {
+        "address": "und1qz65fr7dp2vle7el76lhdxhxwa3rs2vh4fezvs",
+        "run_time": "22:22",
+        "minimum_reward": 1000000000
+       }
+    }
+    ]
+}

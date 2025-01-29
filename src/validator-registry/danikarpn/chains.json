@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Danikar",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1gk0q0vfxcz04sqchtjxyc038n8x06pd6s5yshf",
+      "restake": {
+        "address": "cerberus12s3ys786fatss7ngyrq7cqlcth7au4n3fww5a8",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

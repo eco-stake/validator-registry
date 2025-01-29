@@ -1,0 +1,27 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Disperze",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper194v8uwee2fvs2s8fa5k7j03ktwc87h5ym39jfv",
+      "restake": {
+        "address": "juno179w4ead6r2xf3uam3pp7kg55tsl5eycyta60qh",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1sp9frqwep52chwavv3xd776myy8gyyvkv5uysl",
+      "restake": {
+        "address": "evmos1fr6dylwlhaetqke95agqnyk29la9hqkxy0jplg",
+        "run_time": "every 4 hour",
+        "minimum_reward": 500000000000000000
+      }
+    }
+  ]
+}

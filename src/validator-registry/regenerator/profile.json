@@ -1,0 +1,23 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Regenerator",
+  "identity": "8E4FE39FA2D93701",
+  "website": "https://regenerator.online/",
+  "description": {
+    "overview": "A specialist POS Validation Limited Company operating from the United Kingdom. Working on bringing ecology, refi, blockchain methodologies and technologies closer together.",
+    "team": "The Regenerator Team have been active in POS networks since 2017. We were involved with and were genesis validators for both Cosmos Hub and Avalanche networks before expanding to other networks. We are currently a top 20 validator for both REGEN and EVMOS. We also sit on the SifChain Validator Delegation Council.",
+    "security": "Regenerator owns it's own hardware located in a world class Data Centre. Redundancy is provided through physical backup servers and through cloud instances in different regions that can be failed over to if required. Validators sentries are used where required and additional DDOS protection is given using RioRey RG-Series hardware. Custom alerting software and a 24/7 multi-region team ensure the highest of uptime."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@regenerator.online",
+    "telegram": "Regenerator_Pete",
+    "twitter": "_Regenerator_",
+    "discord": "https://discord.gg/F9Mgzuem",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
+
+

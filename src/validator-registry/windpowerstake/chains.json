@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "windpowerstake",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
+      "restake": {
+        "address": "chihuahua1hpwxnnrtsc6zjx4glup77tfe5z54lmtqxrxmy9",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhwun0nm",
+      "restake": {
+        "address": "empower1hpwxnnrtsc6zjx4glup77tfe5z54lmtqe607le",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhxx8nxk",
+      "restake": {
+        "address": "jkl1hpwxnnrtsc6zjx4glup77tfe5z54lmtqug9yuc",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1am80fauk3gnzcr76ylg0yju4f0chen5x6zmq7q",
+      "restake": {
+        "address": "juno1hpwxnnrtsc6zjx4glup77tfe5z54lmtqnygwzm",
+        "run_time": "every 6 hours",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1esv20mwvedun93ysekdeyk3x5ckeqcnjdjql4w",
+      "restake": {
+        "address": "migaloo1hpwxnnrtsc6zjx4glup77tfe5z54lmtqgzz0sf",
+        "run_time": "every 6 hours",
+        "minimum_reward": 600000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1y0luntvuau05hnqv3xhec2fnhs8hw93e0wnuhm",
+      "restake": {
+        "address": "rebus1hpwxnnrtsc6zjx4glup77tfe5z54lmtq5ugq33",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1am80fauk3gnzcr76ylg0yju4f0chen5x5t6ztc",
+      "restake": {
+        "address": "tori1hpwxnnrtsc6zjx4glup77tfe5z54lmtq8zuu7h",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "P-OPS",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper14w3wm9wxvrfpr28keaswlwxvpjkyxnnsjcq4c6",
+      "restake": {
+        "address": "umee1459swdyc3ux6c3v69j0xk9v83fg5ldcuvucqlz",
+        "run_time": "10:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1c5vckuk54tapkzc3d0j9hegqpvgcz24jj3uzfv",
+      "restake": {
+        "address": "agoric1pqm6kf4vnrmfnjwrmzn9xxsrwtmuwpr506eu9u",
+        "run_time": "10:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1ac4mnwg79gyvd0x5trl2fgjv07lgfas02jf378",
+      "restake": {
+        "address": "celestia1459swdyc3ux6c3v69j0xk9v83fg5ldcu0q50pa",
+        "run_time": "10:00",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

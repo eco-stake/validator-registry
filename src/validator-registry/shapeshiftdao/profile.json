@@ -1,0 +1,16 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "ShapeShift DAO",
+  "identity": "47434737FEC2418A",
+  "website": "https://shapeshift.com",
+  "description": {
+    "overview": "Your multichain crypto home base. Trade, track, buy, and earn with your favorite crypto assets with ShapeShift’s community-owned, private, non-custodial, and multichain platform."
+  },
+  "contacts": {
+    "email": "validators@taxistake.com",
+    "telegram": "https://t.me/shapeshiftofficial",
+    "twitter": "https://twitter.com/ShapeShift",
+    "discord": "https://discord.com/invite/shapeshift"
+  }
+}
+

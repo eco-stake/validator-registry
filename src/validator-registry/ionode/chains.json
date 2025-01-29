@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "IONode.online (Higher APY)",
+  "chains": [
+    {
+      "name": "cerberus",
+      "address": "cerberusvaloper1d0pk9sx7gfthuwmcepvuq9wcreqdr5cxmaj6et",
+      "restake": {
+        "address": "cerberus1usypwpuwuvwmks4ymqz5s4csya00xttuqf4fcr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    }
+  ]
+}

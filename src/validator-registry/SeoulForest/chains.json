@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Seoul Forest",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1ewcnz9w06u0xpqh9varg87rwnu4hy763uuxz6t",
+      "restake": {
+        "address": "kujira1c905lutcz6mvav2q3smcgvksrgjzfepu4mt34h",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

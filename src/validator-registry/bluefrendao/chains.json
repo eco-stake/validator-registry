@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BlueFrenDAO",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1ujhrkt8gl7fqfplmg3w3p7y39grm6n87tnw7vt",
+      "restake": {
+        "address": "sent17jhf4rdpejtcdr330mftva7c5lmyuw668fznsh",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
