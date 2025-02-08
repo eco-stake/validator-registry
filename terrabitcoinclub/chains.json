@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "terrabitcoin.club",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1v69lzl909kje64k8vae24uytpxcnpxgullz2dx",
+      "restake": {
+        "address": "cosmos1mhe9ckkr0ka37ua70m3mw83rxkatvc6vlv8r3n",
+        "run_time": ["09:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
