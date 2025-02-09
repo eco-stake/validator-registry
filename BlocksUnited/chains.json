@@ -10,6 +10,15 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper10pt2rk73ksua9nee7c2x5le4yxqnczuefgae62",
+      "restake": {
+        "address": "osmo1m8ufpuk83tvqcmkzu7xzpep5g8ztx7nlq5mvtf",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
     }
 	  ]
 }
