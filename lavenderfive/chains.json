@@ -459,7 +459,7 @@
       }
     },
     {
-      "name": "side",
+      "name": "sidechain",
       "address": "sidevaloper1qqfsuxcjpuyp6rc3zu93zxsnpct3qqsyzggpsyq7qvvpjxsfr5vsst8tjwv",
       "restake": {
         "address": "side12xpq68caw2aqdu70jm4k792g0v9prhrp5zm77l",
