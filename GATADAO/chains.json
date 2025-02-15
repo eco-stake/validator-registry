@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "GATA HUB",
+  "name": "GATAHUB",
   "chains": [
     
    {
@@ -88,7 +88,7 @@
       "restake": {
         "address": "atone1na6j5scjfrq4az3d0lupp4tyaeahmh9wrc0802",
         "run_time": "every 1 hour",
-        "minimum_reward": 100
+        "minimum_reward": 500000
       }	  
     }
    
