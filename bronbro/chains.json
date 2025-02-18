@@ -92,6 +92,15 @@
         "minimum_reward": 1000000
       }
     },
+        {
+      "name": "saga",
+      "address": "sagavaloper1dazs5hls68jrgtlsr5xf9wkc9m4ueza3g2ltfl",
+      "restake": {
+        "address": "saga1grfk7t0k42yxpwqhr7kt4te7j73m2a3vukyzxq",
+        "run_time": "19.37",
+        "minimum_reward": 1000000
+      }
+    },
     {
       "name": "seda",
       "address": "sedavaloper13dgv286g2yaqj4dh6yda63mvtsfkjylekugq5n",
@@ -100,12 +109,12 @@
         "run_time": "19.37",
         "minimum_reward": 1000000
       }
-    },
+    },    
     {
-      "name": "saga",
-      "address": "sagavaloper1dazs5hls68jrgtlsr5xf9wkc9m4ueza3g2ltfl",
+      "name": "sidechain",
+      "address": "sidevaloper1qqdsj9slpczpyqqjzyd3vrsqpsrpw8gpqcyqxqqxqgwssyq2ry0qv7xhdmz",
       "restake": {
-        "address": "saga1grfk7t0k42yxpwqhr7kt4te7j73m2a3vukyzxq",
+        "address": "side1grfk7t0k42yxpwqhr7kt4te7j73m2a3vkyq2lp",
         "run_time": "19.37",
         "minimum_reward": 1000000
       }
