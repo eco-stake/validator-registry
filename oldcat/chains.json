@@ -3,6 +3,15 @@
   "name": "Oldcat",
   "chains": [
     {
+      "name": "akash",
+      "address": "akashvaloper1s9q9ewnpr3jd89lnrme3yjnqdadhpzxdz3q7lf",
+      "restake": {
+        "address": "akash1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zvmnshp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },  
+    {
       "name": "acrechain",
       "address": "acrevaloper19gwnx0zr5pzn7la5j2q2mevqk53xyc80q8cgfe",
       "restake": {
@@ -45,6 +54,15 @@
         "address": "comdex1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zx0u4hv",
         "run_time": ["06:00", "12:00", "18:00", "00:00"],
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1m73mgwn3cm2e8x9a9axa0kw8nqz8a492ms63vn",
+      "restake": {
+        "address": "cosmos1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zpq7hwm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     },
     {
@@ -224,16 +242,16 @@
       "restake": {
         "address": "orai1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zjng50g",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
       "name": "osmosis",
-      "address": "osmovaloper106yua27d3dg4er6w2fkq68s5svd9hngu35nxqr",
+      "address": "osmovaloper1m73mgwn3cm2e8x9a9axa0kw8nqz8a492vg4hp4",
       "restake": {
         "address": "osmo1jh0hzxtyu2a2nc5s9xdxx7zr50wvf97zfmd8cf",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
