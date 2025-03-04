@@ -38,11 +38,11 @@
           "minimum_reward": 100000000
         }
       },
-              { 
-        "name": "elystestnet",
-        "address": "elysvaloper179as9jtzcz3mschvf5f3erf0pdag6a7pn4zk0z",
+      { 
+        "name": "elys",
+        "address": "elysvaloper1w04un5jwk880vsjlvru20rupthzgd2nveyly48",
         "restake": {
-          "address": "elys179as9jtzcz3mschvf5f3erf0pdag6a7pm4ftju",
+          "address": "elys1zl2wl0fryq24yug2l9jrmjx73axydfn3rsnn8k",
           "run_time": "every 1 hour",
           "minimum_reward": 100000
         }

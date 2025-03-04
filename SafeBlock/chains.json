@@ -3,11 +3,11 @@
   "name": "Safe Block",
   "chains": [
     {
-      "name": "aura",
-      "address": "auravaloper14qng68fyc6g2dd4gnpsxjg99jkfksa39a8z9zk",
+      "name": "bitsong",
+      "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
       "restake": {
-        "address": "aura1r64t7u292f5d0ck4pt6ate6880ufwffm5sgmsj",
-        "run_time": "every 1 hour",
+        "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
+        "run_time": "21:00",
         "minimum_reward": 100000
       }
     },
@@ -30,30 +30,12 @@
       }
     },
     {
-      "name": "bitsong",
-      "address": "bitsongvaloper1fgmzy5rtvvnxzy0vn54mz9k5xndzt2afepyye3",
-      "restake": {
-        "address": "bitsong1du46fe83epklatj5euxg669f7q8wq8adr5c789",
-        "run_time": "21:00",
-        "minimum_reward": 100000
-      }
-    },
-        {
       "name": "sge",
       "address": "sgevaloper1slxj36ylk4fdej6qlk85dz74hvhvenvshcsu5x",
       "restake": {
         "address": "sge1r64t7u292f5d0ck4pt6ate6880ufwffm3xp89p",
         "run_time": "every 1 hour",
         "minimum_reward": 500000
-      }
-    },
-    {
-      "name": "bitcanna",
-      "address": "bcnavaloper19tved57edclwqe6gm3uuadk5kymq0uv9dfhdll",
-      "restake": {
-        "address": "bcna1r64t7u292f5d0ck4pt6ate6880ufwffm4k0c6e",
-        "run_time": "21:00",
-        "minimum_reward": 100000
       }
     }
   ]

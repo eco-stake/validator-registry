@@ -62,7 +62,16 @@
       "restake": {
         "address": "dym163g9c65kv5v8lgvvwner3ruxntrdr50ykd83m5",
         "run_time": "every 1 minutes",
-        "minimum_reward": 10000000000000000
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper18k994adu9gl2dg3xuzn6hc07jmd9rqkr8c87uh",
+      "restake": {
+        "address": "elys194ytn50yhh67rdha8akhs7c6zulnz4n2fhsypp",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
       }
     },
     {
@@ -98,7 +107,7 @@
       "restake": {
         "address": "chihuahua194ytn50yhh67rdha8akhs7c6zulnz4n22zyddp",
         "run_time": "every 10 minutes",
-        "minimum_reward": 100000000
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -224,7 +233,7 @@
       "restake": {
         "address": "juno194ytn50yhh67rdha8akhs7c6zulnz4n2l92ctl",
         "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -314,7 +323,7 @@
       "restake": {
         "address": "orai194ytn50yhh67rdha8akhs7c6zulnz4n26ylqds",
         "run_time": "every 5 minutes",
-        "minimum_reward": 1
+        "minimum_reward": 1000
       }
     },
     {

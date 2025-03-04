@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "terrabitcoin.club",
+  "identity": "EC3443CC6E038CFA",
+  "website": "https://terrabitcoin.club",
+  "description": {
+    "overview": "TerraBitcoin is a private club for investors.",
+    "team": "TerraBitcoin is a private club for investors. We believe a decentralized world is what the future holds, and we want to be a part of it by being a blockchain validator."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hello@terrabitcoin.club",
+    "telegram": "@radio_londra",
+    "twitter": "TerraBitcoin_",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

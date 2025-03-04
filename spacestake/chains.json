@@ -11,15 +11,6 @@
         "minimum_reward": 100000
       }
     },
-  	{
-      "name":"evmos",
-      "address":"evmosvaloper1zwqsh4vwmcvmff200suc28ln2du9ypzwyj4wve",
-      "restake":{
-         "address":"evmos1ypwym0rz4gn4qgj3y34u8hxjpq5x45r4edxa8x",
-         "run_time":"every 4 hours",
-         "minimum_reward": 100000000000000000
-      }
-    },
     {
      "name":"secretnetwork",
      "address":"secretvaloper1x6efs0le7f9f3r4u2rq4jykcjunsq4us99p7xu",
@@ -35,7 +26,7 @@
       "restake": {
         "address": "iaa1at5nevqsdhgcucdqqwh937hw4uwwjv3vcw6zzy",
         "run_time": "every 4 hours",
-        "minimum_reward": 500000
+        "minimum_reward": 7000000
       }
     },
     {
@@ -44,7 +35,7 @@
       "restake": {
         "address": "kyve1at5nevqsdhgcucdqqwh937hw4uwwjv3v6zh9t3",
         "run_time": "every 4 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -53,7 +44,7 @@
       "restake": {
         "address": "kava1qmz94mpglzseplyy7wqyz0ep99cvtswl9yvmnq",
         "run_time": "every 4 hours",
-        "minimum_reward": 500000
+        "minimum_reward": 40000
       }
     },
     {
@@ -62,7 +53,16 @@
       "restake": {
         "address": "zeta1ypwym0rz4gn4qgj3y34u8hxjpq5x45r4dgex87",
         "run_time": "every 4 hours",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 60000000000000000
+      }
+    },
+    {
+      "name": "kopi",
+      "address": "kopivaloper1t7m9up9lwy676z3r3nqhspvf7efx8pkktlq7mu",
+      "restake": {
+          "address": "kopi1at5nevqsdhgcucdqqwh937hw4uwwjv3vu228dr",
+          "run_time": "every 4 hours",
+          "minimum_reward": 200000
       }
     }
   ]
