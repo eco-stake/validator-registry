@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "mun",
-      "address": "munvaloper1wvc3vyna24mdqhwmqzs6slccgaaplaz5qushhp",
-      "restake": {
-        "address": "mun1pchsyu3d8c0fezekqmh7ymkesv3gr0scn8w8c7",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "passage",
       "address": "pasgvaloper1adwusm6cxlnmk4e69awswqvzkas90se9xm3qhr",
       "restake": {
@@ -135,15 +126,6 @@
         "address": "sif1pchsyu3d8c0fezekqmh7ymkesv3gr0scv6uh4k",
         "run_time": "every 1 minute",
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "arkh",
-      "address": "arkhvaloper1jlycxh46g7z5x8c8n82dlpk3szhgkqx3qrq3qq",
-      "restake": {
-        "address": "arkh1pchsyu3d8c0fezekqmh7ymkesv3gr0sc9f0a5p",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
       }
     },
     {
