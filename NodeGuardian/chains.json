@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "Node Guardian",
+    "name": "NodeGuardian",
     "chains": [
       {
         "name": "shido",
@@ -8,7 +8,7 @@
         "restake": {
           "address": "shido1npjf0qkzrp57jjq8z8tsudvs3azkfkv5aenwl4",
           "run_time": "every 1 minute",
-          "minimum_reward": 1000000
+          "minimum_reward": 100000000000000000
         }
       }
     ]
