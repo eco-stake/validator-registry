@@ -1,6 +1,6 @@
 {
     "$schema": "../chains.schema.json",
-    "name": "NodeGuardian",
+    "name": "NodeGuardian | ReStake",
     "chains": [
       {
         "name": "shido",
