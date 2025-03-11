@@ -1,5 +1,9 @@
 {
   "$schema": "../profile.schema.json",
   "name": "NodeGuardian | Restake",
-  "identity": "898253F95E1D740A"
+  "identity": "898253F95E1D740A",
+  "website": "https://x.com/NodeGuardian_",
+    "contacts": {
+      "email": "NodeGuardian@outlook.com"
+    }
 }
