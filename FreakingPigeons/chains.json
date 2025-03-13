@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Freaking Pigeons",
+  "chains": [
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1g483ek90u2usq32xyy9t9e5h4454jkwwkvzr38",
+      "restake": {
+        "address": "stars16zc66tlxu6dvmqm0qhzdza7eam5g85a47923ml",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 150000
+      }
+    }
+  ]
+}

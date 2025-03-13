@@ -327,7 +327,7 @@
       }
     },
     {
-      "name": "secret",
+      "name": "secretnetwork",
       "address": "secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc",
       "restake": {
         "address": "secret133nkfx4sn4l5v6e0zcvyn809dm3d5t3f66zaac",
@@ -351,6 +351,15 @@
         "address": "atone1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjwm66jd",
         "run_time": "daily",
         "minimum_reward": 3000000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper1xq38qxad2eumdaytrejnmypqaay8dtmukz72re",
+      "restake": {
+        "address": "bze1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjal2kkz",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000000
       }
     }
   ]

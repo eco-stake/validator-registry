@@ -57,6 +57,24 @@
         "run_time": "09:00",
         "minimum_reward": 100000000000000000
      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68mnvg20n",
+      "restake": {
+        "address": "fetch1gvu0xvz0vut3xq07m87np9kns5y2pw5f5furp6",
+        "run_time": "09:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper1u5cdg7k3gl43mukca4aeultuz8x2j68m958wzp",
+      "restake": {
+        "address": "dh1vfu7s8gama93eewe4jmvnu7jfwun7zl0lwr8le",
+        "run_time": "09:00",
+        "minimum_reward": 10000000
+      }	  
     }
   ]
 }

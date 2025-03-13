@@ -62,7 +62,7 @@
       "restake": {
         "address": "mantra1u4whe0pwlgt7q7ph37qxalq2wfq4pkcdfj7dch",
         "run_time": "09:00",
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 100000
       }
     },
     {
