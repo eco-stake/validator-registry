@@ -39,10 +39,10 @@
                 }       
         },
         {
-                "name": "sentinel",
-                "address": "sentvaloper10f95e8jptpsv4c57rsprhzexz6zcdkskwkzk50",
+                "name": "kyve",
+                "address": "kyvevaloper15h97fumsac8tlwzhksm7tmeswv6746gu6hkfv3",
                 "restake": {
-                "address": "sent1df3p2gft7hhunc0ptgxr3jy2kt2yclq6mgcdtn",
+                "address": "kyve1df3p2gft7hhunc0ptgxr3jy2kt2yclq6harzyc",
                 "run_time": "every 4 hour",
                 "minimum_reward": 100000
                 }
