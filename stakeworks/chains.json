@@ -43,7 +43,7 @@
                 "address": "kyvevaloper15h97fumsac8tlwzhksm7tmeswv6746gu6hkfv3",
                 "restake": {
                 "address": "kyve1df3p2gft7hhunc0ptgxr3jy2kt2yclq6harzyc",
-                "run_time": "every 4 hour",
+                "run_time": "every 1 hour",
                 "minimum_reward": 100000
                 }
         }
