@@ -107,7 +107,7 @@
       "restake": {
         "address": "allo1u4njm0k28kk38gvmzxs37dxnn6mh9cala50fja",
         "run_time": "20:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -116,7 +116,7 @@
       "restake": {
         "address": "althea1u4njm0k28kk38gvmzxs37dxnn6mh9cal89syfp",
         "run_time": "20:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -125,7 +125,7 @@
       "restake": {
         "address": "seda1u4njm0k28kk38gvmzxs37dxnn6mh9cal9fejx9",
         "run_time": "20:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
