@@ -217,6 +217,15 @@
         "run_time": "every 1 minute",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "picasso",
+      "address": "picavaloper1ma2lvcjsptmvu2525ncuye0w6wrz3t24gaylx6",
+      "restake": {
+        "address": "pica1pchsyu3d8c0fezekqmh7ymkesv3gr0scjmsy76",
+        "run_time": "every 1 minute",
+        "minimum_reward": 100000000000
+      }
     }
   ]
 }
