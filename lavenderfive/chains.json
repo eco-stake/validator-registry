@@ -305,6 +305,17 @@
       }
     },
     {
+      "name": "nillion",
+      "address": "nillionvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ze0uqtu",
+      "restake": {
+        "address": "nillion12xpq68caw2aqdu70jm4k792g0v9prhrpmrchtm",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "nomic",
       "address": "nomicvaloper13dmmz4936yyh42xuc4rlacyjxelpsldpp8u6e5",
       "restake": {
