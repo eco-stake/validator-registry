@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "nillion",
+      "address": "nillionvaloper19pksezgmgmdz283lf2709l0jwvjttpq9ys3yys",
+      "restake": {
+        "address": "nillion1etsdevgm5ps240lrw9mg3p2j32tj96kt4lmjew",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "sidechain",
       "address": "sidevaloper1qqt3u8qvrsrpwzgcrugsw8gsq523kxsypv8su9qhpudsuqsqrg2sjr5l65n",
       "restake": {
