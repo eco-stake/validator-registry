@@ -2,7 +2,16 @@
     "$schema":"../chains.schema.json",
     "name":"kingnodes",
     "chains":[
-       {
+      {
+         "name":"xion",
+         "address":"xionvaloper10g3fdhq3c2ev2enrhh7z9xyzphal3audm7r3c4",
+         "restake":{
+            "address":"xion1xs023g3yj2mavwn3cjclgsh8mlk0kgsjyh55mw",
+            "run_time":["daily"],
+            "minimum_reward":100000
+         }
+      }, 
+      {
           "name":"chihuahua",
           "address":"chihuahuavaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdqj3xsc",
           "restake":{
@@ -17,7 +26,7 @@
           "restake":{
              "address":"omniflix1xs023g3yj2mavwn3cjclgsh8mlk0kgsjmql06m",
              "run_time":["every 5 minutes"],
-             "minimum_reward":10000
+             "minimum_reward":100000
           }
        },
        {
@@ -26,7 +35,7 @@
           "restake":{
              "address":"nillion1xs023g3yj2mavwn3cjclgsh8mlk0kgsja7s9xx",
              "run_time":["daily"],
-             "minimum_reward":100000000000000000
+             "minimum_reward":100000
           }
        },
        {
