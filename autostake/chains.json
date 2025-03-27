@@ -282,11 +282,11 @@
       }
     },
     {
-      "name": "nois",
-      "address": "noisvaloper1ymh63hmdpp2ymhgqv24q7d0736yeycn95c6evz",
+      "name": "nillion",
+      "address": "nillionvaloper1379fs2vnwjxneccmpgm340mvtz95pudl67h78e",
       "restake": {
-        "address": "nois194ytn50yhh67rdha8akhs7c6zulnz4n2cl5fqm",
-        "run_time": "every 5 minutes",
+        "address": "nillion194ytn50yhh67rdha8akhs7c6zulnz4n2jhhs8q",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },
