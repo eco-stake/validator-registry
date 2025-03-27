@@ -16,7 +16,7 @@
       "address": "nillionvaloper19pksezgmgmdz283lf2709l0jwvjttpq9ys3yys",
       "restake": {
         "address": "nillion1etsdevgm5ps240lrw9mg3p2j32tj96kt4lmjew",
-        "run_time": "every 1 hour",
+        "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
     },
@@ -34,7 +34,7 @@
       "address": "fuelsequencervaloper1yt0whdf62s5fry5tpavzfazpm4x5fq0nst09mq",
       "restake": {
         "address": "fuelsequencer1etsdevgm5ps240lrw9mg3p2j32tj96kte0lgj0",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     },
