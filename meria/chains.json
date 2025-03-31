@@ -241,6 +241,18 @@
         ],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper13xg5mkd6maqxye07x9za0kaj756drw2r45yk5w",
+      "restake": {
+        "address": "inj1aaj8j4067f2c2lafzsmxtdl2ky306quglpqvz9",
+        "run_time": [
+          "07:00",
+          "19:00"
+        ],
+        "minimum_reward": 100000000000000000 
+      }
     }
    ]
 }

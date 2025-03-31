@@ -361,6 +361,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000000
       }
+    },
+    {
+      "name": "sidechain",
+      "address": "sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685",
+      "restake": {
+        "address": "side1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgj56m86j",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

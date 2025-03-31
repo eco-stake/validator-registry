@@ -22,9 +22,9 @@
     },
     {
       "name": "composable",
-      "address": "centaurivaloper1pkg5qkrus99n4cj8hrt25j63phh2r8huw0cy6a",
+      "address": "picavaloper1pkg5qkrus99n4cj8hrt25j63phh2r8hut8n4fg",
       "restake": {
-        "address": "centauri1e762e7chsgz3aurtelcz948j8gscfr0qty0tcj",
+        "address": "pica1e762e7chsgz3aurtelcz948j8gscfr0q5jpjcx",
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
