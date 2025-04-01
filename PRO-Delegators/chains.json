@@ -46,7 +46,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
-    }
-	  
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1aul5ayt05jwk758k9s2w3qn5qdxesw9sjpnurq",
+      "restake": {
+        "address": "nillion1vvumkjdmen9fsgu88zqv8eulpn79g4g02nmh6t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }
