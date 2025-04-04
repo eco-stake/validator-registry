@@ -10,26 +10,6 @@
         "run_time": "every 60 minutes",
         "minimum_reward": 1
       }
-    },
-    {
-      "name": "source",
-      "address": "sourcevaloper1n6d9rqrfwh5sprmfc965yqdvnc3wl339ceeqpv",
-      "restake": {
-        "address": "source1t25n9292faqg4am3nja4zkejyfp5fxg0ldrgzz",
-        "run_time": "every 60 minutes",
-        "minimum_reward": 1
-      }
-    },
-    {
-      "name": "nibiru",
-      "address": "nibivaloper12t4kdan397fkmr8ryxt6uqkmdx9pez6zmwdl6v",
-      "restake": {
-        "address": "nibi1t25n9292faqg4am3nja4zkejyfp5fxg0wm70m0",
-        "run_time": [
-          "09:00"
-        ],
-        "minimum_reward": 10000
-      }
     }
   ]
 }

@@ -182,11 +182,20 @@
 			}
 		},
 		{
+			"name": "xion",
+			"address": "xionvaloper1pxk78p2hents9935a5ust8xy39c5xgpkcsz0r9",
+			"restake": {
+				"address": "xion1yq67lj5nnkcc2jk9ngfe3v6mt5ra0n9d9ttvpp",
+				"run_time": "every 12 hour",
+				"minimum_reward": 100000
+			}
+		},
+		{
 			"name": "zetachain",
 			"address": "zetavaloper1nkgty88qc6q9c24h3xgu5jnseegkdrmm69xuvz",
 			"restake": {
 				"address": "zeta1rddqmf6y36geq90daesm057uaagasjd0hx6356",
-				"run_time": "12:44",
+				"run_time": "12:42",
 				"minimum_reward": 100000
 			}
 		}

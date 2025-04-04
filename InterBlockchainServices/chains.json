@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "dungeon",
+      "address": "dungeonvaloper1hu5app8auwzg5h5xyj4gwa2cp8q4lk4sq5k9vd",
+      "restake": {
+        "address": "dungeon1hcgxjhvv43g9z6dc58g428jgc8hdlmf76u8nge",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "dymension",
       "address": "dymvaloper15un289g5slwzt77cpww53454lthfalpm3gsap0",
       "restake": {
@@ -83,7 +92,6 @@
         "minimum_reward": 100000000000000000
       }
     },
-
     {
       "name": "emoney",
       "address": "emoneyvaloper1n065t8znwxqj3t354janr57tlwvezygc6aqk32",
@@ -279,6 +287,15 @@
       "restake": {
         "address": "sent1hcgxjhvv43g9z6dc58g428jgc8hdlmf705wvxd",
         "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper167l63j3hanmx7mekg6hlhm0pay433uy4kdw0e8",
+      "restake": {
+        "address": "elys1hcgxjhvv43g9z6dc58g428jgc8hdlmf750pj0q",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     }

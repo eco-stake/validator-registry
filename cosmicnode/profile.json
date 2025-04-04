@@ -1,5 +1,16 @@
 {
     "$schema": "../profile.schema.json",
     "name": "CosmicNode",
-    "identity": "98E0AF6FE06D9D30"
+    "identity": "98E0AF6FE06D9D30",
+    "website": "https://cosmicnode.zone",
+    "description": {
+        "overview": "CosmicNode, Powered by French Team.",
+        "security": "support@cosmicnode.zone"
+    },
+    "contacts": {
+        "email": "hello@cosmicnode.zone",
+        "telegram": "https://t.me/+AVx0ifnnUeJmNDU8",
+        "twitter": "https://x.com/_CosmicNode",
+        "discord": "https://discord.gg/nxCx4Zvwxh"
+    }
 }

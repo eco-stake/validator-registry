@@ -109,7 +109,15 @@
 				"run_time": "every 4 hours",
 				"minimum_reward": 10000
 			}
+		},
+		{
+			"name": "fetchhub",
+			"address": "fetchvaloper1rz6gzypnqdehvfwl33hh7rw0fzr5ksl92fnp2j",
+			"restake": {
+				"address": "fetch1jw7a28g98q3e7ul9f78cuzxnaw67dax84qzwvx",
+				"run_time": "every 4 hours",
+				"minimum_reward": 10000
+			}
 		}
-		
 	]
 }

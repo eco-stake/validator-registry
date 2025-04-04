@@ -118,6 +118,33 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1000000000000000
       }
+    },
+    {
+      "name": "medasdigital",
+      "address": "medasvaloper1pangwx9zq3mepyrg2ffv8lt5lct9cttrddky9h",
+      "restake": {
+        "address": "medas10eumq5yvapfdan5nxsfkc3arskff3l9vynwg2t",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper14rm9nwqtlwe9r39zj33xufrr2mv3lccm2jy22r",
+      "restake": {
+        "address": "dungeon10eumq5yvapfdan5nxsfkc3arskff3l9v0ndxs2",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "synternet",
+      "address": "syntvaloper1wsdvyqj222223gxk9hshdtrkum9ectg6mxc9p2",
+      "restake": {
+        "address": "synt10eumq5yvapfdan5nxsfkc3arskff3l9vw8pd7e",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     },    
     {
       "name": "arkh",

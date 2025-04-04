@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "terrabitcoin.club",
+  "services": [
+    {
+      "title": "terrabitcoin.club",
+      "description": "Professional Proof-of-Stake Network Validator",
+      "url": "https://terrabitcoin.club/"
+    }
+  ]
+}
