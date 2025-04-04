@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "impacthub",
-      "address": "ixovaloper1c6nw58dd8ur9kt9k4fh8u64ea4892sg28mxkmu",
-      "restake": {
-        "address": "ixo1w4du0y6705rqregfl6cktm7swds6t4dsz0vne9",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
       "restake": {
@@ -111,15 +102,6 @@
       }
     },
     {
-      "name": "passage",
-      "address": "pasgvaloper1qjeasl5jgufwdm23gk5zcnlszjc3dzhu20yaxn",
-      "restake": {
-        "address": "pasg1w4du0y6705rqregfl6cktm7swds6t4ds7ztmsf",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "persistence",
       "address": "persistencevaloper1xfffx2agkgy4d0jpl7lulgklpf7evgla679rn2",
       "restake": {
@@ -153,15 +135,6 @@
         "address": "terra1ws7lc048pemg09dp3ehl9094z0p0hyzqr72pm9",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "umee",
-      "address": "umeevaloper1j6l7zpwnmkrdkat5f84d79aanr5em9cumzly8j",
-      "restake": {
-        "address": "umee1w4du0y6705rqregfl6cktm7swds6t4ds0v07ey",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
       }
     }
   ]
