@@ -3,6 +3,18 @@
   "name": "AVIAONE.com 🟢",
   "chains": [
     {
+      "name": "atomone",
+      "address": "atonevaloper1342p4lqh94s8qrk48vz2x6nlh3p2hqx4autnd9",
+      "restake": {
+        "address": "atone1sdtursdqgmlmlchhyywldrvfyry006jwkpn7zx",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "dymension",
       "address": "dymvaloper1vtf9ytvqg8k7n3hx7rt7fezktg7przxmeduldc",
       "restake": {
@@ -24,90 +36,6 @@
           "21:00"
         ],
         "minimum_reward": 5000000000000000000
-      }
-    },
-    {
-      "name": "bitcanna",
-      "address": "bcnavaloper17vnkjsg78a2zpjdhfppka2ah207sjjwqax2s7q",
-      "restake": {
-        "address": "bcna1sdtursdqgmlmlchhyywldrvfyry006jwz3lcuv",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "aura",
-      "address": "auravaloper1fdwfj47qqe9huyalcvzvyh9wrwfp62h3n9khcy",
-      "restake": {
-        "address": "aura1sdtursdqgmlmlchhyywldrvfyry006jwrhcmk8",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "andromeda",
-      "address": "andrvaloper1f6llvwrh736r8whadp6y4rl5d06p9u93w4p7t0",
-      "restake": {
-        "address": "andr1sdtursdqgmlmlchhyywldrvfyry006jwq28mgn",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "gravitybridge",
-      "address": "gravityvaloper1zs9x9kr0eu6y0d8cfawnpqrsshqmph7qwjgu2w",
-      "restake": {
-        "address": "gravity1sdtursdqgmlmlchhyywldrvfyry006jwu3ap3k",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 5000000
-      }
-    },
-    {
-      "name": "shentu",
-      "address": "shentuvaloper1m5ht86hv97vecxq5t9ak82lc9ylqa5wrmj4h4d",
-      "restake": {
-        "address": "shentu1sdtursdqgmlmlchhyywldrvfyry006jws4tqxr",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "provenance",
-      "address": "pbvaloper12kx756pvdtfq76fndp5ytepks4hq94rrw3f8t8",
-      "restake": {
-        "address": "pb1hfc9793u9rnw9ylxu4xvaz22tyxsqat8tjmjrp",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000000
-      }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper16d07zqtj3g23gy50up5dpnthhjprssf327ll3h",
-      "restake": {
-        "address": "ki1sdtursdqgmlmlchhyywldrvfyry006jwfv7ks2",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 5000000
       }
     }
   ]

@@ -14,7 +14,7 @@
 },
     {
       "name": "humans",
-      "address": "humanvaloper1mgukftytaqvwew57qvqz8yv380vhh8zskfzppf",
+      "address": "humanvaloper1xnrgrnvs0t2dy8z86sgfzgu0t6t26ezr0et7r5",
       "restake": {
         "address": "human1ltv0z3033yrpc23s2mtkswjx98h0pckhxlx92u",
         "run_time": "every 30 Seconds",
@@ -41,9 +41,9 @@
 },
     {
       "name": "fxcore",
-      "address": "fxvaloper1mgukftytaqvwew57qvqz8yv380vhh8zs2562zz",
+      "address": "fxvaloper1wrz0a4plew74cxz50c8ggec082mtdw7mpl2k4r",
       "restake": {
-        "address": "fx1mgukftytaqvwew57qvqz8yv380vhh8zsz984uz",
+        "address": "fx1ltv0z3033yrpc23s2mtkswjx98h0pckh7qe7uj",
         "run_time": "every 1 day",
         "minimum_reward": 1000000
       }
@@ -56,7 +56,115 @@
         "run_time": "every 1 day",
         "minimum_reward": 100000
       }
+},
+    {
+      "name": "blockx",
+      "address": "blockxvaloper1cesqtkynpv5truhztf2zs4z2nqy7sntxrpdccv",
+      "restake": {
+        "address": "blockx1ltv0z3033yrpc23s2mtkswjx98h0pckhacfl4k",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1mgukftytaqvwew57qvqz8yv380vhh8zs23qfx4",
+      "restake": {
+        "address": "zeta1ltv0z3033yrpc23s2mtkswjx98h0pckhj5x7tn",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1a2vqt89mp4hq7uh6sna3n80yv99ejluasdkpdp",
+      "restake": {
+        "address": "fetch1765r3rvgpj2fugjru8gr4s7yp26vdmz2sscxs8",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "sentinel",
+      "address": "sentvaloper12shx6mcced36gkvd8dn7xy2gq3wfudn7lxv22u",
+      "restake": {
+        "address": "sent1765r3rvgpj2fugjru8gr4s7yp26vdmz2ck8mkl",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "juno",
+      "address": "junovaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3snclwet",
+      "restake": {
+        "address": "juno1765r3rvgpj2fugjru8gr4s7yp26vdmz24lje4v",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper182dfunl7j9wpdqjlpkgq4se497f0uty4nnlfzy",
+      "restake": {
+        "address": "bcna1765r3rvgpj2fugjru8gr4s7yp26vdmz2eapr6z",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "routerchain",
+      "address": "routervaloper1rsysmjf5hesypyzrdre25j450r474rx60hplue",
+      "restake": {
+        "address": "router1ltv0z3033yrpc23s2mtkswjx98h0pckh3tfnwn",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},	  
+    {
+      "name": "furya",
+      "address": "furyavaloper1yasjpwlug8355auvle465lp3k3y0yhuuc7ymvl",
+      "restake": {
+        "address": "furya1765r3rvgpj2fugjru8gr4s7yp26vdmz2vc258z",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }
+},
+    {
+      "name": "nibiru",
+      "address": "nibivaloper12zgp6aap9ln0n02u5yn9j6gsl50upnu7aeu33j",
+      "restake": {
+        "address": "nibi1765r3rvgpj2fugjru8gr4s7yp26vdmz25g4mmr",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 100000
+      }	  
     },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper1375akla6alr790je24fswxs6mg6hc2ewvfsnwf",
+      "restake": {
+        "address": "dh144gg9k9jywjc3k7m444jqyw88prt5h2pphewne",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 10000000
+      }	  
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1sqq6h3krhuj24m45n5m7l3m8r2fgzuv4eep69p",
+      "restake": {
+        "address": "self1765r3rvgpj2fugjru8gr4s7yp26vdmz2xxv7ue",
+        "run_time": "every 1 Hour",
+        "minimum_reward": 1000000
+      }	  
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1d3hahjfnr6579rpt7fkste4jaj6ne0jvqttj05",
+      "restake": {
+        "address": "atone1765r3rvgpj2fugjru8gr4s7yp26vdmz2ddd9yg",
+        "run_time": "every 1 Minutes",
+        "minimum_reward": 10
+      }	  
+    },	  
 		{
       "name": "firmachain",
       "address": "firmavaloper1hq5rh4p2whhx7ctjn6gjdz3kx9tfzcw2kkt79c",

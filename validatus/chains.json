@@ -80,7 +80,16 @@
         "name": "sommelier",
         "address": "sommvaloper1jgfjrec3u2ev6v89sav06we8jn5tf4cqlpj997",
         "restake": {
-          "address": "somm1s28a2pa75quffuxht9evaecr56d3js4kxy3nvy",
+          "address": "somm1dqx5ql3e9mdxx2vunw2as65pc8u58em4ejfz6p",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000
+  }
+  },
+  {
+        "name": "composable",
+        "address": "picavaloper19v94c3z7ckarwsum76kaagma0wqsqhh5u0t7xu",
+        "restake": {
+          "address": "pica1dqx5ql3e9mdxx2vunw2as65pc8u58em4wj9t0v",
           "run_time": ["09:00", "21:00"],
           "minimum_reward": 100000
   }
@@ -89,7 +98,7 @@
         "name": "chain4energy",
         "address": "c4evaloper19v94c3z7ckarwsum76kaagma0wqsqhh55nrv52",
         "restake": {
-          "address": "c4e1f09pe6huhlvtflx74rm8ctceu3smpwdpegvgwl",
+          "address": "c4e1dqx5ql3e9mdxx2vunw2as65pc8u58em4kklrj4",
           "run_time": ["09:00", "21:00"],
           "minimum_reward": 100000
   }

@@ -1,10 +1,10 @@
-{
+ {
   "$schema": "../chains.schema.json",
   "name": "NodesRun.Com",
   "chains": [
    {
       "name": "source",
-      "address": "sourcevaloper138xfsxkzyus6y9ejvetfzs5vl7pqgrtvcef4ns",
+      "address": "sourcevaloper1g27wkdl5kyd9nk4ku9waswnqvy6ufd0v437jas",
       "restake": {
         "address": "source1fayua8uzxua5nryw83wx8h9qhycg9acerkwwh7",
         "run_time": "every 1 hour",

@@ -1,6 +1,6 @@
 {
+  "name": "Nansen",
   "$schema": "../chains.schema.json",
-  "name": "StakeWithUs",
   "chains": [
     {
       "name": "osmosis",
@@ -23,7 +23,7 @@
           "00:00",
           "12:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -111,18 +111,6 @@
       }
     },
     {
-      "name": "quicksilver",
-      "address": "quickvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn9dp5t",
-      "restake": {
-        "address": "quick1ltd3ynqjvy39r3lc48p4zlqa59hvam5t7h6psj",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "celestia",
       "address": "celestiavaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvjeqh0m",
       "restake": {
@@ -132,6 +120,18 @@
           "12:00"
         ],
         "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvh6r6cy",
+      "restake": {
+        "address": "dym1te06mjvtw763dm8q8g7zd4gru8y3vvk4afvmck",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000000000000000
       }
     }
   ]

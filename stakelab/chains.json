@@ -120,15 +120,6 @@
       }
     },
     {
-      "name": "composable",
-      "address": "centaurivaloper10at4sl26gx3767ejn2w7awy7k522ernz7q56pa",
-      "restake": {
-        "address": "centauri1mjq48r6435aewerpruwc8up3tz3rzan2gnnt9x",
-        "run_time": "every 1 day",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name": "coreum",
       "address": "corevaloper1k0rllvenwr02gvm52fh5056g5m3hly2lpf63z5",
       "restake": {
@@ -318,6 +309,15 @@
       }
     },
     {
+      "name": "lava",
+      "address": "lava@valoper1enyxz27y8ef9nl3lnvgsglqvaa0nr9c2sa9xmq",
+      "restake": {
+        "address": "lava@1mjq48r6435aewerpruwc8up3tz3rzan25pfjxc",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1axqn30kead92gdsg7pusc6ezxx8ltq465r3hv3",
       "restake": {
@@ -349,15 +349,6 @@
       "address": "migaloovaloper1szf56azfyl8xeke33qlppfyccc63wzgg9jwf4j",
       "restake": {
         "address": "migaloo1mjq48r6435aewerpruwc8up3tz3rzan2pdhd5m",
-        "run_time": "every 1 day",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "nomic",
-      "address": "nomic1tgsjng05e5nasje88vtkk5f84ggapyhjscty3t",
-      "restake": {
-        "address": "",
         "run_time": "every 1 day",
         "minimum_reward": 1000000
       }
@@ -414,6 +405,15 @@
         "address": "persistence1mjq48r6435aewerpruwc8up3tz3rzan2z4cy03",
         "run_time": "every 1 day",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "picasso",
+      "address": "picavaloper10at4sl26gx3767ejn2w7awy7k522ernzmgltjg",
+      "restake": {
+        "address": "pica1mjq48r6435aewerpruwc8up3tz3rzan2h9aj9j",
+        "run_time": "every 1 day",
+        "minimum_reward": 1
       }
     },
     {

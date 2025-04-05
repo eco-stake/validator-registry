@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DRAGON",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1sdsxp06q3sn2ctsmw4tptrr5p48scsuq80e7dl",
+      "restake": {
+        "address": "orai128jj7w4dqhzy7mkuwkcvxv4l03nu5y70chgwc8",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

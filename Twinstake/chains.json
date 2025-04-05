@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Twinstake",
+  "chains": [
+    {
+        "name": "injective",
+        "address": "injvaloper18cyc7wxru3g9de3emwy9pdh5x0vevxp3p2623y",
+        "restake": {
+          "address": "inj19qxlkm0fsemenxzntqdlennyc0jfr2n8ajcpmv",
+          "run_time": ["10:00"],
+          "minimum_reward": 1000000000000000000
+        }
+      }
+  ]
+}

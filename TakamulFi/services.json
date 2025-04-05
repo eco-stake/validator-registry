@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "TakamulFi Validator",
+  "services": [
+    {
+      "title": "TakamulFi Validator",
+      "description": "Join us in staking with TakamulFi Validator to support Halal finance integration and sustainable growth. Be a part of ethical finance and earn passive rewards while making a positive impact.",
+      "url": "https://takamulfi.com"
+    }
+  ]
+}

@@ -29,6 +29,24 @@
             "minimum_reward":100000
            }
          },
+	    {
+      "name": "kopi",
+      "address": "kopivaloper1l3zxwfypzfp2dxcwaqnq8rx8rwzq3cl7w6cc3a",
+      "restake": {
+        "address": "kopi1j3ntp8ykkfxsjj4p9gxcjgyjkx2w0zdprcmrgt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+           }
+          }, 
+                {
+      "name": "neutaro",
+      "address": "neutarovaloper13nwzm5dfd26ue74jr6sc39gyn3qze0rju7c6x5",
+      "restake": {
+        "address": "neutaro1j3ntp8ykkfxsjj4p9gxcjgyjkx2w0zdpnewxhc",
+        "run_time": "every 12 hour",
+        "minimum_reward": 1000000
+          }
+         },
 	         {
       "name": "terpnetwork",
       "address": "terpvaloper13nwzm5dfd26ue74jr6sc39gyn3qze0rj33u6ng",

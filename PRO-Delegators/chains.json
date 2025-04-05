@@ -29,14 +29,32 @@
         "minimum_reward": 1000000
       }
     },
-	{
-      "name": "dymension",
-      "address": "dymvaloper12g3y9h5l2yujuz4fxl5lt35q3zlunyq7uqv6pj",
+    {
+      "name": "atomone",
+      "address": "atonevaloper1zrp3cnmqg7rlr7n4mc3cfl4khn5p9a2frykp2c",
       "restake": {
-        "address": "dym1ygrzk0exmsk0aa8tkyx4hw5de477qe8mduejq7",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000000000
+        "address": "atone1vvumkjdmen9fsgu88zqv8eulpn79g4g0lner8s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper12w8a3hlgladrn6tr5s72s77h0zfw6y64ecpvqy",
+      "restake": {
+        "address": "elys1vvumkjdmen9fsgu88zqv8eulpn79g4g03nuru2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1aul5ayt05jwk758k9s2w3qn5qdxesw9sjpnurq",
+      "restake": {
+        "address": "nillion1vvumkjdmen9fsgu88zqv8eulpn79g4g02nmh6t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }

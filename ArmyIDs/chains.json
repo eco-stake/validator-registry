@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "althea",
+      "address": "altheavaloper1z7pvh3jmej95kukpa23czwkfpxqg3f4f2a8utz",
+      "restake": {
+        "address": "althea1785xzn9qec54fewmezuady4n8tuq00c42c6a9j",
+        "run_time": "00:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k",
       "restake": {

@@ -139,9 +139,9 @@
     },
     {
       "name": "composable",
-      "address": "centaurivaloper1xgy25y5stu2uu5fasz278rjd28rleqj2lqzh8j",
+      "address": "picavaloper1xgy25y5stu2uu5fasz278rjd28rleqj26gfx58",
       "restake": {
-        "address": "centauri12pt2ds9cu80yruy5t86fuuz5t6tm37aje2upn0",
+        "address": "pica12pt2ds9cu80yruy5t86fuuz5t6tm37ajxujcnm",
         "run_time": ["00:00", "12:00"],
         "minimum_reward": 100000000000
       }
@@ -197,6 +197,60 @@
       "restake": {
         "address": "qwoyn12pt2ds9cu80yruy5t86fuuz5t6tm37ajqqsrsa",
         "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1ltwg39j75vkx06prtd9gaug25qgkv29xr9femj",
+      "restake": {
+        "address": "shentu12pt2ds9cu80yruy5t86fuuz5t6tm37aj454y9p",
+        "run_time": ["00:00", "12:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper1w55clxf9q3rusv8gyspls9e8jptrhywq9emml4",
+      "restake": {
+        "address": "elys12pt2ds9cu80yruy5t86fuuz5t6tm37ajaqg667",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1nx4tej0d5f7pnarg56a9ykxmsdlt4e8xwvxazz",
+      "restake": {
+        "address": "atone12pt2ds9cu80yruy5t86fuuz5t6tm37ajnqd6py",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "zenrock",
+      "address": "zenvaloper1gjt53svdepw86luu44dqgzgh22flkf6s843ray",
+      "restake": {
+        "address": "zen12pt2ds9cu80yruy5t86fuuz5t6tm37aj8drumd",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sidechain",
+      "address": "sidevaloper1qq93qzgtzvwscqg9rsxs5qqcry2swzqjzcppk9s4pcvpwxsaqczqkvn82h5",
+      "restake": {
+        "address": "side12pt2ds9cu80yruy5t86fuuz5t6tm37ajfpv8fm",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "self",
+      "address": "selfvaloper1zldl0wmwawwrfq9nm482eqr37dqfsurgv5ywt3",
+      "restake": {
+        "address": "self12pt2ds9cu80yruy5t86fuuz5t6tm37ajctvpe4",
+        "run_time": ["every 1 hour"],
         "minimum_reward": 1000000
       }
     }

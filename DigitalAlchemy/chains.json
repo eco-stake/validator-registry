@@ -1,0 +1,13 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "DigitalAlchemy",
+	"chains": [{
+		"name": "synternet",
+		"address": "syntvaloper1trsdcglw55fc6vvmympj9z09je0n03nx499ws5",
+		"restake": {
+			"address": "synt15d9f8cmpc00z7mva2jzg7z4ldvs538u65qsdnc",
+			"run_time": ["Every 30 minutes"],
+			"minimum_reward": 1000000
+		}
+	}]
+}

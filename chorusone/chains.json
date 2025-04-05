@@ -35,7 +35,7 @@
           "11:29",
           "23:29"
         ],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -99,18 +99,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g86tx29",
-      "restake": {
-        "address": "evmos19tavvzn00yxhf27ra6z303es8hqg32gmw3d2mu",
-        "run_time": [
-          "04:41",
-          "16:41"
-        ],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
       "name": "injective",
       "address": "injvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g46hezv",
       "restake": {
@@ -147,6 +135,18 @@
       }
     },
     {
+      "name": "lava",
+      "address": "lava@valoper16pj5gljqnqs0ajxakccfjhu05yczp9872r5360",
+      "restake": {
+        "address": "lava@1qa6ssu05nslkj2smaqcjx2x9fzanfkpfey75np",
+        "run_time": [
+          "05:22",
+          "17:22"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "dymension",
       "address": "dymvaloper1ema6flggqeakw3795cawttxfjspa48l4x0e2mh",
       "restake": {
@@ -156,18 +156,6 @@
           "19:15"
         ],
         "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "mars",
-      "address": "marsvaloper16pj5gljqnqs0ajxakccfjhu05yczp9870ral7t",
-      "restake": {
-        "address": "mars1xmlf509uayc4vpztnxefgngueevug67f2p9sk9",
-        "run_time": [
-          "08:29",
-          "20:29"
-        ],
-        "minimum_reward": 1000000
       }
     },
     {

@@ -3,15 +3,6 @@
   "name": "ramuchi.tech",
   "chains": [
     {
-      "name": "gravitybridge",
-      "address": "gravityvaloper1vf9f5sjy3m5yzx39nxk6xaagl3yq6wu0gj800k",
-      "restake": {
-        "address": "gravity1tzchfqaztwcekmr2jh6mvfhdt5ncdpnpdmvv46",
-        "run_time": "every 10 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-	{
       "name": "stargaze",
       "address": "starsvaloper1j8y7wh6hsz0nr9sx7z9qhx4p2hgy58xeclaucp",
       "restake": {

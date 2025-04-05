@@ -18,7 +18,17 @@
       "restake": {
         "address": "orai1c83eed3dw84hf2lj6ykg7vullx5657h6vjqk3s",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
+      
+          }
+       },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1y5e7xur4u02uhcxj6ms2g6c5cu54zjzz24752c",
+      "restake": {
+        "address": "nibi1c83eed3dw84hf2lj6ykg7vullx5657h6gyjves",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
       
           }
        }

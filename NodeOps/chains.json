@@ -6,8 +6,8 @@
       "name": "assetmantle",
       "address": "mantlevaloper1w8cupdwm6k3pyj6rz8rtk4wzvaq8h2wjnyks8z",
       "restake": {
-        "address": "mantle1gl4tftdsnc284xknlf5yttvlw4szwxkzdde5s9",
-        "run_time": "every 24 hours",
+        "address": "mantle1vz8sgmcnndrk8x3900xq5tjdlvwp5y7k50sepg",
+        "run_time": "every 12 hours",
         "minimum_reward": 10000000
       }
     },
@@ -15,9 +15,36 @@
       "name": "terra",
       "address": "terravaloper1czjw7nkf0x5xl63mdws0k8tnvwer5f2585t72a",
       "restake": {
-        "address": "terra1gj3zyn26gcvk8vt6fg948nvlrrqya3pj8z8uc9",
-        "run_time": "every 24 hours",
+        "address": "terra1wt04v938dxhqqfyj803ttf56fqc8vwt2pdqf5j",
+        "run_time": "every 12 hours",
         "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper164c3vhagqk4ft4t8nlcpljn86rj9l6r42tl2r0",
+      "restake": {
+        "address": "orai1vz8sgmcnndrk8x3900xq5tjdlvwp5y7kecall3",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1mttfqlpxsehxhevs0c52enktagrwn50edfxxgw",
+      "restake": {
+        "address": "archway1vz8sgmcnndrk8x3900xq5tjdlvwp5y7klqhc54",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000000000
+      }
+    },
+    {
+      "name": "omniflix",
+      "address": "omniflixvaloper1l00ax4eaxfd7q0h37cy8jesggpqz77tmdh4tmu",
+      "restake": {
+        "address": "omniflix1vz8sgmcnndrk8x3900xq5tjdlvwp5y7kh469fu",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000000000
       }
     }
   ]

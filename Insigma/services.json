@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Insigma Σ",
+  "services": [
+    {
+      "title": "Insigma Σ",
+      "description": "Reliable Validator for a Decentralized Future",
+      "url": "https://www.insigma.xyz"
+    }
+  ]
+}

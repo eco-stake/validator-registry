@@ -181,6 +181,60 @@
         "run_time": ["every 5 minutes"],
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1nysw5rcc2akgukzlu7ahpp3wqyz4pr0r7t8m8n",
+      "restake": {
+        "address": "qwoyn1murx57yjv5r5gvspcxxd8d3w0mmy52xt25jx07",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "composable",
+      "address": "centaurivaloper1ugec23qgj9ungv3uflg47mzrw90h3d9drng3de",
+      "restake": {
+        "address": "centauri1murx57yjv5r5gvspcxxd8d3w0mmy52xtn77yvv",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1px88h754xzqymt3nrt7rmtl2pky4u20yua0ndd",
+      "restake": {
+        "address": "human1dw0pf9g4uzyra6jehntjrypru9hha20cpjx7hq",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "quasar",
+      "address": "quasarvaloper1j7ell2s7en6tvn3v83d8g2mzpfc76v4gndd63r",
+      "restake": {
+        "address": "quasar1murx57yjv5r5gvspcxxd8d3w0mmy52xtehf996",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper19w6yq0p93wjaqqwuf6v0ec872jn62cqa0ltsa7",
+      "restake": {
+        "address": "source1murx57yjv5r5gvspcxxd8d3w0mmy52xt382xcp",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper12cusmxtz0ct4x0eer0f3duu9cm4sc7jwul0shd",
+      "restake": {
+        "address": "umee1murx57yjv5r5gvspcxxd8d3w0mmy52xt9zw8vd",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

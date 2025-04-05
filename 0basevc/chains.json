@@ -134,7 +134,7 @@
       "restake": {
         "address": "stars1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyrld799",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -170,7 +170,7 @@
       "restake": {
         "address": "umee1jrjdqzxchlt09gj6qvn4ds8suxh9aqwy948u2x",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 5000000
       }
     },
     {
@@ -232,6 +232,15 @@
       "address": "celestiavaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4tg7kxw",
       "restake": {
         "address": "celestia1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyxftn5e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4nq63k9",
+      "restake": {
+        "address": "atone1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyerxycv",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }

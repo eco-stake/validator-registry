@@ -12,6 +12,24 @@
       }
     },
     {
+      "name": "xion",
+      "address": "xionvaloper1xjsxhgwqg2jgl0m9l2fawjxuq6k0klyfdpljjr",
+      "restake": {
+        "address": "xion1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcpe7fcal",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "neutaro",
+      "address": "neutarovaloper1dtfsg20ynrmxx4qzn8mjlxfp8cdt3286sutr5w",
+      "restake": {
+        "address": "neutaro1n4cjpv2sjj2qmzwtnjl3f604n7s8kvcp6skte3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "composable",
       "address": "centaurivaloper1448zq7a4plgtt5l7u7taxflpj2zs893l8p942q",
       "restake": {
@@ -19,6 +37,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000000000000
       }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper137umxkw5gdvj2vw6y7c3nfa6j55wfsqyk44ze7",
+      "restake": {
+        "address": "shido1xr4vhpd97h3pnd80l20slksdtejjdstchdvf4f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+        }
     },
     {
       "name": "fetchhub",

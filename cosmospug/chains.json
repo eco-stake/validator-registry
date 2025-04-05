@@ -24,6 +24,15 @@
       }
     },
     {
+      "name": "nibiru",
+      "address": "nibivaloper1mj66ykmly4k7ls90g5rzgrtpj406ljk5c5vnx6",
+      "restake": {
+        "address": "nibi17xs4md6flec0klct07874ntqppg78anep0l94f",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "evmos",
       "address": "evmosvaloper10q09k0flvffqzcmy2nx20nhxzs78nnesrv60ad",
       "restake": {

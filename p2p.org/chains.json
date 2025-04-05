@@ -93,39 +93,30 @@
       }
     },
     {
-      "name": "kava",
-      "address": "kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg",
-      "restake": {
-        "address": "kava1usyhxm325lsmkyxnt5ghhcccyankl90gaphdjh",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "kyve",
-      "address": "kyvevaloper1etduu5zlu4k20ph6uyyldw29ydua3ym0urmq0r",
-      "restake": {
-        "address": "kyve1eyr6hh22vcyw8ahf3zr4p4f85dkqw6492xnhj6",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "persistence",
-      "address": "persistencevaloper13t66h0vwsjf92420lmwakex2qddzytctdf3g7c",
-      "restake": {
-        "address": "persistence1eyr6hh22vcyw8ahf3zr4p4f85dkqw649nycjh6",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "sei",
       "address": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h",
       "restake": {
         "address": "sei1eyr6hh22vcyw8ahf3zr4p4f85dkqw649sy0hll",
         "run_time": ["03:00" , "09:00", "15:00", "21:00"],
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper17kmuknu4f3sqfhqtzpx0znnz3nuh5slwcqz6cg",
+      "restake": {
+        "address": "dym124u62yv3wjamx3yj34kr0jay4eyf7encdy22jd",
+        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "minimum_reward": 500000000000000000
+      }
+    },
+    {
+      "name": "saga",
+      "address": "sagavaloper15eryzkm5y7d2ldqf6he7g943g9hepxwa6puvjz",
+      "restake": {
+        "address": "saga1eyr6hh22vcyw8ahf3zr4p4f85dkqw649rm8n7c",
+        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "minimum_reward": 500000
       }
     }
   ]

@@ -1,10 +1,10 @@
 {
    "$schema":"../profile.schema.json",
    "name":"d3akash.cloud",
-   "identity":"",
+   "identity":"B921D2624FE21AA7",
    "website": "https://www.d3akash.cloud",
    "description": {
-     "overview": "d3akash.cloud is an independent community infrastructure provider on the Akash Network.",
+     "overview": "d3akash.cloud is a Decentralized Physical Infrastrucutre Provider (DePIN) for the decentralized future of the internet. Stake with us and be part ot the revolution.",
      "team": "d3akash.cloud was created by a technology enthusiast and long-time systemsengineer who focuses on providing the highest quality infrastructure and services for the decentralized web. We believe in a decentralized world where every being is a part of the whole and we provide the basic infrastructures for that future."
    }
 }

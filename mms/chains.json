@@ -199,6 +199,15 @@
         "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper10w4zu02xqwnqhc3vdyzt2xmvdpkrcw2du3me8j",
+      "restake": {
+        "address": "orai17j4r042dcvqpqdzxnw8eky02zv6gslrxsmx8j9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }

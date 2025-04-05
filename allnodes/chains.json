@@ -325,6 +325,42 @@
         "run_time": "09:00",
         "minimum_reward": 100000000000000000
       }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1atzw4d4gh6szjmdnth3987g2hv7nww3f70cmmh",
+      "restake": {
+        "address": "nibi1n4mmffygh8wdm8zfxxv30cg0aq9m2s07evmxjx",
+        "run_time": "09:15",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "govgen",
+      "address": "govgenvaloper1e4jpknx6p3v2skfpcz63n3z3vemnhhvhqmfzx2",
+      "restake": {
+        "address": "govgen1n4mmffygh8wdm8zfxxv30cg0aq9m2s07kse2jd",
+        "run_time": "09:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1xcwdnv947s4dywmp9x5pcckvd4juj2ae7gthg0",
+      "restake": {
+        "address": "lava@1n4mmffygh8wdm8zfxxv30cg0aq9m2s07k3g6uc",
+        "run_time": "09:45",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper17gysx6p6ggvjfgntpv0vsje3xkqc8ddmlnmxwd",
+      "restake": {
+        "address": "atone1n4mmffygh8wdm8zfxxv30cg0aq9m2s07qfrcdd",
+        "run_time": "10:00",
+        "minimum_reward": 100000
+      }
     }
   ]
 }

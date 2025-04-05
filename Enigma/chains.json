@@ -48,6 +48,17 @@
       }
     },
     {
+      "name": "saga",
+      "address": "sagavaloper1v9uqwx20c7f3nf4ckzzvzjr4kxuqw37293gkv9",
+      "restake": {
+        "address": "saga1pnmlutnxtgp2wvwvf66j6fc08dugsdhlsmj4pm",
+        "run_time": [
+          "11:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "juno",
       "address": "junovaloper18tjj8ang9pelwxhdj8uuta6pchz292suncrlrq",
       "restake": {

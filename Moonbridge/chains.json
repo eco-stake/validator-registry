@@ -4,9 +4,9 @@
     "chains": [
       {
         "name": "composable",
-        "address": "centaurivaloper1p677qe3xgjgm3w7aeccmaqdgltf29rmrh272jc",
+        "address": "picavaloper1p677qe3xgjgm3w7aeccmaqdgltf29rmrjz4mpd",
         "restake": {
-          "address": "centauri173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzxfh45t",
+          "address": "pica173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzelev5l",
           "run_time": "every 1 hour",
           "minimum_reward": 1000000000000
         }
@@ -36,6 +36,15 @@
           "address": "realio1ta69uz387st2kj02aseaax22cu8g8jcwwr4jng",
           "run_time": "every 1 hour",
           "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+      "name": "kopi",
+      "address": "kopivaloper14jgjyummrad7xfknhrwuevmlz6zz3hrry5g56n",
+      "restake": {
+        "address": "kopi173a5n6zzc4qwjxmvdu8kl9l3jz8dvpvzn92aaw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
         }
       },
       {
