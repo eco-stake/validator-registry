@@ -9,11 +9,15 @@
         "address": "core1umkwvnm872q0aujcscdh02az0km56jffjnyl75",
         "run_time": [
           "00:00",
+	  "03:00",
 	  "06:00",
+	  "09:00",
 	  "12:00",
-	  "18:00"
+	  "15:00",
+	  "18:00",
+	  "21:00"
         ],
-        "minimum_reward": 1000000
+        "minimum_reward": 5000000
       }
     }
  ]
