@@ -1,0 +1,33 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "SolidarityNode | Stake & Help",
+    "chains": [
+        {
+            "name": "cosmoshub",
+            "address": "cosmosvaloper1w3v6jtyk7y92rzv0k0jvkcwwt4xc0fta4acu07",
+            "restake": {
+                "address": "cosmos1jsgh6xkd3ldwz6g5k9e97mmjvy6zaz67xt2na9",
+                "run_time": "00:00",
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "osmosis",
+            "address": "osmovaloper1tm7wyp4wjqfa2txadfxnvmun65mqpz76dxh4du",
+            "restake": {
+                "address": "osmo1jsgh6xkd3ldwz6g5k9e97mmjvy6zaz67wserth",
+                "run_time": "00:20",
+                "minimum_reward": 2000000
+            }
+        },
+        {
+            "name": "atomone",
+            "address": "atonevaloper1jcrf2cfqn4v85ujr5ahn48g02xw2ltuuqztdf4",
+            "restake": {
+                "address": "atone1jsgh6xkd3ldwz6g5k9e97mmjvy6zaz67gtk5ta",
+                "run_time": "00:10",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

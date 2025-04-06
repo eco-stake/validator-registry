@@ -22,12 +22,7 @@
     },
     {
       "name": "assetmantle",
-      "address": "mantlevaloper15sfnle6cav443mcpsx4c7ac6enqcfep4fdr86r",
-      "restake": {
-        "address": "mantle1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt7cuuqg",
-        "run_time": "21:30",
-        "minimum_reward": 100000
-      }
+      "address": "mantlevaloper15sfnle6cav443mcpsx4c7ac6enqcfep4fdr86r"
     },
     {
       "name": "bandchain",
@@ -57,15 +52,6 @@
         "address": "dydx1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktf9fal4",
         "run_time": "00:00",
         "minimum_reward": 0
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1vw7k3z99swlv7svjmnrrqvu6zdmatqhvzuz7lu",
-      "restake": {
-        "address": "evmos1g94m7lremc5m5dhzd8lvjf7d8hs6sg40lqrdme",
-        "run_time": "21:30",
-        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -136,12 +122,7 @@
     },
     {
       "name": "rebus",
-      "address": "rebusvaloper1448lsc8mfwvnya29uux0dc5ykaf6f3txn504t3",
-      "restake": {
-        "address": "rebus1cyjx4pxqx6hxltp8je8mpwrvjhnq3kkt3kyvt5",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
-      }
+      "address": "rebusvaloper1448lsc8mfwvnya29uux0dc5ykaf6f3txn504t3"
     },
     {
       "name": "rizon",
@@ -153,12 +134,7 @@
     },
     {
       "name": "teritori",
-      "address": "torivaloper1w3wse8cx2al5947ke0hnd2tgphjt43dy9gwn0f",
-      "restake": {
-        "address": "tori1cyjx4pxqx6hxltp8je8mpwrvjhnq3kktzgssyj",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
+      "address": "torivaloper1w3wse8cx2al5947ke0hnd2tgphjt43dy9gwn0f"
     },
     {
       "name": "umee",
@@ -226,6 +202,14 @@
     {
       "name": "lava",
       "address": "lava@valoper1jf8hal7smjsp0lpjuxu36erm2ksep7e5uvw4x6"
+    },
+    {
+      "name": "xion",
+      "address": "xionvaloper17hvcls9449e29h5twttv37h00g9uzu7aqqzrft"
+    },
+    {
+      "name": "side",
+      "address": "sidevaloper1xh3w4pauwg4vuxy6xe4tklxyu40sz8x87w2w5hrnt0t96nwjd77sh5xly6"
     }
   ]
 }

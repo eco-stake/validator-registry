@@ -216,6 +216,15 @@
       }
     },
     {
+      "name": "elys",
+      "address": "elysvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qg4krgs",
+      "restake": {
+        "address": "elys16g0rafqe2w255fme5lkmz8c0kfs9yr7a4qu3nr",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "lava",
       "address": "lava@valoper1qe8uuf5x69c526h4nzxwv4ltftr73v7qvygmdk",
       "restake": {

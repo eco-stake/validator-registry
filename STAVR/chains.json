@@ -224,7 +224,7 @@
       "restake": {
         "address": "firma1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqndf6sgf",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000000
+        "minimum_reward": 100000000
       }
     },
     {
