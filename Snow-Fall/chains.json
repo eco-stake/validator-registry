@@ -98,7 +98,7 @@
          "restake":{
             "address":"panacea1zs7sg5ggl6t23p868mltvdqpeymg4sjp2qrdyx",
             "run_time":"every 12 hours",
-            "minimum_reward":100000
+            "minimum_reward":10000000
          }
       },
       {
