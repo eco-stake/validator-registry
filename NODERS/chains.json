@@ -186,7 +186,7 @@
       "name": "genesisl1",
       "address": "genesisvaloper1wqfvpdzudz3vqemyfwwnuhw6q6yjc62hvjuvgy",
       "restake": {
-        "address": "genesis10t7ahepr8kv78jjnqzf3ftatsgph34p4lk0rgg",
+        "address": "genesis19un5n5y06jj8cnquapn535nh0nnue52rggm7de",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
