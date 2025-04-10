@@ -210,6 +210,10 @@
     {
       "name": "side",
       "address": "sidevaloper1xh3w4pauwg4vuxy6xe4tklxyu40sz8x87w2w5hrnt0t96nwjd77sh5xly6"
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1a67tugdznyxnc0np20d0lgkszd6fshcppeq8sv"
     }
   ]
 }
