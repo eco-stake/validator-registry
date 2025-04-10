@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "babylon",
+      "address": "bbnvaloper19pksezgmgmdz283lf2709l0jwvjttpq9m69v64",
+      "restake": {
+        "address": "bbn1etsdevgm5ps240lrw9mg3p2j32tj96ktep5sd5",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "arkeo",
       "address": "arkeovaloper19pksezgmgmdz283lf2709l0jwvjttpq9xnsj74",
       "restake": {
