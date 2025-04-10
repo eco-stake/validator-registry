@@ -46,6 +46,15 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1ke8tg5ktwgp8akd7zns78fh4yqwns0smz92vn4",
+      "restake": {
+        "address": "arkeo1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mr28gr7",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000000
+      }
     }
   ]
 }

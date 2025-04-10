@@ -66,6 +66,15 @@
          }
       },
       {
+         "name":"kyve",
+         "address":"kyvevaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0cp7xns",
+         "restake":{
+            "address":"kyve1q52x3jrc2jrx7rv380z64tsw9m907zlhcxavjt",
+            "run_time":"every 12 hours",
+            "minimum_reward":500000
+         }
+      },
+      {
          "name":"mantrachain",
          "address":"mantravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0j0c6ef",
          "restake":{
@@ -89,7 +98,7 @@
          "restake":{
             "address":"panacea1zs7sg5ggl6t23p868mltvdqpeymg4sjp2qrdyx",
             "run_time":"every 12 hours",
-            "minimum_reward":100000
+            "minimum_reward":10000000
          }
       },
       {
