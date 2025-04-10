@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "babylon",
+      "address": "bbnvaloper1kkuwry38tsvg7p3a9k8ktgvxze2t8ax9qsdhcm",
+      "restake": {
+        "address": "bbn194ytn50yhh67rdha8akhs7c6zulnz4n27fcjn6",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper1xs2penspev206jj0egh5qu7qmr6mjzfgj299xl",
       "restake": {
