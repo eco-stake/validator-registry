@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "arkeo",
+      "address": "arkeovaloper16nrxfhuma0g3pk4tq5aray4vvgaq2ekvhtg4ur",
+      "restake": {
+        "address": "arkeo194ytn50yhh67rdha8akhs7c6zulnz4n22hux3x",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "andromeda",
       "address": "andrvaloper1w8e9mlg028dsnds84ttz4typnvkaqnr7reajt5",
       "restake": {
