@@ -24,6 +24,15 @@
       }
     },
     {
+      "name": "babylon",
+      "address": "bbnvaloper1q2j9696tz69g8kyvavca5520hsr4raf387ls0e",
+      "restake": {
+        "address": "bbn1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxgk4v0",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "chihuahua",
       "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
       "restake": {
