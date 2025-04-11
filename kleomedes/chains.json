@@ -352,6 +352,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "babylon",
+      "address": "bbnvaloper1pljmze5cw688lpcx65xm0fqtt0d24llvf44gtx",
+      "restake": {
+        "address": "bbn1r8egcurpwxftegr07gjv9gwffw4fk009ue7m86",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
