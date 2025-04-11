@@ -61,7 +61,7 @@
       "address": "bbnvaloper1u2qq4hy268nz78k4z0dn6tgnv0mqsvsd35qvk4",
       "restake": {
         "address": "bbn1vvumkjdmen9fsgu88zqv8eulpn79g4g0xd54w3",
-        "run_time": "every 1 minute",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1000
       }
     }    
