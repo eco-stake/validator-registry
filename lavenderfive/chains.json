@@ -58,6 +58,17 @@
       }
     },
     {
+      "name": "babylon",
+      "address": "bbnvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zx9gg4e",
+      "restake": {
+        "address": "bbn12xpq68caw2aqdu70jm4k792g0v9prhrphah4lp",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "carbon",
       "address": "swthvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zw30a3g",
       "restake": {
