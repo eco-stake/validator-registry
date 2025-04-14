@@ -55,6 +55,24 @@
          "run_time": ["06:00","18:00"],
                 "minimum_reward": 1000000
             }
+      },
+      {
+      "name": "fetchhub",
+      "address": "fetchvaloper1fal2sqw4lkxugr989d66ju742tfn35ss3q35yk",
+      "restake": {
+        "address": "fetch18k7ljnklft2f3vzge5wj7k5u7rzapcshrvvkez",
+        "run_time":  ["06:00","18:00"],
+        "minimum_reward": 1
+            }
+      },
+      {
+      "name": "babylon",
+      "address": "bbnvaloper1jr4tsed9w988fl4xkprvys36pxd0zxjjlprcm8",
+      "restake": {
+         "address": "bbn18k7ljnklft2f3vzge5wj7k5u7rzapcsh805ryv",
+         "run_time": ["06:00","18:00"],
+                "minimum_reward": 1000000
+            }
       }
   ]
 }
