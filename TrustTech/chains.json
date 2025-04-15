@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "TrustTech",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1dgz54p4tm6dqk6nujstadeuenm0vr4hz35jr3j",
+      "restake": {
+        "address": "juno18lksx3qcpsl0rx0t3zrwktq7u2vnade7xrx7hu",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1kwnymjvr2t4g3agzd6h077kx6k62avzpr8zcpz",
+      "restake": {
+        "address": "somm18lksx3qcpsl0rx0t3zrwktq7u2vnade7ud2fp2",
+        "run_time": "every 24 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
