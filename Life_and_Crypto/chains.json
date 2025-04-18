@@ -6,7 +6,7 @@
       "name": "juno",
       "address": "junovaloper1tx2u0nvjwregdv6a5t5k7z0krv6l8l6hgq4z85",
       "restake": {
-        "address": "нужен адрес кошелька бота",
+        "address": "juno1dyxnvk89r7ygp7ckyxsusnt3gxn908j2jje8l0",
         "run_time": "every 24 hours",
         "minimum_reward": 1000000
       }
@@ -15,7 +15,7 @@
       "name": "sentinel",
       "address": "sentvaloper1lrtqpguzx3l674nt05mcnln2yxd2raphxdfkvw",
       "restake": {
-        "address": "нужен адрес кошелька бота",
+        "address": "sent1dyxnvk89r7ygp7ckyxsusnt3gxn908j2lmv9uu",
         "run_time": "every 24 hours",
         "minimum_reward": 10000000
       }
@@ -24,7 +24,7 @@
       "name": "stargaze",
       "address": "starsvaloper1ghrj4utqa849kxfkcau4mwt8s0txgrt99ddgyz",
       "restake": {
-        "address": "нужен адрес кошелька бота",
+        "address": "stars1dyxnvk89r7ygp7ckyxsusnt3gxn908j2sudpnz",
         "run_time": "every 24 hours",
         "minimum_reward": 1000000
       }
@@ -33,7 +33,7 @@
       "name": "persistence",
       "address": "persistencevaloper1arxtft7kw32y94ae5h794mn6wtsp3supm5a2j3",
       "restake": {
-        "address": "нужен адрес кошелька бота",
+        "address": "persistence1dyxnvk89r7ygp7ckyxsusnt3gxn908j22vu0kh",
         "run_time": "every 24 hours",
         "minimum_reward": 1000000
       }
@@ -42,7 +42,7 @@
       "name": "lava",
       "address": "lava@valoper1w4yyt0r9xc9y8x548jmfj83mztwpn8ngk04tsu",
       "restake": {
-        "address": "нужен адрес кошелька бота",
+        "address": "lava@1dyxnvk89r7ygp7ckyxsusnt3gxn908j2ucdel7",
         "run_time": "every 24 hours",
         "minimum_reward": 1000000
       }
