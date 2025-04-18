@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "⚛ Chiter in Cosmos",
+  "name": "Chiter in Cosmos",
   "chains": [
     {
       "name": "planq",
