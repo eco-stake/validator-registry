@@ -62,7 +62,7 @@
       "restake": {
         "address": "osmo1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjgq4dj8",
         "run_time": "every 1 hour",
-        "minimum_reward": 50000
+        "minimum_reward": 4000000
       }
     },
     {
@@ -71,7 +71,7 @@
       "restake": {
         "address": "persistence1n8htrjks32y59u3fxwuy6fnz868n667k8ltezs",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 11000000
       }
     },
     {
