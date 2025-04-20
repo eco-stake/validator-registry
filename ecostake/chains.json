@@ -20,7 +20,7 @@
       "restake": {
         "address": "atone1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczlkmr9w",
         "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
