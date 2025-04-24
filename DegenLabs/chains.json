@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Degen Labs",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1v9h6lnt4a3k6z34cy0qe3mj07ykujkh0uy7n6j",
+            "restake": {
+                "address": "core1djyvh983ak69v8gtu59vw7j6nrg0up2tta9wr9",
+                "run_time": "every 12 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
