@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "dungeonchain",
+      "address": "dungeonvaloper1mu60lk8v9wggvwzvj9m8h5hr6wjnjps6l90a9h",
+      "restake": {
+        "address": "dungeon1zf8gz27gs5py3ua9lpu958w24j0jyj0tvxa5ud",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper1spjwxmz8mc8503hurzsj9hnjknl42ytc4h0vg2",
       "restake": {
