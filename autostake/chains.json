@@ -444,6 +444,15 @@
       }
     },
     {
+      "name": "initia",
+      "address": "initvaloper1062pe78duwtmq9fmxyhz4svu2yses7z9aevr7g",
+      "restake": {
+        "address": "init163g9c65kv5v8lgvvwner3ruxntrdr50y2xty4c",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
       "name": "migaloo",
       "address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
       "restake": {
