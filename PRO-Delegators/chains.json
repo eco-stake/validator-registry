@@ -64,6 +64,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1000
       }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper1v2azgtqlaj5xxktswpclsgn8zrr4960vhu50r2",
+      "restake": {
+        "address": "neutron1vvumkjdmen9fsgu88zqv8eulpn79g4g04vvxt0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
     }    
   ]
 }
