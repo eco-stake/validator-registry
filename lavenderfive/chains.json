@@ -224,6 +224,17 @@
       }
     },
     {
+       "name": "initia",
+       "address": "initvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zk22wrn",
+       "restake": {
+         "address": "init10edr8awd0pulykvqxlwnz9n72rtngwjdwmrk39",
+         "run_time": [
+           "12:00"        
+         ],
+         "minimum_reward": 1000000
+       }
+     },
+    {
       "name": "injective",
       "address": "injvaloper155yk4wfn0xqye80exlsr6hu4qdfsvsgwg3jckk",
       "restake": {
