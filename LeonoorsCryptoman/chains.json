@@ -26,7 +26,7 @@
       "restake": {
         "address": "dungeon1zf8gz27gs5py3ua9lpu958w24j0jyj0tvxa5ud",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -44,7 +44,7 @@
       "restake": {
         "address": "arkeo1zf8gz27gs5py3ua9lpu958w24j0jyj0tp4hhtn",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000
       }
     },
     {
