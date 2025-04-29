@@ -102,6 +102,16 @@
     },  
 	  
     {
+      "name": "milkyway",
+      "address": "milkvaloper1khwnd5ggd09nprajqcg48jjg30s728gqe8s7ym",
+      "restake": {
+        "address": "milk1g3laz9zpgy8x4k3gdkydf4umnepaug4we5pk8s",
+        "run_time": "every 1 week",
+        "minimum_reward": 100000
+      }
+    },  
+	  
+    {
       "name": "xpla",
       "address": "xplavaloper18kfshm0wzsfz699llgst00a7rjqryj4n653aew",
       "restake": {
