@@ -141,7 +141,7 @@
       "restake": {
         "address": "kyve1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxc2jcj",
         "run_time": "every 15 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -178,7 +178,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
