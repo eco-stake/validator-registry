@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Coreum Community DAO",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1mpf63sa8djm82lvpy8028sxfext9k76ctna02a",
+            "restake": {
+                "address": "core13anzp0sqke68sky54vldkmtc5t979lsu5wxs6a",
+                "run_time": "every 2 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
