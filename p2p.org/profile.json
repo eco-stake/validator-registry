@@ -1,0 +1,13 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "p2p.org",
+  "identity": "E12F4695036D8072",
+  "website": "https://p2p.org",
+  "description": {
+    "overview": "Grow your crypto investments with our institutional-grade staking solution"
+  },
+  "contacts": {
+    "email": "cosmos-security@p2p.org",
+    "twitter": "P2Pvalidator"
+  }
+}

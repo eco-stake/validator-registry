@@ -3,15 +3,6 @@
   "name": "CosmosPug",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1g2k6a7akrmm9jwa0n8eg2vfe70j2u5l4myw8lt",
-      "restake": {
-        "address": "cerberus17xs4md6flec0klct07874ntqppg78ane2dm4f3",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1cuuv6dnvs0fc0el53n6w0hmwh78599eyxddtpl",
       "restake": {
@@ -20,6 +11,24 @@
           "03:00",
           "15:00"
         ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1lhh63rrc2www300lfsfzfthw68t7y6h04z3fcs",
+      "restake": {
+        "address": "dym1kmpplwln372xm6fkkmcthlk3twxmcave3xh9lx",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1mj66ykmly4k7ls90g5rzgrtpj406ljk5c5vnx6",
+      "restake": {
+        "address": "nibi17xs4md6flec0klct07874ntqppg78anep0l94f",
+        "run_time": "every 5 minutes",
         "minimum_reward": 100000
       }
     },
@@ -41,7 +50,7 @@
           "02:00",
           "14:00"
         ],
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {

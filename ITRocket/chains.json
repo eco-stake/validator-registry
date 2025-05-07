@@ -7,8 +7,80 @@
       "address": "noisvaloper19yul78yu9jzay9afsyjgmv0pk0k5rl80sa6vlx",
       "restake": {
         "address": "nois122m6glax3ne4c03femzmpr8s6lx3vv3lncnkgd",
-        "run_time": "every 1 hour",
+        "run_time": "10:00",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1gl0rg3g0pkcpr8umj2hvlhha06ecjd65yt96z5",
+      "restake": {
+        "address": "celestia122m6glax3ne4c03femzmpr8s6lx3vv3ln6lv7c",
+        "run_time": "10:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1vzwzpe228nzxjyrg3sez2tlg7mmezp0m4xk306",
+      "restake": {
+        "address": "empower122m6glax3ne4c03femzmpr8s6lx3vv3l7u2h7t",
+        "run_time": "10:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1rcu8a8spnuf5hl5n2752la6s9kcjg09e74lal3",
+      "restake": {
+        "address": "human1trq9xtywtajcj4cs5ludfweqlngrysvveu8tz6",
+        "run_time": "10:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1jlh8cttv96kyxu0j0r2ppv4sga6ju4uzxa3c2x",
+      "restake": {
+        "address": "quick122m6glax3ne4c03femzmpr8s6lx3vv3lf57wa8",
+        "run_time": "10:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "realio",
+      "address": "realiovaloper1479d25uzwf529kxh9dxme64xlv89c4un676emc",
+      "restake": {
+        "address": "realio1trq9xtywtajcj4cs5ludfweqlngrysvvjxd09l",
+        "run_time": "10:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper14cmh6n7gffgfepn6hka5zj7dvh5ghdrzc06s22",
+      "restake": {
+        "address": "source122m6glax3ne4c03femzmpr8s6lx3vv3lyrhz5t",
+        "run_time": "10:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1dx5sfmg4ascplvmkn39stq3rgk0c3vhpv6ysd0",
+      "restake": {
+        "address": "uptick1trq9xtywtajcj4cs5ludfweqlngrysvvg447q5",
+        "run_time": "10:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper17d6ttmqffr5pwt9fd7uuj8px27quv4nljf3s8j",
+      "restake": {
+        "address": "zeta1trq9xtywtajcj4cs5ludfweqlngrysvvdh8sr4",
+        "run_time": "10:00",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]

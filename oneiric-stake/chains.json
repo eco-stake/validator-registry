@@ -10,6 +10,51 @@
         "run_time": "01:15",
         "minimum_reward": 1000000000
       }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper14m0n559xdj00qwvp6ck0xesprrq26kgpqsa6c4",
+      "restake": {
+        "address": "pasg1sxe282urhqqx7pjp0s4jqsefuhp069lh2z3ks5",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper14m0n559xdj00qwvp6ck0xesprrq26kgp528uls",
+      "restake": {
+        "address": "sent1sxe282urhqqx7pjp0s4jqsefuhp069lhjp74ey",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper14m0n559xdj00qwvp6ck0xesprrq26kgpke3xl2",
+      "restake": {
+        "address": "source1sxe282urhqqx7pjp0s4jqsefuhp069lh0f3jd4",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nois",
+      "address": "noisvaloper14m0n559xdj00qwvp6ck0xesprrq26kgpquprp6",
+      "restake": {
+        "address": "nois1sxe282urhqqx7pjp0s4jqsefuhp069lhcj4x3n",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper14m0n559xdj00qwvp6ck0xesprrq26kgpy4rsgf",
+      "restake": {
+        "address": "decentr1sxe282urhqqx7pjp0s4jqsefuhp069lhz5wcur",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

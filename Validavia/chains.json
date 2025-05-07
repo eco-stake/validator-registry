@@ -30,6 +30,24 @@
            }
       },
       {
+           "name": "empowerchain",
+           "address": "empowervaloper1cj500uet7ssegwsmh24kt0hjw89ugez0ddp5h8",
+           "restake": {
+               "address":"empower1nszxyfxr5fpajlcfle0tvhptxknf5z9tg4vd20",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
+           }
+      },
+      {
+           "name": "quasar",
+           "address": "quasarvaloper1cj500uet7ssegwsmh24kt0hjw89ugez0r83exm",
+           "restake": {
+               "address" :"quasar1nszxyfxr5fpajlcfle0tvhptxknf5z9t66jma5",
+               "run_time": "20:30",
+               "minimum_reward": 1000000
+           }
+      },
+      {
         "name": "rebus",
         "address": "rebusvaloper1nrx8ekdehynmxvxtl6vrhzthpm2ksa90x96ld2",
         "restake": {

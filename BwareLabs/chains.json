@@ -1,96 +1,102 @@
 {
-  "$schema": "../chains.schema.json",
-  "name": "BwareLabs",
-  "chains": [
-    {
-    "name": "uptick",
-    "address": "uptickvaloper1vt5zgzp4e0pq59rapf0tf5xk5pvesvxwyndfex",
-    "restake": {
-      "address": "uptick155tmm6vh886lemp3ptxktl6ut2hrkldfvsfcm5",
-      "run_time": ["09:00", "21:00"],
-      "minimum_reward": 1000000000000000000
-	   }
-	},
-    {
-      "name": "nolus",
-      "address": "nolusvaloper1tvm8g9wmqvg369mufan8vaen0ua7s98x8wntdd",
-      "restake": {
-        "address": "nolus12fxqz0vnh6vtpucsfzwfauamj6vpey2twna0xv",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "xpla",
-      "address": "xplavaloper1dm0ccjtqv3spagv83h4d7nxm7pjzalmgsfe325",
-      "restake": {
-        "address": "xpla155tmm6vh886lemp3ptxktl6ut2hrkldfp3dlfk",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "persistence",
-      "address": "persistencevaloper1ez85xahtyprpkgw3lh0neprqlu0ws6xuegufkr",
-      "restake": {
-        "address": "persistence12fxqz0vnh6vtpucsfzwfauamj6vpey2tk0tr2d",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "umee",
-      "address": "umeevaloper14yth8x4a77q5rytxhv67e43p2hdzyguuwruls8",
-      "restake": {
-        "address": "umee12fxqz0vnh6vtpucsfzwfauamj6vpey2t24s0qm",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "axelar",
-      "address": "axelarvaloper1q2nyv5mwsu5r07x6djpgvm0jl9l9a5v88qllcd",
-      "restake": {
-        "address": "axelar12fxqz0vnh6vtpucsfzwfauamj6vpey2tudmc0g",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1gyxqlahz6g9ws5cu0tk3gccgryzja7558f069r",
-      "restake": {
-        "address": "evmos155tmm6vh886lemp3ptxktl6ut2hrkldfahydcd",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1gu9eh79ushxrq4c99jp4pkdd3x2glgmmml3dz5",
-      "restake": {
-        "address": "agoric1kfyknp4ch24qzw4c2l4e2p4dwm0fcmxqkartnv",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "aura",
-      "address": "auravaloper18xn0q75w7war9y9ryfe9wclglysumnukzwttvd",
-      "restake": {
-        "address": "aura12fxqz0vnh6vtpucsfzwfauamj6vpey2tr46jxs",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "injective",
-      "address": "injvaloper1n6z54tf5rezqurq7vn4xy6gfj9u7m5axen0ycc",
-      "restake": {
-        "address": "inj155tmm6vh886lemp3ptxktl6ut2hrkldf4lz8sa",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    }
-]
+    "$schema": "../chains.schema.json",
+    "name": "BwareLabs",
+    "chains": [
+        {
+            "name": "xpla",
+            "address": "xplavaloper1dm0ccjtqv3spagv83h4d7nxm7pjzalmgsfe325",
+            "restake": {
+                "address": "xpla155tmm6vh886lemp3ptxktl6ut2hrkldfp3dlfk",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "axelar",
+            "address": "axelarvaloper1q2nyv5mwsu5r07x6djpgvm0jl9l9a5v88qllcd",
+            "restake": {
+                "address": "axelar12fxqz0vnh6vtpucsfzwfauamj6vpey2tudmc0g",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "injective",
+            "address": "injvaloper1n6z54tf5rezqurq7vn4xy6gfj9u7m5axen0ycc",
+            "restake": {
+                "address": "inj155tmm6vh886lemp3ptxktl6ut2hrkldf4lz8sa",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "celestia",
+            "address": "celestiavaloper1vl3dkus7g0cj4lg0e2jrqk2reukmlht0ee7cr4",
+            "restake": {
+                "address": "celestia12fxqz0vnh6vtpucsfzwfauamj6vpey2tffuq7y",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "dymension",
+            "address": "dymvaloper1eq8un3tcrhd85s39jlc734epqc2euzvzewuzg3",
+            "restake": {
+                "address": "dym155tmm6vh886lemp3ptxktl6ut2hrkldfdte98t",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "lava",
+            "address": "lava@valoper1l9nnwd8eu3sjkws4tw2qe8s3uca9htfdc3x57h",
+            "restake": {
+                "address": "lava@12fxqz0vnh6vtpucsfzwfauamj6vpey2tqm64ry",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "routerchain",
+            "address": "routervaloper14hk4cjlyph56zfs3hluh92l9z3ccen3zldusnx",
+            "restake": {
+                "address": "router155tmm6vh886lemp3ptxktl6ut2hrkldf2d5ma4",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        },
+        {
+            "name": "zetachain",
+            "address": "zetavaloper1r75c82vn2jzadldrn5za58kajeaxl2nzy3469e",
+            "restake": {
+                "address": "zeta155tmm6vh886lemp3ptxktl6ut2hrkldffjmkc4",
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000000000000000
+            }
+        }
+    ]
 }

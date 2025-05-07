@@ -30,30 +30,12 @@
       }
     },
     {
-      "name": "acrechain",
-      "address": "acrevaloper17j2z96kwktql80ql9qa3ljg9zj0jvue5x2njyk",
-      "restake": {
-        "address": "acre17vtz20nrmz0zr02cpqn9r0dueyqhyx0am6xt68",
-        "run_time": "20:30",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
       "name": "evmos",
       "address": "evmosvaloper1d6c097pmd6avh0x3spfwc0cagc690e2mmkpx4h",
       "restake": {
         "address": "evmos1gx00xtkh9pvxjkgagzarhy9q70egk64jxet3qr",
         "run_time": "20:15",
         "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "stride",
-      "address": "stridevaloper1qcduesnr70z2mdf6nqpxxlwtzvqtqhnzm5ace2",
-      "restake": {
-        "address": "stride1mx4djyhd9hnenqksx8az0hvysze0eqag2ae25x",
-        "run_time": "21:30",
-        "minimum_reward": 1000000
       }
     }
   ]

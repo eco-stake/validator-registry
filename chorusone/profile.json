@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Chorus One",
+  "identity": "00B79D689B7DC1CE",
+  "website": "https://chorus.one",
+  "description": {
+    "overview": "Chorus One is one of the biggest non-custodial institutional staking providers globally and operates infrastructure for 40+ Proof-of-Stake networks including Ethereum, Cosmos, Solana, Avalanche, and Near amongst others. We offer easy enterprise-grade staking solutions, industry-leading research, and also invest in some of the most cutting-edge protocols through Chorus Ventures.",
+    "team": "We are a global group of ambitious people who believe in the transformational power of blockchain technology.",
+    "security": "At Chorus One, we prioritize security, recognizing its paramount importance in fostering trust and peace of mind for investors. Through our comprehensive security framework, we proactively fortify our customers' staked assets and ensure that your investments are well-protected."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "support@chorus.one",
+    "telegram": "chorusone",
+    "twitter": "chorusone",
+    "discord": "https://discord.gg/bQ6JWVa",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

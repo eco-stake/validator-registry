@@ -1,5 +1,6 @@
 {
   "$schema": "../profile.schema.json",
   "name": "CryptoDungeon",
-  "identity": "93EEE9A0E6827ECA"
+  "identity": "93EEE9A0E6827ECA",
+  "website": "https://cryptodungeon.org"
 }

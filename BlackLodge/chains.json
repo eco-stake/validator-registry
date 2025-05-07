@@ -12,10 +12,10 @@
       }
     },
     {
-      "name": "arkh",
-      "address": "arkhvaloper1jdq7efmzmc8smscwmaw77vul7wptww74xwl4sj",
+      "name": "akash",
+      "address": "akashvaloper1jdq7efmzmc8smscwmaw77vul7wptww74uqtkk9",
       "restake": {
-        "address": "arkh1tqajwhew3f2p3t9rffxvk9eelh283ynnx0n3yt",
+        "address": "akash1tqajwhew3f2p3t9rffxvk9eelh283ynn86z2nd",
         "run_time": "every 30 seconds",
         "minimum_reward": 1
       }
@@ -48,15 +48,6 @@
       }
     },
     {
-      "name": "meme",
-      "address": "memevaloper1jpm7v74yfuwlk58m2v3mf3ak647ag3w7n3258l",
-      "restake": {
-        "address": "meme1tqajwhew3f2p3t9rffxvk9eelh283ynn57e6da",
-        "run_time": "every 30 seconds",
-        "minimum_reward": 1
-      }
-    },
-    {
       "name":"planq",
       "address": "plqvaloper1pyxvm8dwe43xhqfynk2qzaud3r0vyc6dft4tv0",
       "restake": {
@@ -65,6 +56,16 @@
         "minimum_reward": 10000000000000000
       }
     },
+    {
+      "name":"quasar",
+      "address": "quasarvaloper1jdq7efmzmc8smscwmaw77vul7wptww743yz76z",
+      "restake": {
+        "address": "quasar1tqajwhew3f2p3t9rffxvk9eelh283ynnyz4s8j",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1
+      }
+    },
+
     {
       "name":"quicksilver",
       "address": "quickvaloper1jdq7efmzmc8smscwmaw77vul7wptww74wskggw",
@@ -97,6 +98,15 @@
       "address": "torivaloper1yh67je377mwqwxdeptra6qvjr06ljkry2xg8ue",
       "restake": {
         "address": "tori1tqajwhew3f2p3t9rffxvk9eelh283ynng4cy38",
+        "run_time": "every 30 seconds",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1jdq7efmzmc8smscwmaw77vul7wptww74ftj82d",
+      "restake": {
+        "address": "umee1tqajwhew3f2p3t9rffxvk9eelh283ynnchjjw9",
         "run_time": "every 30 seconds",
         "minimum_reward": 1
       }

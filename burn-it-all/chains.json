@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Burn It All!!!",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper16aumxyfeh2vrd2kr9qk2gadmwmg4jm5kw4l75j",
+      "restake": {
+        "address": "terra1e74f7jgaa4cv80t3ycal8akwhxugk3xwvpzkyh",
+        "run_time": "0:00",
+        "minimum_reward": 1000000000
+      }
+    }
+  ]
+}

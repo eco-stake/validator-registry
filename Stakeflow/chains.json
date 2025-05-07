@@ -73,6 +73,24 @@
         "run_time": "every 6 hours",
         "minimum_reward": 5000000
       }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1ssmt2aveqpc7e0ncgxt0tpj83ur623dvk7uvng",
+      "restake": {
+        "address": "juno1nlq3spfcqscxj3a8hesc4uqx0dd2ljd66knca4",
+        "run_time": "every 6 hours",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper16jaa0d8tth8v5ae48s4a5zqjvdp768nqft9h5r",
+      "restake": {
+        "address": "comdex1nlq3spfcqscxj3a8hesc4uqx0dd2ljd6ttjpr7",
+        "run_time": "every 6 hours",
+        "minimum_reward": 50000
+      }
     }
   ]
 }

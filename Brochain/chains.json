@@ -12,30 +12,12 @@
       }
     },
     {
-      "name": "rebus",
-      "address": "rebusvaloper1yfd8kvderlpukw0tjsyqmsxqme4wrlrpgglumc",
+      "name": "sei",
+      "address": "seivaloper1qae8v3h6wd6f5yfxyx3zeumuddwhm4qeyz5qre",
       "restake": {
-        "address": "rebus1fy8pfrsazl2wpgu8a2g8uq439amt5va7ue67k2",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
-      "name": "teritori",
-      "address": "torivaloper15s8czu0jy24220538m65qzgdc6kzsx5g0k8j25",
-      "restake": {
-        "address": "tori1fy8pfrsazl2wpgu8a2g8uq439amt5va708wzev",
+        "address": "sei1fy8pfrsazl2wpgu8a2g8uq439amt5va7qlgaya",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "uptick",
-      "address": "uptickvaloper1dmymduyzhve2qlexaaatdcz26e5t7vpkm320cf",
-      "restake": {
-        "address": "uptick1zh5j4v6skwdqvn73lc82000wpetmlk98n38daw",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
       }
     }
   ]

@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Black Panther",
+  "services": [
+    {
+      "title": "Black Panther",
+      "description": "Black Panther is an asset management protocol that helps you achieve superior returns.",
+      "url": "https://blackpanther.fi"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "xAlex",
+  "chains": [    
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1eu44mtweaap45ytv6hgtkahhmkdlx9rlk0py42",
+			"restake": {
+			  "address": "empower1jyhp2zcr8dd62gq3rtxse6mw4wypkej7lcl8s6",
+			  "run_time": ["every 1 hour"],
+			  "minimum_reward": 1000000
+			}
+		}
+	]
+}

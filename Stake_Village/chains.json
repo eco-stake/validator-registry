@@ -1,0 +1,78 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Stake Village",
+	"chains": [
+		{
+			"name": "gitopia",
+			"address": "gitopiavaloper1u5q7vgp47z6d86cya69f8zdwc0z7r6lqkxxrsv",
+			"restake": {
+			  "address": "gitopia1ytd099sqjsqsxvhh72hykwjh2vrqse2mr65698",
+			  "run_time": "every 6 hours",
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "empowerchain",
+			"address": "empowervaloper19u7ugg0dl8mtm9gu72qzyykr8djkfmmrflnvkh",
+			"restake": {
+			  "address": "empower1ytd099sqjsqsxvhh72hykwjh2vrqse2mpwhxs6",
+			  "run_time": "every 6 hours",
+			  "minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "evmos",
+			"address": "evmosvaloper1kgrgr602emu8nc2rhfvt7pzxf33jfu4fgd204r",
+			"restake": {
+				"address": "evmos1eurvw9ql4apuuc4cn5s4wkthtgstnrr8lesjyl",
+				"run_time": "every 6 hours",
+				"minimum_reward": 1000000000000000000
+			}
+		},
+		{
+			"name": "umee",
+			"address": "umeevaloper1utd592msy5cd434gqv8wh6mcmda6wlenq2j2r4",
+			"restake": {
+				"address": "umee1ytd099sqjsqsxvhh72hykwjh2vrqse2m05wjwk",
+				"run_time": "every 6 hours",
+				"minimum_reward": 10000000
+			}
+		},
+		{
+			"name": "nibiru",
+			"address": "nibivaloper1zajzzmgnhlcurtpx9wnyaavr3aw8qggwx3tx8l",
+			"restake": {
+				"address": "nibi1ytd099sqjsqsxvhh72hykwjh2vrqse2m28h5rh",
+				"run_time": ["every 5 minutes"],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "lava",
+			"address": "lava@valoper1utd592msy5cd434gqv8wh6mcmda6wlen7fycrh",
+			"restake": {
+				"address": "lava@1ytd099sqjsqsxvhh72hykwjh2vrqse2m96ygdf",
+				"run_time": ["every 1 hour"],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "self",
+			"address": "selfvaloper1j6xy048dgx0cyplqgpqxsyu9e7u8pjms3qdjt7",
+			"restake": {
+				"address": "self1ytd099sqjsqsxvhh72hykwjh2vrqse2mcfw3yd",
+				"run_time": ["every 1 hour"],
+				"minimum_reward": 1000000
+			}
+		},
+		{
+			"name": "arkeo",
+			"address": "arkeovaloper1ty96umas8fwe3ef34fkcgygwelaedfglca3e65",
+			"restake": {
+				"address": "arkeo1ytd099sqjsqsxvhh72hykwjh2vrqse2m7zxghp",
+				"run_time": "every 1 hour",
+				"minimum_reward": 10000000
+			}
+		}
+	]
+}

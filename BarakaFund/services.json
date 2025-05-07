@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Baraka.Fund",
+  "services": [
+    {
+      "title": "Baraka.Fund",
+      "description": "Baraka.Fund is a secure, automated, and transparent Waqf on blockchain. Your donation stays in the fund, while generated profits are given to your preferred charity every month. Learn more at www.Baraka.Fund.",
+      "url": "https://www.Baraka.Fund"
+    }
+  ]
+}

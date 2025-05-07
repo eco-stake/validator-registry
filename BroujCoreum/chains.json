@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Brouj Coreum",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper14t9235vp7f23erugflme3lzszykwsfwcjfqdcg",
+            "restake": {
+                "address": "core1c6dvrsdsqxap3h5chele4t0kdqqj4k7qx7ffz4",
+                "run_time": "every 6 hours",
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}

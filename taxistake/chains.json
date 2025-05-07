@@ -3,39 +3,57 @@
   "name": "TaxiStake",
   "chains": [
     {
-      "name": "cerberus",
-      "address": "cerberusvaloper1jkf678dyg8k6ewkfu6xwvtl2sz68gfh3ys4s2h",
-      "restake": {
-        "address": "cerberus1k4hh4mjvtrwq79vhmlrltdsyq08kec7j8ptm3s",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 10000000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1pqsdyhefm99ag3a45rkqnc5907yksqvz0tqpzg",
       "restake": {
-        "address": "chihuahua1k4hh4mjvtrwq79vhmlrltdsyq08kec7jcnxu9e",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000000
+        "address": "chihuahua1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mrllrle",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000
       }
     },
     {
       "name": "lumnetwork",
       "address": "lumvaloper1p4qz6gqr3esugvm9n49jl2rz0zhup7ww286t65",
       "restake": {
-        "address": "lum1k4hh4mjvtrwq79vhmlrltdsyq08kec7jwvkm30",
-        "run_time": "every 4 hour",
-        "minimum_reward": 10000
+        "address": "lum135xu5r8cyhjdmqfrcl0u3n7lr023krt4zhdyav",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
       }
     },
     {
-      "name": "osmosis",
-      "address": "osmovaloper1vkfmegxrsveefn2wmudh7apxuzu2n77654ad62",
+      "name": "chain4energy",
+      "address": "c4evaloper1z4v4q2x6gm0p8hhwvuk9xkg55jjzlm3hpx54ve",
       "restake": {
-        "address": "osmo1k4hh4mjvtrwq79vhmlrltdsyq08kec7jnaczjf",
-        "run_time": "21:00",
-        "minimum_reward": 1000
+        "address": "c4e1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mrjtq89",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1a0w7x8t2azsp8vhsdre2mzd7fctjfkvepea9mc",
+      "restake": { 
+        "address": "quick1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mtwzl8f",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1hk38pmr663m5achae0as20zzp27uxj3yyuvuh3",
+      "restake": { 
+        "address": "atone1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mw2w2gr",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1ke8tg5ktwgp8akd7zns78fh4yqwns0smz92vn4",
+      "restake": {
+        "address": "arkeo1zes4r58xkmkahwxvr5wcp7lcuqhaxj9mr28gr7",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000000
       }
     }
   ]

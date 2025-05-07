@@ -3,30 +3,21 @@
   "name": "windpowerstake",
   "chains": [
     {
-      "name": "acrechain",
-      "address": "acrevaloper1hvn8advpjvhkdldjqfayqz54p6sgm5djsfklye",
-      "restake": {
-        "address": "acre1z5mwcgf7ekjze4tpelueu9hjz9whyj6ex8rhzv",
-        "run_time": "every 8 hours",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "chihuahua",
       "address": "chihuahuavaloper1cy9jhuf3cx2z33duxld7p57gtege6hfh6fyc4w",
       "restake": {
         "address": "chihuahua1hpwxnnrtsc6zjx4glup77tfe5z54lmtqxrxmy9",
-        "run_time": "every 1 hour",
-        "minimum_reward": 400000000
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000000
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper1qmpmzdesg9gr5wpyzkssayldnhk3pa8x2nwlwp",
+      "name": "empowerchain",
+      "address": "empowervaloper1cy9jhuf3cx2z33duxld7p57gtege6hfhwun0nm",
       "restake": {
-        "address": "evmos1z5mwcgf7ekjze4tpelueu9hjz9whyj6e79268f",
-        "run_time": "every 8 hours",
-        "minimum_reward": 100000000000000000
+        "address": "empower1hpwxnnrtsc6zjx4glup77tfe5z54lmtqe607le",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
       }
     },
     {

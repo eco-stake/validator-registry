@@ -1,0 +1,13 @@
+{
+	"$schema": "../chains.schema.json",
+	"name": "Keplr",
+	"chains": [{
+		"name": "cosmoshub",
+		"address": "cosmosvaloper1gf3dm2mvqhymts6ksrstlyuu2m8pw6dhfp9md2",
+		"restake": {
+			"address": "cosmos1yw4jnnu8thm9e5q4lyejws35gs0c24ydhxl2zk",
+			"run_time": "every 1 hour",
+			"minimum_reward": 1000000
+		}
+	}]
+}

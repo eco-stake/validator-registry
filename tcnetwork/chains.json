@@ -73,6 +73,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "mun",
+      "address": "munvaloper1pzfy45z6ysd9c0fp83fczt6zhusulr45z8xflq",
+      "restake": {
+        "address": "mun19a9vcvzc8ld33psnq8dm0h4lh5v8seuw4j5a60",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "source",
+      "address": "sourcevaloper1qtstztcwldgsx2sq05fa5zzcqg3pppeg67sysk",
+      "restake": {
+        "address": "source19a9vcvzc8ld33psnq8dm0h4lh5v8seuwfps9gj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper120mg4alnkxene9hxrskwpcza098z8yhtfxzhnk",
+      "restake": {
+        "address": "nibi19a9vcvzc8ld33psnq8dm0h4lh5v8seuwchdz3l",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

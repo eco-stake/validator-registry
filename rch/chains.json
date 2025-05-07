@@ -12,10 +12,10 @@
       }
     },
     {
-      "name": "planq",
-      "address": "plqvaloper1c04gm4fmda69n63c3sr994msevztrkgxrm2tsz",
+      "name": "uptick",
+      "address": "uptickvaloper1h9s35hf3m54nqzm0gs302705d79l8upq2rju9y",
       "restake": {
-        "address": "plq1x26ddadt277j5qnlf6f0sc92u4d8rjqut57ztt",
+        "address": "uptick1x26ddadt277j5qnlf6f0sc92u4d8rjqu32j95f",
         "run_time": "every 30 minutes",
         "minimum_reward": 100000000000000000
       }

@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "⚡️Allnodes",
+  "name": "Allnodes ⚡️ Nodes & Staking",
   "chains": [
     {
       "name": "cosmoshub",
@@ -8,7 +8,7 @@
       "restake": {
         "address": "cosmos1n4mmffygh8wdm8zfxxv30cg0aq9m2s07wfllm4",
         "run_time": "00:00",
-        "minimum_reward": 100000
+        "minimum_reward": 200000
       }
     },
     {
@@ -287,6 +287,78 @@
       "restake": {
         "address": "core1m7kpngaq3z99xulkl6m9xcqk9c27zk4u4u44mn",
         "run_time": "07:45",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper1uhjv3ueraywcaxpdz5uzz0ngnexuc3c8jsr6er",
+      "restake": {
+        "address": "nolus1n4mmffygh8wdm8zfxxv30cg0aq9m2s07ce0qes",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "haqq",
+      "address": "haqqvaloper15eafuvcrh3c07z4g3pqgq68n3lmsyu5jd9swsy",
+      "restake": {
+        "address": "haqq1yyt52xdduwmlrym3ecu0z5636lx5et36ja6wcy",
+        "run_time": "08:15",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1rcm7tth05klgkqpucdhm5hexnk49dfda3l3hak",
+      "restake": {
+        "address": "celestia1n4mmffygh8wdm8zfxxv30cg0aq9m2s07lrw0pc",
+        "run_time": "08:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper14dma5d4fyk4jpyqnq3gu3u3amyqczn0jzfrws2",
+      "restake": {
+        "address": "dym1yyt52xdduwmlrym3ecu0z5636lx5et36z8rmru",
+        "run_time": "09:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1atzw4d4gh6szjmdnth3987g2hv7nww3f70cmmh",
+      "restake": {
+        "address": "nibi1n4mmffygh8wdm8zfxxv30cg0aq9m2s07evmxjx",
+        "run_time": "09:15",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "govgen",
+      "address": "govgenvaloper1e4jpknx6p3v2skfpcz63n3z3vemnhhvhqmfzx2",
+      "restake": {
+        "address": "govgen1n4mmffygh8wdm8zfxxv30cg0aq9m2s07kse2jd",
+        "run_time": "09:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1xcwdnv947s4dywmp9x5pcckvd4juj2ae7gthg0",
+      "restake": {
+        "address": "lava@1n4mmffygh8wdm8zfxxv30cg0aq9m2s07k3g6uc",
+        "run_time": "09:45",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper17gysx6p6ggvjfgntpv0vsje3xkqc8ddmlnmxwd",
+      "restake": {
+        "address": "atone1n4mmffygh8wdm8zfxxv30cg0aq9m2s07qfrcdd",
+        "run_time": "10:00",
         "minimum_reward": 100000
       }
     }

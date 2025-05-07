@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Insigma Σ",
+  "chains": [
+    {
+      "name": "persistence",
+      "address": "persistencevaloper1e9x82674wvcax5grrfcd8erjgd2kuj4m0n3fsr",
+      "restake": {
+        "address": "persistence1n6vh9w086gs2tu0hdnezrhlq53cyqd0zc7lj4l",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1syxleazzdssynj4agrrlnt9hvsh23jfmlqj2tp",
+      "restake": {
+        "address": "stars1n6vh9w086gs2tu0hdnezrhlq53cyqd0zzwwus2",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 5000000
+      }
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper17ul6yq6mjk7akq3t9u4088rzpqwgm38mz06yk2",
+      "restake": {
+        "address": "human1f7dgl4kwjz4fj7epmq2kcscqtkvy495kzt39ke",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000000000000000
+     }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1plmzqsmmh7l2gwla63g2cuv4jywvjdpe55upq4",
+      "restake": {
+        "address": "band1f467rtpc37rj6v3pds8gexxxps5e8vha7xmhvl",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper16y6k46pmrw3wpu0akd2lp6606aq5u29eq0r8qz",
+      "restake": {
+        "address": "bitsong1w0x4qmjngn4gggavc3rxgxzpwzdkndjz8e8v6y",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

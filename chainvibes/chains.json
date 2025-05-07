@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "chainvibes.com",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper10wq46f8du234aqtlucv7h9jtrfuxmcntgw06ju",
+      "restake": {
+        "address": "sent1agjguds3a6utfvmhcz63v9u4kg56uhpeezjj63",
+        "run_time": "15:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper10wq46f8du234aqtlucv7h9jtrfuxmcnttf90s2",
+      "restake": {
+        "address": "akash1agjguds3a6utfvmhcz63v9u4kg56uhpe0zfv8y",
+        "run_time": "15:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper10wq46f8du234aqtlucv7h9jtrfuxmcntcg777v",
+      "restake": {
+        "address": "comdex1agjguds3a6utfvmhcz63v9u4kg56uhpe9kxf8f",
+        "run_time": "15:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper10wq46f8du234aqtlucv7h9jtrfuxmcnt9ln69l",
+      "restake": {
+        "address": "juno1agjguds3a6utfvmhcz63v9u4kg56uhpe5t8sez",
+        "run_time": "15:00",
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1v3hn6v0j6j8f4el9c0gkn5ef2zjeg9pxzh3m7l",
+      "restake": {
+        "address": "sif1agjguds3a6utfvmhcz63v9u4kg56uhpe8yta34",
+        "run_time": "15:00",
+        "minimum_reward": 10000000000000000000
+      }
+    }
+  ]
+}
