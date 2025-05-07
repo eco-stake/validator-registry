@@ -312,6 +312,17 @@
       }
     },
     {
+      "name": "mezo",
+      "address": "mezovaloper1kaxdy9ejuun5v4smlxkc0mnve9jfyz89lqdauy",
+      "restake": {
+        "address": "mezo10edr8awd0pulykvqxlwnz9n72rtngwjdhsypfk",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "neutron",
       "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
     },
