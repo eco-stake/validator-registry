@@ -57,15 +57,6 @@
       }
     },
     {
-      "name": "meme",
-      "address": "memevaloper1uxm0kglrajtcltl0vmxpkg0q4ld4m48lsw2rnc",
-      "restake": {
-        "address": "meme1w4du0y6705rqregfl6cktm7swds6t4dsr9yk6u",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
       "restake": {
