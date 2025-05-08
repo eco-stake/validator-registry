@@ -8,7 +8,7 @@
         "restake": {
           "address": "medas1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nvy20rc",
           "run_time": "every 5 minutes",
-          "minimum_reward": 100000
+          "minimum_reward": 1000000
         }
       },
       {
@@ -17,7 +17,7 @@
         "restake": {
           "address": "sif1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nv2e3uf",
           "run_time": "every 5 minutes",
-          "minimum_reward": 100000000
+          "minimum_reward": 1000000000000000000
         }
       },
         {
@@ -35,7 +35,7 @@
         "restake": {
           "address": "seda1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nle6lsr",
           "run_time": "every 5 minutes",
-          "minimum_reward": 1000000
+          "minimum_reward": 1000000000000000000
         }
       }
     ]
