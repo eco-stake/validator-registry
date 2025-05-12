@@ -25,7 +25,7 @@
       "address": "chihuahuavaloper1zvuyw9utsdp3w0mnrructw87p8sy8a3s248fhs",
       "restake": {
         "address": "chihuahua1765r3rvgpj2fugjru8gr4s7yp26vdmz2qcuvnj",
-        "run_time": "every 30 Seconds",
+        "run_time": "every 1 day",
         "minimum_reward": 100000000
       }
     },
