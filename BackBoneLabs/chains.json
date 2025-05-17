@@ -1,0 +1,26 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BackBone Labs",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1gn4ugadhkdwse6ayt7q8ekh0d0p2spw7duwlua"
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1q9t5k3ggltj96evm99cqc2ctqk7tvrdmfvc3tf"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper135p8cjwa3hnnnksjxchda0a6339z9zm7cudyxn"
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper16gdnrnl224ylje5z9vd0vn0msym7p58f00qauj"
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1wr0p7dzss74wfmzfqm8r65mk26efg5zhzpm77s"
+    }
+  ]
+}
