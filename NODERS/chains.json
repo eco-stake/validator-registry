@@ -324,7 +324,8 @@
         "address": "side19un5n5y06jj8cnquapn535nh0nnue52rzqjjht",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      },
+      }
+    },
     {
       "name": "arkeo",
       "address": "tarkeovaloper1hsrprv6xpfqrn2x46c4v0jxxvp4hhwrdqw483f",
