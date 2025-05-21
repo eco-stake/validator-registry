@@ -12,12 +12,12 @@
       }
     },
  {
-      "name": "nois",
-      "address": "noisvaloper1qzpl6zv2n8w4nqszrqsnxa8jzys8u9qxuh0m8j",
+      "name": "seda",
+      "address": "sedavaloper1r8gzvt7370e3e0lf4qkvp0qqg6lkwwpx2uta03",
       "restake": {
-        "address": "nois1m0jwkzuvd8nt34755amc00yfazpls43vkrlf82",
+        "address": "seda1m0jwkzuvd8nt34755amc00yfazpls43v39wmgn",
          "run_time": ["every 5 minutes"],
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000000
       }
     },
  {
