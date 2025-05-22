@@ -328,7 +328,7 @@
     },
     {
       "name": "arkeo",
-      "address": "tarkeovaloper1hsrprv6xpfqrn2x46c4v0jxxvp4hhwrdqw483f",
+      "address": "arkeovaloper1hsrprv6xpfqrn2x46c4v0jxxvp4hhwrdqw483f",
       "restake": {
         "address": "arkeo19un5n5y06jj8cnquapn535nh0nnue52r4p6d5f",
         "run_time": "every 1 hour",
