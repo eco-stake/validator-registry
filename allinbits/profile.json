@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "All in Bits",
+  "identity": "",
+  "website": "https://allinbits.com",
+  "description": {
+    "overview": "All in Bits inc.",
+    "security": "security@allinbits.com"
+  },
+  "contacts": {
+    "email": "contact@allinbits.com",
+    "twitter": "https://twitter.com/allinbits_inc"
+  }
+}
