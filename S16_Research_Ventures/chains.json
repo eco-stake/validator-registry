@@ -23,6 +23,17 @@
         ],
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "sidechain",
+      "address": "sidevaloper1qqrqgygnryxsuzg6p5v3uqgeqsg3vrc4zvzqv8g7qyzpgqc9qsgqzvrcsv4",
+      "restake": {
+        "address": "side1yw3j54275lz30aamjcwk67kf2fd70mtdp4mh4q",
+        "run_time": [
+          "07:00"
+        ],
+        "minimum_reward": 100000
+      }
     }
   ]
 }
