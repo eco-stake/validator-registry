@@ -21,6 +21,15 @@
       }
     },    
     {
+      "name": "arkeo",
+      "address": "arkeovaloper1rfdlsnp6ddfrx5uac6ntxy269yrzm6e8rnam0n",
+      "restake": {
+        "address": "arkeo1tj0t93t6xjwe5dqptr62ej4pqvy2es0rk7azzk",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },        
+    {
       "name": "assetmantle",
       "address": "mantlevaloper18w60w6fnptk9dhqpl65mzrejmkt0vvr7u5qwp5",
       "restake": {
@@ -110,6 +119,15 @@
         "minimum_reward": 1000
       }
     },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper1s3dqhfw4pg03zr93m0upje3g78qcxpq6cfsty6",
+      "restake": {
+        "address": "dungeon1tj0t93t6xjwe5dqptr62ej4pqvy2es0rmdhp4g",
+        "run_time": "21:00",
+        "minimum_reward": 1000
+      }
+    },       
     {
       "name": "dyson",
       "address": "dysvaloper138prlkykap9328vxetlaeaglq3kzdk8mjnlmfw",
