@@ -12,11 +12,20 @@
       }
     },
     {
+      "name": "lumera",
+      "address": "lumeravaloper1yt0whdf62s5fry5tpavzfazpm4x5fq0njun6zm",
+      "restake": {
+        "address": "lumera1etsdevgm5ps240lrw9mg3p2j32tj96ktkq96ul",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "babylon",
       "address": "bbnvaloper19pksezgmgmdz283lf2709l0jwvjttpq9m69v64",
       "restake": {
         "address": "bbn1etsdevgm5ps240lrw9mg3p2j32tj96ktep5sd5",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
@@ -34,7 +43,7 @@
       "address": "nillionvaloper19pksezgmgmdz283lf2709l0jwvjttpq9ys3yys",
       "restake": {
         "address": "nillion1etsdevgm5ps240lrw9mg3p2j32tj96kt4lmjew",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
     },
@@ -232,7 +241,7 @@
       "address": "humanvaloper1qt6yf3fvz250uddj04rxglfd40v8nruqmumcwn",
       "restake": {
         "address": "human15xjdrn6t0dyzgzfs8nagmg04yjvn8ls4pgvwuj",
-        "run_time": "every 1 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
