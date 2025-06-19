@@ -3,21 +3,12 @@
   "name": "Stake.Works",
   "chains": [
         {
-               "name":"acrechain",
-               "address": "acrevaloper1hwy0kh4g4at7degm9yfrusukv97ua8lhe5tz2q",
-               "restake": {
-               "address": "acre1r0eq3j3c9gm2xdnud667dgg2teu8z4p2rufq8v",
-               "run_time": "every 4 hours",
-               "minimum_reward": 1000000000000000000
-                }
-        },   
-        {
                 "name": "bitcanna",
                 "address": "bcnavaloper17y5htk2umkuutmuvsv32vz4akj0azhjugt0zsx",
                 "restake": {
                 "address": "bcna1df3p2gft7hhunc0ptgxr3jy2kt2yclq66r748w",
-                "run_time": "19:00",
-                "minimum_reward": 10000000
+                "run_time": "every 4 hour",
+                "minimum_reward": 100000
                 }
         },
         {
@@ -25,10 +16,19 @@
                 "address": "bitsongvaloper1sqw7f6vcs9wg9h9j0t05e592sg6y8eldcdq3vd",
                 "restake": {
                 "address": "bitsong1wv7x2fqzs660ys938jd57rrm6a3mjrjyx85n5g",
-                "run_time": "19:00",
-                "minimum_reward": 1000000
+                "run_time": "every 4 hour",
+                "minimum_reward": 100000
                 }
         },   
+        {
+                "name": "kyve",
+                "address": "kyvevaloper15h97fumsac8tlwzhksm7tmeswv6746gu6hkfv3",
+                "restake": {
+                "address": "kyve1df3p2gft7hhunc0ptgxr3jy2kt2yclq6harzyc",
+                "run_time": "every 4 hour",
+                "minimum_reward": 1000000
+                }
+        },
         {
                 "name":"planq",
                 "address": "plqvaloper1qqhhajkdz8fzeqhp873l9f9fsmwqr0ul8llrpf",
@@ -37,15 +37,6 @@
                 "run_time": "every 4 hour",
                 "minimum_reward": 1000000000000000000
                 }       
-        },
-        {
-                "name": "kyve",
-                "address": "kyvevaloper15h97fumsac8tlwzhksm7tmeswv6746gu6hkfv3",
-                "restake": {
-                "address": "kyve1df3p2gft7hhunc0ptgxr3jy2kt2yclq6harzyc",
-                "run_time": "every 1 hour",
-                "minimum_reward": 100000
-                }
         }
   ]
 }          
