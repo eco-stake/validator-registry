@@ -51,7 +51,7 @@
       "name": "sidechain",
       "address": "sidevaloper1qqt3u8qvrsrpwzgcrugsw8gsq523kxsypv8su9qhpudsuqsqrg2sjr5l65n",
       "restake": {
-        "address": "side1etsdevgm5ps240lrw9mg3p2j32tj96kt67cmv2",
+        "address": "bc1etsdevgm5ps240lrw9mg3p2j32tj96ktxu6erh",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
