@@ -323,10 +323,6 @@
       }
     },
     {
-      "name": "neutron",
-      "address": "neutronvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zjmrl6z"
-    },
-    {
       "name": "nibiru",
       "address": "nibivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zj8exm0",
       "restake": {
@@ -371,17 +367,6 @@
       }
     },
     {
-      "name": "odin",
-      "address": "odinvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z9yperl",
-      "restake": {
-        "address": "odin12xpq68caw2aqdu70jm4k792g0v9prhrpyrq8vj",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "omniflixhub",
       "address": "omniflixvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zu4sush",
       "restake": {
@@ -408,39 +393,6 @@
       "address": "pasgvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zuaqk2z",
       "restake": {
         "address": "pasg12xpq68caw2aqdu70jm4k792g0v9prhrprml7d8",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "pryzm",
-      "address": "pryzmvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z2u8dhf",
-      "restake": {
-        "address": "pryzm12xpq68caw2aqdu70jm4k792g0v9prhrpcn3r7t",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "quasar",
-      "address": "quasarvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zxyedrk",
-      "restake": {
-        "address": "quasar12xpq68caw2aqdu70jm4k792g0v9prhrpwqueda",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "quicksilver",
-      "address": "quickvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zesdm36",
-      "restake": {
-        "address": "quick12xpq68caw2aqdu70jm4k792g0v9prhrpt8kke2",
         "run_time": [
           "12:00"        
         ],
@@ -533,17 +485,6 @@
           "12:00"        
         ],
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "tenet",
-      "address": "tenetvaloper1ksyy7fwlevkphanrddpqkk0d4qre2dmfpjpqs3",
-      "restake": {
-        "address": "tenet10edr8awd0pulykvqxlwnz9n72rtngwjda47y6a",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000000000000000
       }
     },
     {
