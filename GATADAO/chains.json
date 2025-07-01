@@ -14,26 +14,6 @@
     },
 
     {
-      "name": "teritori",
-      "address": "torivaloper1dyduggaqthztgm8tnk59flkeu3l3qvpzhhd6hn",
-      "restake": {
-        "address": "tori1na6j5scjfrq4az3d0lupp4tyaeahmh9w0vyfzz",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    }, 
-
-    {
-      "name": "rebus",
-      "address": "rebusvaloper1v9z8pjfgjvuj4ar97h692scm88mvwks5plmvvq",
-      "restake": {
-        "address": "rebus1na6j5scjfrq4az3d0lupp4tyaeahmh9wujs4dy",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6",
       "restake": {
@@ -72,16 +52,7 @@
         "minimum_reward": 500000
       }
     },
-    
-    {
-      "name": "osmosis",
-      "address": "osmovaloper1d5ada26tcd24wltfakqkkdu3656k6n4chnyz8h",
-      "restake": {
-        "address": "osmo1na6j5scjfrq4az3d0lupp4tyaeahmh9w9rqs0q",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
+        
     {
       "name": "atomone",
       "address": "atonevaloper10unx6s0cdqntvrumd5hs07rgd5ytcztq7w6s7f",
@@ -89,6 +60,16 @@
         "address": "atone1na6j5scjfrq4az3d0lupp4tyaeahmh9wrc0802",
         "run_time": "every 1 hour",
         "minimum_reward": 500000
+      }	  
+    },
+
+      {
+      "name": "passage",
+      "address": "pasgvaloper17axwjxcdgmeygx2mfndkqhamsnx5q48xv6zxxv",
+      "restake": {
+        "address": "pasg1na6j5scjfrq4az3d0lupp4tyaeahmh9wwq265d",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
       }	  
     }
    
