@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "axone",
+      "address": "axonevaloper1etx55kw7tkmnjqz0k0mups4ewxlr324txx42se",
+      "restake": {
+        "address": "axone1etx55kw7tkmnjqz0k0mups4ewxlr324tknec2m",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "lumera",
       "address": "lumeravaloper1yt0whdf62s5fry5tpavzfazpm4x5fq0njun6zm",
       "restake": {
