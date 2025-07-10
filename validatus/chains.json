@@ -102,6 +102,24 @@
           "run_time": ["09:00", "21:00"],
           "minimum_reward": 100000
   }
+  },
+  {
+        "name": "arkeo",
+        "address": "arkeovaloper19v94c3z7ckarwsum76kaagma0wqsqhh5slfemm",
+        "restake": {
+          "address": "arkeo1dqx5ql3e9mdxx2vunw2as65pc8u58em4kwntkw",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000
+  }
+  },
+  {
+        "name": "babylon",
+        "address": "bbnvaloper19v94c3z7ckarwsum76kaagma0wqsqhh5dku8lm",
+        "restake": {
+          "address": "bbn1dqx5ql3e9mdxx2vunw2as65pc8u58em4zshl5j",
+          "run_time": ["09:00", "21:00"],
+          "minimum_reward": 100000
+  }
   }
   ]
 }
