@@ -3,6 +3,15 @@
     "name": "256x25",
     "chains": [
       {
+        "name": "kopi",
+        "address": "kopivaloper1z7r5fkukd7k89sfaqggs8n27dkmuvq602yhezm",
+        "restake": {
+          "address": "kopi1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nc3xn75",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
+      },
+      {
         "name": "medasdigital",
         "address": "medasvaloper1lktz0dts4q5rqaucdl0g32j862hw3ks5lhfs3z",
         "restake": {
