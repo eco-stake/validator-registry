@@ -499,6 +499,17 @@
       }
     },
     {
+      "name": "tac",
+      "address": "tacvaloper1ksyy7fwlevkphanrddpqkk0d4qre2dmfw30038",
+      "restake": {
+        "address": "tac10edr8awd0pulykvqxlwnz9n72rtngwjd983yzd",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
       "name": "ununifi",
       "address": "ununifivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z08432q",
       "restake": {
