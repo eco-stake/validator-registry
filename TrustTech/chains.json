@@ -8,7 +8,7 @@
       "restake": {
         "address": "dungeon18lksx3qcpsl0rx0t3zrwktq7u2vnade77z6r6m",
         "run_time": "every 24 hours",
-        "minimum_reward": 50000000
+        "minimum_reward": 500000000
       }
     },
     {
