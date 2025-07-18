@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "S.I.N.",
+  "name": "Codex Conundrum",
   "chains": [
     {
       "name": "sentinel",
