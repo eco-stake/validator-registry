@@ -397,6 +397,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "axone",
+      "address": "axonevaloper1lmekyhqm84hwruwfqw8gv53mk7mzwmv8wqkkcu",
+      "restake": {
+        "address": "axone1r8egcurpwxftegr07gjv9gwffw4fk009gprav7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
