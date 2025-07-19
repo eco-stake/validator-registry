@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "../chains.schema.json",
   "name": "VoidStake",
   "chains": [
