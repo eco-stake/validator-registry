@@ -472,7 +472,7 @@
       "name": "axone",
       "address": "axonevaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kaswtyqql",
       "restake": {
-        "address": "axone1m4mfzgdz6qus40etspxcutcy489ndldafhugfh",
+        "address": "axone1v9vae554q55xa4pcfdm0p3kv8nxn50jke2t9e5",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
