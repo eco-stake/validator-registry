@@ -1,0 +1,24 @@
+﻿{
+  "$schema": "../chains.schema.json",
+  "name": "VoidStake",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper12t53fc7yl34psqylanekcwvu45lm2wu420kyg2",
+      "restake": {
+        "address": "juno1t5wyk935u55xzv9kzvhamdll9cmy60uvm2dzrx",
+        "run_time": [ "21:05" ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1ww9dg7fgy6d3l89exlx9wsl86ycrnjp448ry75",
+      "restake": {
+        "address": "cosmos1t5wyk935u55xzv9kzvhamdll9cmy60uvdcwey6",
+        "run_time": [ "21:05" ],
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}
