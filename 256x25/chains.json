@@ -2,6 +2,15 @@
     "$schema": "../chains.schema.json",
     "name": "256x25",
     "chains": [
+    {
+      "name": "elys",
+      "address": "elysvaloper1hutt80dvfwagsr3zdevk6ranr3f2uh5c8e3g7w",
+      "restake": {
+        "address": "elys1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nfh0q7q",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
       {
         "name": "kopi",
         "address": "kopivaloper1z7r5fkukd7k89sfaqggs8n27dkmuvq602yhezm",
