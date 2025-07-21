@@ -8,7 +8,7 @@
       "restake": {
         "address": "bitsong1ce3u6d0jwpzvgwnvktjwarwz2yzhae372qqhvw",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 5000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "fetch1yqqsskp60ru889m2ac9rtdays6pt9xfyx9rysw",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
+        "minimum_reward": 100000000000000000
       }
     },
     {
