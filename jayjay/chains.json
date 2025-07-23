@@ -7,7 +7,7 @@
       "address": "dymvaloper1t69jjaa75suk35eda0fd2zjpqkr6qq4jjl87pq",
       "restake": {
         "address": "dym1w0k8tnunamvmfaarekwhma982meazx4d7wfqgc",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
       }
     },
@@ -16,8 +16,17 @@
       "address": "noisvaloper1tej5lqkljmnd8mszhkg0aepn5qaltyekew5ces",
       "restake": {
         "address": "nois1zzvt0q4klzacf9alwqpcwctyx3aae4nh3zxwke",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper13syezexjvcg9fuv32dwh0x9pamv0y0xurxxzf5",
+      "restake": {
+        "address": "axone1zzvt0q4klzacf9alwqpcwctyx3aae4nhrvhnwu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]
