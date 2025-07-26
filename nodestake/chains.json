@@ -15,7 +15,7 @@
       "name": "axone",
       "address": "axonevaloper1etx55kw7tkmnjqz0k0mups4ewxlr324txx42se",
       "restake": {
-        "address": "axone1etx55kw7tkmnjqz0k0mups4ewxlr324tknec2m",
+        "address": "axone1etsdevgm5ps240lrw9mg3p2j32tj96ktdefkxs",
         "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
