@@ -4,7 +4,7 @@
   "chains": [
     {
       "name": "axone",
-      "address": "axonevaloper1cuqlf6y6uxqcehewur4zw5vc6p77wdf8luvzzs",
+      "address": "axonevaloper1ytru6auvhmp0ygyeka6mkjzl80zf99uw3w8gcw",
       "restake": {
         "address": "axone1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfgy7k63",
         "run_time": "every 1 hours",
