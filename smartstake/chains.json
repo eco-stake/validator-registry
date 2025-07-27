@@ -11,15 +11,6 @@
       }
     },
     {
-      "name": "bandchain",
-      "address": "bandvaloper1nmlds05h9zpj0m3actleslnmf5ett8xfvmjgju",
-      "restake": {
-        "address": "band1z6j3tqhck27dwepupme5ny5hdcjn65v30yd7hg",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "celestia",
       "address": "celestiavaloper1tzm96yvupy3egtpg6uw0s2f4c85qayw3afwetd",
       "restake": {
@@ -65,15 +56,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper174jlcery04j6r7wgvequeysruyjlhtcmlhnhy2",
-      "restake": {
-        "address": "evmos18fm9rxkmrnnx3auzpq4mvjh7vgvnnvw2amm8qd",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "fetchhub",
       "address": "fetchvaloper1neqdrj7tl6pwv3flckhajkgtvt5tee8tu8zr68",
       "restake": {
@@ -92,37 +74,10 @@
       }
     },
     {
-      "name": "juno",
-      "address": "junovaloper1wj4jhrll90knap3vt8z4qs5rrm9cla2kpc5944",
+      "name": "oraichain",
+      "address": "oraivaloper1unpv9tsw7d27n7wym83z4lajh4pt252jex4p8w",
       "restake": {
-        "address": "juno1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0svj9qe2",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "kujira",
-      "address": "kujiravaloper16c402xnqkzcc6us4m5uff8d09cnlfdkmz85st6",
-      "restake": {
-        "address": "kujira1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0stgyrnu",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "migaloo",
-      "address": "migaloovaloper1epyycuzx0u0c44w354pu99u4wujldhulec8kck",
-      "restake": {
-        "address": "migaloo1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sh50ptc",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper1qsqq7yfrfea8c3h6784at9yggakrghl3tk73fu",
-      "restake": {
-        "address": "omniflix1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s87hzfg",
+        "address": "orai1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sfnscl9",
         "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
@@ -146,29 +101,11 @@
       }
     },
     {
-      "name": "stargaze",
-      "address": "starsvaloper1ux7vg9ph4p68pg7e2l5yn703xllec388y2t65a",
-      "restake": {
-        "address": "stars1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0swu3x48",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "terra2",
       "address": "terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp",
       "restake": {
         "address": "terra1v8jxddtlqktq4657a3kpragn7j2k58ukj8spen",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "andromeda",
-      "address": "andrvaloper1862jxfr2qm66689292fh6cc9r7r68nnwyvg0a2",
-      "restake": {
-        "address": "andr1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sztwezm",
-        "run_time": "every 30 minutes",
         "minimum_reward": 100000
       }
     },
@@ -182,22 +119,31 @@
       }
     },
     {
-      "name": "pryzm",
-      "address": "pryzmvaloper1rd3lxtk5zd9fm0enh6zqs97954tcl8yup4kccj",
+      "name": "xion",
+      "address": "xionvaloper1ak58a04fzdftza8vnnpv9fm4s3jeg8swd3vpgy",
       "restake": {
-          "address": "pryzm1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0szs3uq9",
+          "address": "xion1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0scfuega",
           "run_time": "every 30 minutes",
           "minimum_reward": 100000
       }
     },
     {
-      "name": "furya",
-      "address": "furyavaloper13ehhh4f854wv5fatdp42qqa8k7n3seknw6lwr3",
+      "name": "mantra",
+      "address": "mantravaloper1gtkqh53325exs8h3gc38hqc049nxvqh22wyw4t",
       "restake": {
-        "address": "furya1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s44adty",
-        "run_time": "every 30 minutes",
-        "minimum_reward": 100000
+          "address": "mantra1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0s3tvlav",
+          "run_time": "every 30 minutes",
+          "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1ffy3w0yp4gqrn7u29mnx7ljd5ndsgkgjdgwrel",
+      "restake": {
+          "address": "bbn1m3rq2xswhgnt8hfqmggq5dtwjqkf0f0sd7h2p0",
+          "run_time": "every 30 minutes",
+          "minimum_reward": 100000
       }
     }
- ]
+  ]
 }
