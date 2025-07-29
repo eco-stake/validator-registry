@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "axone",
+  "name": "Stake With Ryddd",
   "chains": [
     {
       "name": "axone",
