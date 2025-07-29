@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AKNodes",
+  "chains": [
+    {
+      "name": "axone",
+      "address": "axonevaloper10u37uva8wrds7rtnnuljs9xj96ckrvetd0kcln",
+      "restake": {
+        "address": "axone1mpa3w463ap2zkkwjns29hz5ctf9l2pjvl43wc2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
