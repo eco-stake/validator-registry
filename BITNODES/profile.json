@@ -1,15 +1,13 @@
 {
   "$schema": "../profile.schema.json",
   "name": "BITNODES",
-  "identity": "FFB0AA51A2DF5954",
-  "website": "https://nodejumper.io",
+  "identity": "9DE41C5BB7ABCBCF",
+  "website": "https://bitnodes.xyz",
   "description": {
-    "overview": "Nodejumper is a multi tool for cosmos based networks. It provides a whole bunch of helpful support features for cosmos blockchains.",
-    "team": "We are the nodejumper.io team - a professional PoS validator that is focused on blockchain consumers & validators, helping them to easily join the Cosmos SDK community and make it bigger and more valuable."
-  },
+    "overview": "Trusted Validator | RPC/API Provider | Web3 Contributor Securing networks, providing reliable infrastructure, and building the future of decentralized tech",
+    },
   "contacts": {
-    "email": "hello@nodejumper.io",
-    "telegram": "nodejumper",
-    "twitter": "nodejumper"
+    "email": "opsmanager133@gmail.com",
+    "twitter": "0psmanager"
   }
 }
