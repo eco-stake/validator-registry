@@ -4,10 +4,10 @@
   "chains": [  
     {
       "name": "axone",
-      "address": "axonevaloper1yp2ey7pyfvxaq49kkmlfp5e0pusn5274fm8fzk",
+      "address": "axonevaloper1sje48umc4lnqr2x8ketf8vrwmglmyluqk9a22r",
       "restake": {
-        "address": "axone1m0jwkzuvd8nt34755amc00yfazpls43vydw5l0",
-         "run_time": ["every 5 minutes"],
+        "address": "axone1sje48umc4lnqr2x8ketf8vrwmglmyluqxs3csp",
+         "run_time": ["every 30 minutes"],
         "minimum_reward": 1000000
       }
     },
