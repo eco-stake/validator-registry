@@ -17,7 +17,7 @@
       "restake": {
         "address": "medas1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfw3wf7k",
         "run_time": "every 1 minutes",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
