@@ -10,6 +10,51 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1yt8l38xurdl2mcft94lnm9dzsvnat9zuhp8h0w",
+      "restake": {
+        "address": "nibi1mpa3w463ap2zkkwjns29hz5ctf9l2pjvtkeq9y",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "haqq network",
+      "address": "haqqvaloper1067vtx6qeqs0vdx856jhc4cz47qmvvd9h5la3p",
+      "restake": {
+        "address": "haqq1x68z6z56yzqr28xj3lz5ey0c67hmllfat4zvqf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava1j4expmvs6afgej6gr3mplnk46ufek6r23cmpyl",
+      "restake": {
+        "address": "lava1mpa3w463ap2zkkwjns29hz5ctf9l2pjvyt2ut6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper127phf345m6p3mqavptzsanh7g7hh3e5jr203y4",
+      "restake": {
+        "address": "gitopia1mpa3w463ap2zkkwjns29hz5ctf9l2pjvzt6wr5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper17n8un858e0zfvd7hkfa4q8x7z90j5uelqn7zuf",
+      "restake": {
+        "address": "arkeo1mpa3w463ap2zkkwjns29hz5ctf9l2pjvlngu3j",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
