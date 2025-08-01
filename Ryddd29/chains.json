@@ -10,6 +10,24 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "medasdigital",
+      "address": "medasvaloper1npw0kkuh5gmw22nxpumax442fpxuz5uvu3atuq",
+      "restake": {
+        "address": "medas1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfw3wf7k",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "dhealth",
+      "address": "dhvaloper1yt0t49ykx2yc0ln9ywmnq2mfd69upvx97u4kpl",
+      "restake": {
+        "address": "dh1eslrzyvekh0w6qy2fmk8l3egnsq2faztgrafkq",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
