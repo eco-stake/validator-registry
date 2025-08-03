@@ -57,6 +57,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper188l6kl0k9dujfd9y3la6w5ykvxzechd8a06z55",
+      "restake": {
+        "address": "cosmos1hcgxjhvv43g9z6dc58g428jgc8hdlmf750c4zz",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper1uvv5cm4e4xswlt5ca0q7sussd7gxtd2ys4spa6",
       "restake": {
