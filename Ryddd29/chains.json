@@ -25,7 +25,7 @@
       "address": "dhvaloper1yt0t49ykx2yc0ln9ywmnq2mfd69upvx97u4kpl",
       "restake": {
         "address": "dh1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfeh08nd",
-        "run_time": "every 1 hours",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1000000
       }
     },
