@@ -24,7 +24,25 @@
       "name": "dhealth",
       "address": "dhvaloper1yt0t49ykx2yc0ln9ywmnq2mfd69upvx97u4kpl",
       "restake": {
-        "address": "dh1eslrzyvekh0w6qy2fmk8l3egnsq2faztgrafkq",
+        "address": "dh1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfeh08nd",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "hippoprotocol",
+      "address": "hippovaloper1aeyautdguat2y8nq66qm2pxg6ah70c8lptvnca",
+      "restake": {
+        "address": "hippo1r52gp4vtrryqgm4wl28k34eakrl7dnpzcsleeu",
+        "run_time": "every 1 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "pryzm",
+      "address": "pryzmvaloper16wx6wx5jzm52ygcpgysnknear5dy7kmd9kdph2",
+      "restake": {
+        "address": "pryzm1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfnj9xsl",
         "run_time": "every 1 hours",
         "minimum_reward": 1000000
       }
