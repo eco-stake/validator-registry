@@ -35,7 +35,7 @@
       "restake": {
         "address": "hippo1r52gp4vtrryqgm4wl28k34eakrl7dnpzcsleeu",
         "run_time": "every 1 hours",
-        "minimum_reward": 10000000
+        "minimum_reward": 10
       }
     },
     {
@@ -45,6 +45,15 @@
         "address": "pryzm1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfnj9xsl",
         "run_time": "every 1 hours",
         "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1gnty0dnfgq8lgluaselsfzddgjlufepspvlx30",
+      "restake": {
+        "address": "bb1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfgl6jja",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
       }
     }
   ]
