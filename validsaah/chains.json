@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "validsaah",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper18hkhu5g5stykswky0lxwlumlqapmwf5herjf3f",
+            "restake": {
+                "address": "testcore1mygu2vwky6h0yj0ut2shxawl848nn6dfpkcwk7",
+                "run_time": "every 1 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
