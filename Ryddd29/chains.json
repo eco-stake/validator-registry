@@ -64,5 +64,6 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
+    }
   ]
 }
