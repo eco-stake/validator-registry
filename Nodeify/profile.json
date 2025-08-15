@@ -1,0 +1,20 @@
+{
+   "$schema":"../profile.schema.json",
+   "name":"Nodeify",
+   "identity":"31C0928781E3699B",
+   "website":"https://nodeify.net",
+   "description":{
+      "overview":"Nodeify delivers premium staking services across the Cosmos ecosystem with industry-leading APR and zero fees for our clients.",
+      "team":"Since 2013, our team has navigated every major evolution in cryptocurrency—from pioneering Bitcoin mining operations to scaling Ethereum PoW infrastructure. Today, we channel this decade of operational excellence into the Cosmos ecosystem, where we serve as both leading validators and core protocol contributors. We're deeply invested in advancing Tendermint consensus and IBC technology, helping architect the interoperable blockchain networks.",
+      "security":"Our infrastructure operates under enterprise-grade security protocols with continuous monitoring and multi-layered protection systems. We maintain perfect uptime records and zero slashing incidents through proactive risk management and redundant failover mechanisms. Delegators trust Nodeify to safeguard their assets while maximizing staking returns, backed by our proven track record of operational excellence and 24/7 dedicated support."
+   },
+   "contacts":{
+      "telephone":"",
+      "email":"admin@nodeify.net",
+      "telegram":"nodeify_eth",
+      "twitter":"nodeify_eth",
+      "others":{
+         "emergency":"vince@nodeify.net"
+      }
+   }
+}
