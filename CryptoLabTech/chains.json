@@ -12,6 +12,15 @@
       }
     },
     {
+      "name": "nolus",
+      "address": "nolusvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgpklhhsk",
+      "restake": {
+        "address": "nolus1fnfufmfkddv3s0vynp5sdkge7qkdk7wmvzmhyj",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "decentr",
       "address": "decentrvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgpd7l4d3",
       "restake": {
