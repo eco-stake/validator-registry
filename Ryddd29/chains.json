@@ -53,6 +53,15 @@
       "restake": {
         "address": "bb1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xfgl6jja",
         "run_time": "every 1 minutes",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper108a82xy8ff9c6aw72rxs56yendq6spdvs88d8s",
+      "restake": {
+        "address": "dungeon1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xf93d8yh",
+        "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
     }
