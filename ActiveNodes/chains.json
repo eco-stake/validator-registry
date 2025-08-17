@@ -66,15 +66,6 @@
       }
     },
     {
-      "name": "persistence",
-      "address": "persistencevaloper1xfffx2agkgy4d0jpl7lulgklpf7evgla679rn2",
-      "restake": {
-        "address": "persistence1wxww8zvmgnsdq6npq5lh0a9erjyphh4ex6hnzj",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "sei",
       "address": "seivaloper17ga9jha45gu0x04yrmfpjpksmqe48wupzk5jex",
       "restake": {
