@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "ForTesing",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper1ns8jlvrq0lcwnflvkfesnrpyda8499a4gahq9c",
+            "restake": {
+                "address": "testcore1vulkq7we60d2kulnt6m97dgxyl387agy7m4x7r",
+                "run_time": "every 23 hours",
+                "minimum_reward": 2321000000
+            }
+        }
+    ]
+}
