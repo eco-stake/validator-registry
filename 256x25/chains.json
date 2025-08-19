@@ -3,6 +3,15 @@
     "name": "256x25",
     "chains": [
     {
+      "name": "firmachain",
+      "address": "firmavaloper1gaxuw2c0pzy7hprzryudqp9852h3x5f7celpzt",
+      "restake": {
+        "address": "firma106xajw7d8u7vdhhwchtx6pak3nhhz5veu9duyq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "elys",
       "address": "elysvaloper1hutt80dvfwagsr3zdevk6ranr3f2uh5c8e3g7w",
       "restake": {
@@ -58,3 +67,4 @@
       }
     ]
   }
+
