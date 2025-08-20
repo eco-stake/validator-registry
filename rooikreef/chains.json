@@ -127,7 +127,25 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
-    },  
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper14rm9nwqtlwe9r39zj33xufrr2mv3lccm2jy22r",
+      "restake": {
+        "address": "dungeon10eumq5yvapfdan5nxsfkc3arskff3l9v0ndxs2",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1jkqnyvpwu8v4k2dt8uxx2h49vyl7y4dhg93ssd",
+      "restake": {
+        "address": "bb10eumq5yvapfdan5nxsfkc3arskff3l9vza6nxq",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },    
     {
       "name": "synternet",
       "address": "syntvaloper1wsdvyqj222223gxk9hshdtrkum9ectg6mxc9p2",

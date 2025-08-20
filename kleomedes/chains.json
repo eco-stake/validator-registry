@@ -343,6 +343,69 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
+    },
+      {
+      "name": "nillion",
+      "address": "nillionvaloper16gzdnr4zvadgflplunjhq7uh0xyjeejccstwrj",
+      "restake": {
+        "address": "nillion1r8egcurpwxftegr07gjv9gwffw4fk009s83enq",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "babylon",
+      "address": "bbnvaloper1pljmze5cw688lpcx65xm0fqtt0d24llvf44gtx",
+      "restake": {
+        "address": "bbn1r8egcurpwxftegr07gjv9gwffw4fk009ue7m86",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "neutron",
+      "address": "neutronvaloper1cvwrxye2g79ggstv403rn7tu952hs88udwclch",
+      "restake": {
+        "address": "neutron1r8egcurpwxftegr07gjv9gwffw4fk0090cxgzy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "arkeo",
+      "address": "arkeovaloper1r7kjk07a97v4gmq0jp7d98l4wj7dk7nxvyvs68",
+      "restake": {
+        "address": "arkeo1r8egcurpwxftegr07gjv9gwffw4fk009g8609x",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "dungeon",
+      "address": "dungeonvaloper1syqr85xl83hthhhn7j8jeu8qud8gupz4awg4ss",
+      "restake": {
+        "address": "dungeon1r8egcurpwxftegr07gjv9gwffw4fk00995svjc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "elys",
+      "address": "elysvaloper1ms9sl5kxlejq67c3xhjz3smm0mu8rh8yenveam",
+      "restake": {
+        "address": "elys1r8egcurpwxftegr07gjv9gwffw4fk009t8kd4p",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "axone",
+      "address": "axonevaloper1lmekyhqm84hwruwfqw8gv53mk7mzwmv8wqkkcu",
+      "restake": {
+        "address": "axone1r8egcurpwxftegr07gjv9gwffw4fk009gprav7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }

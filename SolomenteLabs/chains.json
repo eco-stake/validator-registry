@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "SolomenteLabs",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1wqfakj87s665rmltnu70vrk62egemhyxzhrsjs",
+            "restake": {
+                "address": "core14e8p7sqyugqx0avum4gt92zmqn4npqpjgrh8g5",
+                "run_time": "every 12 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

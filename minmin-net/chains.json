@@ -3,12 +3,39 @@
   "name": "minmin-net",
   "chains": [
     {
+"name": "babylon",
+      "address": "bbnvaloper1gpdtyraa3fxxvhjs87u2dxqststx0w4pcr9tk9",
+      "restake": {
+        "address": "bbn1ad6hwttsftzsajnxvssp7jzzqzxe4p3yyz42da",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
 "name": "chihuahua",
       "address": "chihuahuavaloper1g934hkpnqvg2wnaptj0rtgsl4jnemxtxum9mjx",
       "restake": {
         "address": "chihuahua1ad6hwttsftzsajnxvssp7jzzqzxe4p3ysff4nx",
         "run_time": "21:00",
         "minimum_reward": 10000000
+      }
+    },
+    {
+"name": "irisnet",
+      "address": "iva1sd0eevawxns6nfuav8v7ldqd5k7dnrsh35qvhf",
+      "restake": {
+        "address": "iaa1ad6hwttsftzsajnxvssp7jzzqzxe4p3yx7y2s4",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+"name": "mun",
+      "address": "munvaloper12qq4zws7u84dxz0tpkc3ag27v3x8wguasfltkt",
+      "restake": {
+        "address": "mun1ad6hwttsftzsajnxvssp7jzzqzxe4p3yfueas8",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
        }
     },
     {
@@ -21,12 +48,21 @@
        }
     },
     {
-"name": "mun",
-      "address": "munvaloper12qq4zws7u84dxz0tpkc3ag27v3x8wguasfltkt",
+"name": "sge",
+      "address": "sgevaloper1kxyt0drc54w22s43a6rfqk6kuvqvdtgxgn4kw5",
       "restake": {
-        "address": "mun1ad6hwttsftzsajnxvssp7jzzqzxe4p3yfueas8",
+        "address": "sge1ad6hwttsftzsajnxvssp7jzzqzxe4p3ydu699w",
         "run_time": "21:00",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
+      }
+    },
+    {
+"name": "source",
+      "address": "sourcevaloper1ptdr87ev232rst389qllf2dsu24jqvwp5uhgwt",
+      "restake": {
+        "address": "source1ad6hwttsftzsajnxvssp7jzzqzxe4p3y40a9z6",
+        "run_time": "21:00",
+        "minimum_reward": 100000
        }
     },
     {
@@ -36,33 +72,6 @@
         "address": "ununifi1ad6hwttsftzsajnxvssp7jzzqzxe4p3y97hfg2",
         "run_time": "21:00",
         "minimum_reward": 100000
-       }
-    },
-    {
-"name": "irisnet",
-      "address": "iva1sd0eevawxns6nfuav8v7ldqd5k7dnrsh35qvhf",
-      "restake": {
-        "address": "iaa1ad6hwttsftzsajnxvssp7jzzqzxe4p3yx7y2s4",
-        "run_time": "21:00",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-"name": "sge",
-      "address": "sgevaloper1kxyt0drc54w22s43a6rfqk6kuvqvdtgxgn4kw5",
-      "restake": {
-        "address": "sge1ad6hwttsftzsajnxvssp7jzzqzxe4p3ydu699w",
-        "run_time": "21:00",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-"name": "source",
-      "address": "sourcevaloper1ptdr87ev232rst389qllf2dsu24jqvwp5uhgwt",
-      "restake": {
-        "address": "source1ad6hwttsftzsajnxvssp7jzzqzxe4p3y40a9z6",
-        "run_time": "21:00",
-        "minimum_reward": 1000000
       }
     }
   ]

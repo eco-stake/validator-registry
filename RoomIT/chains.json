@@ -39,10 +39,10 @@
           }
     },
     {
-      "name": "bandchain",
-      "address": "bandvaloper13tf84rkc9yflru6kty4xj8jtkuzl6fd66f3q3z",
+      "name": "atomone",
+      "address": "atonevaloper10szh6uwqx8qy0lsp3fpkvnj99tsf2nf4g9uazc",
       "restake": {
-         "address": "band18nlqt4xxctalfctejyund4jujyd4v4e6vu9qkt",
+         "address": "atone16zv6xqknkcfk4ecgjh5d3nyu2l5t0adz726ex9",
          "run_time": "every 1 day",
          "minimum_reward": 1000000
       }
@@ -63,6 +63,15 @@
          "address": "ethm1c898dvtfaucu2dxtz6nu4hj7qgxdsutjyj7k5e",
          "run_time": "every 1 day",
          "minimum_reward": 1000000
+          }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1gn5rsz6mg4vkytqcft29lw9cgdyuaavzmpmgcl",
+      "restake": {
+         "address": "arkeo16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzn2nmdc",
+         "run_time": "every 1 day",
+         "minimum_reward": 100000000
           }
     }
   ]

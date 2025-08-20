@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "teritori",
-      "address": "torivaloper1ey35ftp7k7hvrr682ufnexpx30xh8easd48jhp",
-      "restake": {
-        "address": "tori17kxwsh0pnu25lqa97vdsc3f59mn3uswjetgk6n",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "gitopia",
       "address": "gitopiavaloper1dc58ks2vu4q9jkypaf52kqunyt0kn4l40fkyku",
       "restake": {

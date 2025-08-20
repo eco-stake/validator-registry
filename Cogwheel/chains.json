@@ -55,8 +55,11 @@
             "address": "atonevaloper14ddv0apf90h6u46zy4e6msct9hx04nte0zcyfe",
             "restake": {
                 "address": "atone1queqjvae6k6cuxqfhc8rmajwmvm36mv3alz0sa",
-                "run_time": "every 1 hours",
-                "minimum_reward": 10000
+                "run_time": [
+                    "09:00",
+                    "21:00"
+                ],
+                "minimum_reward": 1000000
             }
         },
         {

@@ -121,18 +121,6 @@
         ],
         "minimum_reward": 500000
       }
-    },
-    {
-      "name": "dymension",
-      "address": "dymvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvh6r6cy",
-      "restake": {
-        "address": "dym1te06mjvtw763dm8q8g7zd4gru8y3vvk4afvmck",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000000000000000
-      }
     }
   ]
 }

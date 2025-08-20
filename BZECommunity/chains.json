@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BZE Community",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper1sa42hn5fuupm5wpgz6msx4nmrpec6az96vjqjw",
+      "restake": {
+        "address": "atone16t3pr67p704tjmhsrclsx8nthaw4tadx4k9eeg",
+        "run_time": "13:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper1k27v68x9gtppsgt9scr3649tpjfxnqljh3qa3e",
+      "restake": {
+        "address": "bze16t3pr67p704tjmhsrclsx8nthaw4tadxxj44a8",
+        "run_time": "13:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

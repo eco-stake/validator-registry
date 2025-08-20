@@ -283,12 +283,7 @@
     },
     {
       "name": "migaloo",
-      "address": "migaloovaloper19v7ydxh2scq65jqlgtdyctfatvw0fnnsrnx4dg",
-      "restake": {
-        "address": "migaloo1v9vae554q55xa4pcfdm0p3kv8nxn50jkhcwgc8",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
-      }
+      "address": "migaloovaloper19v7ydxh2scq65jqlgtdyctfatvw0fnnsrnx4dg"
     },
     {
       "name": "kyve",
@@ -462,6 +457,24 @@
         "address": "althea1ksh2uvrvq7gftgdc8jd2n67pcwcztdxuh63yr3",
         "run_time": "every 1 day",
         "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1v6qtaspu4zcyvmzwh85wj6duwteyzcxyq9ljwk",
+      "restake": {
+        "address": "nillion1v9vae554q55xa4pcfdm0p3kv8nxn50jkpvepx2",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kaswtyqql",
+      "restake": {
+        "address": "axone1v9vae554q55xa4pcfdm0p3kv8nxn50jke2t9e5",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
       }
     }
   ]

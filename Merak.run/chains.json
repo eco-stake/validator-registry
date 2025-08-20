@@ -12,41 +12,15 @@
       }
     },
     {
-      "name": "umee",
-      "address": "umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c",
-      "restake": {
-        "address": "umee18hnw9arscc559gqt0eake3guyyv9k6wq2lkewr",
-        "run_time": "every 1 hour",
-        "minimum_reward": 11000000
-      }
-    },
-    {
       "name": "passage",
       "address": "pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4",
       "restake": {
         "address": "pasg18hnw9arscc559gqt0eake3guyyv9k6wqm3ju8w",
         "run_time": "every 1 hour",
-        "minimum_reward": 11000000
+        "minimum_reward": 1100000000
       }
     },
     {
-      "name": "comdex",
-      "address": "comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64",
-      "restake": {
-        "address": "comdex18hnw9arscc559gqt0eake3guyyv9k6wqlxfynx",
-        "run_time": "every 1 hour",
-        "minimum_reward": 11000000
-      }
-    },
-    {
-      "name": "axelar",
-      "address": "axelarvaloper1rq0m2w9dcxajzstfeherrt9p3zxhqfw4ssk5cr",
-      "restake": {
-        "address": "axelar18hnw9arscc559gqt0eake3guyyv9k6wqu8awps",
-        "run_time": "every 1 hour",
-        "minimum_reward": 11000000
-      }
-    },      {
       "name": "nyx",
       "address": "nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd",
       "restake": {
@@ -55,7 +29,5 @@
         "minimum_reward": 11000000
       }
     }
-
-  
   ]
 }
