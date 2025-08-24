@@ -7,8 +7,17 @@
       "address": "plqvaloper193m20w4ekv2f7e5mhet9j9c3mnpvsk3m32wvtm",
       "restake": {
         "address": "plq1tu967ks32ueuzveaph9gvc3cgls92rqw48dzma",
-        "run_time": "every 1 hour",
+        "run_time": ["12:00", "24:00"],
         "minimum_reward": 2000000000000000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmos1cwas7kp5d3vjed4fel4xxl9hj4y55nqvec3lrc",
+      "restake": {
+        "address": "cosmosvaloper140kq2fts8ed9m73a6dch7sgdap6hnp2p95f92k",
+        "run_time":  ["12:00", "24:00"],
+        "minimum_reward": 100000
       }
     }
   ]
