@@ -13,10 +13,10 @@
     },
     {
       "name": "cosmoshub",
-      "address": "cosmos1cwas7kp5d3vjed4fel4xxl9hj4y55nqvec3lrc",
+      "address": "cosmosvaloper140kq2fts8ed9m73a6dch7sgdap6hnp2p95f92k",
       "restake": {
-        "address": "cosmosvaloper140kq2fts8ed9m73a6dch7sgdap6hnp2p95f92k",
-        "run_time":  ["12:00", "24:00"],
+        "address": "cosmos1cwas7kp5d3vjed4fel4xxl9hj4y55nqvec3lrc",
+        "run_time": ["12:00", "24:00"],
         "minimum_reward": 100000
       }
     }
