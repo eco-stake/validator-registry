@@ -3,11 +3,20 @@
   "name": "Vinjan.Inc",
   "chains": [
     {
+      "name": "bitbadges",
+      "address": "bbvaloper1smzw432e8swk4f2ulkphlmgu4fpst5skf9mvzp",
+      "restake": {
+        "address": "bb1t8u5t4fwr892q7ywga7ux90j8xhku7ap9w4pgk",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },     
+    {
       "name": "dungeon",
       "address": "dungeonvaloper1gez8nzxfvtawgy58pddy5dql6gfj60a9wxs0qe",
       "restake": {
         "address": "dungeon12fu5nsxut8472g6e74lvygdnzcz3ss0mnp69rr",
-        "run_time": ["09:00", "21:00"],
+        "run_time": "every 6 hours",
         "minimum_reward": 100000     
        }
      }
