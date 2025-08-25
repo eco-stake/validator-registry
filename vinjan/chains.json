@@ -10,15 +10,15 @@
         "run_time": "every 6 hours",
         "minimum_reward": 100000
       }
-    },     
+    },
     {
       "name": "dungeon",
       "address": "dungeonvaloper1gez8nzxfvtawgy58pddy5dql6gfj60a9wxs0qe",
       "restake": {
         "address": "dungeon12fu5nsxut8472g6e74lvygdnzcz3ss0mnp69rr",
         "run_time": "every 6 hours",
-        "minimum_reward": 100000     
-       }
-     }
+        "minimum_reward": 100000
+      }
+    }
   ]
 }
