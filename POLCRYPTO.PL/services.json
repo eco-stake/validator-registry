@@ -5,6 +5,7 @@
     {
       "chain": "chain4energy",
       "category": "Public Nodes",
+      "title": "POLCRYPTO.PL public endpoints for Chain4Energy",
       "items": [
         { "type": "RPC",  "address": "https://rpc.polcrypto.pl",  "provider": "POLCRYPTO.PL" },
         { "type": "REST", "address": "https://rest.polcrypto.pl", "provider": "POLCRYPTO.PL" },
