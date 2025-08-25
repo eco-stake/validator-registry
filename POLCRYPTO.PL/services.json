@@ -8,7 +8,7 @@
       "items": [
         { "type": "RPC",  "address": "https://rpc.polcrypto.pl",  "provider": "POLCRYPTO.PL" },
         { "type": "REST", "address": "https://rest.polcrypto.pl", "provider": "POLCRYPTO.PL" },
-        { "type": "gRPC", "address": "grpc.polcrypto.pl:443",     "provider": "POLCRYPTO.PL" }
+        { "type": "gRPC", "address": "https://grpc.polcrypto.pl:443", "provider": "POLCRYPTO.PL" }
       ]
     }
   ]
