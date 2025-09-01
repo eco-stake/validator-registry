@@ -8,7 +8,7 @@
       "restake": {
         "address": "terra1n7ze26j73yfjapaxj4exa5ced2520qkpqgy5jk",
         "run_time": "01:00",
-        "minimum_reward": 1000000000
+        "minimum_reward": 1
       }
 	}
   ]
