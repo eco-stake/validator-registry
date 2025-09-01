@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "ProdTesting",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper1ngtvzay2uxyv344kndahne70grs09tyrn2v6hc",
+            "restake": {
+                "address": "testcore1vpys2gx3gtj3dkwpr9eptdsaf3vsmugkkfpcqf",
+                "run_time": "every 1 hours",
+                "minimum_reward": 11000000
+            }
+        }
+    ]
+}
