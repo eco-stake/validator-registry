@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "dimi 🦙",
+  "chains": [
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1e64ezvwfy0tquprzum7e2aauxkqecnfpmcxc5t",
+      "restake": {
+        "address": "comdex1vlzuqyyw8cnuxzhghf6824m96nh5vdlh8rq3eh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper1s33zct2zhhaf60x4a90cpe9yquw99jj0ay9g6j",
+      "restake": {
+        "address": "juno1vlzuqyyw8cnuxzhghf6824m96nh5vdlhk7pg8u",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1s33zct2zhhaf60x4a90cpe9yquw99jj0x8t08z",
+      "restake": {
+        "address": "osmo1vlzuqyyw8cnuxzhghf6824m96nh5vdlhgh3rkj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

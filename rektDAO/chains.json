@@ -1,0 +1,24 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "rektDAO",
+    "chains": [
+        {
+            "name": "stargaze",
+            "address": "starsvaloper1ylh6ptn0yt7h6a5zfyuvra6wtynzuvnakl6mr7",
+            "restake": {
+                "address": "stars1und6hl28vtdvhdxyf709nz0naxvathdjdv7zhk",
+                "run_time": "03:00",
+                "minimum_reward": 100000000
+            }
+        },
+        {
+            "name": "rebus",
+            "address": "rebusvaloper1klanwwz379us4dqdrk4s2cl2sk75u3pwzv3eu2",
+            "restake": {
+                "address": "rebus1und6hl28vtdvhdxyf709nz0naxvathdjg622g3",
+                "run_time": "every 1 hour",
+                "minimum_reward": 100000000000000000
+            }
+        }
+    ]
+}

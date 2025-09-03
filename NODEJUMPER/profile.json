@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "NODEJUMPER",
+  "identity": "FFB0AA51A2DF5954",
+  "website": "https://nodejumper.io",
+  "description": {
+    "overview": "Nodejumper is a multi tool for cosmos based networks. It provides a whole bunch of helpful support features for cosmos blockchains.",
+    "team": "We are the nodejumper.io team - a professional PoS validator that is focused on blockchain consumers & validators, helping them to easily join the Cosmos SDK community and make it bigger and more valuable."
+  },
+  "contacts": {
+    "email": "hello@nodejumper.io",
+    "telegram": "nodejumper",
+    "twitter": "nodejumper"
+  }
+}

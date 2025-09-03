@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Consensus One",
   "chains": [
     {
@@ -30,7 +31,7 @@
       "address": "cerberusvaloper1ga0xxzst2hjyjtfqnffz2mapn8vk8ufysqsn30",
       "restake": {
         "address": "cerberus15xa7vst3jca9qjkngmlysrdfur8gsex9w6ru0g",
-        "run_time": "every 5 minutes",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     },
@@ -56,6 +57,15 @@
       }
     },
     {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1dm6n0u6l7vwn7nyy87gzmfjryg5jsg9kzn6kng",
+      "restake": {
+        "address": "cosmos15xa7vst3jca9qjkngmlysrdfur8gsex9jar46r",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "desmos",
       "address": "desmosvaloper18yazgsq8yvn2f8c734fmnu2ssfrzpw7l8tqckm",
       "restake": {
@@ -77,6 +87,15 @@
           "21:00"
         ],
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper18lgy886ruwkuaefm2c0sn0gt9kgnj0de3kt6pv",
+      "restake": {
+        "address": "evmos1vfr8h8y0fcv4h4nf3murhl739u0uxyg9jkldq4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -124,6 +143,27 @@
           "09:00",
           "21:00"
         ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1ldu6ew0cff400qmn0trkad38gx250zny45q9au",
+      "restake": {
+        "address": "osmo15xa7vst3jca9qjkngmlysrdfur8gsex96xs9v3",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1sa8av4qw3xerr58kwvnm8wvd87zgp36mv6cnyg",
+      "restake": {
+        "address": "secret1m7uulm62l60nz2pjvj2y8w3rtjtkm8amayhdds",
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },

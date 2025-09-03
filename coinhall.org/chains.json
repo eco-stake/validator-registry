@@ -1,0 +1,50 @@
+{
+  "name": "coinhall.org 📈🔄",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1y3u3ht35yn82j72sejtf85dkvqwlt302x47lk9",
+      "restake": {
+        "address": "juno1mqdaym2dhn74tpn02y6uaw60dp0svu9jlwp5u9",
+        "run_time": "02:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1yp8qwkfs964pkg3rge3k6ree2e6lrttgc8aqzn",
+      "restake": {
+        "address": "osmo1mqdaym2dhn74tpn02y6uaw60dp0svu9jp83ldt",
+        "run_time": "02:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1ge3vqn6cjkk2xkfwpg5ussjwxvahs2f6at87yp",
+      "restake": {
+        "address": "terra177266cjjdnvjaylkq467j5hckph07r9k3q97cj",
+        "run_time": "02:15",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1ka5clr8wmdr50cs8dcrnfsszyunlxs72r36j5e",
+      "restake": {
+        "address": "inj1l8n0a82xnyyc53wjgc8tf692zhzwk5a60u4zlv",
+        "run_time": "02:45",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1k3cwphx5zuvvcd094mugc9p2ulqelrdrz3jrrt",
+      "restake": {
+        "address": "orai1mqdaym2dhn74tpn02y6uaw60dp0svu9j605v62",
+        "run_time": "03:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Crypto Chemistry",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5e7kyful",
+      "restake": {
+        "address": "kujira1njj830jqf0zg79w4n738c7jfr8w65e0ewvpy6f",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5eyxm6vu",
+      "restake": {
+        "address": "jkl1njj830jqf0zg79w4n738c7jfr8w65e0ex6ddwu",
+        "run_time": [
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stride",
+      "address": "stridevaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5eg43z4n",
+      "restake": {
+        "address": "stride1njj830jqf0zg79w4n738c7jfr8w65e0eu0rqr0",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper10d8ka27mt3t3uyrqqva3j6ztwj3jl4zxpppskf",
+      "restake": {
+        "address": "secret1amwsrnc6a96fch2yqjqz90vp5tvlgdwlmpwfu4",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mars",
+      "address": "marsvaloper1tfknxt857r4lm8eh2py5n3yq00t3mq5ep6swuy",
+      "restake": {
+        "address": "mars1njj830jqf0zg79w4n738c7jfr8w65e0eze69zc",
+        "run_time": "12:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

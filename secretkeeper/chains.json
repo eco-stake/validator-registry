@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Secret Keeper",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1lyafdwwzwfmjc8zhsew5pdcdu46na6pg09fql4",
+      "restake": {
+        "address": "secret17zgl4dcmehnl4y2ur4e3xdyk4z6zssu35ypk5n",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,14 +1,15 @@
 {
-  "name": "# Datax | BUIDL for DSM",
-  "chains": [
-    {
-      "name": "desmos",
-      "address": "desmosvaloper1pe2fwwffxn2qnykeut8wzm20sv6eevxedlgpfu",
-      "restake": {
-        "address": "desmos169n5p9xuhsnn85xunkg7sdmhtwqgwc3jhnzc0u",
-        "run_time": "21:00",
-        "minimum_reward": 10000
-      }
-    }
-  ]
+    "$schema": "../chains.schema.json",
+    "name": "# Datax | BUIDL for DSM",
+    "chains": [
+        {
+            "name": "desmos",
+            "address": "desmosvaloper1pe2fwwffxn2qnykeut8wzm20sv6eevxedlgpfu",
+            "restake": {
+                "address": "desmos1cttl86ufne2qvctzdjtnunapr9y9qptt9chfra",
+                "run_time": "21:00",
+                "minimum_reward": 10000
+            }
+        }
+    ]
 }

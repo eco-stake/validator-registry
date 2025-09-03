@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Active Nodes",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1cke3ja95gkg4drpf28vt454k7pt0pvcmm56lqj",
+      "restake": {
+        "address": "akash1w4du0y6705rqregfl6cktm7swds6t4dssplxyv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1nqmeykpnqdccxf2kfqnwszy748ll3qlzu0heyt",
+      "restake": {
+        "address": "band1a2r0f6f24w3utxu5adktjqnfy8qj9drkhjkl3g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1mhlwudq5eu9crrs3e0m87j7p2sp0nrk7u6qewn",
+      "restake": {
+        "address": "firma1melp9uzaxxqretdvr7tcmtf6k99krgh9kcx5ec",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1vjcwc2ehpxykw4dr0j9k3gxygwmvecmcy6garq",
+      "restake": {
+        "address": "fetch1w4du0y6705rqregfl6cktm7swds6t4dsw8m9lp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "kujira",
+      "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
+      "restake": {
+        "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
+      "restake": {
+        "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper18ucrwuvzgzmh9dlurmeq5c4hljdgnkp2fwmkcm",
+      "restake": {
+        "address": "panacea1tslafy7gnalqha8ryvp8gyf60tyslcg7rlu0hv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper17ga9jha45gu0x04yrmfpjpksmqe48wupzk5jex",
+      "restake": {
+        "address": "sei1w4du0y6705rqregfl6cktm7swds6t4dsskrhmh",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv",
+      "restake": {
+        "address": "terra1ws7lc048pemg09dp3ehl9094z0p0hyzqr72pm9",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

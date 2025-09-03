@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "binary_holdings",
   "chains": [
     {
@@ -7,7 +8,7 @@
       "restake": {
         "address": "osmo1mmg6pqqnu6ktl4yp0afwzz6g33w8kpw35sufdn",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 10000
       }
     },
     {
@@ -16,7 +17,16 @@
       "restake": {
         "address": "umee1mmg6pqqnu6ktl4yp0afwzz6g33w8kpw3wajxln",
         "run_time": "every 1 hour",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1e4vye322gkjx8n85jgcclnc7nvdvu82axnr5ll",
+      "restake": {
+        "address": "cosmos1mmg6pqqnu6ktl4yp0afwzz6g33w8kpw3ut0emp",
+        "run_time": "every 7 hours",
+        "minimum_reward": 100000
       }
     }
   ]

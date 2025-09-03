@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "16psyche",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1ysywap8nllx5fn9had5qhywktnweuquvl4h85t",
+      "restake": {
+        "address": "akash1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8669d33",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000 
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1gwmw0w4gul7885f9ce84ersp5thdnqceesr052",
+      "restake": {
+        "address": "osmo1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8l6m67e",
+        "run_time": "18:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper13efcvenx3jpkcznqla4qk6pmq9rln2p5lmdu2w",
+      "restake": {
+        "address": "sif1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8ju8u8q",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1gwmw0w4gul7885f9ce84ersp5thdnqceyp8k52",
+      "restake": {
+        "address": "rebus1l9meqpuuyxsl49xsn5w5ur6tc6kezjj8xttlua",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

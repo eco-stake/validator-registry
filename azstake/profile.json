@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "azstake",
   "identity": "5BC5BEB7D5633136"
 }

@@ -1,0 +1,24 @@
+{
+   "$schema": "../chains.schema.json",
+   "name": "TCB",
+   "chains": [
+     {
+       "name": "terra",
+       "address": "terravaloper1mpmn2y9qw4dn6z2q3a7hy4c3wjztmvu7wz4r4u",
+       "restake": {
+         "address": "terra1hljrnl606gwcan24de4tz3gek7uvjs9nc0ef82",
+         "run_time": "21:00",
+         "minimum_reward": 1000000000
+       }
+     },
+     {
+       "name": "terra2",
+       "address": "terravaloper1kxyzu575tex8dv6d5uk26t4q8x5lusw082w3t8",
+       "restake": {
+         "address": "terra1hljrnl606gwcan24de4tz3gek7uvjs9nc0ef82",
+         "run_time": "21:00",
+         "minimum_reward": 1000000
+       }
+     }
+   ]
+ }

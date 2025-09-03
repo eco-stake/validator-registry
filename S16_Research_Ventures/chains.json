@@ -1,0 +1,39 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "S16 Research Ventures",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1uhnsxv6m83jj3328mhrql7yax3nge5svrv6t6c",
+      "restake": {
+        "address": "cosmos1yw3j54275lz30aamjcwk67kf2fd70mtd45xdt8",
+        "run_time": [
+          "03:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1uxn3xw4xzyvu3xka0fr7krsfzyp8af3eyyurzh",
+      "restake": {
+        "address": "osmo1yw3j54275lz30aamjcwk67kf2fd70mtda04aa4",
+        "run_time": [
+          "05:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "sidechain",
+      "address": "sidevaloper1qqrqgygnryxsuzg6p5v3uqgeqsg3vrc4zvzqv8g7qyzpgqc9qsgqzvrcsv4",
+      "restake": {
+        "address": "side1yw3j54275lz30aamjcwk67kf2fd70mtdp4mh4q",
+        "run_time": [
+          "07:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

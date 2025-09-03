@@ -1,0 +1,22 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "RockawayX Infra",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1thl5syhmscgnj7whdyrydw3w6vy80044srysxn"
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1thl5syhmscgnj7whdyrydw3w6vy80044kf4tn2"
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1thl5syhmscgnj7whdyrydw3w6vy8004480teal"
+    },    
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1thl5syhmscgnj7whdyrydw3w6vy80044ty5hup"
+    }
+  ]
+}

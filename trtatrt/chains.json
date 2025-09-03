@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CBC_Venture_Capital",
+  "chains": [
+    {
+      "name": "mun",
+      "address": "munvaloper1u7y8vuj9vc6ru3yjzaqyrknxddftnzvg6seuc0",
+      "restake": {
+        "address": "mun1cdcj9q5mmgn5vt2jk5u5jn7k7cyc2z6k02yrj8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

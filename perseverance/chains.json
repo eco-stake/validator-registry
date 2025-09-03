@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Perseverance 🇩🇪",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl13up2ue4ttsnp83a84vauyn7449wut09ru0p2y3",
+      "restake": {
+        "address": "cro1xgu6e0xsg8qv0glq98v77et6z7xeac4fzeyml9",
+        "run_time": "20:30",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

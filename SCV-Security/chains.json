@@ -1,0 +1,67 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SCV-Security",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1k4ruuv5qhgzh5pg8w2yyxlh478gqjms2ry967e",
+      "restake": {
+        "address": "kujira1ewps7h457xpuxhllyjwn0mnnhfprnqlhejxmq2",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper19a77dzm2lrxt2gehqca3nyzq077kq7qsgvmrp4",
+      "restake": {
+        "address": "inj1nsdlcpvuhae9a0g9vzg25mjq25q653g6s50hu7",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+
+    {
+      "name": "mars",
+      "address": "marsvaloper1phtp2e2zhxqp4u62v7ym8u745ffqs0kmcqpaft",
+      "restake": {
+        "address": "mars1ewps7h457xpuxhllyjwn0mnnhfprnqlh48a6cm",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1pwqdcepqz2j98ttt3825n8agcs4rketsq33hy5",
+      "restake": {
+        "address": "migaloo1ewps7h457xpuxhllyjwn0mnnhfprnqlh9wdecw",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+     {
+      "name": "terra2",
+      "address": "terravaloper10c04ysz9uznx2mkenuk3j3esjczyqh0j783nzt",
+      "restake": {
+        "address": "terra1h8qgj50wa645cuu5duprpy6mp23efa3japy93y",
+        "run_time": [
+          "12:00",
+          "00:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

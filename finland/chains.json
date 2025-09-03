@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🌲 Finland | 0% fee",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1xkavscemvn45mva83q0zhpv0lgpnwzfs57j5yc",
+      "restake": {
+        "address": "cro1ctmzrnkl08gaf66amdj5y6akvmhvjh5mk4hjjx",
+        "run_time": ["05:30", "17:30"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

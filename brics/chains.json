@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "brics",
+  "chains": [
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1mmc4gj5paeuymeyf5alsf33kt3gvh4wammzcvp",
+      "restake": {
+        "address": "panacea1xqlsd8978pe06w9xym2grlfz3hs5e762y3r4lp",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

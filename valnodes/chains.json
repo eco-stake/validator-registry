@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Valnodes - Carbon Neutral Staking",
   "chains": [
     {

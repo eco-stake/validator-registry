@@ -1,0 +1,13 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BG-SHI-VAL01",
+  "chains": [{
+    "name": "shido",
+    "address": "shidovaloper14xyamsv4xh3m2l7ytmgae4x66y2ggx3pvrdru7",
+    "restake": {
+      "address": "shido1r3v429jw2t0vr9a4jafryxaa4zm6rnglpvqxye",
+      "run_time": "every 1 minute",
+      "minimum_reward": 100000000000000000
+    }
+  }]
+}

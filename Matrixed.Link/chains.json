@@ -1,0 +1,23 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Matrixed.Link",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper1rals2gachf9555wj5puhm7l4wnkevwjesklcff",
+      "restake": {
+        "address": "acre12mx5nfj02dmuzxvann6yqmfkeafx7hz0t06kgq",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1cwzl3q4h5v8yvzlp64h7fwnduzut3f4nst2gdp",
+      "restake": {
+        "address": "inj12mx5nfj02dmuzxvann6yqmfkeafx7hz0m94394",
+        "run_time": ["01:00", "13:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }]
+}

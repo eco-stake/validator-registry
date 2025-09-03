@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "deNodes",
+  "chains": [
+    {
+      "name": "dymension",
+      "address": "dymvaloper1dq745p6w7juw6s8xwh8xethfxwxn9uv0efu3cr",
+      "restake": {
+        "address": "dym1hkzhxrpl8cp6hjxuq7f7tqpccwaypene00wul9",
+        "run_time": "20:00",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

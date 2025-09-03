@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Digiline",
+  "chains": [
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1pg2jlr592npuetvm47dtdagj8qp9tyma7f02ay",
+      "restake": {
+        "address": "secret1m22wfv9m7pvefdnpnp6za39h0gzquafl2h453m",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

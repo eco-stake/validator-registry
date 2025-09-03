@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "reFUND",
+  "chains": [
+    {
+      "name": "unification",
+      "address": "undvaloper1k03uvkkzmtkvfedufaxft75yqdfkfgvgsgjfwa",
+      "restake": {
+        "address": "und15eja9gte9e35gtnl70322kqjcdtscdu3tmrrv0",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10000000
+       }
+    }
+    ]
+}

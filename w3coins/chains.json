@@ -1,0 +1,174 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "w3coins",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1tfmed8ueaxrmdsvkecrae6renyxjct8xwdkes5",
+      "restake": {
+        "address": "agoric1cxh29u6xdfz87xj9tm0h4r8evcnsu8qrggqnpp",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper14jz04wwvwkpjzezq8zvrl5yv4qq3p5lqct7plh",
+      "restake": {
+        "address": "akash19gq7zduyt7ga7wvafej5gnz5tj5phjrk4396ew",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1lz9p2lggvnz69dm3gutl3jd9z0gxrhh65j4lrs",
+      "restake": {
+        "address": "archway1tcw7hxjd8j5epkjr4yh93yunk6ye2gehfyavgx",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1e+19
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1hdw8pzr79y4at0teak0mwcrjhv3e6n3wegfv2m",
+      "restake": {
+        "address": "band1h7akj8cckfrjhndvxtl3ql62ru0kgvxplrpdam",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper17zv86ujaylupukxt6lplg8qtz738n8l4mhk6cm",
+      "restake": {
+        "address": "empower1tcw7hxjd8j5epkjr4yh93yunk6ye2gehqr9rc0",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1mh2lvhy0clzlx645yet4340ra0p5hh2zjyptj9",
+      "restake": {
+        "address": "evmos1ts0gk2p7khvkpexgug24n6prfd6hmffgjprcxj",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1e+19
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper15w6ra6m68c63t0sv2hzmkngwr9t88e23r8vtg5",
+      "restake": {
+        "address": "cosmos19gq7zduyt7ga7wvafej5gnz5tj5phjrkc2gaq5",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper14gtl0dgam6cqvjkuh6kfcnszchwzk0ghumdmhw",
+      "restake": {
+        "address": "fetch19gq7zduyt7ga7wvafej5gnz5tj5phjrkthpezr",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1e+17
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1tly62qxj2t8wz2zw4d7p37jcysvgasqa0zjtlk",
+      "restake": {
+        "address": "inj12ly9dy36srw5crnj8335cjnungq7l4tdzh2a4s",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1e+17
+      }
+    },
+    {
+      "name": "irisnet",
+      "address": "iva18x27mzk6xchwynyqa35hrknfwxet82ass5987a",
+      "restake": {
+        "address": "iaa19gq7zduyt7ga7wvafej5gnz5tj5phjrkdggvz9",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper14uhx3rrqy5wat52ed663jyte70jm93335qfak0",
+      "restake": {
+        "address": "nolus19gq7zduyt7ga7wvafej5gnz5tj5phjrkw6czz3",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper139el73jc3jca4atp7rvgc6lupk2na6rqhl4r9f",
+      "restake": {
+        "address": "regen19gq7zduyt7ga7wvafej5gnz5tj5phjrk8grpks",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper19z74520tdw5gps5sp5tr8y2mxr40artly6rsw3",
+      "restake": {
+        "address": "secret13mpqnfg59tsvypsy5a0rlpjpv84n8k3xzkaw9r",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1cv2qlz78j5d8fs75lxnystu2lsprvt64yrgfap",
+      "restake": {
+        "address": "umee19gq7zduyt7ga7wvafej5gnz5tj5phjrk2u4zyx",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

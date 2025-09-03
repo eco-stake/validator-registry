@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "titan",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1u2344d8jwtsx5as7u5jw7vel28puh34q7d3y64",
+      "restake": {
+        "address": "orai1qrxt93szfad2kx06laq9g9jnpcchgc5h0524ff",
+        "run_time": [
+          "10:10"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

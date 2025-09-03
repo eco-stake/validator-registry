@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "FireStake",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1hygh3ferns6tnu0kg03aspc8yrlm6593rkru6c",
+      "restake": {
+        "address": "evmos10v2gw6ksefw7rd7vcwzrlhgnf30h7wrqyz2t2r",
+        "run_time": "21:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "meme",
+      "address": "memevaloper1fgqryqq06lghp05c4tewqq5njxm4vwnxrkjq0s",
+      "restake": {
+        "address": "meme1k2su7w6nva5jpguy326vkn24rl6pc0mk5d3mk7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

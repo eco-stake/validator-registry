@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Zenscape",
+    "chains": [
+        {
+            "name": "comdex",
+            "address": "comdexvaloper1gjcv70fqf4557g8uqsk83l82fccykx0ye43ul9",
+            "restake": {
+            "address": "comdex1gh8697lau34wemw8cg452qunk5vndrxm0ld6al",
+            "run_time": "21:00",
+            "minimum_reward": 1000000
+            }
+        }
+    ]
+}

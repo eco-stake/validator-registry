@@ -1,4 +1,20 @@
 {
-  "name": "  polkachu.com | 0% fee",
-  "identity": "0A6AF02D1557E5B4"
+  "$schema": "../profile.schema.json",
+  "name": "polkachu.com",
+  "identity": "0A6AF02D1557E5B4",
+  "website": "https://polkachu.com",
+  "description": {
+    "overview": "Polkachu is the trusted staking and infrastructure service provider for blockchain projects.",
+    "team": "Polkachu is founded by a group of technology professionals who focus on providing the highest quality infrastructure and services for public blockchain networks. We believe that a decentralized world is what the future holds, and we want to be a part of it by being a blockchain validator."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hello@polkachu.com",
+    "telegram": "polkachu",
+    "twitter": "polka_chu",
+    "discord": "https://discord.gg/NV5dXqaf",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

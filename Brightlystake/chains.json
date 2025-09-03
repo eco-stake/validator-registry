@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Brightlystake",
+  "chains": [
+    {
+      "name": "jackal",
+      "address": "jklvaloper1xu2k6cgc2kvx3dmuw5th4h44jrpfrd57n6fak2",
+      "restake": {
+        "address": "jkl1j8lfj7hgrtkrcn02kk2tfn367wjye6xl6uvs6e",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper19y52qzj4hxw0u68krfptkjlm77cvth8dgum7yu",
+      "restake": {
+        "address": "celestia1j8lfj7hgrtkrcn02kk2tfn367wjye6xljgn3et",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 10000000
+      }
+    }
+	  ]
+}

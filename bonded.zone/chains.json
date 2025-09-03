@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "bonded.zone ⚡",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge",
+      "restake": {
+        "address": "bitsong13qhf39ptz3pk2aqfrzfxtkkng29yv4v0uldu0l",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh",
+      "restake": {
+        "address": "bcna1697u73cta3pcg9u2tt7mg9nslfvlm5nx8p6w6t",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr",
+      "restake": {
+        "address": "rizon1697u73cta3pcg9u2tt7mg9nslfvlm5nx7vk77p",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k",
+      "restake": {
+        "address": "desmos1emual8vt89nfsz30sccvpuuu0e2ud2pq2pgu73",
+        "run_time": "every 1 minute",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

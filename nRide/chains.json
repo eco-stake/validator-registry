@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "nRide.com - web3.0 powered ride-hailing application",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper176qmnrvnr5pmfret9l36xqpm87e4l3ww6mjwtv",
+      "restake": {
+        "address": "juno1uzcagr0ss5ryn7a7244gwxuy9ls0kvwj2yt4na",
+        "run_time": "every 6 hours",        
+        "minimum_reward": 100000
+      }
+    
+    }
+   ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Nansen",
+  "$schema": "../chains.schema.json",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqv5qgdz9",
+      "restake": {
+        "address": "osmo1ltd3ynqjvy39r3lc48p4zlqa59hvam5tagerlj",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1jlr62guqwrwkdt4m3y00zh2rrsamhjf9num5xr",
+      "restake": {
+        "address": "cosmos1ltd3ynqjvy39r3lc48p4zlqa59hvam5t4n2nfq",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn4hl7n",
+      "restake": {
+        "address": "band1d5680hm987yjv37f44extr4gmrrzjn95cyjdts",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1jlednjxak55pekp8ewg225wdy5wc9c5tzhgx2z",
+      "restake": {
+        "address": "shentu1ltd3ynqjvy39r3lc48p4zlqa59hvam5ta8w2ma",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvp4sl2q",
+      "restake": {
+        "address": "akash1ltd3ynqjvy39r3lc48p4zlqa59hvam5tcg85s6",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvjeqh0m",
+      "restake": {
+        "address": "celestia1ltd3ynqjvy39r3lc48p4zlqa59hvam5tyemrnd",
+        "run_time": [
+          "00:00",
+          "12:00"
+        ],
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

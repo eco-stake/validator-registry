@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Chiter in Cosmos ⚛",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper193m20w4ekv2f7e5mhet9j9c3mnpvsk3m32wvtm",
+      "restake": {
+        "address": "plq1tu967ks32ueuzveaph9gvc3cgls92rqw48dzma",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 2000000000000000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper140kq2fts8ed9m73a6dch7sgdap6hnp2p95f92k",
+      "restake": {
+        "address": "cosmos1cwas7kp5d3vjed4fel4xxl9hj4y55nqvec3lrc",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1603r7hdvmntnh67rr6gnf3myg5sj0020rdm774",
+      "restake": {
+        "address": "atone1cwas7kp5d3vjed4fel4xxl9hj4y55nqvhcdc4q",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1lw979at0ckctgf7d0tnuk8j0l83ntpa04yf6yn",
+      "restake": {
+        "address": "osmo1cwas7kp5d3vjed4fel4xxl9hj4y55nqv3rz042",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 4000000
+      }
+    }
+  ]
+}

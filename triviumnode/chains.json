@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Trivium | Trivium.Network",
   "chains": [
     {

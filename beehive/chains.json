@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Beehive",
+  "chains": [
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1gyrrvup6x3g732uhxq9x0qd4lyjjcs62j0kdhf",
+      "restake": {
+        "address": "rizon1sm90g8lvqu9z72pgw62t870uewu53fywtyyr99",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "osmosis",
+      "address": "osmovaloper1xaunn3pnvnkkue5unpxgucme5n0fqyzxqwfghe",
+      "restake": {
+        "address": "osmo1sm90g8lvqu9z72pgw62t870uewu53fywqztzl0",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1tppl0m9tqpy04vdmhxk7gya90zfftj94vkyn2t",
+      "restake": {
+        "address": "panacea1qhm0dv7sdz7s7c6cwulurpgfs6d6gdapakx6wg",
+        "run_time": "21:00",
+        "minimum_reward": 10000000
+     }
+    },
+    {
+       "name": "evmos",
+       "address": "evmosvaloper1nfx47fqnqpcarqwt7qn4fk0llc57vvh3wgg35c",
+       "restake": {
+         "address": "evmos1gat59ad56d8r7qgkw6run8y252qhrws4kl8tqz",
+         "run_time": "21:00",
+         "minimum_reward": 1000000000000000000
+       }
+     }
+  ]
+}

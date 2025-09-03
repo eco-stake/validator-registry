@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cryptonian",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper1qfv3fyan5f4sylvnqzk9sxzlck823jy3a3dwg6",
+      "restake": {
+        "address": "terra1ey2e4wc0zpxrwewfg6zuwg3yawwdcww7007trl",
+        "run_time": "01:00",
+        "minimum_reward": 1000000000
+      }
+	},
+    {
+      "name": "bandchain",
+      "address": "bandvaloper13w67kucjvfcjr3du33fptqqpag5cgjqksv9sxt",
+      "restake": {
+        "address": "band18jqyewtnut96n5v3gyvsjdz3ql6yu78a8svd99",
+        "run_time": "01:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper10sv5pjze703006767hh52jqlkamqe7vnygagc5",
+      "restake": {
+        "address": "shentu1zmj78gvzzrm0v8qp3edzqy26e7kdkx8w4052sg",
+        "run_time": "01:00",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

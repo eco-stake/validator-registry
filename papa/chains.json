@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Papa Smurf",
+  "chains": [
+    {
+      "name": "acrechain",
+      "address": "acrevaloper10qxrwsw00smv2j277lelxjfvrrpkv207msdvwz",
+      "restake": {
+        "address": "acre1lk099ugpw7pcmr9wrxaaxr3wjpzt2smz22fzd3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+ }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper10qxrwsw00smv2j277lelxjfvrrpkv207hkm4j8",
+      "restake": {
+        "address": "rebus1zzfl28u0fck9hg0py27yja3wn2wxaelpnnvrr4",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+    }
+    }
+  ]
+}

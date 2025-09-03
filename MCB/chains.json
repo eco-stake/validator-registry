@@ -1,0 +1,42 @@
+{
+  "$schema":"../chains.schema.json",
+  "name":"MCB",
+  "chains":[
+     {
+        "name":"impacthub",
+        "address":"ixovaloper1m9axut3xestl5tfgyr6kyeh99e2vlxlc3wdcc9",
+        "restake":{
+           "address":"ixo1m9axut3xestl5tfgyr6kyeh99e2vlxlcm0afqq",
+           "run_time":"every 1 hour",
+           "minimum_reward":10000
+        }
+     },      
+     {
+        "name":"evmos",
+        "address":"evmosvaloper1gp3smgnl92elvknutdz4jvc0yfjfhz9gs8c8yd",
+        "restake":{
+           "address":"evmos1gp3smgnl92elvknutdz4jvc0yfjfhz9gafhh9s",
+           "run_time":"every 1 hour",
+           "minimum_reward":10000
+        }
+     },      
+     {
+        "name":"passage",
+        "address":"pasgvaloper1afscy3xfyfmkxnqsgmam0ggf4fx62wz8sd7kjh",
+        "restake":{
+           "address":"pasg1afscy3xfyfmkxnqsgmam0ggf4fx62wz8r357nt",
+           "run_time":"every 1 hour",
+           "minimum_reward":10000
+        }
+     },
+     {
+     "name": "gravitybridge",
+     "address": "gravityvaloper19uwnjc4fhftygyzr8wv5m8m0l4kjzkpsamzk2r",
+     "restake": {
+       "address": "gravity19uwnjc4fhftygyzr8wv5m8m0l4kjzkpsvsmgqh",
+       "run_time": "every 1 hour",
+       "minimum_reward": 10000
+     }
+   }
+  ]
+}

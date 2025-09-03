@@ -1,0 +1,11 @@
+{
+    "$schema": "../services.schema.json",
+    "name": "node101",
+    "services": [
+      {
+        "title": "node101",
+        "description": "We provide multiple infrastructure support and Event hostsing in Turkey for Cosmos Based project Here are some of our services and events: state-sync, seed, peers, IBC relaying, PRC, API, GRPC, JSON RPC etc. Also these are our events we have hosted; https://www.cryptist.org/ , https://istanbulblockchainsummit.org/ , https://events.node101.io/",
+        "url": "https://node101.io"
+      }
+    ]
+  }

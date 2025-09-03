@@ -1,0 +1,12 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "Stake Frites 🥩 🍟",
+  "services": [
+    {
+      "title": "Trakmos.app",
+      "description": "",
+      "image": "",
+      "url": "https://trakmos.app"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OasisNodes",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1q40rggc5cc0hsmstlv2t3juhgsxlz7chy2lm0w",
+      "restake": {
+        "address": "rebus1uyugkwdsjv0fal2fx0vm82rs8qgp6hp8zk7qu0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper1kw0ehlq6julc4s82nd2s2rsese2vtj5pm2wwem",
+      "restake": {
+        "address": "mantle1uyugkwdsjv0fal2fx0vm82rs8qgp6hp8dcxshn",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper10wlzyl5pfm6qfzg9mr73u9jwv9gx595z4kc9ae",
+      "restake": {
+        "address": "desmos1nr0m5ujau8j3t5296uja5yaalushctz4m7h8fm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "decentr",
+      "address": "decentrvaloper1j98gepy9nlnqwwe69m0wxlc4j0eyh0rumer9qd",
+      "restake": {
+        "address": "decentr1uyugkwdsjv0fal2fx0vm82rs8qgp6hp8cjmpf3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1jf7rmj9nh9xw6f5acdyaksslv4uzlqe2x7kdgd",
+      "restake": {
+        "address": "kava16kfdy4uksjxjjdsar5mj6cdu8q8ju25ayvuzuz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 2000000
+      }
+    }
+  ]
+}

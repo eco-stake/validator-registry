@@ -1,0 +1,50 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Upnode",
+  "chains": [
+    {
+      "name": "evmos",
+      "address": "evmosvaloper19e53dt5r9w2mstt32jnj43xrxlyprnc085tl30",
+      "restake": {
+        "address": "evmos157uetkkvygnp7k4c8sp28mkpv25qh7ftfcsw73",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper17zvc9nprjjxsagdux9qfn4278hr62qng9q3e4p",
+      "restake": {
+        "address": "agoric1kqqulywf5aguylcway6vs8kz3mh54tu752lwt3",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1apvm4x22yznxqkwazhh49slucgr34962r2gyau",
+      "restake": {
+        "address": "umee14zck90cz37z8sas9ywsg0mdqkhn6p7hy6ke7dk",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper133t4gpv4vhpqgfn9gr8l4u423zrglg8rkqeupr",
+      "restake": {
+        "address": "celestia14zck90cz37z8sas9ywsg0mdqkhn6p7hye243nf",
+        "run_time": [
+          "19:30"
+        ],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

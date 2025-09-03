@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "roadz",
+  "chains": [
+    {
+      "name": "cascadiatestnet",
+      "address": "cascadiavaloper1l34kl9efnhlutz7gezsjztmtet6sszw4ss9dwk",
+      "restake": {
+        "address": "cascadia10zrz6g7nhwc64z3h7mp2ezpx4d25zw4qku3edv",
+        "run_time": "every 12 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

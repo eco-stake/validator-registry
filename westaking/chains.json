@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "WeStaking",
   "chains": [
     {
@@ -105,6 +106,15 @@
       "address": "terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65",
       "restake": {
         "address": "terra1x74w72vp3nug9txqpjzpl4cmh4t2kmjs8uz25r",
+        "run_time": "00:30",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1qgvcttnjx3enjqg9pnhclt6d4z7qdknavg4q9c",
+      "restake": {
+        "address": "band1hlt7mew3x8crsvg44xuz4aqqcugh5mqx9cujck",
         "run_time": "00:30",
         "minimum_reward": 1000000
       }

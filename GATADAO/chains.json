@@ -1,0 +1,77 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "GATAHUB",
+  "chains": [
+    
+   {
+      "name": "juno",
+      "address": "junovaloper1yeaw3dv6jk3hr290l2tsew7rr2vjykynme37s2",
+      "restake": {
+        "address": "juno13vnstye85ytrkhwhhkvsee0lchcs4djd0l7x76",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper10unx6s0cdqntvrumd5hs07rgd5ytcztqh8etw6",
+      "restake": {
+        "address": "cosmos13vnstye85ytrkhwhhkvsee0lchcs4djdedaaex",
+        "run_time": "every 1 hour",
+        "minimum_reward": 500000
+      }
+    },
+
+    {
+       "name": "omniflixhub",
+      "address": "omniflixvaloper1ffk54ch6x8xz8dztyp64j25v7lc3mrsylkjgqj",
+      "restake": {
+        "address": "omniflix13vnstye85ytrkhwhhkvsee0lchcs4djdynvywc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+
+    {
+       "name": "stargaze",
+      "address": "starsvaloper1pn9m649n2ugeyw4a7lj4vdtm76f7ptlp0sqxhz",
+      "restake": {
+        "address": "stars13vnstye85ytrkhwhhkvsee0lchcs4djdd32qjh",
+        "run_time": "every 1 hour",
+        "minimum_reward": 20000000
+      }
+    },
+
+      {
+       "name": "akash",
+      "address": "akashvaloper1jr62umvv72q233e2ew8fkaf0x9yhzfqef42kak",
+      "restake": {
+        "address": "akash13vnstye85ytrkhwhhkvsee0lchcs4djd5ks6qu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 500000
+      }
+    },
+        
+    {
+      "name": "atomone",
+      "address": "atonevaloper10unx6s0cdqntvrumd5hs07rgd5ytcztq7w6s7f",
+      "restake": {
+        "address": "atone13vnstye85ytrkhwhhkvsee0lchcs4djdhdp607",
+        "run_time": "every 1 hour",
+        "minimum_reward": 500000
+      }	  
+    },
+
+      {
+      "name": "passage",
+      "address": "pasgvaloper17axwjxcdgmeygx2mfndkqhamsnx5q48xv6zxxv",
+      "restake": {
+        "address": "pasg13vnstye85ytrkhwhhkvsee0lchcs4djd64y85e",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }	  
+    }
+   
+  ]
+}

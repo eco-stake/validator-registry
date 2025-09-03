@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Berty",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper19pg5t5adjese84q5azjuv46rtz7jt2yqx32rt9",
+      "restake": {
+        "address": "tori19nyh42udcht7893sdcuc6zrtfd4ykrx6lh5psy",
+        "run_time": [
+          "14:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

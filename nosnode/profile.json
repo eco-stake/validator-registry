@@ -1,0 +1,21 @@
+{
+    "$schema":"../profile.schema.json",
+    "name":"NosNode🔮️",
+    "identity":"913CE38447233C01",
+    "website":"https://nosnode.com",
+    "description":{
+       "overview":"Maximizing network decentralization by validating from the edge with redundant high-speed fiber ISP's and bare metal hardware in self-custody.",
+       "team":"",
+       "security":""
+    },
+    "contacts":{
+       "telephone":"",
+       "email":"",
+       "telegram":"@nostradamus411",
+       "twitter":"@nosnode_",
+       "discord":"nostradamus.nosnode",
+       "others":{
+          "emergency":"nos@nosnode.com"
+       }
+    }
+ }

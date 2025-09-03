@@ -1,0 +1,11 @@
+{
+    "$schema": "../services.schema.json",
+    "name": "Quasar 🤖🧬🧠",
+    "services": [
+      {
+        "title": "Quasar",
+        "description": "We are contributing to the development of the Cosmos Hub ecosystem by improving our AI, advancing security measures, and supporting validated networks from a technical perspective by providing RPC, gRPC, public nodes, and other utilities",
+        "url": "https://quasarstaking.ai"
+      }
+    ]
+  }

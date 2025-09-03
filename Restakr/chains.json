@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Restakr",
+  "chains": [
+    {
+      "name": "source",
+      "address": "sourcevaloper147tvazqe4pl7qlatf9j0k50dkumt37uxen7dkn",
+      "restake": {
+        "address": "source168jhn4rl9t2gucmska747xkwf20rx3025pt7xz",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+}
+      ]
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Staketab",
+  "chains": [
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1xtawcxuvh3vtt6zht9pku3ltc0a76u209jl63x"
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq"
+    },
+    {
+      "name": "panacea",
+      "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7"
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper16kjscz5tz6suy0c9fkcrn7dws79h7zl50u6jpr"
+    },
+    {
+      "name": "acrechain",
+      "address": "acrevaloper146q22dq5c39nwfrn5dgd8uxjjrmptpvcd9exlx"
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper10kfpeurcsnmgwwskhgak0cr46sjphz93mjy6av"
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper158nyzrgaugn0dk6tue6q9pdnjw5jrq9hp3wq6c"
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1p4tqcmh8tysjlxpqu5gawanre9pdxavz68j5fs"
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1ygk639vq3acll8eg2twlgp4s7974z0k0slqzdu"
+    },
+    {
+      "name": "qwoyn",
+      "address": "qwoynvaloper1jkjwdy5yud3tmdrl9wn9l6uqujrshvvvhaj5cv"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "chainvibes",
+  "identity": "29AC20D369FD318F",
+  "website": "https://chainvibes.com",
+  "description": {
+    "overview": "Secure and Stable Validator."
+  }
+}

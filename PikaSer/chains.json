@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PikaSer",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper1ve7k6rhu8qyaqavmr8mqlcepcrh2qq33tqydvg",
+      "restake": {
+        "address": "like1dv44h3h2ts8wrgawxjlw3fvmnc2lzpudr6sw24",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    }
+  ]
+}

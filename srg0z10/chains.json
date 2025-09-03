@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SRG0Z10",
+  "chains": [
+    {
+      "name": "firmachain",
+      "address": "firmavaloper15ynjhls568twd6treerrlqethcyuhnnek2jggd",
+      "restake": {
+        "address": "firma1rpdh7ywnptcy85658zeuh9zl8la9sen7y4c6hr",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "rizon",
+      "address": "rizonvaloper1t39j0juzxq9r5x0pmhrqd5nh0vgeshdg5dwyl0",
+      "restake": {
+        "address": "rizon1hptzxl9ap65ug9mlwt3mc7a0cphhyddf9jl22g",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "uptick",
+      "address": "uptickvaloper1xk0zpxmxjgt27ujw50g79c4kzxdpx2pg0df7kk",
+      "restake": {
+        "address": "uptick10vjxqj3qhxyl6hahlawww8yguduv2ltw4c0mx3",
+        "run_time": "every 12 hours",
+        "minimum_reward": 10
+      }
+    }
+  ]
+}

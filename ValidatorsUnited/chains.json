@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Validators United",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper108r0ru5044t8e046graldt9x5syr9mxv9wf88r",
+      "restake": {
+        "address": "gravity1vurwf9w9dqjzf4qdm4z48qtw87k00hf8n5eprh",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 108000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper108sv7r3tplqp3hduq7s0tgy6ut732xee7kmfel",
+      "restake": {
+        "address": "osmo1vurwf9w9dqjzf4qdm4z48qtw87k00hf8llcfsd",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10800
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper108yt8qsc79gs5rhyrmmdke4tr9zcsykfl9uv03",
+      "restake": {
+        "address": "cosmos1vurwf9w9dqjzf4qdm4z48qtw87k00hf8hytexl",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 108000
+      }
+    },
+    {
+      "name": "planq",
+      "address": "plqvaloper108a279axvy69hccj0rqvhejdvpf0ntv9xq576e",
+      "restake": {
+        "address": "plq1vu78p648x8uu8qy46zzawehc9htj68849txcup",
+        "run_time": "every 3 minutes",
+        "minimum_reward": 108000000000000000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper108eqqslmfeyd2esvgfa4333lthn2dw30q4uxyv",
+      "restake": {
+        "address": "evmos1vu78p648x8uu8qy46zzawehc9htj6884wj82q6",
+        "run_time": "every 8 hours",
+        "minimum_reward": 108000000000000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper108st96sq3mj708n7m756e4pu2tnf0ex97yujve",
+      "restake": {
+        "address": "orai1vurwf9w9dqjzf4qdm4z48qtw87k00hf8yha68v",
+        "run_time": "every 60 minutes",
+        "minimum_reward": 108000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper108uz380f2cq0smyescunqwz9lrk5apnzamv3r2",
+      "restake": {
+        "address": "umee1vurwf9w9dqjzf4qdm4z48qtw87k00hf89jkxzd",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10800
+      }
+    }
+  ]
+}

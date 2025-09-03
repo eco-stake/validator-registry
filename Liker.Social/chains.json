@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Liker.Social",
+  "chains": [
+    {
+      "name": "likecoin",
+      "address": "likevaloper1mztweu8y2lazpapfgtqmadxaqaapyasv7nhexk",
+      "restake": {
+        "address": "like1pp52z2a6wkuughsrxzy2cl2wldhcnyzvjcj7lv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000000
+      }
+    }
+  ]
+}

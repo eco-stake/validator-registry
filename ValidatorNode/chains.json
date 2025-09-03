@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ValidatorNode",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1x0sdgtmvdl8d6mp85sqlsh63l07jkg3fz5uaz6",
+      "restake": {
+        "address": "akash1xgcqw2flkaxffe0s5kctlnelyshe87vhnaxc49",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1hw8ln9564daxdegkm67qy9sp0luv38dwsfagh3",
+      "restake": {
+        "address": "bcna1xgcqw2flkaxffe0s5kctlnelyshe87vhykm7yd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "comdex",
+      "address": "comdexvaloper1xfgpvg4wjj636l2yrgmn4c2uktfg47qp02ly97",
+      "restake": {
+        "address": "comdex1xgcqw2flkaxffe0s5kctlnelyshe87vheffa4g",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper102x2f86rx0zvma9glz2rdc9u5fjp44u55djaxl",
+      "restake": {
+        "address": "sent1xgcqw2flkaxffe0s5kctlnelyshe87vh9aaxgs",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    }    
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Gelotto",
+  "identity": "6696D60A73064DFE",
+  "website": "https://gelotto.io",
+  "description": {
+    "overview": "Gelotto is a gaming platform with a mission to secure the Cosmos and beyond!",
+    "team": "Gelotto was co-founded 2 engineering friends with a mission to make technology more accessible."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "admin@gelotto.io",
+    "twitter": "Gelotto2",
+    "discord": "https://discord.gg/fk7meSnCHH",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

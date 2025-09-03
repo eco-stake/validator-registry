@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Maximoff",
+  "chains": [
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper1ym9hjn0uyx9jctyj34smagk5prvxq5lajspcmn",
+      "restake": {
+        "address": "quick1h0qp4rrxefjlpa0grtmxq0llge54nj9x00nqg6",
+        "run_time": ["every 1 hour"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

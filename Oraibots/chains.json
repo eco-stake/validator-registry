@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Oraibots_Validator",
+  "chains": [
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1yc9nysml8dxy447hp3aytr0nssr9pd9a47l7gx",
+      "restake": {
+        "address": "orai136m2jgjag3ashnxdnpx0rfnauhusjp6n20tyt7",
+        "run_time": [
+          "18:00"
+        ],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

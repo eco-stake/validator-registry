@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Virtual Hive",
+  "identity": "6B7C28B90CE84014",
+  "website": "https://virtualhive.io",
+  "description": {
+    "overview": "🍀 reliably signing blocks since 2021"
+  }
+}

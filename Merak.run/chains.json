@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Merak.run",
+  "chains": [
+    {
+      "name": "sifchain",
+      "address": "sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x",
+      "restake": {
+        "address": "sif18hnw9arscc559gqt0eake3guyyv9k6wqa5ys96",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4",
+      "restake": {
+        "address": "pasg18hnw9arscc559gqt0eake3guyyv9k6wqm3ju8w",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1100000000
+      }
+    },
+    {
+      "name": "nyx",
+      "address": "nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd",
+      "restake": {
+        "address": "n18hnw9arscc559gqt0eake3guyyv9k6wq2duy45",
+        "run_time": "every 1 hour",
+        "minimum_reward": 11000000
+      }
+    }
+  ]
+}

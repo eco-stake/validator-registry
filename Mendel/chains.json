@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Mendel",
+  "chains": [
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1e20nfplac6cp5mga25a3ujvcgly3mfu73e6scn",
+      "restake": {
+        "address": "osmo15xlnxy6v33l7tgrvp2fetehcc9uw0g7nx0y8qa",
+        "run_time": "17:30",
+        "minimum_reward": 250000
+      }
+    }
+  ]
+}

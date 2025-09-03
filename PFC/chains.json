@@ -1,0 +1,116 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "PFC",
+  "chains": [
+    {
+      "name": "kujira",
+      "address": "kujiravaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9ugf8fk",
+      "restake": {
+        "address": "kujira1dp67gfvhsffyn42k4srsw29wm6d55u9mx45n28",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper15vlkdnu2c0k0gaclgycnyjm7c5f3hsde034f5p",
+      "restake": {
+        "address": "inj10tx7fadungwfffhjcln3k6rzk39l2kwxcmejd7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 50000000000000000
+      }
+    },
+
+    {
+      "name": "mars",
+      "address": "marsvaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9ryaqfd",
+      "restake": {
+        "address": "mars1dp67gfvhsffyn42k4srsw29wm6d55u9m2q0jjk",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "migaloo",
+      "address": "migaloovaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx94s460k",
+      "restake": {
+        "address": "migaloo1dp67gfvhsffyn42k4srsw29wm6d55u9m6fl3jr",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx9sv4xj8",
+      "restake": {
+        "address": "orai1dp67gfvhsffyn42k4srsw29wm6d55u9mywqgx7",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "stargaze",
+      "address": "starsvaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx94hm9g6",
+      "restake": {
+        "address": "stars1dp67gfvhsffyn42k4srsw29wm6d55u9mrppkvu",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+
+    {
+      "name": "stride",
+      "address": "stridevaloper1670dvuv348eynr9lsmdrhqu3g7vpmzx92tuvq6",
+      "restake": {
+        "address": "stride1dp67gfvhsffyn42k4srsw29wm6d55u9m5kkhnp",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+     {
+      "name": "terra",
+      "address": "terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q",
+      "restake": {
+        "address": "terra1tyvclmg0aymjs7jmtqfqdytyrvnx22f68j5s75",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    },
+     {
+      "name": "terra2",
+      "address": "terravaloper1hr7svdp2rga9vf3ry95sx7g5wyspgwmg96vqg5",
+      "restake": {
+        "address": "terra1tyvclmg0aymjs7jmtqfqdytyrvnx22f68j5s75",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

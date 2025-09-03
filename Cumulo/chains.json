@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Cumulo",
+  "chains": [  
+    {
+      "name": "empowerchain",
+      "address": "empowervaloper1eqc4lfkm7f0tpw2c2f3s9u47evj7rgtt899d33",
+      "restake": {
+        "address": "empower1m0jwkzuvd8nt34755amc00yfazpls43vm8xg3v",
+         "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1yp2ey7pyfvxaq49kkmlfp5e0pusn5274fm8fzk",
+      "restake": {
+        "address": "axone1m0jwkzuvd8nt34755amc00yfazpls43vydw5l0",
+         "run_time": ["every 5 minutes"],
+        "minimum_reward": 1000000
+      }
+    },
+ {
+      "name": "seda",
+      "address": "sedavaloper1r8gzvt7370e3e0lf4qkvp0qqg6lkwwpx2uta03",
+      "restake": {
+        "address": "seda1m0jwkzuvd8nt34755amc00yfazpls43v39wmgn",
+         "run_time": ["every 5 minutes"],
+        "minimum_reward": 10000000000
+      }
+    },
+ {
+      "name": "dymension",
+      "address": "dymvaloper1fz6gwt0hug8hj5j74sf3vtj2vnjuzunk59ac6w",
+      "restake": {
+        "address": "dym1t6tadeapn0h3gly9f7ya7aaffja5q6882gg5xv",
+        "run_time": ["every 5 minutes"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1cs37tvmahavw8xcnzcgyz342sh0al37ma4zqat",
+      "restake": {
+        "address": "celestia1m0jwkzuvd8nt34755amc00yfazpls43vkpnn3l",
+         "run_time": ["every 5 minutes"],
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

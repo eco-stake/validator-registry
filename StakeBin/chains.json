@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "StakeBin",
+  "chains": [
+    {
+      "name": "terra",
+      "address": "terravaloper19ne0aqltndwxl0n32zyuglp2z8mm3nu0gxpfaw",
+      "restake": {
+        "address": "terra1a24qekukfcnjfug9g7lnzqwkad6zgcxnvs9d74",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc",
+      "restake": {
+        "address": "terra1a24qekukfcnjfug9g7lnzqwkad6zgcxnvs9d74",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

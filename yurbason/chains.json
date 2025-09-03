@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Yurbason",
+  "chains": [
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper14x40y20jhx4yslmng98lyphnq3chxx9vqrfrds",
+      "restake": {
+        "address": "gravity1gkrdcksr3gslm2ngu4c47j36e62hvmv9pr7vlm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 30000000
+      }
+    },
+	{
+      "name": "fetchhub",
+      "address": "fetchvaloper1y6df6uwx7yan9x7q6kgr90wuw6sg20ys6j0t45",
+      "restake": {
+        "address": "fetch1gkrdcksr3gslm2ngu4c47j36e62hvmv9kw9scy",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+	{
+      "name": "juno",
+      "address": "junovaloper15ntrq4rmmd2vtrj5hvczfhqus3v4pqpuxfvj0e",
+      "restake": {
+        "address": "juno1gkrdcksr3gslm2ngu4c47j36e62hvmv9np00a0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "firmachain",
+      "address": "firmavaloper1prx367m4rds5q8fksj24ckk9f6q5au9g4upg9c",
+      "restake": {
+        "address": "firma1w8kjs2h982d6z9w43y73guf3fa80x2kngzs35c",
+        "run_time": "every 1 hour",
+        "minimum_reward": 50000000
+      }
+    },
+	{
+      "name": "shentu",
+      "address": "shentuvaloper1nj59qd5h9tt4r0k40twj5ptp9f7xsmg0ez2vwu",
+      "restake": {
+        "address": "shentu1gkrdcksr3gslm2ngu4c47j36e62hvmv9d8gdgw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 5000000
+      }
+    },
+	{
+      "name": "acrechain",
+      "address": "acrevaloper1sn80um2chzav6mytlfjthlvaf97ta77hspf234",
+      "restake": {
+        "address": "acre1ffl8c9t85r0uppsmn86mj9pnvz9n2w70y0575n",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000000
+      }
+    },
+	{
+      "name": "aura",
+      "address": "auravaloper1k8melpa8jvz7wy5c27qzdtkzd3d9d2c6eq67gp",
+      "restake": {
+        "address": "aura1gkrdcksr3gslm2ngu4c47j36e62hvmv979mkc2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000
+      }
+    },
+	{
+      "name": "gitopia",
+      "address": "gitopiavaloper18ayzkfmpxrp2vvm2edhme42hq5nh8qekv8satu",
+      "restake": {
+        "address": "gitopia1gkrdcksr3gslm2ngu4c47j36e62hvmv9mttr4s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 300000000
+      }
+    },
+	{
+      "name": "haqq",
+      "address": "haqqvaloper17m4ezze565jxk3a97f05vu4su5ac9jw2q3w2qk",
+      "restake": {
+        "address": "haqq1ffl8c9t85r0uppsmn86mj9pnvz9n2w70utew4g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 15000000000000000000
+      }
+    }
+  ]
+}

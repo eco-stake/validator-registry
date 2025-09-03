@@ -1,0 +1,19 @@
+{
+   "$schema":"../profile.schema.json",
+   "name":"AM Solutions",
+   "identity":"5A1DB2A1F7B6A66F",
+   "website":"https://www.theamsolutions.info",
+   "description":{
+      "overview":"AM Solutions validating many great projects at Cosmos ecosystem. Our goal is to provide maximum safety staking experience for our delegators."
+   },
+   "contacts":{
+      "telephone":"",
+      "email":"mannaxriga@gmail.com",
+      "telegram":"@AlekseyRiga",
+      "twitter":"",
+      "discord":"AlexeyM#5409",
+      "others":{
+         "emergency":""
+      }
+   }
+}

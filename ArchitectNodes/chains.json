@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Architect Nodes",
+  "chains": [
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1yvwl7h6eek0j35ekeyz38a0wyfd4anrrgvnlez",
+      "restake": {
+        "address": "bitsong16arskkjeeq9jnvwfe78n8m9y06jkj9kp2vc6vn",
+        "run_time": "19:30",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1gzycxekfxq2hvu9jt255aajvlakay9nvz4p5jf",
+      "restake": {
+        "address": "evmos1tusg5d35w03v0s2u5tefvf5yclguye09ctw6zu",
+        "run_time": "19:30",
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

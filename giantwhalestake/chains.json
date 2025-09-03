@@ -1,14 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "GiantWhale",
-  "chains": [
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1rx04k2fuczu28tvcmu4dzchhwalxvhjrr3k2k9",
-      "restake": {
-        "address": "cosmos1448zqw506zylru2g85xdw4qge2q8d304qn2eq7",
-        "run_time": "21:00",
-        "minimum_reward": 1000000
-      }
-    }
-  ]
+  "chains": [ ]
 }

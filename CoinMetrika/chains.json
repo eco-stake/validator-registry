@@ -1,0 +1,14 @@
+{
+  "name": "CoinMetrika",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f",
+      "restake": {
+        "address": "umee1etxxz4dh2kjtge2q9r2dvtprd7hs86h7zwyfhe",
+        "run_time": "02:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

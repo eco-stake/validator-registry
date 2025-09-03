@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Chill Validation",
   "chains": [
     {
@@ -8,6 +9,15 @@
         "address": "cerberus13yfd74cezsrjcmhvmh6wkfwfuj7fds5eenhn64",
         "run_time": "every 15 minutes",
         "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1sdz4rc95vnzh2f54sacec50vjxnmwdakfym4vh",
+      "restake": {
+        "address": "cosmos1fgmtjs7zd5cst4rj7h4vz0tp8zctajvtyq9saw",
+        "run_time": "14:15",
+        "minimum_reward": 100000
       }
     },
     {
@@ -25,6 +35,51 @@
       "restake": {
         "address": "lum1327kewr0m28edp6ee022myyxzvlf3g5exxpvr7",
         "run_time": "14:30",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "assetmantle",
+      "address": "mantlevaloper13szsn2zenp3gklm466t8h3hq4xzyhpe24z02dt",
+      "restake": {
+        "address": "mantle1wefkllky6uj794r0m09fs5azzwdupssysh75n6",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "evmos",
+      "address": "evmosvaloper1fmfhpcc00r6ejuclv2fje3egruruk9upe7tl4s",
+      "restake": {
+        "address": "evmos10evxaenlwal5llugmem3r4rfqguwhean6c854e",
+        "run_time": ["01:00", "13:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sifchain",
+      "address": "sifvaloper1jr8chvms8yjthhk32zq8asselesrud34qug4ys",
+      "restake": {
+        "address": "sif15z6yxcyhp3h82k93vawen0wy8c5yq3sr22w3fe",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1esnx47axnktm7pwpeuw27lydnlfr29q0eluvem",
+      "restake": {
+        "address": "pasg1tk2wzrjsh5x8anzyld48xsnecyg4h4h5cx40mm",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper16czx9ukfcelsxmjpyt90fprjx5qjw5anjnqp7m",
+      "restake": {
+        "address": "tori172nexmul80uxqrfxt38tmtl7897mj90vxxg8yy",
+        "run_time": "every 30 minutes",
         "minimum_reward": 10000
       }
     }

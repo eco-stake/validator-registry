@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Futura Meridian",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper1vvmng64jr4s4mh5543dn2l9sqn9y6f7g9zq6ph",
+      "restake": {
+          "address": "plq1nwf7t4scadpscnlhgmfmcppnk48lw7nyw8wdj0",
+          "run_time": "every 1 hour",
+          "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

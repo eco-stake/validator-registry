@@ -1,0 +1,18 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "PSnodes",
+  "identity": "2B9F9A15B277963F ",
+  "website": "https://www.github.com/psnodes",
+  "description": {
+    "overview": "Psnodes validator node"
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "psnodes@proton.me",
+    "twitter": "https://twitter.com/stakesnod",
+    "discord": "https://discord.gg/8u8d4hWc",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

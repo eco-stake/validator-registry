@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "QuantumFi",
+    "chains": [
+      {
+        "name": "planq",
+        "address": "plqvaloper1krwc4gc39ef93k40m07tputm9pmnlwkxe279gh",
+        "restake": {
+          "address": "plq1xa47qfcurc23zwk6ca5z8f4qhfyx7jfsd5rpjt",
+          "run_time": "every 1 minute",
+          "minimum_reward": 1000000000000000000
+        }
+      } 
+    ]
+  }

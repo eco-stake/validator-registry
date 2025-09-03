@@ -1,0 +1,17 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "openbitlab",
+  "chains": [
+    {
+      "name": "synternet",
+      "address": "syntvaloper10e2xe93de4ysrerr7920hhm5t7n4ktfq930tv5",
+      "restake": {
+        "address": "synt1ht8cyhc2re7jky5sa7thdppayyu60urskq4n3z",
+        "run_time": [
+          "every 24 hours"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

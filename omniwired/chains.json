@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OmniWired",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1c2t58ydw6ww7ukrm66xu67y2hmz66der7j7ehg",
+      "restake": {
+        "address": "tori1lkydvh2qae4gqdslmwaxrje7j57p2kq8dw9d7t",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 500000
+      }
+    }
+  ]
+}

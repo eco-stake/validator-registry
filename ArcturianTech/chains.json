@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Arcturian Tech",
+  "chains": [
+    {
+      "name": "akash",
+      "address": "akashvaloper1xjpsdlucnx6cusqtamevgmacuswyw28tqayt2y",
+      "restake": {
+        "address": "akash1kn8t8usy8xcsjxn2368skc68djx8qhxred79yh",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },  
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper1ldj98v05lusvapypx7s45nf67w6yeh5q8jawjt",
+      "restake": {
+        "address": "bcna1kn8t8usy8xcsjxn2368skc68djx8qhxrwxrr4l",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "bitcannadev",
+      "address": "bcnavaloper1wu9djw482a7f64dkam9ewazugkadsjl40x3wgv",
+      "restake": {
+        "address": "bcna1nypxmngupj9hm2nugujs976ew5s5rmh046t8m4",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

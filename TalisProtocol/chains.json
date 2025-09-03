@@ -1,0 +1,29 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Talis Protocol",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1h37jxecva2xgm78ejw3683vrw932j6nuzgdxgj",
+      "restake": {
+        "address": "inj1tvcf5qnd77hfa9qmlafmc2hpd7gkp0savxny0k",
+        "run_time": [
+          "21:00"
+        ],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1874hvuwq7j9r4kup9agt8hlwvckzpzdvjrxydd",
+      "restake": {
+        "address": "orai16q88y2yvez6wpgzzuhnzw9vqkyyscj5kuvjv3c",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

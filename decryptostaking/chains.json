@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "DeCrypto",
   "chains": [
     {
@@ -7,7 +8,7 @@
       "restake": {
         "address": "dig1wtcvjqx8097gtkjdemle9c0lm8gczm2a9va2hg",
         "run_time": "11:00",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     },
     {
@@ -16,7 +17,7 @@
       "restake": {
         "address": "lum1wtcvjqx8097gtkjdemle9c0lm8gczm2agjfgq8",
         "run_time": "11:00",
-        "minimum_reward": 1000
+        "minimum_reward": 100000
       }
     }
   ]

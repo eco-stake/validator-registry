@@ -1,0 +1,138 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "KalpaTech",
+    "chains": [
+        {
+            "name": "osmosis",
+            "address": "osmovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetguct4ddyl",
+            "restake": {
+                "address": "osmo1yhv74ymxxaurxug490hnadh9467y3q27rjaf79",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "cosmoshub",
+            "address": "cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe",
+            "restake": {
+                "address": "cosmos1yhv74ymxxaurxug490hnadh9467y3q27tfwegh",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 50000
+            }
+        },
+        {
+            "name": "juno",
+            "address": "junovaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucskr2e0",
+            "restake": {
+                "address": "juno1yhv74ymxxaurxug490hnadh9467y3q27amdz0t",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 50000
+            }
+        },
+        {
+            "name": "regen",
+            "address": "regenvaloper1ypwzuhaffvr06ktu0ne6lnm69gxj32qww0relw",
+            "restake": {
+                "address": "regen1yhv74ymxxaurxug490hnadh9467y3q275t997n",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "bitsong",
+            "address": "bitsongvaloper19ah9302mh80pvv5zeztdr6qcqk6z52frn6rjj5",
+            "restake": {
+                "address": "bitsong13ywxfx8yulvcpd2wdz2nrsdve6wpxqfyt6ce30",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "evmos",
+            "address": "evmosvaloper16ywlfq3ansuh70tjtenazpdwcn6rg279gjadep",
+            "restake": {
+                "address": "evmos14pzmhcxunuxhnlgt4nkhky4m5z4c7lgpdmwntk",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 10000000000000000
+            }
+        },
+        {
+            "name": "persistence",
+            "address": "persistencevaloper1tuedp72uprur89p550nvd2lf2dyy09kv9wz4tr",
+            "restake": {
+                "address": "persistence1r5696j4cmjxm66w3uad8m6yqt0w08wkkgppcdl",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "agoric",
+            "address": "agoricvaloper1ypwzuhaffvr06ktu0ne6lnm69gxj32qw00ykav",
+            "restake": {
+                "address": "agoric186rfzfmx84tvcrf3s57vck08rzt45x2lwnr0dl",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 1000000
+            }
+        },
+        {
+            "name": "umee",
+            "address": "umeevaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucttvwsj",
+            "restake": {
+                "address": "umee1yhv74ymxxaurxug490hnadh9467y3q27elnxv9",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 10000000
+            }
+        },
+        {
+            "name": "quicksilver",
+            "address": "quickvaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670wuk6uw",
+            "restake": {
+                "address": "quick1yhv74ymxxaurxug490hnadh9467y3q27qd7t39",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        },
+        {
+            "name": "omniflixhub",
+            "address": "omniflixvaloper1w8cs54tjx5yc9hzp0e2pfmde905pr670tetaar",
+            "restake": {
+                "address": "omniflix1yhv74ymxxaurxug490hnadh9467y3q27khlqlf",
+                "run_time": [
+                    "00:00",
+                    "12:00"
+                ],
+                "minimum_reward": 100000
+            }
+        }
+    ]
+}

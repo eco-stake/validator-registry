@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Simurgh",
+  "chains": [
+    {
+      "name": "rebus",
+      "address": "rebusvaloper199h7knhkmrtesgv50nzhqqnt3z62v8lkcafzer",
+      "restake": 
+      {
+        "address": "rebus19yyyhnzzywg97wruhkh6x2unw652xyz3k25q47",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000000000000000
+      }
+    }
+  ]
+}

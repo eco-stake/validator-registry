@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "𝗧𝗲𝘀𝘁𝗻𝗲𝘁 𝗣𝗿𝗶𝗱𝗲",
+  "chains": [
+     {
+      "name": "genesisl1",
+      "address": "genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj",
+      "restake": {
+        "address": "genesis1t64t4cdyd34w86fp9ccjg2yva3tj5e06f8y8a0",
+        "run_time": "00:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u",
+      "restake": {
+        "address": "tori1t64t4cdyd34w86fp9ccjg2yva3tj5e06468cz2",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    },
+       {
+      "name": "lambda",
+      "address": "lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp",
+      "restake": {
+        "address": "lamb1zcd64w6uw4gvsv23nt0xy49asu2slgxd5gw8zg",
+        "run_time": "00:00",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1qg9pjld3c26svc06u8r3k4cmjlaqg88jkald0p",
+      "restake": {
+        "address": "jkl1t64t4cdyd34w86fp9ccjg2yva3tj5e06ws7qq9",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "mises",
+      "address": "misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga",
+      "restake": {
+        "address": "mises1t64t4cdyd34w86fp9ccjg2yva3tj5e06c773uk",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "quicksilver",
+      "address": "quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet",
+      "restake": {
+        "address": "quick1t64t4cdyd34w86fp9ccjg2yva3tj5e06u2qrqg",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1s26mkhm970sgs3n72nj03rsnaknazt7g8muled",
+      "restake": {
+        "address": "kyve1t64t4cdyd34w86fp9ccjg2yva3tj5e06qqa8j7",
+        "run_time": "00:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

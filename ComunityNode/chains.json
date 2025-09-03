@@ -1,0 +1,36 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "ComunityNode",
+  "chains": [
+    {
+      "name": "planq",
+      "address": "plqvaloper12p9wq6xe0sgksp9pa8pyw2vf6sx3ur5px6txhg",
+      "restake": {
+        "address": "plq1zzvwq24mxttpx95n97zu6qh2k7y65msj3vz977",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000000000000000
+      
+          }
+       },
+        {
+      "name": "oraichain",
+      "address": "oraivaloper1t5p9rmxf9uww02pmt895d6a9ne49gaw4dhwh5p",
+      "restake": {
+        "address": "orai1c83eed3dw84hf2lj6ykg7vullx5657h6vjqk3s",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 100000
+      
+          }
+       },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1y5e7xur4u02uhcxj6ms2g6c5cu54zjzz24752c",
+      "restake": {
+        "address": "nibi1c83eed3dw84hf2lj6ykg7vullx5657h6gyjves",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 1000
+      
+          }
+       }
+    ]
+ }

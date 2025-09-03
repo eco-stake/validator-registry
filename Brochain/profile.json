@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Brochain",
+  "identity": "96C52B0DC1222AD6",
+  "website": "https://brocha.in",
+  "description": {
+    "overview": "Trusted non-custodial validator with enterprise class security, uptime, performance and redundancy. We provide services both for delegators and other operators. https://brocha.in/auto-compounding",
+    "team": "",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "contact@brocha.in",
+    "telegram": "",
+    "twitter": "BrochainCrypto",
+    "discord": "https://discord.gg/BqndfjVcfw",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

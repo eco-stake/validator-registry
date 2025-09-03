@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Shidoverse",
+  "identity": "105164182C339452",
+  "website": "https://shidoverse.io",
+    "contacts": {
+      "email": "support@shidoverse.io"
+    }
+}

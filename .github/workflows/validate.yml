@@ -1,0 +1,37 @@
+on: [pull_request, workflow_dispatch]
+name: Validate JSON schema
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: scheduleonce/lint-filenames@v2.0.0
+        name: Validating filenames
+        with:
+          path: '!(*.schema.json|README*|.gitignore)'
+          pattern: '^[a-zA-Z0-9._-]*[^\.]$'
+
+      - name: Validate profile.json schema
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: ./*/profile.json
+          schema: profile.schema.json
+          schema-version: draft-07
+          fail-on-missing-schema: true
+
+      - name: Validate chains.json schema
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: ./*/chains.json
+          schema: chains.schema.json
+          schema-version: draft-07
+          fail-on-missing-schema: true
+
+      - name: Validate services.json schema
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: ./*/services.json
+          schema: services.schema.json
+          schema-version: draft-07
+          fail-on-missing-schema: true

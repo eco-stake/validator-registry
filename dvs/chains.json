@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DVS",
+  "chains": [
+    {
+      "name": "umee",
+      "address": "umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3",
+      "restake": {
+        "address": "umee1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjjdmzq8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

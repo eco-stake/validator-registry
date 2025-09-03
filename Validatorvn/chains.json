@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Validatorvn.com",
+  "chains": [
+    {
+      "name": "Oraichain",
+      "address": "oraivaloper1teqee5ral3m3l5hwrxcfl790vkh7e97yttp88j",
+      "restake": {
+        "address": "orai1teqee5ral3m3l5hwrxcfl790vkh7e97yzp6wv4",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "fetch",
+      "address": "fetchvaloper17ua9glfvdxh3p8dexf88w9ydlgtfmneg0qtdq6",
+      "restake": {
+        "address": "fetch1093spqkwazj2mz0qtz9n5surp2uq63r7hvd4wj",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "nibiru",
+      "address": "nibivaloper1hptv7g2takma6gz6xf7cswfgy2nc7r6pzh7ks7",
+      "restake": {
+        "address": "nibi1093spqkwazj2mz0qtz9n5surp2uq63r7n5qg9k",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1qfqr8vjjsvuf7qp0r7vsxjryfgmgxgauhcyteg",
+      "restake": {
+        "address": "aura1093spqkwazj2mz0qtz9n5surp2uq63r7l8nnwu",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

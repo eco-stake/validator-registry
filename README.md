@@ -14,21 +14,23 @@ Each validator operation has their own directory. Within that directory are curr
 
 ### profile.json
 
-Overall name for your operation and [keybase.io](https://keybase.io/) identity. This isn't used in REStake currently but it helps annotate your entry.
+Overall name for your operation and [keybase.io](https://keybase.io/) PGP fingerprint identity. This isn't used in REStake currently but it helps annotate your entry.
 
 ```JSON
 {
+  "$schema": "../profile.schema.json",
   "name": "ECO Stake 🌱",
   "identity": "5992A6D423A406D6"
 }
 ```
 
-### chain.json
+### chains.json
 
 Chain information and REStake attributes for your validators.
 
 ```JSON
 {
+  "$schema": "../chains.schema.json",
   "name": "ECO Stake 🌱",
   "chains": [
     {

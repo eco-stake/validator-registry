@@ -1,4 +1,5 @@
 {
+  "$schema": "../profile.schema.json",
   "name": "MMS",
   "identity": "0AB0957AA5A01AD1"
 }

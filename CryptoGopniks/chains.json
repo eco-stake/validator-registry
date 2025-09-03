@@ -1,0 +1,28 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CryptoGopniks",
+  "chains": [
+{
+  "name": "meme",
+  "address": "memevaloper133xakkrfksq39wxy575unve2nyehg5npvs22h9",
+  "restake": {
+    "address": "meme144qwnykt75xdkup80kk0c5c7m3ayccn7jwnef9",
+    "run_time": [
+      "every 10 minutes"
+    ],
+    "minimum_reward": 10000000
+  }
+},
+{
+  "name": "oraichain",
+  "address": "oraivaloper102rpf06zhyrfps4qzvehqjtr7rh52us5z2959t",
+  "restake": {
+    "address": "orai1jjytc204vrpu50gyf3xdlfyxnktpr6x2cnh07r",
+    "run_time": [
+      "21:00"
+    ],
+    "minimum_reward": 100000
+  }
+}
+]
+}

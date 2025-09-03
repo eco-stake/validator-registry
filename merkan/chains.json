@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "Merkan",
   "chains": [
     {
@@ -17,6 +18,15 @@
         "address": "osmo1uecj925gwmagk8je8c2exmnty6t2jm7xk9shdp",
         "run_time": "21:00",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1de6pn6jctkn8h4eqtt7nh9xxj78zzd2arfw72a",
+      "restake": {
+        "address": "desmos12g8hl6jyr9g4ecf3ndv458qwuz20d2hxvduq9m",
+        "run_time": "21:00",
+        "minimum_reward": 100000
       }
     }
   ]

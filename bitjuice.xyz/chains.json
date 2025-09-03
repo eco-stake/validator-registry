@@ -1,0 +1,18 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "bitjuice.xyz - Restaking",
+  "chains": [
+    {
+      "name": "cudos",
+      "address": "cudosvaloper1al7ax9c4r5n4tfcmpnm43amxknj8wfsastvc58",
+      "restake": {
+        "address": "cudos1sksasqlfn8uvs2c673rny9fl8szgt2run2xztn",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "SpacePotato",
   "chains": [
     {
@@ -41,9 +42,9 @@
       "name": "evmos",
       "address": "evmosvaloper146mfv59nypacvs5l9h0takrcv8jtlk90wr0ggp",
       "restake": {
-        "address": "evmos17xyeczwsax3st6aykyu4f28s5n3zg6r7eyzu3t",
+        "address": "evmos1xx3lv0pwr8w0v4e7355r848z829hxtcuqzsgp3",
         "run_time": "21:00",
-        "minimum_reward": 1000
+        "minimum_reward": 1000000000000000
       }
     },
     {
@@ -62,6 +63,15 @@
         "address": "lum17xyeczwsax3st6aykyu4f28s5n3zg6r7w0wm7h",
         "run_time": "21:00",
         "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1s3366h2rpwhvlt0w0x49ssyh27778dyzslmyfw",
+      "restake": {
+        "address": "omniflix17xyeczwsax3st6aykyu4f28s5n3zg6r7xmztua",
+        "run_time": ["every 10 minutes"],
+        "minimum_reward": 100000
       }
     },
     {

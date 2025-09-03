@@ -1,0 +1,42 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "ToTheMars",
+    "chains": [
+      {
+        "name": "gitopia",
+        "address": "gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9",
+        "restake": {
+          "address": "gitopia1pzada4ml5f29p9ad4tk224nvsd5vdmw0mjly20",
+          "run_time": "every 1 day",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "uptick",
+        "address": "uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm",
+        "restake": {
+          "address": "uptick10q3vk9eaec9qlwmc7e3ufh6ky8rd8rrgt2lvlc",
+          "run_time": "every 1 day",
+          "minimum_reward": 100000000000000000
+        }
+      },
+      {
+        "name": "bostrom",
+        "address": "bostromvaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykflmhnn",
+        "restake": {
+          "address": "bostrom1pzada4ml5f29p9ad4tk224nvsd5vdmw0xevqmt",
+          "run_time": "every 1 day",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "lambda",
+        "address": "lambvaloper1f4e4njyp65ruvgwrnk8qec6y2020thgdcaxw7j",
+        "restake": {
+          "address": "lamb10q3vk9eaec9qlwmc7e3ufh6ky8rd8rrgrtze8y",
+          "run_time": "every 1 day",
+          "minimum_reward": 100000000000000000
+        }
+      }
+    ]
+  }

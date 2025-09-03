@@ -1,0 +1,20 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Stake.Works",
+  "identity": "9B8383B888D54D47",
+  "website": "https://stake.works",
+  "description": {
+    "overview": "Stake.Works, independent node operators, active since 2018. We’re supporting projects on the Polygon, Polkadot and Cosmos ecosystems, see https://stake.works/.",
+    "team": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "info@stake.works",
+    "telegram": "@stakeworks",
+    "twitter": "@StakeWorks",
+    "discord": "stakeworks",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

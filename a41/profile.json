@@ -1,0 +1,16 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "a41",
+  "identity": "87D9921253A2A9EB",
+  "website": "https://a41.io",
+  "contacts": {
+    "telephone": "",
+    "email": "media@a41ventures.com",
+    "telegram": "http://t.me/a41allforone",
+    "twitter": "@a41_allforone",
+    "discord": "https://discord.gg/NV5dXqaf",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

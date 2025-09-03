@@ -1,14 +1,78 @@
 {
-  "name": "0% fee - TienThuatToan Capital",
+  "$schema": "../chains.schema.json",
+  "name": "TienThuatToan Capital",
   "chains": [
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1zy4xcyx25eg9qha503eqjjgz043l5zy96p83dh",
+      "name": "sifchain",
+      "address": "sifvaloper1c0v745y99pf9arqcwymcwkgea2hud53yukej7e",
       "restake": {
-        "address": "lum15hfak84jamn59229c7r6umg2purgd9cysa8rw7",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1000
+        "address": "sif15hfak84jamn59229c7r6umg2purgd9cyq24u5p",
+        "run_time": "every 4 hours",
+        "minimum_reward": 10000000000000000000
       }
-    }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1ukk6qutqe24hmmwqkumluprms9fu7kannz5gl7",
+      "restake": {
+        "address": "umee15hfak84jamn59229c7r6umg2purgd9cyhp84lc",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper13ql36flc4cdjhx08hke5vpr4dyv03aafnmvtnc",
+      "restake": {
+        "address": "cosmos15hfak84jamn59229c7r6umg2purgd9cy9h62m2",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "aura",
+      "address": "auravaloper1620wkw9ku7lcrpjnq3pavfxm2sjrv4s425w7z3",
+      "restake": {
+        "address": "aura15hfak84jamn59229c7r6umg2purgd9cy7pdgen",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1yhxsary5g7aquzp6d7lr7uvmtr90pu0ny95k3v",
+      "restake": {
+        "address": "shentu15hfak84jamn59229c7r6umg2purgd9cydr7nfh",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1an6hyf4h2au53aa3tuy6yjjr4edsd2xvg5kc2p",
+      "restake": {
+        "address": "inj1lutc4fvkhvn0ay6rkstndze9gva4c5t9p4rlvs",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "bandchain",
+      "address": "bandvaloper1h9a8wasp8zvj8h06mp7tlm0eetgacafkyfqapc",
+      "restake": {
+        "address": "band15hfak84jamn59229c7r6umg2purgd9cyuc6grz",
+        "run_time": "every 4 hours",
+        "minimum_reward": 100000
+      }
+    },	
+    {
+      "name": "archway",
+      "address": "archwayvaloper166zw6w83rksfrqsft3vn2fm546tcpqy64r4hpa",
+      "restake": {
+        "address": "archway122sr7ukcdr580nt0jmyyd0cwnudd73kvwfkqqr",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    }    
   ]
 }

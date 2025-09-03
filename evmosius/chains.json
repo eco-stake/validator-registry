@@ -1,13 +1,14 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "evmosius (⚛️,⚛️)",
   "chains": [
     {
       "name": "evmos",
       "address": "evmosvaloper1qp49y6vh8vvv5yf8ule8fwx6sss82ncz39tunl",
       "restake": {
-        "address": "evmos10g8dt086qsfw0s27us8uvhnnftf9aanx4afg3h",
-        "run_time": "21:05",
-        "minimum_reward": 1000000000000000000
+        "address": "evmos1cen7pqh4jzn0ppqhdrcwkjh7tjdavu2s2pz6mf",
+        "run_time": ["9:00", "21:05"],
+        "minimum_reward": 100000000000000000
       }
     }
   ]
