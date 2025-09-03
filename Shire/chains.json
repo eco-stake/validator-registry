@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Shire",
+  "chains": [
+    
+     {
+      "name": "atomone",
+      "address": "atonevaloper1rhspxhk2sdv45wvygm0vgskzc3689jtmnd0n5s",
+      "restake": {
+        "address": "atone1yafjve09p60mrt8w8a8scex23s6nxvg8ryv3ln",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+        }
+      }    
+  ]
+}
