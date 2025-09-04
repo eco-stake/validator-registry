@@ -12,6 +12,15 @@
         ],
         "minimum_reward": 1000000
       }
-    }
+    },
+    {
+      "name": "kujira",
+      "address": "atonevaloper170m5fa0w6pdgsyqhkcp8fyqavl2l66c8t86sfn",
+      "restake": {
+        "address": "atone1u6sqgs4ev4rutqhh0f86tt2wc7gwhe4xwxk69r",
+        "run_time": "10:00",
+        "minimum_reward": 1000000
+      }
+    },
   ]
 }
