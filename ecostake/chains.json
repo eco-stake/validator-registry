@@ -101,6 +101,18 @@
       }
     },
     {
+      "name": "intento",
+      "address": "intovaloper193zk7phtkfqtexleg0wqjw6um8dax28gvmu9jt",
+      "restake": {
+        "address": "into1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcz75zqky",
+        "run_time": [
+          "09:00",
+          "21:00"
+        ],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "jackal",
       "address": "jklvaloper1rdyunvvqg2l3723hlyjvvsnkd4vg338uar8q2s",
       "restake": {
