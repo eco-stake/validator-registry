@@ -301,6 +301,17 @@
       }
     },
     {
+      "name": "lumera",
+      "address": "lumeravaloper18hlvtdg8nm8r9y0gtgslmnu80lrap7s9emgc04",
+      "restake": {
+        "address": "lumera1gptmp9zhjgzgjkpvqpza3gfgdgjl72etks5pwh",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "mantrachain",
       "address": "mantravaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zrfcwf7",
       "restake": {
