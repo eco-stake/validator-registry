@@ -406,6 +406,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "symphony",
+      "address": "symphonyvaloper1x4qamx9ft4jkfztdyr7n6h93yqmjuttwzf7873",
+      "restake": {
+        "address": "symphony1r8egcurpwxftegr07gjv9gwffw4fk009ul0929",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "lumera",
+      "address": "lumeravaloper1re9t98s4zyj3s5hwrhmj8az8lvg090y9kgmdte",
+      "restake": {
+        "address": "lumera1r8egcurpwxftegr07gjv9gwffw4fk009nc03k3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
