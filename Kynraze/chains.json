@@ -39,15 +39,6 @@
       }
     },
     {
-      "name": "stratos",
-      "address": "stvaloper18xv07szaumhef8ugaekkuqqfupvsrzc6ndfq84",
-      "restake": {
-        "address": "st1gsu44kvftfjlm3at8z94yy2kflaek360k5j2k3",
-        "run_time": "every 2 hours",
-        "minimum_reward": 1000000000000000000
-          }
-     },
-    {
       "name": "quicksilver",
       "address": "quickvaloper1waz83pssn4cp2gpjsghxv88rkezdf6swh3ru7c",
       "restake": {
