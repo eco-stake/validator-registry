@@ -156,6 +156,15 @@
       }
     },
     {
+      "name": "lumera",
+      "address": "lumeravaloper1fz5utgy2ey4zt8p03uza5mqvnk68q4sp2q3wjn",
+      "restake": {
+        "address": "lumera1hcgxjhvv43g9z6dc58g428jgc8hdlmf7vscwvs",
+        "run_time": "every 15 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1mjxsv6j9e2srh36ncsuj5yhlxa0vu97a95mvw6",
       "restake": {
