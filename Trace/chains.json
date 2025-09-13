@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🐾TRACE™",
+  "chains": [
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1lv2n3xnggqxta45q0rs9wufglc6uzrehjxm08w",
+      "restake": {
+        "address": "arkeo1k5q5h2s8lx2ensla5gmjhxyanzn8wpc974f3zz",
+        "run_time": "every 2 hour",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1vvzwx7kjk9yx27vegp74tqu99k2vlz7treqxfw",
+      "restake": {
+        "address": "atone16l4hckrkd0fr6chckj7pk8wgldxdfc4kpcxglq",
+        "run_time": "every 2 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "juno",
+      "address": "junovaloper13uflwz6ncv7wuey55rhh08nlmskpdpfevckja0",
+      "restake": {
+        "address": "juno1hzwe38pcrgy42j0r4hvgq9hxj057hefptag0jd",
+        "run_time": "every 2 hour",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
