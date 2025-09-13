@@ -21,6 +21,15 @@
       }
    },
    {
+      "name": "atomone",
+      "address": "atonevaloper18t9fc4fdg6y7fa3ctmyfcun9td6ema3f34j6lr",
+      "restake": {
+        "address": "atone193w9rkakghyl6mfrvx2hhyvqpa4fcjsxgnttxr",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+   },
+   {
       "name": "comdex",
       "address": "comdexvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dr5vpwsk",
       "restake": {
@@ -43,15 +52,6 @@
       "address": "pasgvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52drss2vmr",
       "restake": {
         "address": "pasg193w9rkakghyl6mfrvx2hhyvqpa4fcjsx9twkay",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-   },
-   {
-      "name": "sge",
-      "address": "sgevaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dryw869h",
-      "restake": {
-        "address": "sge193w9rkakghyl6mfrvx2hhyvqpa4fcjsxcnfj83",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
