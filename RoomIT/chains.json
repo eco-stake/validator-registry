@@ -12,6 +12,15 @@
        }
    },
    {
+   "name": "dora",
+   "address": "doravaloper1t82jnx3cy38cmqs6este696v0al239j9lzcg5u",
+   "restake": {
+      "address": "dora16zv6xqknkcfk4ecgjh5d3nyu2l5t0adznsrn8t",
+      "run_time": "every 1 day",
+      "minimum_reward": 1000000000000000000
+       }
+   },
+   {
     "name": "sentinel",
     "address": "sentvaloper1pyn04fth38t9tvpa3fvfnn4xng06zsymthu6ua",
     "restake": {
@@ -19,15 +28,6 @@
        "run_time": "every 1 day",
        "minimum_reward": 1000000
         }
-    },
-    {
-      "name": "sge",
-      "address": "sgevaloper1rhmrwq4xket2ua4s7nqunnne8kzfz4w34082zv",
-      "restake": {
-         "address": "sge16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzw2cq8h",
-         "run_time": "every 1 day",
-         "minimum_reward": 1000000
-          }
     },
     {
       "name": "source",
@@ -52,15 +52,6 @@
       "address": "gitopiavaloper1pv8fkl4t7wk9mwptkwf8pemy9rt8qpkydr6k3p",
       "restake": {
          "address": "gitopia16zv6xqknkcfk4ecgjh5d3nyu2l5t0adzwjpfl7",
-         "run_time": "every 1 day",
-         "minimum_reward": 1000000
-          }
-    },
-    {
-      "name": "entangle",
-      "address": "entvaloper1yxhagvehavfjwtaar8a25vxwp349fauzsekyxn",
-      "restake": {
-         "address": "ethm1c898dvtfaucu2dxtz6nu4hj7qgxdsutjyj7k5e",
          "run_time": "every 1 day",
          "minimum_reward": 1000000
           }
