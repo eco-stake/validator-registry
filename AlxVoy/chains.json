@@ -303,7 +303,7 @@
       "name": "uptick",
       "address": "uptickvaloper1tztp0sp047zxxj2j3pzhtr67w2nmn2a8q0dxse",
       "restake": {
-        "address": "uptickvaloper1tztp0sp047zxxj2j3pzhtr67w2nmn2a8q0dxse",
+        "address": "uptick1z2c4d7yva7v0rcl4ewgkjqhg90ggsmmenkavtx",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
