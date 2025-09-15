@@ -20,12 +20,12 @@
         "minimum_reward": 10000000
       }
     },
-	{
-      "name":"arkh",
-      "address":"arkhvaloper1c4dywztkcazj8udfkl3efp854m2ct432m7nugs",
-      "restake":{
-        "address":"arkh1a96tk40kwfpppxg8neer35qxnsjxqgvjhfpm8q",
-        "run_time":"every 1 hour",
+    {
+      "name": "arkh",
+      "address": "arkhvaloper1c4dywztkcazj8udfkl3efp854m2ct432m7nugs",
+      "restake": {
+        "address": "arkh1a96tk40kwfpppxg8neer35qxnsjxqgvjhfpm8q",
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     },
@@ -47,7 +47,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "beezee",
       "address": "bzevaloper17excul8pv3pj974z4u60unthpg0t2777n37n08",
       "restake": {
@@ -56,7 +56,7 @@
         "minimum_reward": 1000000
       }
     },
-		{
+    {
       "name": "bitcanna",
       "address": "bcnavaloper183gjgyuw9lq7dwjnhdxw9mgchrysqee0mptxsa",
       "restake": {
@@ -65,7 +65,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "bitsong",
       "address": "bitsongvaloper138zp40g5pnjg4e7a24j5035q2f7nzwfec8ruee",
       "restake": {
@@ -74,7 +74,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "chain4energy",
       "address": "c4evaloper157u8qctqsev4487pm9f3j68938g7cc4my3w3dt",
       "restake": {
@@ -83,7 +83,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "cheqd",
       "address": "cheqdvaloper1vzuap003tuujzq2lqzxl52uv05snav66jjdvpd",
       "restake": {
@@ -92,7 +92,7 @@
         "minimum_reward": 100000000
       }
     },
-	{
+    {
       "name": "firmachain",
       "address": "firmavaloper1vnglxjwv6pc0ssz2zhsxsvfwehjddgeuusgfhu",
       "restake": {
@@ -101,7 +101,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "genesisl1",
       "address": "genesisvaloper1jxyxqzs0eg53gf2vjs5ekx7ewgduf4gqcpay30",
       "restake": {
@@ -119,7 +119,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "gravitybridge",
       "address": "gravityvaloper1tt4t3c6sdr9w0pfljx54zkw0g8negdrs0j0hdp",
       "restake": {
@@ -137,7 +137,7 @@
         "minimum_reward": 10000000000000000
       }
     },
-	{
+    {
       "name": "impacthub",
       "address": "ixovaloper1km58hq4m6kg8q2n3gxc84xt8v06fc24c4tc4wt",
       "restake": {
@@ -164,7 +164,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "likecoin",
       "address": "likevaloper10ff3y56q29yq7u0wmuchna8jv2rtkyclsmhv02",
       "restake": {
@@ -173,7 +173,7 @@
         "minimum_reward": 5000000000
       }
     },
-	{
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1sqck02vl79khlwc86vvfjvacgtkck2hftvgm77",
       "restake": {
@@ -192,7 +192,7 @@
       }
     },
     {
-      "name":"planq",
+      "name": "planq",
       "address": "plqvaloper17e5fpf9gh6mqp0cf3udmd7sy8pn9243jk4ptqp",
       "restake": {
         "address": "plq1z2c4d7yva7v0rcl4ewgkjqhg90ggsmmefg3t5y",
@@ -245,7 +245,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "shentu",
       "address": "certikvaloper1sqr3wnz7aujx8mpmydmdypuaafpvrgtshvre7q",
       "restake": {
@@ -254,7 +254,7 @@
         "minimum_reward": 1000000
       }
     },
-	{
+    {
       "name": "sifchain",
       "address": "sifvaloper1zxlzghpkpv9gmkyaaq8shrwhxmkzhdrelylm6w",
       "restake": {
