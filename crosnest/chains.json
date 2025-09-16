@@ -75,6 +75,15 @@
       }
     },
     {
+      "name": "lumera",
+      "address": "lumeravaloper1z2afk7z6w7pvx0gh5r9ula0mf6ehe2gdp4dxky",
+      "restake": {
+        "address": "lumera1z2afk7z6w7pvx0gh5r9ula0mf6ehe2gdw076s8",
+        "run_time": "every 1 day",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "osmosis",
       "address": "osmovaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kas05lk04",
       "restake": {
