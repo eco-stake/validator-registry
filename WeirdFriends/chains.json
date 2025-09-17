@@ -1,14 +1,14 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "CWeird ♥️ Friends",
+  "name": "Weird ♥️ Friends",
   "chains": [
     {
       "name": "teritori",
-      "address": "plqvaloper193m20w4ekv2f7e5mhet9j9c3mnpvsk3m32wvtm",
+      "address": "torivaloper1dz3wvy7ecry7uh4eqca4d5rr9xwu36n0spjp4t",
       "restake": {
-        "address": "plq1tu967ks32ueuzveaph9gvc3cgls92rqw48dzma",
+        "address": "tori1znmkn0x0f5yfdkpflk6gcgpqsm3vrq3tlv68gc",
         "run_time": ["12:00", "24:00"],
-        "minimum_reward": 2000000000000000000
+        "minimum_reward": 1000000000
       }
     }
   ]
