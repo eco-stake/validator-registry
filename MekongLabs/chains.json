@@ -1,0 +1,51 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CroutonDigital",
+  "chains": [
+    {
+      "name": "namada",
+      "address": "tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j",
+      "restake": {
+        "address": "tpknam1qrjdgfn0uhpv6je3cddsamg42s4f7tefh84x338l8fqawp8cw8l4sw2cd0q",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sunrise",
+      "address": "sunrisevaloper1vkcweyvq8vdw48mewzzfwczh60yyeyhakdrpn4",
+      "restake": {
+        "address": "sunrise1vkcweyvq8vdw48mewzzfwczh60yyeyhakvyexs",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumera",
+      "address": "lumeravaloper1jzmqvv3s9whxv4vafnj8ry4mvxref0fflxry0y",
+      "restake": {
+        "address": "lumera1jzmqvv3s9whxv4vafnj8ry4mvxref0ffsuscf8",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "laconic",
+      "address": "laconicvaloper1ul4pjf0s3jh7shgfrs6jfa0zvyd6rmhxgf8678",
+      "restake": {
+        "address": "laconic1ul4pjf0s3jh7shgfrs6jfa0zvyd6rmhx5ga39f",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper128mqnq92t6pzrkwhjq2jwucuqyl5gmrf0hcyx6",
+      "restake": {
+        "address": "bb128mqnq92t6pzrkwhjq2jwucuqyl5gmrfsmpmxp",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
