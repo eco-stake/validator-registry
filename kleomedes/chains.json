@@ -424,6 +424,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "bitway",
+      "address": "bitwayvaloper1qqzsvrq4zswpw9c0psrpjzcwzgg3vxqnzq0pc8qxp5gsv9c7zqvqsaye0nh",
+      "restake": {
+        "address": "bitway1r8egcurpwxftegr07gjv9gwffw4fk0098jmapu",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
