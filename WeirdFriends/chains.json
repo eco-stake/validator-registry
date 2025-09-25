@@ -10,6 +10,15 @@
         "run_time": ["12:00", "24:00"],
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "teritori",
+      "address": "xplavaloper1fuwzheku3m2fgej9vtzwzhc0a4p0f28vv298pc",
+      "restake": {
+        "address": "xpla1negx5p2n3slszlelrykln255gapvxywu4q06mh",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 10000000000000000000
+      }
     }
   ]
 }
