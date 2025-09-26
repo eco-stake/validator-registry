@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "CroutonDigital",
+  "name": "MekongLabs",
   "chains": [
     {
       "name": "namada",
