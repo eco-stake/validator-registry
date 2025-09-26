@@ -17,7 +17,7 @@
       "restake": {
         "address": "xpla1negx5p2n3slszlelrykln255gapvxywu4q06mh",
         "run_time": ["12:00", "24:00"],
-        "minimum_reward": 10000000000000000000
+        "minimum_reward": 1000000000000000000
       }
     }
   ]
