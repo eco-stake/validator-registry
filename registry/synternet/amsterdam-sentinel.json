@@ -2,6 +2,9 @@
   "name": "Amsterdam Sentinel",
   "address": "synt1ver4kjsnc7x4tr93sxkqhyje473cvxuxnenyv7",
   "run_time": ["00:00", "06:00", "12:00", "18:00"],
-  "minimum_reward": 50000000,
-    "authz_support": true
+  "minimum_reward": 1000000000,
+  "contacts": {
+    "email": "1stuffmaker@gmail.com"
+  },
+  "authz_support": true
 }
