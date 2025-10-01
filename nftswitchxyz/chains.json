@@ -1,0 +1,35 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NFTSwitch.xyz",
+  "chains": [
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper13x4kf2zcdtegl8tytg0j0tclgv9atvt443k8hg"
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper139nknw98s8wqmzfqt9fs3jvv9sz2perqndmfat"
+    },
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper12qp6x6xd57qmkk7zlfa2zn7n8m8wcehy4uzuef"
+    },
+    {
+      "name": "oraichain",
+      "address": "oraivaloper1ptz8n8dnadpga3efmcaskjdpm5vqlrcjpkctv9"
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1u2wsa88eh738mk35a3cncgu7lc6cqf74jdl50x"
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le",
+      "restake": {
+        "address": "terra128drzzk72xh03arugrt506jxvmj6uymp7yj0wf",
+        "run_time": "every 12 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

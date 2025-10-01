@@ -11,6 +11,15 @@
         "minimum_reward": 100000
       }
     },
+    {
+      "name": "axone",
+      "address": "axonevaloper1qadyrceukr2rtgvwnscaspl2gttaxcx53th8uk",
+      "restake": {
+        "address": "axone1t3d2tlylpd2qllzm5uadcjpdm2u7v7pncdt60h",
+        "run_time": ["04:00", "16:00"],
+        "minimum_reward": 100000
+      }
+    },  
       {
          "name":"cosmoshub",
          "address":"cosmosvaloper1yh089p0cre4nhpdqw35uzde5amg3qzexkeggdn",

@@ -39,6 +39,15 @@
          }
       },
       {
+         "name":"babylon",
+         "address":"bbnvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0hrgu9w",
+         "restake":{
+            "address":"bbn1q52x3jrc2jrx7rv380z64tsw9m907zlhckptxk",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
          "name":"bandchain",
          "address":"bandvaloper1gqsyphjwkqnp8ahffzx2ul2txru8jaztr3fzdg",
          "restake":{
@@ -66,6 +75,24 @@
          }
       },
       {
+         "name":"lava",
+         "address":"lava@valoper1uhwy40w2jg22m2yup4qepqa420x2tfz03wljrv",
+         "restake":{
+            "address":"lava@1q52x3jrc2jrx7rv380z64tsw9m907zlhhs8l7z",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
+         "name":"kyve",
+         "address":"kyvevaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0cp7xns",
+         "restake":{
+            "address":"kyve1q52x3jrc2jrx7rv380z64tsw9m907zlhcxavjt",
+            "run_time":"every 12 hours",
+            "minimum_reward":500000
+         }
+      },
+      {
          "name":"mantrachain",
          "address":"mantravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0j0c6ef",
          "restake":{
@@ -89,7 +116,7 @@
          "restake":{
             "address":"panacea1zs7sg5ggl6t23p868mltvdqpeymg4sjp2qrdyx",
             "run_time":"every 12 hours",
-            "minimum_reward":100000
+            "minimum_reward":10000000
          }
       },
       {

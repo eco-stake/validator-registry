@@ -21,6 +21,24 @@
       }
     },
     {
+      "name": "mantrachain",
+      "address": "mantra1l2ezzjq5mew0atp39n2hu6leak2503l3059cr5",
+      "restake": {
+        "address": "mantra1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqng3cr6f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1kwsdmnp77mvcv93jky3l89q9kdjhqj788nvkj3",
+      "restake": {
+        "address": "arkeo1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnq68zyk",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 10000000
+      }
+    },
+    {
       "name": "xpla",
       "address": "xplavaloper173nykxpfss6qmlhqddh6a4q7rxvyjckt52djaq",
       "restake": {
@@ -56,6 +74,24 @@
         "minimum_reward": 100000
           }
        },
+    {
+      "name": "sidechain",
+      "address": "sidevaloper1qqpqjxgmqs837ygep5fqjxsnpyxq79s2zuxsv8sczc93cqsapyw3vude46h",
+      "restake": {
+        "address": "side1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnhm0a85",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zenrock",
+      "address": "zenvaloper1jqq7jdc8rj4w4en88lcn7u0rh3ua6w57zmvhfw",
+      "restake": {
+        "address": "zen1uq4q7z0qx0zpgg2w2ashpucxrc5hpsqnehqx4z",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
       {
          "name":"mantrachain",
          "address":"mantravaloper1l2ezzjq5mew0atp39n2hu6leak2503l3t0yk03",

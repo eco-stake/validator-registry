@@ -64,6 +64,15 @@
 				"run_time": ["every 1 hour"],
 				"minimum_reward": 1000000
 			}
+		},
+		{
+			"name": "arkeo",
+			"address": "arkeovaloper1ty96umas8fwe3ef34fkcgygwelaedfglca3e65",
+			"restake": {
+				"address": "arkeo1ytd099sqjsqsxvhh72hykwjh2vrqse2m7zxghp",
+				"run_time": "every 1 hour",
+				"minimum_reward": 10000000
+			}
 		}
 	]
 }

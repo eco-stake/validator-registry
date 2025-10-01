@@ -16,8 +16,8 @@
       "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
       "restake": {
         "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 10000
+        "run_time": "every 60 minutes",
+        "minimum_reward": 100000
       }
     },
     {
@@ -54,6 +54,15 @@
         "address": "core1hcgxjhvv43g9z6dc58g428jgc8hdlmf78pqw9e",
         "run_time": "12:00",
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper188l6kl0k9dujfd9y3la6w5ykvxzechd8a06z55",
+      "restake": {
+        "address": "cosmos1hcgxjhvv43g9z6dc58g428jgc8hdlmf750c4zz",
+        "run_time": "12:00",
+        "minimum_reward": 100000
       }
     },
     {
@@ -143,6 +152,15 @@
       "restake": {
         "address": "ki1hcgxjhvv43g9z6dc58g428jgc8hdlmf79zf6xk",
         "run_time": "12:00",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "lumera",
+      "address": "lumeravaloper1fz5utgy2ey4zt8p03uza5mqvnk68q4sp2q3wjn",
+      "restake": {
+        "address": "lumera1hcgxjhvv43g9z6dc58g428jgc8hdlmf7vscwvs",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     },

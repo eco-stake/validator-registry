@@ -21,33 +21,6 @@
       }
     },
     {
-      "name": "teritori",
-      "address": "torivaloper1ey35ftp7k7hvrr682ufnexpx30xh8easd48jhp",
-      "restake": {
-        "address": "tori17kxwsh0pnu25lqa97vdsc3f59mn3uswjetgk6n",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "gitopia",
-      "address": "gitopiavaloper1dc58ks2vu4q9jkypaf52kqunyt0kn4l40fkyku",
-      "restake": {
-        "address": "gitopia17kxwsh0pnu25lqa97vdsc3f59mn3uswj98cgwq",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1jr4cuknpep4mfvu48kzs8en332za4473fuwwca",
-      "restake": {
-        "address": "agoric1xrgpkuy5w5sjale30ge2zyu09cykxq5dcyd45z",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "atomone",
       "address": "atonevaloper1h7akavny3gx37rc57cth7h7829v6z72j3qmtnq",
       "restake": {

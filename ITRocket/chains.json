@@ -3,10 +3,10 @@
   "name": "ITRocket",
   "chains": [
     {
-      "name": "nois",
-      "address": "noisvaloper19yul78yu9jzay9afsyjgmv0pk0k5rl80sa6vlx",
+      "name": "atomone",
+      "address": "atonevaloper1pucqpsdadfgrvk90tt93slpwwu4vdf24p2yvsq",
       "restake": {
-        "address": "nois122m6glax3ne4c03femzmpr8s6lx3vv3lncnkgd",
+        "address": "atone122m6glax3ne4c03femzmpr8s6lx3vv3lvsjmjd",
         "run_time": "10:00",
         "minimum_reward": 1000000
       }

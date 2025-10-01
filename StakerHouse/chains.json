@@ -2,7 +2,7 @@
   "$schema": "../chains.schema.json",
   "name": "StakerHouse",
   "chains": [
-   {
+    {
       "name": "andromeda",
       "address": "andrvaloper10tptnjcsf7as7ylvl7ea0ma9dh8wqlm42r0kke",
       "restake": {
@@ -10,8 +10,8 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 10000
       }
-   },
-   {
+    },
+    {
       "name": "assetmantle",
       "address": "mantlevaloper1uac4u9c60tj97fx3lvscefe0m3t3fmrrlv3vzl",
       "restake": {
@@ -19,8 +19,17 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
-   },
-   {
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper18t9fc4fdg6y7fa3ctmyfcun9td6ema3f34j6lr",
+      "restake": {
+        "address": "atone193w9rkakghyl6mfrvx2hhyvqpa4fcjsxgnttxr",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "comdex",
       "address": "comdexvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dr5vpwsk",
       "restake": {
@@ -28,8 +37,17 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
-   },
-   {
+    },
+    {
+      "name": "lumera",
+      "address": "lumeravaloper1ymlgc5w9fcv7n76ey3f0fhpgd4l9pw0jae09ud",
+      "restake": {
+        "address": "lumera193w9rkakghyl6mfrvx2hhyvqpa4fcjsx7vhh7f",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "lumnetwork",
       "address": "lumvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w84k3adu",
       "restake": {
@@ -37,8 +55,8 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 10000000
       }
-   },
-   {
+    },
+    {
       "name": "passage",
       "address": "pasgvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52drss2vmr",
       "restake": {
@@ -46,17 +64,8 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000
       }
-   },
-   {
-      "name": "sge",
-      "address": "sgevaloper12q4a5qvuzzn2kspe6dekkhnl77ct52dryw869h",
-      "restake": {
-        "address": "sge193w9rkakghyl6mfrvx2hhyvqpa4fcjsxcnfj83",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-   },
-   {
+    },
+    {
       "name": "stargaze",
       "address": "starsvaloper1ytmeusye99zdzumkx2hvlx5p3fj9d5w8qfxwn9",
       "restake": {
@@ -64,8 +73,8 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 5000000
       }
-   },
-   {
+    },
+    {
       "name": "uptick",
       "address": "uptickvaloper15xpgkjt3euv60z2u7p4ggjslgc5zt49uu6p48m",
       "restake": {
@@ -73,6 +82,6 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000000000000000000
       }
-   }
+    }
   ]
 }

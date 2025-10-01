@@ -1,0 +1,12 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "🐾TRACE™",
+  "identity": "F04B7F842706017A",
+  "website": "https://trace-tm.tech",
+  "description": {
+    "overview": "TRACE™ | A team of technical validators. We are developing the world of blockchain!"
+  },
+  "contacts": {
+    "email": "trace.valoper@gmail.com"
+  }
+}

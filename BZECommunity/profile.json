@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "BZE Community",
+  "identity": "F2D4A81476AE8660",
+  "website": "https://getbze.com",
+  "contacts": {
+    "telephone": "",
+    "email": "alphateam@getbze.com",
+    "telegram": "faneatiku",
+    "twitter": "BZEdgeCoin",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

@@ -27,18 +27,6 @@
       }
     },
     {
-      "name": "persistence",
-      "address": "persistencevaloper12lkrzza9rem2mv7d247cmxjvh7cql6rcug82qk",
-      "restake": {
-        "address": "persistence19fgwa9tknul40r7mwam6j7ww8grq62jq70gm08",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "bandchain",
       "address": "bandvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn4hl7n",
       "restake": {
@@ -63,46 +51,10 @@
       }
     },
     {
-      "name": "injective",
-      "address": "injvaloper1v2xylfeyry808ltt0hwxggzt0fns6uwh74mku3",
-      "restake": {
-        "address": "inj1te06mjvtw763dm8q8g7zd4gru8y3vvk49ahe0q",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000000000000000
-      }
-    },
-    {
       "name": "akash",
       "address": "akashvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvp4sl2q",
       "restake": {
         "address": "akash1ltd3ynqjvy39r3lc48p4zlqa59hvam5tcg85s6",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvyfzg08",
-      "restake": {
-        "address": "agoric16r8m6kfzh36e5x95z5s8zjg6mml0kea9myq000",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000
-      }
-    },
-    {
-      "name": "passage",
-      "address": "pasgvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvkgqv0n",
-      "restake": {
-        "address": "pasg1ltd3ynqjvy39r3lc48p4zlqa59hvam5tktnfyl",
         "run_time": [
           "00:00",
           "12:00"
@@ -120,18 +72,6 @@
           "12:00"
         ],
         "minimum_reward": 500000
-      }
-    },
-    {
-      "name": "dymension",
-      "address": "dymvaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvh6r6cy",
-      "restake": {
-        "address": "dym1te06mjvtw763dm8q8g7zd4gru8y3vvk4afvmck",
-        "run_time": [
-          "00:00",
-          "12:00"
-        ],
-        "minimum_reward": 10000000000000000
       }
     }
   ]

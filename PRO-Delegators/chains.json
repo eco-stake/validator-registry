@@ -46,7 +46,33 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
-    }
-	  
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1aul5ayt05jwk758k9s2w3qn5qdxesw9sjpnurq",
+      "restake": {
+        "address": "nillion1vvumkjdmen9fsgu88zqv8eulpn79g4g02nmh6t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1u2qq4hy268nz78k4z0dn6tgnv0mqsvsd35qvk4",
+      "restake": {
+        "address": "bbn1vvumkjdmen9fsgu88zqv8eulpn79g4g0xd54w3",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper1v2azgtqlaj5xxktswpclsgn8zrr4960vhu50r2",
+      "restake": {
+        "address": "neutron1vvumkjdmen9fsgu88zqv8eulpn79g4g04vvxt0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }

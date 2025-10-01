@@ -1,5 +1,12 @@
 {
   "$schema": "../profile.schema.json",
   "name": "NODERS",
-  "identity": "220491ADDD660741"
+  "identity": "220491ADDD660741",
+  "website": "https://noders.team",
+  "description": {
+    "overview": "Noders LLC is a premier provider of institutional-grade Validator Services and cutting-edge Web3 Development. We guarantee uninterrupted operation, slash protection, 24/7 monitoring, and the most in-demand contributions to foster project community growth."
+  },
+  "contacts": {
+    "email": "office@noders.team"
+  }
 }

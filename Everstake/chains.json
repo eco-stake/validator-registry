@@ -3,14 +3,20 @@
   "name": "Everstake",
   "chains": [
     {
+      "name": "babylon",
+      "address": "bbnvaloper1l5c6cf6rps3vq65hmk73hqv2epj6wrn2vlkawa",
+      "restake": {
+        "address": "bbn1g3laz9zpgy8x4k3gdkydf4umnepaug4wqekesm",
+        "run_time": "every 1 week",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "cosmoshubtestnet",
       "address": "cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3",
       "restake": {
         "address": "cosmos1g3laz9zpgy8x4k3gdkydf4umnepaug4wh88g0z",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
+        "run_time": "every 1 week",
         "minimum_reward": 5000
       }
     },
@@ -74,7 +80,7 @@
         "minimum_reward": 10000
       }
     },
-  
+	  
     {
       "name": "sei",
       "address": "seivaloper1ummny4p645xraxc4m7nphf7vxawfzt3p5hn47t",
@@ -84,6 +90,28 @@
         "minimum_reward": 100000
       }
     },
+	  
+    {
+      "name": "nillion",
+      "address": "nillionvaloper19743p7l66n4pt8vhqsv7x2ageys0ng52ce9jyg",
+      "restake": {
+        "address": "nillion1g3laz9zpgy8x4k3gdkydf4umnepaug4wv8emyp",
+        "run_time": [
+          "12:00"        
+        ],
+        "minimum_reward": 100000
+      }
+    },  
+	  
+    {
+      "name": "milkyway",
+      "address": "milkvaloper1khwnd5ggd09nprajqcg48jjg30s728gqe8s7ym",
+      "restake": {
+        "address": "milk1g3laz9zpgy8x4k3gdkydf4umnepaug4we5pk8s",
+        "run_time": "every 1 week",
+        "minimum_reward": 100000
+      }
+    },  
 	  
     {
       "name": "xpla",

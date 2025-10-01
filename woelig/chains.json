@@ -370,6 +370,24 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "arkeo",
+      "address": "arkeovaloper1zcp77t4e3y58zen38gf4kv9f74w720lp4grdhs",
+      "restake": {
+        "address": "arkeo1e762e7chsgz3aurtelcz948j8gscfr0qvwhjpy",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "althea",
+      "address": "altheavaloper1ykm6qk4mzzupqfl9rl4hun5pp4h4kup6f9qe8a",
+      "restake": {
+        "address": "althea1e762e7chsgz3aurtelcz948j8gscfr0qmv8esy",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     }
   ]
 }
