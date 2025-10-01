@@ -18,7 +18,7 @@
          "address": "atone1m8d8zmpulmc030rwu5ar0lm6454wzxdnt0dje6",
          "run_time": "every 1 day",
          "minimum_reward": 1000000
-      }
+          }
     },
     {
       "name": "self",
@@ -28,6 +28,14 @@
          "run_time": "every 1 day",
          "minimum_reward": 1000000
           }
-    }
+    },
+    {
+      "name": "union",
+      "address": "unionvaloper1jr8kg3ahcaqcuhe26tsm3e76pz36try8w8n43z",
+      "restake": {
+         "address": "union1m8d8zmpulmc030rwu5ar0lm6454wzxdn0csapn",
+         "run_time": "every 1 day",
+         "minimum_reward": 1000000000000000000
+          }
   ]
 }
