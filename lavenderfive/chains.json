@@ -3,17 +3,6 @@
   "name": " Lavender.Five Nodes 🐝",
   "chains": [
     {
-      "name": "aura",
-      "address": "auravaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zva4wux",
-      "restake": {
-        "address": "aura12xpq68caw2aqdu70jm4k792g0v9prhrpm43xzp",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "akash",
       "address": "akashvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57ztqs903",
       "restake": {
@@ -102,17 +91,6 @@
       }
     },
     {
-      "name": "composable",
-      "address": "picavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zhul3v7",
-      "restake": {
-        "address": "pica12xpq68caw2aqdu70jm4k792g0v9prhrpml9pyl",
-        "run_time": [
-          "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j",
       "restake": {
@@ -164,17 +142,6 @@
         "address": "firma1xc0mmk6pruu0v76wvpkuemaed7ekca7sw5mct0",
         "run_time": [
           "12:00"        
-        ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "gitopia",
-      "address": "gitopiavaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z6msrfe",
-      "restake": {
-        "address": "gitopia12xpq68caw2aqdu70jm4k792g0v9prhrp7mpn0m",
-        "run_time": [
-          "12:00"
         ],
         "minimum_reward": 100000
       }
