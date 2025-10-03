@@ -26,7 +26,7 @@
       "restake": {
         "address": "atone1cwas7kp5d3vjed4fel4xxl9hj4y55nqvhcdc4q",
         "run_time": ["12:00", "24:00"],
-        "minimum_reward": 10000000
+        "minimum_reward": 100000
       }
     },
     {
