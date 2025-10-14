@@ -31,7 +31,7 @@
     },
     {
       "name": "osmosis",
-      "address": "osmovaloper1lw979at0ckctgf7d0tnuk8j0l83ntpa04yf6yn",
+      "address": "osmovaloper1lmxrexaxuc7ealq4wqdgzrczajhhrenrdlhxha",
       "restake": {
         "address": "osmo1cwas7kp5d3vjed4fel4xxl9hj4y55nqv3rz042",
         "run_time": ["12:00", "24:00"],
