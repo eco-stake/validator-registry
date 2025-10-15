@@ -35,7 +35,7 @@
       "restake": {
         "address": "osmo1cwas7kp5d3vjed4fel4xxl9hj4y55nqv3rz042",
         "run_time": ["12:00", "24:00"],
-        "minimum_reward": 4000000
+        "minimum_reward": 1000000
       }
     },
     {
