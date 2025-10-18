@@ -16,7 +16,7 @@
       "address": "atonevaloper1ngchl63yr5ew7ua7y72z4p80s32u6g9u09vguf",
       "restake": {
         "address": "atone1hcgxjhvv43g9z6dc58g428jgc8hdlmf760yj56",
-        "run_time": "every 60 minutes",
+        "run_time": "12:00",
         "minimum_reward": 100000
       }
     },
