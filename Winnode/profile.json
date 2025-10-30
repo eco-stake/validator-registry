@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Winnode",
+  "identity": "7E5F81D59C3545C6",
+  "website": "https://winnode.xyz",
+  "description": {
+    "overview": "Validator by Winnode | Crypto Education & Validator Service."
+  }
+}
