@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Life_and_Crypto",
+  "name": "Expedition | by Life_and_Crypto",
   "chains": [
     {
       "name": "juno",
@@ -30,19 +30,10 @@
       }
     }, 
     {
-      "name": "persistence",
-      "address": "persistencevaloper1arxtft7kw32y94ae5h794mn6wtsp3supm5a2j3",
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1nkkdef4flw8s3jxnmdyqnr7rwgfpw2kv9lx0ug",
       "restake": {
-        "address": "persistence1dyxnvk89r7ygp7ckyxsusnt3gxn908j22vu0kh",
-        "run_time": "every 24 hours",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "lava",
-      "address": "lava@valoper1w4yyt0r9xc9y8x548jmfj83mztwpn8ngk04tsu",
-      "restake": {
-        "address": "lava@1dyxnvk89r7ygp7ckyxsusnt3gxn908j2ucdel7",
+        "address": "cosmos1dyxnvk89r7ygp7ckyxsusnt3gxn908j2yq6ucn",
         "run_time": "every 24 hours",
         "minimum_reward": 1000000
       }

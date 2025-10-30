@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "OneNov",
+  "chains": [
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26gslgdn",
+      "restake": {
+        "address": "bb1cjdxm4urpdp42un8xjsdx6469h3nlx26huxhdg",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1cjdxm4urpdp42un8xjsdx6469h3nlx268jwplx",
+      "restake": {
+        "address": "axone1cjdxm4urpdp42un8xjsdx6469h3nlx26h8zn9y",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Weird ♥️ Friends",
+  "chains": [
+    {
+      "name": "teritori",
+      "address": "torivaloper1dz3wvy7ecry7uh4eqca4d5rr9xwu36n0spjp4t",
+      "restake": {
+        "address": "tori1znmkn0x0f5yfdkpflk6gcgpqsm3vrq3tlv68gc",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "xpla",
+      "address": "xplavaloper1fuwzheku3m2fgej9vtzwzhc0a4p0f28vv298pc",
+      "restake": {
+        "address": "xpla1negx5p2n3slszlelrykln255gapvxywu4q06mh",
+        "run_time": ["12:00", "24:00"],
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
