@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "catsmile",
+  "chains": [
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1w88wk5q6zv98nqtj25cqg4f8j6xx64nmxpf4ea",
+      "restake": {
+        "address": "bb1w88wk5q6zv98nqtj25cqg4f8j6xx64nmeds2ex",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1yyzeptdj7p4ngpuwnews3098jljmnq8fkc05cq",
+      "restake": {
+        "address": "axone1yyzeptdj7p4ngpuwnews3098jljmnq8fxdrxzz",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
