@@ -1,26 +1,4 @@
 {
-  "$schema": "../chains.schema.json",
-  "name": "Leonoor's Cryptoman",
-  "chains": [
-    {
-      "name": "comdex",
-      "address": "comdexvaloper1ccmys9wyh97khl5wve89wtuc35euylnuzfhp6w",
-      "restake": {
-        "address": "comdex1zf8gz27gs5py3ua9lpu958w24j0jyj0t96qs0p",
-        "run_time": "every 6 hours",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "kopi",
-      "address": "kopivaloper1luwm4s2cvy8jprujjurdzujjwedjnnnpnls40a",
-      "restake": {
-        "address": "kopi1zf8gz27gs5py3ua9lpu958w24j0jyj0tnnjxmq",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper14amduhjazqhwtkhm6kutdcy4ux5zazf5k803tq",
       "restake": {
@@ -54,33 +32,6 @@
         "address": "omniflix1zf8gz27gs5py3ua9lpu958w24j0jyj0tltntpg",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "stride",
-      "address": "stridevaloper1yzdn74s67d0lw404h7w8wz0yk2wpp5ehm2uuzw",
-      "restake": {
-        "address": "stride1zf8gz27gs5py3ua9lpu958w24j0jyj0tp7zwz6",
-        "run_time": "every 6 hours",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper1r3fhvm288jzs6dcuww2q0zhvqkaj2ex6zzlzzq",
-      "restake": {
-        "address": "chihuahua1zf8gz27gs5py3ua9lpu958w24j0jyj0tpq0uh5",
-        "run_time": "every 1 hours",
-        "minimum_reward": 100000000
-      }
-    },
-    {
-      "name": "planq",
-      "address": "plqvaloper1jzv668qyy5znqan4nl5thwru2z0d4y8k9m6l2d",
-      "restake": {
-        "address": "plq19samcrqzvhh7fm04nyf90ru49u33c28gqwtsqp",
-        "run_time": "every 1 hours",
-        "minimum_reward": 1000000000000000000
       }
     },
     {
