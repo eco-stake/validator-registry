@@ -58,7 +58,7 @@
       },
       {
          "name":"cosmoshub",
-         "address":"cosmosvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0ct8969",
+         "address":"cosmosvaloper1y3pjm65prcek6gn7n0k488r9f594ednuxuw25q",
          "restake":{
             "address":"cosmos1q52x3jrc2jrx7rv380z64tsw9m907zlh0gs6e0",
             "run_time":"every 12 hours",
@@ -67,7 +67,7 @@
       },
       {
          "name":"gravitybridge",
-         "address":"cosmosvaloper1y3pjm65prcek6gn7n0k488r9f594ednuxuw25q",
+         "address":"gravityvaloper19x3s23x9hvp98rdgrl6mnec8h5hy7zmnxp2sgt",
          "restake":{
             "address":"gravity1q52x3jrc2jrx7rv380z64tsw9m907zlhtczzu8",
             "run_time":"every 12 hours",
