@@ -57,10 +57,10 @@
          }
       },
       {
-         "name":"elys",
-         "address":"elysvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz04lp2x2",
+         "name":"cosmoshub",
+         "address":"cosmosvaloper1y3pjm65prcek6gn7n0k488r9f594ednuxuw25q",
          "restake":{
-            "address":"elys1q52x3jrc2jrx7rv380z64tsw9m907zlh0gfa5d",
+            "address":"cosmos1q52x3jrc2jrx7rv380z64tsw9m907zlh0gs6e0",
             "run_time":"every 12 hours",
             "minimum_reward":100000
          }
