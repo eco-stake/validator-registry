@@ -1,4 +1,8 @@
 {
+  "$schema": "../chains.schema.json",
+  "name": "Leonoor's Cryptoman",
+  "chains": [
+    {
       "name": "osmosis",
       "address": "osmovaloper14amduhjazqhwtkhm6kutdcy4ux5zazf5k803tq",
       "restake": {
