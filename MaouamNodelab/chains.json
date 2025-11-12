@@ -17,7 +17,7 @@
       "restake": {
         "address": "bb1yd0rngzs9dh8x98pk63tsyxkm0ap58ke0uzzwe",
         "run_time": "every 1 hours",
-        "minimum_reward": 100000000
+        "minimum_reward": 1000000000
       }
     },
     {
@@ -39,12 +39,12 @@
       }
     },
     {
-      "name": "hippo",
+      "name": "hippoprotocol",
       "address": "hippovaloper1esxw447jdaeerz05p3z9nfgl4k7904hzw9uas5",
       "restake": {
         "address": "hippo1avha9scqmyve5rc5rv74hjx95tw2znn5hm7tst",
         "run_time": "every 1 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -71,7 +71,7 @@
       "restake": {
         "address": "shido1d8y5cgkvxtxa99rnc0ufaeqlpm8qaqr5t6jyw2",
         "run_time": "every 1 hours",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -89,7 +89,7 @@
       "restake": {
         "address": "tellor1yd0rngzs9dh8x98pk63tsyxkm0ap58kevhn2ga",
         "run_time": "every 1 hours",
-        "minimum_reward": 10000
+        "minimum_reward": 100000
       }
     },
     {
