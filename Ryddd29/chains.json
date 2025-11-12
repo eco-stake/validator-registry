@@ -64,6 +64,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "regen",
+      "address": "regenvaloper1zcll4k60y9v6edkht0xadexl62kjew36ezy799",
+      "restake": {
+        "address": "regen1tzlf0j3qfg4g7qdxkrsmuph5pkcm68xf5qeacg",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
