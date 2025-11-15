@@ -100,6 +100,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1jdg5vq79ym9t9uwz4cx4ejrqg4s5pwctgsrejz",
+      "restake": {
+        "address": "lava@1yd0rngzs9dh8x98pk63tsyxkm0ap58ke5ea549",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
     }
   ]
 }
