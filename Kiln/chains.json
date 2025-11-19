@@ -73,6 +73,24 @@
         "run_time": "09:00",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqvwdul2",
+      "restake": {
+        "address": "cosmos1u4whe0pwlgt7q7ph37qxalq2wfq4pkcdze5fmd",
+        "run_time": "09:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1rf0fczrw2gnhuju86kmjtku4dvf9dcc2mpe7pe",
+      "restake": {
+        "address": "inj1ypnp8c69f9gxf90q4lxptftvqk5rusacuqx8ld",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
