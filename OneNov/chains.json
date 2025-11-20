@@ -12,7 +12,7 @@
       }
     },
     {
-      "name": "CNHO Stables",
+      "name": "cnhostables",
       "address": "cnhovaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26qtlsdx",
       "restake": {
         "address": "cnho1cjdxm4urpdp42un8xjsdx6469h3nlx26gr3mff",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "Haqq Network",
+      "name": "haqq",
       "address": "haqqvaloper1cf7x23t97zerhh7pq0v2vwlxdppnvrawj9duch",
       "restake": {
         "address": "haqq1cf7x23t97zerhh7pq0v2vwlxdppnvraw78pjuk",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "name": "Lumera",
+      "name": "lumera",
       "address": "lumeravaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26ryareg",
       "restake": {
         "address": "lumera1cjdxm4urpdp42un8xjsdx6469h3nlx26v7wllt",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "name": "Gitopia",
+      "name": "gitopia",
       "address": "gitopiavaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26zrdr7p",
       "restake": {
         "address": "gitopia1cjdxm4urpdp42un8xjsdx6469h3nlx262efn76",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "name": "Paxi",
+      "name": "paxi",
       "address": "paxivaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26hnq9vd",
       "restake": {
         "address": "paxi1cjdxm4urpdp42un8xjsdx6469h3nlx26ha2ttf",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "Shentu",
+      "name": "shentu",
       "address": "shentuvaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26p96ggz",
       "restake": {
         "address": "shentu1cjdxm4urpdp42un8xjsdx6469h3nlx26u42ary",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "name": "Shido",
+      "name": "shido",
       "address": "shidovaloper18jeyydj84tynuw3925peqhv9t4p7uqfsveafmu",
       "restake": {
         "address": "shido18jeyydj84tynuw3925peqhv9t4p7uqfs5nxpyu",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "name": "Sunrise",
+      "name": "sunrise",
       "address": "sunrisevaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26xdzd40",
       "restake": {
         "address": "sunrise1cjdxm4urpdp42un8xjsdx6469h3nlx26xv94q2",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "name": "Symphony",
+      "name": "symphony",
       "address": "symphonyvaloper1cjdxm4urpdp42un8xjsdx6469h3nlx26smxv50",
       "restake": {
         "address": "symphony1cjdxm4urpdp42un8xjsdx6469h3nlx26rewtrl",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "name": "Uptick",
+      "name": "uptick",
       "address": "uptickvaloper1u4wg5jssy2n8aap3e0e0mwkw3vk0z5uew43y39",
       "restake": {
         "address": "uptick1u4wg5jssy2n8aap3e0e0mwkw3vk0z5ueadysaf",
