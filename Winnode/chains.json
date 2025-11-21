@@ -84,6 +84,15 @@
       }
     },
     {
+      "name": "atomone",
+      "address": "atonevaloper1kdxqxpy55tsm6jjeupqhj6spjp8zwz32fyluru",
+      "restake": {
+        "address": "atone1h0c98tf2lynxtnp4dqh2wp03z4ca96lecyyru0",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
       "name": "paxi",
       "address": "paxivaloper1ca0qjdysxqcxzjvxds66nxklnkw6mpc5e9x2ef",
       "restake": {
