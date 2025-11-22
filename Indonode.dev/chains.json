@@ -8,7 +8,7 @@
       "restake": {
         "address": "plq1uza65au6wdkqyx83mzwhwl0x2jvhpq8z5p5qgq",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
@@ -17,7 +17,7 @@
       "restake": {
         "address": "source140fe54nq7yn9ll3lk02zk9nfwxr6338fdtq54a",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 10000
       }
     },
       {
@@ -26,7 +26,7 @@
       "restake": {
         "address": "c4e140fe54nq7yn9ll3lk02zk9nfwxr6338fgqq8ua",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
     {
@@ -35,17 +35,17 @@
       "restake": {
         "address": "axone140fe54nq7yn9ll3lk02zk9nfwxr6338fg74a37",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000
       }
     },
       {
-      "name": "self",
-      "address": "self1pz7mrvat8mzu2h3rqadjmzhf5fu0tluzu8vl23",
+      "name": "atomone",
+      "address": "atonevaloper10mf53lhx7x2s7vgrulsxq4g2z9n7dm4t472su3",
       "restake": {
-        "address": "self140fe54nq7yn9ll3lk02zk9nfwxr6338fwnykt2",
+        "address": "atone140fe54nq7yn9ll3lk02zk9nfwxr6338f9c9dnm",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
+        "minimum_reward": 100000
+      }     
     }
   ]
 }
