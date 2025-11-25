@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "fetchhub",
-      "address": "fetchvaloper1amcyrkds53tmgdfakjmtqffz757grsv3r0e2c5",
-      "restake": {
-        "address": "fetch1yqqsskp60ru889m2ac9rtdays6pt9xfyx9rysw",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "provenance",
       "address": "pbvaloper1p99dxczg9qu5x3d0yxc6wdwgz0n3mzsrtt2jsc",
       "restake": {
