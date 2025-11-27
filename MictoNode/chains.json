@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MictoNode",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper1fg97ymps3jsw8w7m6wtpnhn6faze070jkr9kyu",
+      "restake": {
+        "address": "atone1w4u26x92rvjay0wphs8sqa3tc6r7xa7y878uwu",
+        "run_time": "22:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
