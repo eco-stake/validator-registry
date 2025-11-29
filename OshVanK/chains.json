@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "🏆OshVanK🏆",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper186av4ahtc685uarfqnuzp3683y9vypuz8fzn69",
+      "restake": {
+        "address": "atone186av4ahtc685uarfqnuzp3683y9vypuz95f6sa",
+        "run_time": "23:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1tq6e25mee67d6rkv2zwc4apxps3y3jfvgsy6ew",
+      "restake": {
+        "address": "bb1tq6e25mee67d6rkv2zwc4apxps3y3jfvhua9e4",
+        "run_time": "23.00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "zenrock",
+      "address": "zenvaloper1dy4g088um2uapxwp4lku6fjgprxucxfgnuaquc",
+      "restake": {
+        "address": "zen1dy4g088um2uapxwp4lku6fjgprxucxfgeaep0z",
+        "run_time": "23.00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
