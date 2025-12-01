@@ -388,6 +388,15 @@
         "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1lgql34zrvmxqslemvm6h4fj72jnnhz4ggnljk8",
+      "restake": {
+        "address": "cosmos1e762e7chsgz3aurtelcz948j8gscfr0q0wzhup",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1
+      }
     }
   ]
 }
