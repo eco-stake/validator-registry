@@ -48,6 +48,15 @@
       }
     },
     {
+      "name": "irisnet",
+      "address": "iva14m0n559xdj00qwvp6ck0xesprrq26kgps8yktq",
+      "restake": {
+        "address": "iaa1sxe282urhqqx7pjp0s4jqsefuhp069lhucgal6",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
       "name": "atomone",
       "address": "atonevaloper14m0n559xdj00qwvp6ck0xesprrq26kgpufexgk",
       "restake": {
