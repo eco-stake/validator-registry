@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "tenet",
-      "address": "tenetvaloper1qjh6n9yy4ezaxc723ak9tnalx8424cssvqcyt0",
-      "restake": {
-        "address": "tenet1ayttg2punr4v75hsjnt223x0xmp9fs64kwvrwh",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000000000
-      }
-    },
-    {
       "name": "source",
       "address": "sourcevaloper1ah34q2g6ju5dkc38j00mrrsh288neswan5x34h",
       "restake": {
@@ -93,15 +84,6 @@
       }
     },
     {
-      "name": "conscious",
-      "address": "cvnvaloper1t7fusw6cuqm30u25jwqp8yg9dmx7pzpsvfgt5v",
-      "restake": {
-        "address": "cvn1ayttg2punr4v75hsjnt223x0xmp9fs64fpa7gl",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000000000000000
-      }
-    },
-    {
       "name": "beezee",
       "address": "bzevaloper10dcm7hqv9a5ajdjr9ctcu5pgg2969ag7qx0nyg",
       "restake": {
@@ -147,15 +129,6 @@
       }
     },
     {
-      "name": "aaronetwork",
-      "address": "aaronvaloper1ec8kkc2mfatsvvjsq4ac4qh80w8gqkcnj9texu",
-      "restake": {
-        "address": "aaron1pchsyu3d8c0fezekqmh7ymkesv3gr0scgewzev",
-        "run_time": "every 1 minute",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "elys",
       "address": "elysvaloper1ercq0n3jp2kmhsk383yvfaz0k8lv84deu6ty8t",
       "restake": {
@@ -174,15 +147,6 @@
       }
     },
     {
-      "name": "nibiru",
-      "address": "nibivaloper1hptrzx0hz230shkvvll8kqpyuwc369qqdvksdh",
-      "restake": {
-        "address": "nibi1pchsyu3d8c0fezekqmh7ymkesv3gr0sc7zhcnw",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "blockx",
       "address": "blockxvaloper1mn0jcdhhqsfn5vf2ekrxcf580pp7wl8qur474j",
       "restake": {
@@ -198,15 +162,6 @@
         "address": "synt1pchsyu3d8c0fezekqmh7ymkesv3gr0scxqqv74",
         "run_time": "every 1 minute",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "althea",
-      "address": "altheavaloper15dr09h0k7uua9wy4ud6yjfls95luh4q2tz7nk4",
-      "restake": {
-        "address": "althea1pchsyu3d8c0fezekqmh7ymkesv3gr0sca9k0kc",
-        "run_time": "every 1 minute",
-        "minimum_reward": 100000000000000000
       }
     },
     {
