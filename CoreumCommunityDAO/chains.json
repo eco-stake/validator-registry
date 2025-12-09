@@ -4,9 +4,9 @@
     "chains": [
         {
             "name": "coreum",
-            "address": "corevaloper1q69hxadh5pl9d6q0a35y3mfx8ls5quxuqgla8t",
+            "address": "corevaloper1mpf63sa8djm82lvpy8028sxfext9k76ctna02a",
             "restake": {
-                "address": "core1ydp8pprpcssap66qc36r4svs8ycm402vq9y86e",
+                "address": "core13anzp0sqke68sky54vldkmtc5t979lsu5wxs6a",
                 "run_time": "every 2 hours",
                 "minimum_reward": 1000000
             }

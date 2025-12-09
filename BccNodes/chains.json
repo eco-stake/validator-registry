@@ -7,7 +7,7 @@
       "address": "uptickvaloper1lk27ezwxru27wg9arlhaw7psz89hj003ha0hv2",
       "restake": {
         "address": "uptick1gnlmw0dlcnx6srzxsh24rekvjnhcp74ytg2h36",
-        "run_time": ["every 1 hour"],
+        "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
     },
@@ -17,7 +17,7 @@
       "restake": {
         "address": "realio1gnlmw0dlcnx6srzxsh24rekvjnhcp74y3mjx53",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 100000000000000000
       }
     },
     {
@@ -81,7 +81,16 @@
         "address": "nibi1h2ahcqh7yrnzvjj20ekqc9e3eyauedgzhmpdzs",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
-      }
+     }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1muc3xr5nafa3fey56sw46mfhdfmp7nszm06l6c",
+      "restake": {
+        "address": "axone1h2ahcqh7yrnzvjj20ekqc9e3eyauedgzrcfrl7",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+     }
     },
     {
       "name":"chain4energy",

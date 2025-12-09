@@ -10,6 +10,15 @@
                 "run_time": ["21:00"],
                 "minimum_reward": 10000
             }
+        },
+        {
+            "name": "axone",
+            "address": "axonevaloper12h5qqjdls5x4542lwqvfrpwsjnuf6l4mcu0wqt",
+            "restake": {
+                "address": "axone1v0jcah2vrme4he9557hvnky9ymmg4fh55xcwg8",
+                "run_time": ["21:30"],
+                "minimum_reward": 10000
+            }
         }
     ]
 }

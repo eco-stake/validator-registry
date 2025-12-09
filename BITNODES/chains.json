@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "BITNODES",
+  "chains": [  
+    {
+      "name": "axone",
+      "address": "axonevaloper1sje48umc4lnqr2x8ketf8vrwmglmyluqk9a22r",
+      "restake": {
+        "address": "axone1sje48umc4lnqr2x8ketf8vrwmglmyluqxs3csp",
+        "run_time": ["every 30 minutes"],
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

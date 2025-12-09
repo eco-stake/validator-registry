@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "migaloo",
-      "address": "migaloovaloper1tpdsm2g6wzq4lwxqn8xegxxcwdumf2rn8qt724",
-      "restake": {
-        "address": "migaloo1p4557mdpc2qk8vcemeqgrcg55gs2uyznfz7hjw",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
-      }
-    },
-    {
       "name": "stride",
       "address": "stridevaloper147y36cys5068p6l5ztfazy80fdmu2sh9wz9mpa",
       "restake": {

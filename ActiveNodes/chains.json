@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "dymension",
-      "address": "dymvaloper16eu7dmkxrtq5207tyudx8agnlu8k5qua7vqs4y",
-      "restake": {
-        "address": "dym100rlujehzj3t9yagsfk9mjx3r87dvtsfuzd72j",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "firmachain",
       "address": "firmavaloper1mhlwudq5eu9crrs3e0m87j7p2sp0nrk7u6qewn",
       "restake": {
@@ -48,39 +39,12 @@
       }
     },
     {
-      "name": "gravitybridge",
-      "address": "gravityvaloper1n57r2prsyd767tehvw44spa7z9vzza0p5rkyay",
-      "restake": {
-        "address": "gravity1w4du0y6705rqregfl6cktm7swds6t4dse2qec7",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "kujira",
       "address": "kujiravaloper10es7svzdyn4v2gnwtxq4gsu6q8qaelff8gkflr",
       "restake": {
         "address": "kujira1w4du0y6705rqregfl6cktm7swds6t4dsvjsesu",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "meme",
-      "address": "memevaloper1uxm0kglrajtcltl0vmxpkg0q4ld4m48lsw2rnc",
-      "restake": {
-        "address": "meme1w4du0y6705rqregfl6cktm7swds6t4dsr9yk6u",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "odin",
-      "address": "odinvaloper12j5xj3dz6vzj4tympst9kmrxpahew0ppu6jhgw",
-      "restake": {
-        "address": "odin1w4du0y6705rqregfl6cktm7swds6t4dse65z3u",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000
       }
     },
     {
@@ -97,15 +61,6 @@
       "address": "panaceavaloper18ucrwuvzgzmh9dlurmeq5c4hljdgnkp2fwmkcm",
       "restake": {
         "address": "panacea1tslafy7gnalqha8ryvp8gyf60tyslcg7rlu0hv",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "persistence",
-      "address": "persistencevaloper1xfffx2agkgy4d0jpl7lulgklpf7evgla679rn2",
-      "restake": {
-        "address": "persistence1wxww8zvmgnsdq6npq5lh0a9erjyphh4ex6hnzj",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
