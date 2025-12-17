@@ -7,7 +7,12 @@
       "address": "celestiavaloper1dldc0kqzh0fw5gh8gf5q5lxl30yfesx2ek56mc",
       "restake": {
         "address": "celestia14rsplnhm9nh9rtxez2rxlvyyzwtx3mkdesa4qe",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 500000
       }
     },
@@ -16,7 +21,12 @@
       "address": "celestiavaloper1r4kqtye4dzacmrwnh6f057p50pdjm8g59tlhhg",
       "restake": {
         "address": "celestia1eyr6hh22vcyw8ahf3zr4p4f85dkqw649vz03rn",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 500000
       }
     },
@@ -25,7 +35,12 @@
       "address": "cosmosvaloper17lgg03ze9x6xka02fs0hhw4ad4wwg05heqr2y8",
       "restake": {
         "address": "cosmos14rsplnhm9nh9rtxez2rxlvyyzwtx3mkdg6v965",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
       }
     },
@@ -34,26 +49,13 @@
       "address": "cosmosvaloper132juzk0gdmwuxvx4phug7m3ymyatxlh9734g4w",
       "restake": {
         "address": "cosmos1eyr6hh22vcyw8ahf3zr4p4f85dkqw649ag7pe7",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "agoric",
-      "address": "agoricvaloper1pplpr0r32duzty7vl20vfqxqn5v47txjz7dkjz",
-      "restake": {
-        "address": "agoric1hx5epqvsc3496nse5l4kr5m5p02s7dl2rakgkh",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "archway",
-      "address": "archwayvaloper1vnet33snv6xtklyw2ad9dewu3m0z4wh57e4ym4",
-      "restake": {
-        "address": "archway1eyr6hh22vcyw8ahf3zr4p4f85dkqw649grz9nf",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -61,35 +63,13 @@
       "address": "axelarvaloper13s44uvtzf578zjze9eqeh0mnemj60pwn83frcp",
       "restake": {
         "address": "axelar1eyr6hh22vcyw8ahf3zr4p4f85dkqw649exgfjl",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "dydx",
-      "address": "dydxvaloper1kmt4qun5wj6qays8hpkp3ea2anvq3m704pffcl",
-      "restake": {
-        "address": "dydx1eyr6hh22vcyw8ahf3zr4p4f85dkqw64953s9ef",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "evmos",
-      "address": "evmosvaloper1pj3c7q7tj888h4ms9uq2qql2hf84pndx3zvleu",
-      "restake": {
-        "address": "evmos124u62yv3wjamx3yj34kr0jay4eyf7encachzdt",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
-      "name": "haqq",
-      "address": "haqqvaloper16gg3wzq8h98zyn9kjp7aw3jwy6pnxslrdhl7zp",
-      "restake": {
-        "address": "haqq124u62yv3wjamx3yj34kr0jay4eyf7enca7nlf4",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000000000000000
       }
     },
     {
@@ -97,17 +77,13 @@
       "address": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h",
       "restake": {
         "address": "sei1eyr6hh22vcyw8ahf3zr4p4f85dkqw649sy0hll",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "dymension",
-      "address": "dymvaloper17kmuknu4f3sqfhqtzpx0znnz3nuh5slwcqz6cg",
-      "restake": {
-        "address": "dym124u62yv3wjamx3yj34kr0jay4eyf7encdy22jd",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
-        "minimum_reward": 500000000000000000
       }
     },
     {
@@ -115,8 +91,69 @@
       "address": "sagavaloper15eryzkm5y7d2ldqf6he7g943g9hepxwa6puvjz",
       "restake": {
         "address": "saga1eyr6hh22vcyw8ahf3zr4p4f85dkqw649rm8n7c",
-        "run_time": ["03:00" , "09:00", "15:00", "21:00"],
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
         "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "allora",
+      "address": "allovaloper10q9mfwuy82mcgmyhqjuz2802wc2f0fccmek8kr",
+      "restake": {
+        "address": "allo1eyr6hh22vcyw8ahf3zr4p4f85dkqw649nmyzw8",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1y5fqc69rthqgltjnjze408t66j5pp6kdyhlz48",
+      "restake": {
+        "address": "bbn1eyr6hh22vcyw8ahf3zr4p4f85dkqw6492k0sx8",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1uvt9fudwajkeyvdzdugmu3njdcg0c96jrywj3y",
+      "restake": {
+        "address": "osmo1eyr6hh22vcyw8ahf3zr4p4f85dkqw6494nd30v",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cronos",
+      "address": "crocncl1839a7zsrucn4mdrnpwzn4547gmtm3ywmllhjcf",
+      "restake": {
+        "address": "cro1hf97sxq87sftvp2eqlmq9e6wv7zscfnhw3rpm5",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
       }
     }
   ]
