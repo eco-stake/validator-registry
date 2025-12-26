@@ -1,6 +1,5 @@
 {
-  "$schema": "../chains.schema.json",
-  "name": "Citizen Web3",
+  "name": "CitizenWeb3",
   "chains": [
     {
       "name": "cosmoshub",
@@ -49,7 +48,7 @@
     },
     {
       "name": "atomone",
-      "address": "atomonevaloper1m77eksxfz9q50qejnqf720sns7q0xtx8vdaj7d",
+      "address": "atonevaloper1e859xaue4k2jzqw20cv6l7p3tmc378pcclyn60",
       "restake": {
         "address": "atone13kese9addgd286tl9plw5c48qtc36g50ee7fel",
         "run_time": ["09:00", "21:00"],
@@ -58,7 +57,7 @@
     },
     {
       "name": "oraichain",
-      "address": "oraivaloper1wzh32v665tyyqdk0ztx9dkgayjfk6lf3xpqxaj",
+      "address": "oraivaloper1m77eksxfz9q50qejnqf720sns7q0xtx8jwcs30",
       "restake": {
         "address": "orai13kese9addgd286tl9plw5c48qtc36g50y25dw5",
         "run_time": ["09:00", "21:00"],
@@ -78,7 +77,7 @@
       "name": "axone",
       "address": "axonevaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7wd2wl6",
       "restake": {
-        "address": "axone13kese9addgd286tl9plw5c48qtc36g505lwem6",
+        "address": "axone13kese9addgd286tl9plw5c48qtc36g50rw8em6",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000
       }
