@@ -1,7 +1,8 @@
 {
   "name": "CitizenWeb3",
-  "chains": {
-    "cosmoshub": {
+  "chains": [
+    {
+      "name": "cosmoshub",
       "address": "cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u",
       "restake": {
         "address": "cosmos13kese9addgd286tl9plw5c48qtc36g50hezw08",
@@ -9,7 +10,8 @@
         "minimum_reward": 1000
       }
     },
-    "bostrom": {
+    {
+      "name": "bostrom",
       "address": "bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r",
       "restake": {
         "address": "bostrom13kese9addgd286tl9plw5c48qtc36g5052ka3q",
@@ -17,7 +19,8 @@
         "minimum_reward": 1000
       }
     },
-    "gravitybridge": {
+    {
+      "name": "gravitybridge",
       "address": "gravityvaloper1a00v3m5sthed82267gvdp2qt9czhjngg2djy8m",
       "restake": {
         "address": "gravity13kese9addgd286tl9plw5c48qtc36g50nfsk20",
@@ -25,7 +28,8 @@
         "minimum_reward": 1000
       }
     },
-    "quicksilver": {
+    {
+      "name": "quicksilver",
       "address": "quickvaloper1m77eksxfz9q50qejnqf720sns7q0xtx8a7t9vq",
       "restake": {
         "address": "quick13kese9addgd286tl9plw5c48qtc36g50uajuk4",
@@ -33,7 +37,8 @@
         "minimum_reward": 1000
       }
     },
-    "uptick": {
+    {
+      "name": "uptick",
       "address": "uptickvaloper1ke3qlvuhcn537m47l3y3hj0v7jm48ka47nkduu",
       "restake": {
         "address": "uptick13kese9addgd286tl9plw5c48qtc36g50yl74kk",
@@ -41,7 +46,8 @@
         "minimum_reward": 1000
       }
     },
-    "atomone": {
+    {
+      "name": "atomone",
       "address": "atonevaloper1e859xaue4k2jzqw20cv6l7p3tmc378pcclyn60",
       "restake": {
         "address": "atone13kese9addgd286tl9plw5c48qtc36g50ee7fel",
@@ -49,7 +55,8 @@
         "minimum_reward": 1000
       }
     },
-    "oraichain": {
+    {
+      "name": "oraichain",
       "address": "oraivaloper1m77eksxfz9q50qejnqf720sns7q0xtx8jwcs30",
       "restake": {
         "address": "orai13kese9addgd286tl9plw5c48qtc36g50y25dw5",
@@ -57,7 +64,8 @@
         "minimum_reward": 1000
       }
     },
-    "althea": {
+    {
+      "name": "althea",
       "address": "altheavaloper1m77eksxfz9q50qejnqf720sns7q0xtx8c4r6fm",
       "restake": {
         "address": "althea13kese9addgd286tl9plw5c48qtc36g50rm8qrz",
@@ -65,15 +73,17 @@
         "minimum_reward": 1000
       }
     },
-    "axone": {
+    {
+      "name": "axone",
       "address": "axonevaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7wd2wl6",
       "restake": {
-        "address": "axone13kese9addgd286tl9plw5c48qtc36g505lwem6",
+        "address": "axone13kese9addgd286tl9plw5c48qtc36g50rw8em6",
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 1000
       }
     },
-    "symphony": {
+    {
+      "name": "symphony",
       "address": "symphonyvaloper1m77eksxfz9q50qejnqf720sns7q0xtx8vdaj7d",
       "restake": {
         "address": "symphony13kese9addgd286tl9plw5c48qtc36g50qpzpap",
@@ -81,5 +91,5 @@
         "minimum_reward": 1000
       }
     }
-  }
+  ]
 }
