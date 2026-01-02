@@ -3,15 +3,6 @@
   "name": "Cros-nest",
   "chains": [
     {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper18jlk0pkpr8cnnpjtgu3dqxjvpvlnj6r4e2dtvf",
-      "restake": {
-        "address": "chihuahua1v9vae554q55xa4pcfdm0p3kv8nxn50jkee2uvt",
-        "run_time": "every 1 day",
-        "minimum_reward": 1000
-      }
-    },
-    {
       "name": "comdex",
       "address": "comdexvaloper12dseyeqwsv3lkxlks45p4fp7et4qnzn5vkavjf",
       "restake": {
@@ -45,15 +36,6 @@
         "address": "fetch1v9vae554q55xa4pcfdm0p3kv8nxn50jkf3wk07",
         "run_time": "every 1 day",
         "minimum_reward": 10000000000000000
-      }
-    },
-    {
-      "name": "gravitybridge",
-      "address": "gravityvaloper187reejg4et24jpggqt55vnc47l926w0p8w70mh",
-      "restake": {
-        "address": "gravity1v9vae554q55xa4pcfdm0p3kv8nxn50jk7u42gp",
-        "run_time": "every 1 day",
-        "minimum_reward": 1000
       }
     },
     {
@@ -102,30 +84,12 @@
       }
     },
     {
-      "name": "rizon",
-      "address": "rizonvaloper12mvr3xdrgsaasfc4xdtcvwdeqegv97mkp08ntc",
-      "restake": {
-        "address": "rizon1v9vae554q55xa4pcfdm0p3kv8nxn50jke3mrp3",
-        "run_time": "every 1 day",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "decentr",
       "address": "decentrvaloper1a6vlz80364tdnzgk7k2aqecqgcxxwmlpksu0r6",
       "restake": {
         "address": "decentr1v9vae554q55xa4pcfdm0p3kv8nxn50jk3zpxvp",
         "run_time": "every 1 day",
         "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "stargaze",
-      "address": "starsvaloper1cpaslqxawslaadw7e6vmakkx8wu8z4408wxj0p",
-      "restake": {
-        "address": "stars1v9vae554q55xa4pcfdm0p3kv8nxn50jkwss0xc",
-        "run_time": "every 1 day",
-        "minimum_reward": 1000
       }
     },
     {
@@ -329,10 +293,6 @@
         "run_time": "every 1 day",
         "minimum_reward": 100000
       }
-    },
-    {
-      "name": "sge",
-      "address": "sgevaloper1qzshy2n49qz67tzgzjfuuzl8mugu5vnn7e6v78"
     },
     {
       "name": "nomic",
