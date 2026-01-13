@@ -108,6 +108,14 @@
         "address": "lava@1yd0rngzs9dh8x98pk63tsyxkm0ap58ke5ea549",
         "run_time": "every 1 hours",
         "minimum_reward": 100000
+      },
+      {
+      "name": "epix",
+      "address": "epixvaloper18k0s65pp2hgdqa39qtf0g0dhrvhqug7z300kr4",
+      "restake": {
+        "address": "epix1d8y5cgkvxtxa99rnc0ufaeqlpm8qaqr53rtvc4",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
       }
     }
   ]
