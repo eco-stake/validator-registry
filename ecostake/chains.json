@@ -28,15 +28,7 @@
     },
     {
       "name": "chihuahua",
-      "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
-      "restake": {
-        "address": "chihuahua1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczjr22j5",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000000
-      }
+      "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz"
     },
     {
       "name": "coreum",
@@ -84,12 +76,7 @@
     },
     {
       "name": "empowerchain",
-      "address": "empowervaloper1msjwmclw77h5j0t69n7j2p9ur5ra46uxqaedxz",
-      "restake": {
-        "address": "empower1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczd6r0fg",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
-      }
+      "address": "empowervaloper1msjwmclw77h5j0t69n7j2p9ur5ra46uxqaedxz"
     },
     {
       "name": "injective",
@@ -142,7 +129,7 @@
       "restake": {
         "address": "kyve1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxc2jcj",
         "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
+        "minimum_reward": 10000000
       }
     },
     {
@@ -167,7 +154,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -196,12 +183,7 @@
     },
     {
       "name": "teritori",
-      "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
-      "restake": {
-        "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
-      }
+      "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz"
     }
   ]
 }

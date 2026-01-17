@@ -78,8 +78,17 @@
       "name": "shido",
       "address": "shidovaloper1kv0xh9vmsy8jjr9y680kexs4g6y29gmu9v5qte",
       "restake": {
-        "address": "shido1kv0xh9vmsy8jjr9y680kexs4g6y29gmuax0g5e",
-        "run_time": "every 6 hours",
+        "address": "shido1h8a79xln9gam52c6wzkulz2txyr0rkcrwcuh60",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1kdxqxpy55tsm6jjeupqhj6spjp8zwz32fyluru",
+      "restake": {
+        "address": "atone1h0c98tf2lynxtnp4dqh2wp03z4ca96lecyyru0",
+        "run_time": "every 5 minutes",
         "minimum_reward": 10000
       }
     },

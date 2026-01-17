@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Tyrannical Taco",
+  "chains": [
+    {
+      "name": "epix",
+      "address": "epixvaloper1lxn5tg46sude4e0y568mu6ek89ljqjz3m0he4x",
+      "restake": {
+        "address": "epix1tq80qgka5pe6eace7tyf8f7yk362vrahqdvje0",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
