@@ -100,6 +100,15 @@
         "run_time": "every 6 hours",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "epix",
+      "address": "epixvaloper1j4s5hgw5uq8x6p8afff8d94ap4y4r0rhjlrklv",
+      "restake": {
+        "address": "epix1h8a79xln9gam52c6wzkulz2txyr0rkcr5p9lvs",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
