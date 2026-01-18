@@ -115,9 +115,9 @@
       "address": "epixvaloper1qxt7awul3cyvgf2ku08k3n3nqn7lsqvsm7ryjw",
       "restake": {
         "address": "epix1qxt7awul3cyvgf2ku08k3n3nqn7lsqvs8vnu2w",
-        "run_time": "every 6 hours",
-        "minimum_reward": 10000
-      }
-    }
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+       }
+     }
   ]
 }
