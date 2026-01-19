@@ -46,6 +46,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }     
-    }
+    },
+      {
+      "name": "epix",
+      "address": "epixvaloper1ev90uwdtfars9d989x250ul8xq77mvlpewfl6u",
+      "restake": {
+        "address": "epix1uza65au6wdkqyx83mzwhwl0x2jvhpq8zgj2ffg",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }     
+    }    
   ]
 }
