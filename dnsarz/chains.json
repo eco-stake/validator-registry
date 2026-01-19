@@ -7,7 +7,7 @@
       "address": "epixvaloper1qjynz59x6c0y2l5cf7gtyl8arjpg0k0rejn0lk",
       "restake": {
         "address": "epix1qjynz59x6c0y2l5cf7gtyl8arjpg0k0r9qrh8k",
-        "run_time": "every 6 hours",
+        "run_time": "every 2 hours",
         "minimum_reward": 1000000000000000000
       }
     }
