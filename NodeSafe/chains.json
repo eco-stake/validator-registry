@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NodeSafe",
+  "chains": [
+    {
+      "name": " : "epix",
+      "address": "epixvaloper19ctfr9gcmu36q05zp6jtqwzzvt2cvpm9wx77ck",
+      "restake": {
+        "address": "epix10dcrntf66hypmd439lswu7v9m8uzhrc92wk2qr",
+        "run_time": "every 1 hours"
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
