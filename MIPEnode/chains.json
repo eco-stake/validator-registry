@@ -1,1 +1,79 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MIPEnode",
+  "chains": [
+    {
+      "name": "axone",
+      "address": "axonevaloper1q8pcju4sz0aamg4mf7mj2ap70a3fd89t28kq74",
+      "restake": {
+        "address": "axone1e3vld469ekks28mhtd4aqua3mdaz64qga3j7s0",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1rd9kjedxrd4anr3pv8h958lewwaz5rfpltjjkh",
+      "restake": {
+        "address": "bb1e3vld469ekks28mhtd4aqua3mdaz64qga2k6cr",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000
+      }
+    },
+    {
+      "name": "cnho",
+      "address": "cnhovaloper1e3vld469ekks28mhtd4aqua3mdaz64qg2a0acd",
+      "restake": {
+        "address": "cnho1q8pcju4sz0aamg4mf7mj2ap70a3fd89t9kf6g6",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "lumera",
+      "address": "lumeravaloper1e3vld469ekks28mhtd4aqua3mdaz64qgfjdwvr",
+      "restake": {
+        "address": "lumera1dlu7aqxgmmepwuyey7q0f5c5fa7v88xgkttpk9",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "paxi",
+      "address": "paxivaloper1ch74m9zzx82hssd6jg5l3dkdzhx76mljlh7uhz",
+      "restake": {
+        "address": "paxi1e3vld469ekks28mhtd4aqua3mdaz64qgat6x7z",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1jmn9qrkf9tjwz2t5zvl068e6txhanztzj9yxsl",
+      "restake": {
+        "address": "shido18xwkzrs3dtwqjyy5lcqekt9pn55a9jg3dxx54g",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "sunrise",
+      "address": "sunrisevaloper1e3vld469ekks28mhtd4aqua3mdaz64qgvmjqqy",
+      "restake": {
+        "address": "sunrise1q8pcju4sz0aamg4mf7mj2ap70a3fd89ttea5pe",
+        "run_time": "every 1 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "epix",
+      "address": "epixvaloper18xwkzrs3dtwqjyy5lcqekt9pn55a9jg3td0ymh",
+      "restake": {
+        "address": "epix1ddncw2fg5php7fml8ldeq8tzv83h6d3cgzxqrd",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
 
