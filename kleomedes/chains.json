@@ -433,6 +433,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "provenance",
+      "address": "pbvaloper1w0ae648mwvcdeecxtx9u55546fq5afwkc3nkfc",
+      "restake": {
+        "address": "pb198e8rgvpcvhkzddy6y3jjsg8ca4me9rt9n4elj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
