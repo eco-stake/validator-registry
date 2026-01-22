@@ -1,0 +1,16 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "MIPEnode",
+  "chains": [
+    {
+      "name": "epix",
+      "address": "epixvaloper18xwkzrs3dtwqjyy5lcqekt9pn55a9jg3td0ymh",
+      "restake": {
+        "address": "epix1ddncw2fg5php7fml8ldeq8tzv83h6d3cgzxqrd",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
+
