@@ -60,9 +60,9 @@
       "name": "shido",
       "address": "shidovaloper18jeyydj84tynuw3925peqhv9t4p7uqfsveafmu",
       "restake": {
-        "address": "shido18jeyydj84tynuw3925peqhv9t4p7uqfs5nxpyu",
-        "run_time": "every 6 hours",
-        "minimum_reward": 10000
+        "address": "shido1wtdhtlvvr2s2zhtsrc7t45ve8kthqkjlvlzncf",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
       }
     },
     {
