@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "vietnnit",
+  "chains": [
+     {
+      "name": "epix",
+      "address": "epixvaloper1j00vfq9eep6mqh2p32myv67k0p8ryet4t87tks",
+      "restake": {
+        "address": "epix1j00vfq9eep6mqh2p32myv67k0p8ryet4h4wnws",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
