@@ -1,0 +1,5 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "coreum-testnet-one",
+    "identity": "361CC2E8057E1996"
+}

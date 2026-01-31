@@ -18,6 +18,15 @@
         "address": "dungeon12fu5nsxut8472g6e74lvygdnzcz3ss0mnp69rr",
         "run_time": "every 6 hours",
         "minimum_reward": 10000
+     }
+    },
+    {
+      "name": "epix",
+      "address": "epixvaloper1gvwnfhd3ngsevw35y43ftvm69empwxtsgmvwfw",
+      "restake": {
+        "address": "epix1wy59fpu5m6m5h7t7upeg59cp98z9dpxy6dz94u",
+        "run_time": "every 30 minutes",
+        "minimum_reward": 100000000000000000   
       }
     }
   ]
