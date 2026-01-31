@@ -111,6 +111,24 @@
          }
       },
       {
+         "name":"nolus",
+         "address":"nolusvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0jlk2hw",
+         "restake":{
+            "address":"nolus1q52x3jrc2jrx7rv380z64tsw9m907zlhecq9m2",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
+         "name":"osmosis",
+         "address":"osmovaloper1uhwy40w2jg22m2yup4qepqa420x2tfz00ngrhr",
+         "restake":{
+            "address":"osmo1q52x3jrc2jrx7rv380z64tsw9m907zlh8nr20a",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000
+         }
+      },
+      {
          "name":"panacea",
          "address":"panaceavaloper1478a85ucgvuvdj3cgrp5yr9uae8wyhjw630hmw",
          "restake":{
