@@ -75,18 +75,6 @@
       }
     },
     {
-      "name": "kyve",
-      "address": "kyvevaloper16pj5gljqnqs0ajxakccfjhu05yczp987rv492n",
-      "restake": {
-        "address": "kyve1k7qnp4mnch0zuutaqwlvdfkrhzfh5chlvfjf7h",
-        "run_time": [
-          "02:30",
-          "14:30"
-        ],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper15urq2dtp9qce4fyc85m6upwm9xul3049wh9czc",
       "restake": {
