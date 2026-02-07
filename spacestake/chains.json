@@ -75,12 +75,12 @@
       }
     },
     {
-    "name": "osmosis",
-    "address": "osmovaloper1rcv35vylf4x5jhtx20y4p9d6ywtc7cuqayxhuh",
-    "restake": {
-        "address": "osmo1at5nevqsdhgcucdqqwh937hw4uwwjv3v9hfrk8",
-        "run_time": "every 4 hours",
-        "minimum_reward": 500000
+      "name": "osmosis",
+      "address": "osmovaloper1rcv35vylf4x5jhtx20y4p9d6ywtc7cuqayxhuh",
+      "restake": {
+          "address": "osmo1at5nevqsdhgcucdqqwh937hw4uwwjv3v9hfrk8",
+          "run_time": "every 4 hours",
+          "minimum_reward": 500000
       }
     }     
   ]
