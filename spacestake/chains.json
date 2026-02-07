@@ -66,22 +66,22 @@
       }
     },
     {
-      "name": "dydx",
-      "address": "dydxvaloper14exjnnkzqlex24vle33r0xj6kkhngr5y6kypz5",
+      "name": "cosmos",
+      "address": "cosmosvaloper1x8yjkhrffte4850tzdtfuq6nhs5vf950l86uea",
       "restake": {
-          "address": "dydx1at5nevqsdhgcucdqqwh937hw4uwwjv3vy45hqz",
+          "address": "cosmos1at5nevqsdhgcucdqqwh937hw4uwwjv3vdv6nq4",
           "run_time": "every 4 hours",
-          "minimum_reward": 30000000000000000
+          "minimum_reward": 100000
       }
     },
     {
-      "name": "stargaze",
-      "address": "starsvaloper1pzrcrw3c8dkp5auqgqg0dr8etr0ly9mqtxr95u",
-      "restake": {
-          "address": "stars1at5nevqsdhgcucdqqwh937hw4uwwjv3vesdwty",
-          "run_time": "every 4 hours",
-          "minimum_reward": 7000000
+    "name": "osmosis",
+    "address": "osmovaloper1rcv35vylf4x5jhtx20y4p9d6ywtc7cuqayxhuh",
+    "restake": {
+        "address": "osmo1at5nevqsdhgcucdqqwh937hw4uwwjv3v9hfrk8",
+        "run_time": "every 4 hours",
+        "minimum_reward": 500000
       }
-    }
+    }     
   ]
 }
