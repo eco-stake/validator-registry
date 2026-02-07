@@ -73,6 +73,24 @@
         "run_time": "every 10 minutes",
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper17ux88604vmzcfduv8eul462snp74u4265sjtyz",
+      "restake": {
+        "address": "terra1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjl87v0f",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1n4mzgdztfd742geyuqpgfpy7atu8gc9vl3upgd",
+      "restake": {
+        "address": "zeta1uddhvpjytfyz4kz9ucek7tce0mfrg9vq2k59un",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1000000000000000000
+      }
     }
   ]
 }
