@@ -1,0 +1,71 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "skynodejs",
+    "chains": [
+      {
+        "name": "jackal",
+        "address": "jklvaloper1th6g4q63ee0x3wr5tctrxsh3lugj2up6x6z5vs",
+        "restake": {
+          "address": "jkl1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lrne8jk",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "source",
+        "address": "sourcevaloper1nl2n2c28uy4rqtppv8xhmn5jptzxhn5rp72jh3",
+        "restake": {
+          "address": "source1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lu7wgmh",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "planq",
+        "address": "plqvaloper1luksfvgc6fdxqn9hzyemhumuyehy6dagj2k3n3",
+        "restake": {
+          "address": "plq16usy3qu95rsedtxsq8ayfftlnmpscqd5c09ah5",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "realio",
+        "address": "realiovaloper1aqv0y7cuy3j74sz57yjcl2n5q3qkhpt8war8dl",
+        "restake": {
+          "address": "realio16usy3qu95rsedtxsq8ayfftlnmpscqd5cz3tda",
+          "run_time": "every 15 minute",
+          "minimum_reward": 100
+        }
+      },
+      {
+        "name": "lava",
+        "address": "lava@valoper1th6g4q63ee0x3wr5tctrxsh3lugj2up6xxqwcv",
+        "restake": {
+          "address": "lava@1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lz4qnvy",
+          "run_time": "every 15 minute",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "kujira",
+        "address": "kujiravaloper1th6g4q63ee0x3wr5tctrxsh3lugj2up6u2a8un",
+        "restake": {
+          "address": "kujira1hz7ezr3qmpvlt5k2wc66hscu68ae5f2lt94wxr",
+          "run_time": "every 15 minutes",
+          "minimum_reward": 100000
+        }
+      },
+      {
+        "name": "self",
+        "address": "selfvaloper1th6g4q63ee0x3wr5tctrxsh3lugj2up64zcx95",
+        "restake": {
+          "address": "self1hz7ezr3qmpvlt5k2wc66hscu68ae5f2llx229q",
+          "run_time": "every 15 minute",
+          "minimum_reward": 100000
+        }
+      }
+      
+    ]
+  }
+  

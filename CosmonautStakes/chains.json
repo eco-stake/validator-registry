@@ -8,7 +8,7 @@
       "restake": {
         "address": "akash1mvwwy6rvqprfzsmwk9qfqesaexs9jzy85n40rg",
         "run_time": ["21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 250000
       }
     },
     {
@@ -17,16 +17,70 @@
       "restake": {
         "address": "persistence1mvwwy6rvqprfzsmwk9qfqesaexs9jzy8hy7m5k",
         "run_time": ["21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 250000
       }
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1y6rsppgz9wwp83y906grhfq7gynshxknn4tmq9",
+      "address": "shentuvaloper1y6rsppgz9wwp83y906grhfq7gynshxknkd8q30",
       "restake": {
-        "address": "certik1mvwwy6rvqprfzsmwk9qfqesaexs9jzy87qylme",
+        "address": "shentu1mvwwy6rvqprfzsmwk9qfqesaexs9jzy83uu3g0",
+        "run_time": ["21:00"],
+        "minimum_reward": 250000
+      }
+    },
+    {
+      "name": "secretnetwork",
+      "address": "secretvaloper1glyaxntl2jm3sruafq4rhxfrq4vzrgz0mg9m90",
+      "restake": {
+        "address": "secret15vf52nrnfs5znhsm290ggf05k6wlvl8vzumxtd",
+        "run_time": ["21:00"],
+        "minimum_reward": 250000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper14mjkynkkc2wg787w8zlewzvug2e9dheq4pxty5",
+      "restake": {
+        "address": "fetch1mvwwy6rvqprfzsmwk9qfqesaexs9jzy8243vc9",
+        "run_time": ["21:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1l7874xq9mk6jha9hdrqxgqte67dpz5j6en9ts4",
+      "restake": {
+        "address": "pasg1mvwwy6rvqprfzsmwk9qfqesaexs9jzy86spjhd",
+        "run_time": ["21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1zrf2w08mzkncf9fyay58nhrcdn4d47799jhf3e",
+      "restake": {
+        "address": "jkl1mvwwy6rvqprfzsmwk9qfqesaexs9jzy8qkkerd",
         "run_time": ["21:00"],
         "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper17zjr9t24ffcg6kmzl5jw2h92qcnsygeyyrya50",
+      "restake": {
+        "address": "seda1mvwwy6rvqprfzsmwk9qfqesaexs9jzy80x5sen",
+        "run_time": ["21:00"],
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "provenance",
+      "address": "pbvaloper1lzgdym2g6vhp2w7298hvmcdv6aatxeajrj694m",
+      "restake": {
+        "address": "pb1pfyqe90fxt370tgyp7nrmgl3zlu7h6cpwkhayr",
+        "run_time": ["21:00"],
+        "minimum_reward": 100000000
       }
     }
   ]

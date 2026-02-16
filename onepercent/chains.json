@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "1% | One Percent",
+  "chains": [
+    {
+      "name": "stratos",
+      "address": "stvaloper1r27l8paq3q95yl3uuvdr2v6ul7cx8lt0dhvwa4",
+      "restake": {
+        "address": "st1dhqwst9vrd8le5c9ufxdzrmndvurppdtlcjch8",
+        "run_time": "18:30",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

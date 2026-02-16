@@ -21,15 +21,6 @@
       }
     },
     {
-      "name": "evmos",
-      "address": "evmosvaloper1pz3mcahcrglf3md4lggax5r95gvmppc6x5w7hw",
-      "restake": {
-        "address": "evmos17va68yw35aleakz62jwqn24s22fd3k545mclkl",
-        "run_time": "21:00",
-        "minimum_reward": 1000000000000000000
-      }
-    },
-    {
       "name": "juno",
       "address": "junovaloper1uepjmgfuk6rnd0djsglu88w7d0t49lml7kqufu",
       "restake": {
@@ -83,6 +74,15 @@
           "09:00",
           "21:00"
         ],
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "jackal",
+      "address": "jklvaloper1cymsdyfm54u5yde2p0z07c58c5urf2rhy7drds",
+      "restake": {
+        "address": "jkl1weeu5yuj8n23hd87wsdxqqgfmzzz9zt6kxqz2a",
+        "run_time": "every 15 minutes",
         "minimum_reward": 10000
       }
     }

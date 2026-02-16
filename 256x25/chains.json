@@ -1,0 +1,70 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "256x25",
+    "chains": [
+    {
+      "name": "firmachain",
+      "address": "firmavaloper1gaxuw2c0pzy7hprzryudqp9852h3x5f7celpzt",
+      "restake": {
+        "address": "firma106xajw7d8u7vdhhwchtx6pak3nhhz5veu9duyq",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper1hutt80dvfwagsr3zdevk6ranr3f2uh5c8e3g7w",
+      "restake": {
+        "address": "elys1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nfh0q7q",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 100000
+      }
+    },
+      {
+        "name": "kopi",
+        "address": "kopivaloper1z7r5fkukd7k89sfaqggs8n27dkmuvq602yhezm",
+        "restake": {
+          "address": "kopi1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nc3xn75",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "medasdigital",
+        "address": "medasvaloper1lktz0dts4q5rqaucdl0g32j862hw3ks5lhfs3z",
+        "restake": {
+          "address": "medas1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nvy20rc",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000
+        }
+      },
+      {
+        "name": "sifchain",
+        "address": "sifvaloper1hsxakzjzadrte27xkphdxpvdklelwzjcyr4rll",
+        "restake": {
+          "address": "sif1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nv2e3uf",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000000000000000
+        }
+      },
+        {
+        "name": "shido",
+        "address": "shidovaloper1nq2sk5rlzunju00uv5nhagpw48awwrnqmd504n",
+        "restake": {
+          "address": "shido1a7aj3s6qe4c27rulj7rfhdqg3kyw33v7cvpd82",
+          "run_time": "every 1 minutes",
+          "minimum_reward": 100000000000000000
+        }
+      },
+        {
+        "name": "seda",
+        "address": "sedavaloper1dv25s76jze4w2u06hj85jwnja9r7af75uhas4p",
+        "restake": {
+          "address": "seda1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nle6lsr",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 1000000000000000000
+        }
+      }
+    ]
+  }
+

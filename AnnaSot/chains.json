@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AnnaSot🐾",
+  "chains": [
+    {
+      "name": "source",
+      "address": "sourcevaloper18ctkfyehccfcxhh4kd9ndamwyservljrgq09t0",
+      "restake": {
+        "address": "source1npt6nncx645w52ntxp8tc3pth8etelzmy3kh2d",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

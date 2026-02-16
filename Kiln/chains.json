@@ -1,0 +1,96 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Kiln",
+  "chains": [
+    {
+      "name": "injective",
+      "address": "injvaloper1vm2gflv53mzy9ak4f8cr9ml3xus980wywe9fx2",
+      "restake": {
+        "address": "inj1c0pyf04n0x27fnau2x3p5gfhttxju6qxjyc5zj",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqa02qlj",
+      "restake": {
+        "address": "celestia17yav4ryg2d5xnlum6cdcgqu9ggzgue4jmjcw9l",
+        "run_time": "09:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper15gyzcp2kas2yntv9k3p0zm4k8y6e89ecmkeqee",
+      "restake": {
+        "address": "cosmos17yav4ryg2d5xnlum6cdcgqu9ggzgue4j2cf7lj",
+        "run_time": "09:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqcehuaf",
+      "restake": {
+        "address": "kava1qxdhhxua3pqyqv9vlpzmscfsqlcrku7rmlpm0n",
+        "run_time": "09:00",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1x0latp7jgk2hf27wakpnafnc4puvdwgq3nwd3r",
+      "restake": {
+        "address": "cro13qzkkr9e323eley0m3wgevqe968n98t7rwlen2",
+        "run_time": "09:00",
+        "minimum_reward": 100000000
+      }
+    },
+    {
+      "name": "fetchhub",
+      "address": "fetchvaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqlr0wzf",
+      "restake": {
+        "address": "fetch17yav4ryg2d5xnlum6cdcgqu9ggzgue4je9q6a9",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "mantrachain",
+      "address": "mantravaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqx2jrux",
+      "restake": {
+        "address": "mantra17yav4ryg2d5xnlum6cdcgqu9ggzgue4jpnr6ug",
+        "run_time": "09:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1u9xeaqdjz3kky2ymdhdsn0ra5uy9tc3ep3yfhe",
+      "restake": {
+        "address": "zeta1ypnp8c69f9gxf90q4lxptftvqk5rusacqdlkh9",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1uxlf7mvr8nep3gm7udf2u9remms2jyjqvwdul2",
+      "restake": {
+        "address": "cosmos1u4whe0pwlgt7q7ph37qxalq2wfq4pkcdze5fmd",
+        "run_time": "09:00",
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "injective",
+      "address": "injvaloper1rf0fczrw2gnhuju86kmjtku4dvf9dcc2mpe7pe",
+      "restake": {
+        "address": "inj1ypnp8c69f9gxf90q4lxptftvqk5rusacuqx8ld",
+        "run_time": "09:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

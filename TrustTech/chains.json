@@ -1,0 +1,42 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Red Planet",
+  "chains": [
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper1z43gxzdcsj3y4r824grh89a0zuxndm02ea22dz",
+      "restake": {
+        "address": "dungeon18lksx3qcpsl0rx0t3zrwktq7u2vnade77z6r6m",
+        "run_time": "every 24 hours",
+        "minimum_reward": 500000000
+      }
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1kwnymjvr2t4g3agzd6h077kx6k62avzpr8zcpz",
+      "restake": {
+        "address": "somm18lksx3qcpsl0rx0t3zrwktq7u2vnade7ud2fp2",
+        "run_time": "every 24 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "nolus",
+      "address": "nolusvaloper14r3s0vk987n59qdpxgrnwgyagcykkwzc7ah5xz",
+      "restake": {
+        "address": "nolus18lksx3qcpsl0rx0t3zrwktq7u2vnade7xp46j9",
+        "run_time": "every 24 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1f3dlqesjt4tm64sqjre5akdvmxly2av7cx8gck",
+      "restake": {
+        "address": "chihuahua18lksx3qcpsl0rx0t3zrwktq7u2vnade7nygt3z",
+        "run_time": "every 24 hours",
+        "minimum_reward": 20000000000
+      }
+    }
+  ]
+}

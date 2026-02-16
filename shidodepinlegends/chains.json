@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Shido Depin Legends",
+    "chains": [
+        {
+        "name": "shido",
+        "address": "shidovaloper1qyuyu9sg8wd9wj6cg5w9yse8qvkz0qdrnhe7yx",
+        "restake": {
+          "address": "shido1rtaa0mj3yzsn97xf53e4efgts3ajplhu7hrk9k",
+          "run_time": "every 5 minutes",
+          "minimum_reward": 10000000000000000000
+        }
+        }
+    ]
+  }

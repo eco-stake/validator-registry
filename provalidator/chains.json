@@ -26,7 +26,7 @@
       "restake": {
         "address": "chihuahua1330aewfwzu30vznhxw7aevaz0kn35fdya2nr9t",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000000
+        "minimum_reward": 100000000000
       }
     },
     {
@@ -39,14 +39,14 @@
       }
     },
     {
-      "name": "crescent",
-      "address": "crevaloper17muws0zgrd0vzh37guea7960ym7aqf2j9v6l7s",
+      "name": "dydx",
+      "address": "dydxvaloper1a9lm6t9qalz53jrp0q6p50q2cxeqnwsh48g3tt",
       "restake": {
-        "address": "cre1330aewfwzu30vznhxw7aevaz0kn35fdy6hdg3y",
+        "address": "dydx1330aewfwzu30vznhxw7aevaz0kn35fdyhxsfy7",
         "run_time": "every 1 hour",
-        "minimum_reward": 1000000
+        "minimum_reward": 100000000000000000
       }
-    },
+    },    
     {
       "name": "evmos",
       "address": "evmosvaloper1tdss4m3x7jy9mlepm2dwy8820l7uv6m2vx6z88",
@@ -72,24 +72,6 @@
         "address": "osmo1330aewfwzu30vznhxw7aevaz0kn35fdykydajm",
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "regen",
-      "address": "regenvaloper1u26sz6kydnmpr5zq6nureav4xhasak8nglmggk",
-      "restake": {
-        "address": "regen1330aewfwzu30vznhxw7aevaz0kn35fdypa43jd",
-        "run_time": "every 1 hour",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "sifchain",
-      "address": "sifvaloper14un425lvtpe7dd04fnld4s9y0gmeaxu3f0yxlu",
-      "restake": {
-        "address": "sif1330aewfwzu30vznhxw7aevaz0kn35fdymz3mtz",
-        "run_time": "every 1 hour",
-        "minimum_reward": 10000000
       }
     },
     {
@@ -138,15 +120,6 @@
       }
     },
     {
-      "name": "canto",
-      "address": "cantovaloper1a7v45h7kpdpt7rjc6sx6zhq9dueae4ld7qxdfa",
-      "restake": {
-        "address": "canto1f54lck35ehjh3x0e62e7gak9h7zn4vl7qfq0kj",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "kyve",
       "address": "kyvevaloper16924cazyqqza87ppjpucs5ny7ttst2y06gqe5g",
       "restake": {
@@ -156,21 +129,57 @@
       }
     },
     {
-      "name": "tenet",
-      "address": "tenetvaloper1kkvxzf73wgdmyh87pt2ltaygf3zy8cw7qv7xtm",
-      "restake": {
-        "address": "tenet1f54lck35ehjh3x0e62e7gak9h7zn4vl708u7zq",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "xpla",
       "address": "xplavaloper1keldzhvvl8l20uz557jvyte8pjspmzejrwtjps",
       "restake": {
         "address": "xpla1f54lck35ehjh3x0e62e7gak9h7zn4vl7vcerff",
         "run_time": "every 1 hour",
         "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1ywytnstry8v5ltd5z403edqplguejs7mqpe52l",
+      "restake": {
+        "address": "dym1f54lck35ehjh3x0e62e7gak9h7zn4vl7qzde85",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper16khtev3xc59aaclp5v4l7z3z5mruh3dmvdz6qy",
+      "restake": {
+        "address": "nillion1330aewfwzu30vznhxw7aevaz0kn35fdy9lq702",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1g48268mu5vfp4wk7dk89r0wdrakm9p5xlxr0l9",
+      "restake": {
+        "address": "atone1330aewfwzu30vznhxw7aevaz0kn35fdyslz2j3",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1r9n7p9hzfrfjt4uzpnsemc0eff87l6px5ae3dc",
+      "restake": {
+        "address": "seda1330aewfwzu30vznhxw7aevaz0kn35fdyg3j48g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1qdrtytrpvvujcn2n42qkvye2dxf03d7pl8xudy",
+      "restake": {
+        "address": "bbn1330aewfwzu30vznhxw7aevaz0kn35fdyfp0ums",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     }
   ]

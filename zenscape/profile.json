@@ -1,0 +1,9 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "Zenscape",
+    "identity": "F10E3CDCBC4EA7AA",
+    "website": "https://zenscape.one",
+    "contacts": {
+      "email": "info@zenscape.one"
+    }
+}

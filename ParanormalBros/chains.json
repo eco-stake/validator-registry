@@ -3,24 +3,6 @@
   "name": "Paranormal Bros.",
   "chains": [
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper14h2x997gt54v7akrxdfakd33x9yxa5kh9t0r9a",
-      "restake": {
-        "address": "bcna1l2spl6a344t5dkd646ecqapaxmh78cjw9jh0ku",
-        "run_time": "12:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "comdex",
-      "address": "comdexvaloper1czs368jkxgwflufajtvr0lhg6660aeplz9s5qn",
-      "restake": {
-        "address": "comdex1l2spl6a344t5dkd646ecqapaxmh78cjwcd9v8e",
-        "run_time": "12:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "persistence",
       "address": "persistencevaloper12h04lmculrelc2jeqhfd87688jsn8edflk5t5q",
       "restake": {
@@ -36,6 +18,24 @@
         "address": "mantle1l2spl6a344t5dkd646ecqapaxmh78cjwpxutpy",
         "run_time": "12:00",
         "minimum_reward": 100000
+      }
+    },
+    {
+      "name":"haqq",
+      "address": "haqqvaloper1zsujldhz9azrfewl0gex5ey8f6kvf9dk6ufk47",
+      "restake": {
+        "address": "haqq1w6u6prvcpq9x0cfjp4le5qw32fr3k9yc3hjufw",
+        "run_time": "12:00",
+        "minimum_reward": 1000000000000000000
+        }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1jftg6dzhsu7kvn9vyztsnegqfrrzlcgeklyvgu",
+      "restake": {
+        "address": "cosmos1l2spl6a344t5dkd646ecqapaxmh78cjwlz8w7w",
+        "run_time": "12:00",
+        "minimum_reward": 1000000
       }
     }
   ]

@@ -3,75 +3,21 @@
   "name": "Panthea EU",
   "chains": [
     {
-      "name": "bitcanna",
-      "address": "bcnavaloper18uempxcg7e8xr0un2zc3x3add2zdr0vwdshhhc",
+      "name": "provenance",
+      "address": "pbvaloper1p99dxczg9qu5x3d0yxc6wdwgz0n3mzsrtt2jsc",
       "restake": {
-        "address": "bcna1yqqsskp60ru889m2ac9rtdays6pt9xfy0g6p6t",
+        "address": "pb1t2h366ql9tuw0uufpqc7m3ce875v6q04fhsgd8",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 5000000
-      }
-    },
-    {
-      "name": "bitsong",
-      "address": "bitsongvaloper16976fek2lpt6nnuj3r00ldw7lvhavvqt0mkxjy",
-      "restake": {
-        "address": "bitsong1ce3u6d0jwpzvgwnvktjwarwz2yzhae372qqhvw",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 5000000
-      }
-    },
-    {
-      "name": "cosmoshub",
-      "address": "cosmosvaloper1udcqs46htn89kzvq9wjnul2k8lw89s37xcavva",
-      "restake": {
-        "address": "cosmos1yqqsskp60ru889m2ac9rtdays6pt9xfy4c2qje",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "desmos",
-      "address": "desmosvaloper1fp7gtv90n48jkvf9uaa46fju4avzulx9zrd8xc",
-      "restake": {
-        "address": "desmos14pafsqw7yx7tsj2mfwuu4f8nulvp5e2spxf9r3",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "kichain",
-      "address": "kivaloper1zry437s3jj4gqedsn9xxar74d4rmwcy3t7m7pz",
-      "restake": {
-        "address": "ki1yqqsskp60ru889m2ac9rtdays6pt9xfyy4m0kd",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "lumnetwork",
-      "address": "lumvaloper1zjaa4qvqz3cwwhnvnfwk3w5ahvvsnngsdu6zuk",
-      "restake": {
-        "address": "lum1yqqsskp60ru889m2ac9rtdays6pt9xfyqjhf8d",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "osmosis",
-      "address": "osmovaloper1p5m9xvddrlpe9rqu85wz5wy4uau7fq55w5frnv",
-      "restake": {
-        "address": "osmo1yqqsskp60ru889m2ac9rtdays6pt9xfyaresyt",
-        "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 10000000000
       }
     },
     {
       "name": "shentu",
-      "address": "certikvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lkr3q8z",
+      "address": "shentuvaloper1yvleuxlmg8vgmsczlqgufgkwj2p5x29lnmamkg",
       "restake": {
-        "address": "certik1yqqsskp60ru889m2ac9rtdays6pt9xfyjskhnj",
+        "address": "shentu1yqqsskp60ru889m2ac9rtdays6pt9xfyavweqy",
         "run_time": ["03:00", "09:00", "15:00", "21:00"],
-        "minimum_reward": 100000
+        "minimum_reward": 500000
       }
     }
   ]

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "kioqq",
+  "chains": [
+    {
+      "name": "haqq",
+      "address": "haqqvaloper1a4qnqnk5ag0um6z3unkdth92v9c46x0dcpe2n0",
+      "restake": {
+        "address": "haqq17h60s7gxnatu378zhxeh0zt6pmzysp9xejaplv",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

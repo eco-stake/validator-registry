@@ -1,16 +1,14 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "** pixiF validator **",
+  "name": "Pixel Finance",
   "chains": [
     {
       "name": "panacea",
       "address": "panaceavaloper12xzqggqy3y5avjkc30q2m7eay8vrzl795dp29d",
       "restake": {
-        "address": "panacea1fphlewq82mkag3ltm7l7m0p2jtrelt38f58a5s",
-        "run_time": [
-          "15:00"
-        ],
-        "minimum_reward": 1000000
+        "address": "panacea1w9rjm9yurs79ytk39kckd0sv2k2x8vwnma0um5",
+        "run_time": "15:30",
+        "minimum_reward": 100000
       }
     }
   ]

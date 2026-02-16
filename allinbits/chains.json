@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "All in Bits",
+  "chains": [
+    {
+      "name": "commercionetwork",
+      "address": "did:com:valoper1m4vxhxy22m2mw07zszpt836zy336lsh3cuqjjr",
+      "restake": {
+        "address": "did:com:1704z3hduxgu0uzjzkj6w7yerqmny33h6zr7q5w",
+        "run_time": "every 1 day",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

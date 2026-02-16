@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "MoneyMindedApes",
+  "identity": "7F6E04B00F1C9EEC",
+  "website": "https://moneymindedapes.com",
+  "contacts": {
+	"telephone": "",
+	"email": "moneymindedapefam@gmail.com",
+	"twitter": "moneymindedapes",
+	"discord": "https://discord.gg/3kDugPtDxp",
+	"others": {
+	"emergency": ""
+	}
+	}
+}

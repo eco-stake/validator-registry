@@ -14,26 +14,37 @@
       }
     },
     {
-      "name": "dig",
-      "address": "digvaloper1nvveer8gzjlm78me4zz45s4crvwf0pz0dhc5lw",
+      "name": "oraichain",
+      "address": "oraivaloper14uqadff9jf02kkzhppl6znczan4gu04ly87nnu",
       "restake": {
-        "address": "dig17kdv6l908jn48cpxfvf7zekdmm3vf5p7du65tp",
+        "address": "orai17kdv6l908jn48cpxfvf7zekdmm3vf5p7xm9ugf",
         "run_time": [
-          "17:00"
+          "17:05"
         ],
-        "minimum_reward": 20000000
+        "minimum_reward": 10000
       }
     },
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1h5kvena7eaawjhm4w9p9fv3566dumsasq8wwyv",
+      "name": "seda",
+      "address": "sedavaloper1us5f67clf2fq4u0alr0h0r40pq525jm45ktpva",
       "restake": {
-        "address": "lum17kdv6l908jn48cpxfvf7zekdmm3vf5p7qzwkuw",
+        "address": "seda17kdv6l908jn48cpxfvf7zekdmm3vf5p7rxl82m",
         "run_time": [
-          "17:00"
+          "17:10"
         ],
-        "minimum_reward": 20000000
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper19fgph876c3rqxrn6xk5ch6wd73r3g05wzpsht0",
+      "restake": {
+        "address": "bze17kdv6l908jn48cpxfvf7zekdmm3vf5p7gvl5md",
+        "run_time": [
+          "17:10"
+        ],
+        "minimum_reward": 100000000
       }
     }
-	]
+  ]
 }

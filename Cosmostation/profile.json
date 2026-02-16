@@ -1,0 +1,11 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "Cosmostation",
+    "identity": "AE4C403A6E7AA1AC",
+    "website": "https://cosmostation.io/",
+    "contacts": {
+        "email": "support@cosmostation.io",
+        "telegram": "https://t.me/cosmostation",
+        "twitter": "@CosmostationVD"
+    }
+}

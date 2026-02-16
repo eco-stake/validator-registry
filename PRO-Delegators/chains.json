@@ -7,8 +7,8 @@
       "address": "cosmosvaloper18sqvyf4ss84qree7gndph5chmm82fglsqfylwn",
       "restake": {
         "address": "cosmos1vvumkjdmen9fsgu88zqv8eulpn79g4g03n9y3g",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "run_time": "every 4 hour",
+        "minimum_reward": 1000000
       }
     },
 	{
@@ -17,8 +17,62 @@
       "restake": {
         "address": "osmo1vvumkjdmen9fsgu88zqv8eulpn79g4g0egk586",
         "run_time": "every 4 hour",
+        "minimum_reward": 1000000
+      }
+    },
+	{
+      "name": "nolus",
+      "address": "nolusvaloper17rskjptvphrktvqz3wrnqpeh6gqp825mujae8t",
+      "restake": {
+        "address": "nolus1vvumkjdmen9fsgu88zqv8eulpn79g4g08r4mnd",
+        "run_time": "every 4 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1zrp3cnmqg7rlr7n4mc3cfl4khn5p9a2frykp2c",
+      "restake": {
+        "address": "atone1vvumkjdmen9fsgu88zqv8eulpn79g4g0lner8s",
+        "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
-    }
+    },
+    {
+      "name": "elys",
+      "address": "elysvaloper12w8a3hlgladrn6tr5s72s77h0zfw6y64ecpvqy",
+      "restake": {
+        "address": "elys1vvumkjdmen9fsgu88zqv8eulpn79g4g03nuru2",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1aul5ayt05jwk758k9s2w3qn5qdxesw9sjpnurq",
+      "restake": {
+        "address": "nillion1vvumkjdmen9fsgu88zqv8eulpn79g4g02nmh6t",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1u2qq4hy268nz78k4z0dn6tgnv0mqsvsd35qvk4",
+      "restake": {
+        "address": "bbn1vvumkjdmen9fsgu88zqv8eulpn79g4g0xd54w3",
+        "run_time": "every 1 minutes",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "neutron",
+      "address": "neutronvaloper1v2azgtqlaj5xxktswpclsgn8zrr4960vhu50r2",
+      "restake": {
+        "address": "neutron1vvumkjdmen9fsgu88zqv8eulpn79g4g04vvxt0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }    
   ]
 }

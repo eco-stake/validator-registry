@@ -3,24 +3,6 @@
     "name": "KonsorTech",
     "chains": [
       {
-        "name": "lumenx",
-        "address": "lumenvaloper1kvlw9fnyjmg3em2m0cjsl8u4faee6rpnvqxhpf",
-        "restake": {
-          "address": "lumen1e8dhejyszhkcrz9ts0tgltwcj7vh4awdkvzxw8",
-          "run_time": "every 2 hours",
-          "minimum_reward": 1000000
-        }
-      },
-      {
-      "name": "8ball",
-      "address": "8ballvaloper1fevzweur6tagezrl2y9htfaepuykqlnlwhgwu5",
-      "restake": {
-        "address": "8ball1e8dhejyszhkcrz9ts0tgltwcj7vh4awdtvxqxm",
-        "run_time": "every 2 hour",
-        "minimum_reward": 1000000
-        }
-      },
-      {
       "name": "aura",
       "address": "auravaloper1cmh2uud0mw5e06aexvghzga0m23j3vaymxxj64",
       "restake": {
@@ -39,15 +21,6 @@
         }
       },
       {
-      "name": "acrechain",
-      "address": "acrevaloper1p9v6j7hage0djea9rjtwgjfext7r2q5wd838em",
-      "restake": {
-        "address": "acre1zcvz6dg7uauxfchmylp4mm37rcv4esechkexxm",
-        "run_time": "every 2 hour",
-        "minimum_reward": 1000000000000000000
-        }
-      },
-      {
       "name":"planq",
       "address": "plqvaloper1drd2kcy9ywqrdmk9apqskkrq0f9qu7ctqmw7qy",
       "restake": {
@@ -55,6 +28,96 @@
         "run_time": "every 2 hours",
         "minimum_reward": 1000000000000000000
         }
-      }
+      },
+      {
+      "name":"empowerchain",
+      "address": "empowervaloper1neujyc4kvxja3zn93j4kkwwxt843st7unm33aw",
+      "restake": {
+        "address": "empower1e8dhejyszhkcrz9ts0tgltwcj7vh4awdl4zxl6",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+        }
+      },
+      {
+      "name": "gitopia",
+      "address": "gitopiavaloper1luqvpv2xnqc9lwnk2g2fnyh3nrumczh3w2vhn6",
+      "restake": {
+        "address": "gitopia1e8dhejyszhkcrz9ts0tgltwcj7vh4awdapp628",
+        "run_time": "every 2 hour",
+        "minimum_reward": 10000
+        }
+      },
+      {
+      "name": "decentr",
+      "address": "decentrvaloper1dcqfhe7h0zpu0rpgdujkxuv2yj5x4aycc35t4g",
+      "restake": {
+        "address": "decentr1e8dhejyszhkcrz9ts0tgltwcj7vh4awdghqeyv",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000
+        }
+      },
+      {
+      "name": "realio",
+      "address": "realiovaloper17chr7jgcgaaavvdplyz486gcyh03qw4kx99fk4",
+      "restake": {
+        "address": "realio1zcvz6dg7uauxfchmylp4mm37rcv4esecyq909v",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+        }
+      },
+      {
+      "name":"haqq",
+      "address": "haqqvaloper1qujkgnaxmy5ngyudunh04j6ctpt8dp4u8h9rk8",
+      "restake": {
+        "address": "haqq1zcvz6dg7uauxfchmylp4mm37rcv4esec0j5k8q",
+        "run_time": "every 2 hour",
+        "minimum_reward": 1000000000000000000
+        }
+       },
+       {
+       "name":"irisnet",
+       "address": "iva1hlytpagdettxeem0g5kd5xakpqd2pls4kxe77q",
+       "restake": {
+         "address": "iaa1e8dhejyszhkcrz9ts0tgltwcj7vh4awdkmxu84",
+         "run_time": "every 2 hour",
+         "minimum_reward": 1000000
+        }
+       },
+       {
+       "name": "humans",
+       "address": "humanvaloper1mcnntqnl0tajjvxz7uqxsxnez65wnnh7qaqs72",
+       "restake": {
+        "address": "human1zcvz6dg7uauxfchmylp4mm37rcv4esec060tzf",
+        "run_time": "every 2 hours",
+        "minimum_reward": 100000000000000000
+        }
+       },
+       {
+       "name": "epix",
+       "address": "epixvaloper195f5gykfqx0fjf6vav4mnj336wx0qulkdrsqzl",
+       "restake": {
+         "address": "epix1zcvz6dg7uauxfchmylp4mm37rcv4esecc70s7d",
+         "run_time": "every 2 hours",
+         "minimum_reward": 100000000000000000   
+        }
+       },
+       {
+       "name": "oraichain",
+       "address": "oraivaloper179dea42h80arp69zd779zcav5jp0kv04tvw7yz",
+       "restake": {
+         "address": "orai1e8dhejyszhkcrz9ts0tgltwcj7vh4awds2swyh",
+         "run_time": "every 2 hours",
+         "minimum_reward": 100000
+         }
+       },
+       {
+       "name": "atomone",
+       "address": "atonevaloper19zhyxjkxkwh8umftc9q2zw8skvzxs0n3kpun39",
+       "restake": {
+          "address": "atone1e8dhejyszhkcrz9ts0tgltwcj7vh4awdde62nu",
+          "run_time": "every 2 hours",
+          "minimum_reward": 1000000
+          }
+       }
     ]
 }

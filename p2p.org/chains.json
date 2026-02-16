@@ -1,0 +1,160 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "p2p.org",
+  "chains": [
+    {
+      "name": "celestiatestnet3",
+      "address": "celestiavaloper1dldc0kqzh0fw5gh8gf5q5lxl30yfesx2ek56mc",
+      "restake": {
+        "address": "celestia14rsplnhm9nh9rtxez2rxlvyyzwtx3mkdesa4qe",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1r4kqtye4dzacmrwnh6f057p50pdjm8g59tlhhg",
+      "restake": {
+        "address": "celestia1eyr6hh22vcyw8ahf3zr4p4f85dkqw649vz03rn",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "cosmoshubtestnet",
+      "address": "cosmosvaloper17lgg03ze9x6xka02fs0hhw4ad4wwg05heqr2y8",
+      "restake": {
+        "address": "cosmos14rsplnhm9nh9rtxez2rxlvyyzwtx3mkdg6v965",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper132juzk0gdmwuxvx4phug7m3ymyatxlh9734g4w",
+      "restake": {
+        "address": "cosmos1eyr6hh22vcyw8ahf3zr4p4f85dkqw649ag7pe7",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper13s44uvtzf578zjze9eqeh0mnemj60pwn83frcp",
+      "restake": {
+        "address": "axelar1eyr6hh22vcyw8ahf3zr4p4f85dkqw649exgfjl",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sei",
+      "address": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h",
+      "restake": {
+        "address": "sei1eyr6hh22vcyw8ahf3zr4p4f85dkqw649sy0hll",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "saga",
+      "address": "sagavaloper15eryzkm5y7d2ldqf6he7g943g9hepxwa6puvjz",
+      "restake": {
+        "address": "saga1eyr6hh22vcyw8ahf3zr4p4f85dkqw649rm8n7c",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 500000
+      }
+    },
+    {
+      "name": "allora",
+      "address": "allovaloper10q9mfwuy82mcgmyhqjuz2802wc2f0fccmek8kr",
+      "restake": {
+        "address": "allo1eyr6hh22vcyw8ahf3zr4p4f85dkqw649nmyzw8",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "babylon",
+      "address": "bbnvaloper1y5fqc69rthqgltjnjze408t66j5pp6kdyhlz48",
+      "restake": {
+        "address": "bbn1eyr6hh22vcyw8ahf3zr4p4f85dkqw6492k0sx8",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1uvt9fudwajkeyvdzdugmu3njdcg0c96jrywj3y",
+      "restake": {
+        "address": "osmo1eyr6hh22vcyw8ahf3zr4p4f85dkqw6494nd30v",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1839a7zsrucn4mdrnpwzn4547gmtm3ywmllhjcf",
+      "restake": {
+        "address": "cro1hf97sxq87sftvp2eqlmq9e6wv7zscfnhw3rpm5",
+        "run_time": [
+          "03:00",
+          "09:00",
+          "15:00",
+          "21:00"
+        ],
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

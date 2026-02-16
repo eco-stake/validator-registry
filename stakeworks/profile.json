@@ -4,7 +4,7 @@
   "identity": "9B8383B888D54D47",
   "website": "https://stake.works",
   "description": {
-    "overview": "Stake.Works, independent node operators, active since 2018. We’re supporting projects on the Polygon, Polkadot and Cosmos ecosystems. Some of the projects are Polygon POS, Astar, Bifrost, Darwinia, Litentry, Arable, Bitcanna and Echelon, you’ll find a full list on https://stake.works/.",
+    "overview": "Stake.Works, independent node operators, active since 2018. We’re supporting projects on the Polygon, Polkadot and Cosmos ecosystems, see https://stake.works/.",
     "team": ""
   },
   "contacts": {
@@ -12,7 +12,7 @@
     "email": "info@stake.works",
     "telegram": "@stakeworks",
     "twitter": "@StakeWorks",
-    "discord": "WebDev | Stake.Works#6225",
+    "discord": "stakeworks",
     "others": {
       "emergency": ""
     }

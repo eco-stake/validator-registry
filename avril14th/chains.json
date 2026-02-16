@@ -1,0 +1,69 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Avril14th",
+  "chains": [
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1mns7w2r823yq2xjtf3mtlemq0l5pqvuzksez78",
+      "restake": {
+        "address": "celestia1gpa2wtkg82thv8494fhlvhpkvmxn5hx2cp2tlp",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "bitcanna",
+      "address": "bcnavaloper18perfd479atcgpqstfh3nkkt34cz20vah2fsql",
+      "restake": {
+        "address": "bcna1gpa2wtkg82thv8494fhlvhpkvmxn5hx2nmt6d7",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1d0fxh4uvvssm93qurnw55m8s9xvt9ecqr04edl",
+      "restake": {
+        "address": "pasg1gpa2wtkg82thv8494fhlvhpkvmxn5hx22nzpgn",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "nomic",
+      "address": "nomic1sdgejmczmrd8w3aavkdgu4nlkmgh36e62tsxqa",
+      "restake": {
+        "address": "nomic1gpa2wtkg82thv8494fhlvhpkvmxn5hx24ngpkx",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1wjsuwrx4nee33yquw0nws6mkfcgfza4d23x9lt",
+      "restake": {
+        "address": "sent1gpa2wtkg82thv8494fhlvhpkvmxn5hx2jsdzpr",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1jl3rqcqtwhk00m59qu4qyqcyrqrnvwr5939c50",
+      "restake": {
+        "address": "seda1gpa2wtkg82thv8494fhlvhpkvmxn5hx2l9hrxd",
+        "run_time": "every 6 hours",
+        "minimum_reward": 1
+      }
+    },
+    {
+      "name": "commercionetwork",
+      "address": "did:com:valoper1gyagzzqz34fhywee6z4aenkjkwvl5w9737g7kv",
+      "restake": {
+        "address": "did:com:1uah4rnnez7z4a8jn3upnmey52vvl4twnse24rt",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

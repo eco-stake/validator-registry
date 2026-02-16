@@ -1,0 +1,14 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "BackBone Labs",
+  "identity": "9217B54948A703D6",
+  "website": "https://app.backbonelabs.io",
+  "description": {
+    "overview": "BackBone Labs: Pioneers of NFTfi with our marketplace, launchpad and LST. 50% of validator commission rewards $SOUL stakers, while 100% of LST fees fuel our GraveDigger Managing NFT collections."
+  },
+  "contacts": {
+    "email": "security@backbonelabs.io",
+    "twitter": "BackBoneLabsHub",
+    "discord": "https://discord.gg/XvdhD4eutJ"
+  }
+}

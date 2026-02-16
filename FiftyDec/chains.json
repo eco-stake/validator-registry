@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "FiftyDec",
+  "chains": [
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1sfplg68w4q6ptsxpyg4ldx2765x4dzgc2d7zvz",
+      "restake": {
+        "address": "nibi1wyd795r9um4vurfz6qn5t2f88yx3n4ealxaxzk",
+        "run_time": "every 12 hours",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "validao.xyz",
+  "identity": "F7E5BA51D386D035",
+  "website": "https://validao.xyz",
+  "description": {
+    "overview": "ValiDAO is a multi-chain, DAO-owned validator. We run blockchain infrastructure in far-away places where others do not in order to further decentralize the validatorset of the chains on which we run."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "hello@validao.xyz",
+    "telegram": "validao_official",
+    "twitter": "validaoxyz",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

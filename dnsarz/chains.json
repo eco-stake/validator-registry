@@ -3,13 +3,22 @@
   "name": "dnsarz",
   "chains": [
     {
-      "name": "acrechain",
-      "address": "acrevaloper1kk4j6t8gsd6t3x2lun8pgpa5hee2nw3xhza4q9",
+      "name": "epix",
+      "address": "epixvaloper1qjynz59x6c0y2l5cf7gtyl8arjpg0k0rejn0lk",
       "restake": {
-        "address": "acre1kk4j6t8gsd6t3x2lun8pgpa5hee2nw3xw6v9zc",
-        "run_time": ["21:00"],
-        "minimum_reward": 100000000000000000
+        "address": "epix1tj5az59vpuh63em62zntpgd0kfl0u57juh9878",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "bitbadges",
+      "address": "bbvaloper1k4nuty5hd9gqzvr4lfhhhhudzm7xtz9mjx4skv",
+      "restake": {
+        "address": "bb15m2kq8n94kr440sj9us7rnj45fkdugkg4acmx8",
+        "run_time": "every 2 hours",
+        "minimum_reward": 1000000
+     }
     }
   ]
 }

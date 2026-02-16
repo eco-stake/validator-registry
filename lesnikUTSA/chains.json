@@ -66,6 +66,33 @@
       }
     },
     {
+      "name": "source",
+      "address": "sourcevaloper1ak4dulf5zs06lu4jz8efzpa42pwrj8cdm35fgf",
+      "restake": {
+        "address": "source1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyrmva6g",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper1taava3hdv33ps7es7yvwjx7x08lzz3s2mqfp6v",
+      "restake": {
+        "address": "dym1hx0hpm0x4x5lejup6y9m4hyeknk6m0ar8997kn",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "nibiru",
+      "address": "nibivaloper1he44du3wsg3qgysyj0wlclq20apj880k72m8ks",
+      "restake": {
+        "address": "nibi1p0fqg0m6jwqxyx3c2hryfzwg5mehf3uyjd36r9",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
       "name": "teritori",
       "address": "torivaloper1kunzrdg6u8gql4faj33lstghhqdtp59e0xgggy",
       "restake": {

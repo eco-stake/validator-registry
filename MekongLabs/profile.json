@@ -1,0 +1,21 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "MekongLabs",
+  "identity": "BF8CA45CC0B2EF52",
+  "website": "https://mekonglabs.tech",
+  "description": {
+    "overview": "MekongLabs is a Professional Staking Provider based in Singapore with extensive experience in offering infrastructure solutions for the Web3 ecosystem for over 3 years. We are experienced validators in over 30+ networks, offering high uptime and 24/7 monitoring",
+    "team": "Our international team of over 5+ professionals with blockchain expertise includes backend and frontend developers, DevOps, analysts, and writers, all working together to boost blockchain efficiency through the development of fast, high-quality explorers and a comprehensive suite of services tailored for Cosmos-based networks, EVM and any blockchains.",
+    "security": "we aim to become a validator and contribute significantly to improving the scalability and decentralization of the blockchain network. Our extensive experience in node management and deep understanding of consensus mechanisms allow us to ensure high performance and security of the network. We have the necessary resources and infrastructure to keep the network running smoothly, and we are ready to actively participate in governance and decision-making, contributing to the sustainable development of the ecosystem. Our goal is to not only maintain current standards but to continually work to improve them, creating a solid foundation for future growth and innovation."
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "jeremy@mekonglabs.tech",
+    "telegram": "jeremy_mekong",
+    "twitter": "Juilan_mr",
+    "discord": "nguyenthenguyen",
+    "others": {
+      "emergency": ""
+    }
+  }
+}

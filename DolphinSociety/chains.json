@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Dolphin Society",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper142cjnpxc7p3cscgvwr6kma89002t37xvmem6zc",
+            "restake": {
+                "address": "core1q9n7nlqnmrxu45cmw04l8f88snyyhe0rjmwsx5",
+                "run_time": "every 12 hours",
+                "minimum_reward": 10000
+            }
+        }
+    ]
+}

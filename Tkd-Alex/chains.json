@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Tkd-Alex",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper10unne9aclcdwfysj6ya5vzh7xwj3xht6jhfxn6",
+      "restake": {
+        "address": "sent1ap82xwt0qmgmu67x8fr3vl26qq82nm3kzg305a",
+        "run_time": "every 6 hours",
+        "minimum_reward": 10000000
+      }
+    }
+  ]
+}

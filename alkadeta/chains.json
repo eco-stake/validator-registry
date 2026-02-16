@@ -43,15 +43,6 @@
        }
      },
      {
-      "name": "rebus",
-      "address": "rebusvaloper1ashuysu8yq026kncsreplrzrhcdz93hvjxk7vw",
-      "restake": {
-        "address": "rebus1re48lxn948kjq2pkjcczs90ukxysczxdde7tdc",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000000000000000
-       }
-     },
-     {
       "name": "nois",
       "address": "noisvaloper17quau8ah8zdadkyflz0h6ead27n2yjj9wv8yxa",
       "restake": {

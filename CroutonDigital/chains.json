@@ -1,0 +1,60 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CroutonDigital",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1nlfrwx5t3mm3cuqqkvjv6jv24m7s2z5utzfe8s",
+      "restake": {
+        "address": "cosmos1yd02c5usphmd88lcgkef53etgu7lyjh0malwv4",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1h6pv6eymyf40w0xjuuacj3vnu9lxwq8u0nm7uj",
+      "restake": {
+        "address": "osmo1yd02c5usphmd88lcgkef53etgu7lyjh0nxv768",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "celestia",
+      "address": "celestiavaloper1nxdm2vdl9xmmekauu3yfhq49t6vqc5cph2dj3s",
+      "restake": {
+        "address": "celestia1yd02c5usphmd88lcgkef53etgu7lyjh02hw7kc",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "archway",
+      "address": "archwayvaloper1hccgnft2asahy7hxrk4fx2y6nndk3rwre387zm",
+      "restake": {
+        "address": "archway1yd02c5usphmd88lcgkef53etgu7lyjh0wkr2xz",
+        "run_time": ["18:00"],
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2",
+      "restake": {
+        "address": "umee1yd02c5usphmd88lcgkef53etgu7lyjh0ftz3g8",
+        "run_time": ["18:00"],
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper127chaf96mtdz33aqqnqmgnxtuas9d78pdalr5j",
+      "restake": {
+        "address": "dym1pdjax0ltrgfvsaegugmz7p245cdhnmdq0dxzq9",
+        "run_time": ["18:00"],
+        "minimum_reward": 100000000000000000
+      }
+    }
+  ]
+}

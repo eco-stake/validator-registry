@@ -14,13 +14,11 @@
       }
     },
     {
-      "name": "gitopia",
-      "address": "gitopiavaloper1h76eca52rkmfh0jflt5550rpstlzfxc5kdttlt",
+      "name": "atomone",
+      "address": "atonevaloper170m5fa0w6pdgsyqhkcp8fyqavl2l66c8t86sfn",
       "restake": {
-        "address": "gitopia10a04t569sn3daqvhwm88z9acjdgx46ll49hqvs",
-        "run_time": [
-          "every 30 minutes"
-        ],
+        "address": "atone1u6sqgs4ev4rutqhh0f86tt2wc7gwhe4xwxk69r",
+        "run_time": "10:00",
         "minimum_reward": 1000000
       }
     }

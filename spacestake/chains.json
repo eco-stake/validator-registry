@@ -1,0 +1,87 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "SpaceStake",
+  "chains": [
+  	{
+      "name": "juno",
+      "address": "junovaloper1za6z32wkgcuyues2z3yjjds6gvew8qrgfd684l",
+      "restake": {
+        "address": "juno1at5nevqsdhgcucdqqwh937hw4uwwjv3vm7eg8f",
+        "run_time":"every 4 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+     "name":"secretnetwork",
+     "address":"secretvaloper1x6efs0le7f9f3r4u2rq4jykcjunsq4us99p7xu",
+     "restake":{
+        "address":"secret15xs3mlyudp7zhlzwce2tcae5xrdf3s305annxp",
+        "run_time":"every 4 hours",
+        "minimum_reward": 100000
+      }
+    },
+  	{
+      "name": "irisnet",
+      "address": "iva177aauu7fr6l7xw0k3m06lu9h5xenxrlj9cshp9",
+      "restake": {
+        "address": "iaa1at5nevqsdhgcucdqqwh937hw4uwwjv3vcw6zzy",
+        "run_time": "every 4 hours",
+        "minimum_reward": 7000000
+      }
+    },
+    {
+      "name": "kyve",
+      "address": "kyvevaloper1wna5mpsje840nz9hewdhajnu7v4347awtchru2",
+      "restake": {
+        "address": "kyve1at5nevqsdhgcucdqqwh937hw4uwwjv3v6zh9t3",
+        "run_time": "every 4 hours",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "kava",
+      "address": "kavavaloper1hj99pyu4pyun8p22pyd8nu5v5g2rdd2l0d5c5z",
+      "restake": {
+        "address": "kava1qmz94mpglzseplyy7wqyz0ep99cvtswl9yvmnq",
+        "run_time": "every 4 hours",
+        "minimum_reward": 40000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1sgvmu56yg3rtpyylrqmvhse2waswn6j3j3l074",
+      "restake": {
+        "address": "zeta1ypwym0rz4gn4qgj3y34u8hxjpq5x45r4dgex87",
+        "run_time": "every 4 hours",
+        "minimum_reward": 60000000000000000
+      }
+    },
+    {
+      "name": "kopi",
+      "address": "kopivaloper1t7m9up9lwy676z3r3nqhspvf7efx8pkktlq7mu",
+      "restake": {
+          "address": "kopi1at5nevqsdhgcucdqqwh937hw4uwwjv3vu228dr",
+          "run_time": "every 4 hours",
+          "minimum_reward": 200000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1x8yjkhrffte4850tzdtfuq6nhs5vf950l86uea",
+      "restake": {
+          "address": "cosmos1at5nevqsdhgcucdqqwh937hw4uwwjv3vdv6nq4",
+          "run_time": "every 4 hours",
+          "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper1rcv35vylf4x5jhtx20y4p9d6ywtc7cuqayxhuh",
+      "restake": {
+          "address": "osmo1at5nevqsdhgcucdqqwh937hw4uwwjv3v9hfrk8",
+          "run_time": "every 4 hours",
+          "minimum_reward": 500000
+      }
+    }
+  ]
+}
