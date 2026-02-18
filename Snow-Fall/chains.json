@@ -21,6 +21,15 @@
          }
       },
       {
+         "name":"akash",
+         "address":"akashvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz06xs3lx",
+         "restake":{
+            "address":"akash1q52x3jrc2jrx7rv380z64tsw9m907zlhznaaq4",
+            "run_time":"every 12 hours",
+            "minimum_reward":100000000
+         }
+      },
+      {
          "name":"aura",
          "address":"auravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0am46v3",
          "restake":{
