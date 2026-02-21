@@ -12,12 +12,12 @@
       }
     },
     {
-      "name": "elys",
-      "address": "elysvaloper1hutt80dvfwagsr3zdevk6ranr3f2uh5c8e3g7w",
+      "name": "osmosis",
+      "address": "osmovaloper1dhsd0806a6jj3q22dejzena2hxqsrmrac50ekc",
       "restake": {
-        "address": "elys1f0urgzy5vs7kqg5ntu25hy5x9wswsa3nfh0q7q",
-        "run_time": "every 5 minutes",
-        "minimum_reward": 100000
+        "address": "osmo1f0urgzy5vs7kqg5ntu25hy5x9wswsa3npv9h9s",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
       }
     },
       {
@@ -67,4 +67,5 @@
       }
     ]
   }
+
 
