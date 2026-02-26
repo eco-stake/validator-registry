@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "Silk Nodes",
+    "chains": [
+        {
+            "name": "coreumtestnet",
+            "address": "testcorevaloper12d5a6hjacx2qvlsc7jkm8xwq2ketfc6j8lxc34",
+            "restake": {
+                "address": "testcore1rs6gnzzm3a8twea6flx7xrhce8pmla0nx247wd",
+                "run_time": "every 1 hours",
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
