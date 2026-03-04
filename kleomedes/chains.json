@@ -442,6 +442,24 @@
         "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
+    },
+      {
+      "name": "pocket",
+      "address": "poktvaloper16e5nljedgjfaajcjg9p4a2x4tc78daq9yr56mq",
+      "restake": {
+        "address": "pokt1r8egcurpwxftegr07gjv9gwffw4fk009kps7ym",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+      {
+      "name": "lava",
+      "address": "lava@valoper1h6hz8hz45gfym5pmlcaqjmkffku4ztv620u509",
+      "restake": {
+        "address": "lava@1r8egcurpwxftegr07gjv9gwffw4fk009nlc0lw",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
