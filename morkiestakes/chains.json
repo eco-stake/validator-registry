@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "morkiestakes",
+  "chains": [
+    {
+      "name": "shentu",
+      "address": "shentuvaloper10r25h3042qapanlyjk2a6qwj9a59pvw08vu8nw",
+      "restake": {
+        "address": "shentu1fatjzh49f993e2fmuwf98s4ugruplpp7cnhgv3",
+        "run_time": "09:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
