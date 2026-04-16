@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "SOLID",
+    "chains": [
+        {
+            "name": "terra2",
+            "address": "terravaloper1cqc26lnatzxvu0z5nd4yx8m4ecllkm7jlakwrw",
+            "restake": {
+                "address": "terra1lzxjl07fckndg6eu4vq5xd2ww2vlmrc50qzr5k",
+                "run_time": ["09:00", "21:00"],
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}
