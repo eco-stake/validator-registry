@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "DIGGO: Digital Freedom",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper1p7t3k4wktgkhhcq0saq3hrtpnrgsa72rhqayu4",
+      "restake": {
+        "address": "sent14qvpy2rfa4flnmp5fht0zkxrhh0wcxxzfz8hgt",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
