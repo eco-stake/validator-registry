@@ -25,7 +25,7 @@
       "address": "epixvaloper1gvwnfhd3ngsevw35y43ftvm69empwxtsgmvwfw",
       "restake": {
         "address": "epix1wy59fpu5m6m5h7t7upeg59cp98z9dpxy6dz94u",
-        "run_time": "every 30 minutes",
+        "run_time": "every 3 hours",
         "minimum_reward": 100000000000000000   
       }
     }
