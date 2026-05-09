@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "KcalbApp",
+  "chains": [
+    {
+      "name": "cryptoorgchain",
+      "address": "crocncl1dmv99hkugarnkjsx87a4fej8xeajzs9g3h3xmq",
+      "restake": {
+        "address": "cro1ylfgnn5tlewkgt4nu08vw2d5ghgeznn3p2tpl5",
+        "run_time": "18:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "CoreStake",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper1222c3qnzny0e6spfdhr59386tlfhlatnuc65n6",
+      "restake": {
+        "address": "atone1ttnctmstwc0ps766u40va9yz07uanze0y46h3h",
+        "run_time": "02:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Shazoes",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper17f2sq92lqjxwztemmy0aeave07xqg4qtdtp73l",
+      "restake": {
+        "address": "atone1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjhrctm3",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1gf6gnfxqx0jkv86wft5zll7u5vp5ykf7uy5qwn",
+      "restake": {
+        "address": "axone1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgj69gme5",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper19fs9dam0cghptddw5ddc2xysqj3dp7px3hh6af",
+      "restake": {
+        "address": "cosmos1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjeryvdf",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "hippoprotocol",
+      "address": "hippovaloper16rl9wdjrgf7lvv89v4r4fnx26kjev0wffyvlqe",
+      "restake": {
+        "address": "hippo1nm66la5ct3g2guvnaqz02wvtzdjjn3usu8j6rh",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 75000000000000000000
+      }
+    },
+    {
+      "name": "lava",
+      "address": "lava@valoper1m9en2fldt04z6cvup8u8gxxp56f3la9z5j0t6u",
+      "restake": {
+        "address": "lava@1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjpmnf2y",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "nillion",
+      "address": "nillionvaloper1dtpqpdehf54r025yw4g2a8c46am0ezl3sc56x5",
+      "restake": {
+        "address": "nillion1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjzr6lx2",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1z6yhhxt6mj46xk5vf0n2653dnnz3cn98fjyzg2",
+      "restake": {
+        "address": "seda1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgj0dg5wg",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "shentu",
+      "address": "shentuvaloper1jrnns3nkkrzu7qn5xel088488jv6jmuafm2vdh",
+      "restake": {
+        "address": "shentu1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgj3hq4l5",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper17ux88604vmzcfduv8eul462snp74u4265sjtyz",
+      "restake": {
+        "address": "terra1v6g03k3u0dhp8eehzlk5rvyvd4sk3jgjl87v0f",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "zetachain",
+      "address": "zetavaloper1n4mzgdztfd742geyuqpgfpy7atu8gc9vl3upgd",
+      "restake": {
+        "address": "zeta1uddhvpjytfyz4kz9ucek7tce0mfrg9vq2k59un",
+        "run_time": "every 10 minutes",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

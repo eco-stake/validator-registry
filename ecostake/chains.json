@@ -23,19 +23,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "chihuahua",
-      "address": "chihuahuavaloper19vwcee000fhazmpt4ultvnnkhfh23ppwxll8zz",
-      "restake": {
-        "address": "chihuahua1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczjr22j5",
-        "run_time": [
-          "09:00",
-          "21:00"
-        ],
-        "minimum_reward": 1000000000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -59,7 +47,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 500000
       }
     },
     {
@@ -75,21 +63,8 @@
       }
     },
     {
-      "name": "dydx",
-      "address": "dydxvaloper15wphegl8esn7r2rgj9j3xf870v78lxg8yfjn95"
-    },
-    {
       "name": "elys",
       "address": "elysvaloper1wnv3j92za5cnsfuhlw4c9jl3ttdl36smk9yujm"
-    },
-    {
-      "name": "empowerchain",
-      "address": "empowervaloper1msjwmclw77h5j0t69n7j2p9ur5ra46uxqaedxz",
-      "restake": {
-        "address": "empower1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczd6r0fg",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 100000
-      }
     },
     {
       "name": "injective",
@@ -137,28 +112,6 @@
       }
     },
     {
-      "name": "kyve",
-      "address": "kyvevaloper1egqphd8yjdfv84fl825grwgna0pf2emagdmnz8",
-      "restake": {
-        "address": "kyve1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczxc2jcj",
-        "run_time": "every 15 minutes",
-        "minimum_reward": 1000000
-      }
-    },
-    {
-      "name": "nomic",
-      "address": "nomic1chhhfn786l2pyy8xxf9yywh2hu7wnrztwkhlzm"
-    },
-    {
-      "name": "omniflixhub",
-      "address": "omniflixvaloper19d782trtcj4yq9lm7nxy3xs3xjg8vjktn3sjsd",
-      "restake": {
-        "address": "omniflix1yxsmtnxdt6gxnaqrg0j0nudg7et2gqczvgkayg",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "osmosis",
       "address": "osmovaloper1u5v0m74mql5nzfx2yh43s2tke4mvzghr6m2n5t",
       "restake": {
@@ -167,7 +120,7 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }
     },
     {
@@ -191,15 +144,6 @@
           "09:00",
           "21:00"
         ],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "teritori",
-      "address": "torivaloper1d5u07lhelk6lal44a0myvufurvsqk5d499h9hz",
-      "restake": {
-        "address": "tori1yxsmtnxdt6gxnaqrg0j0nudg7et2gqcznzsdgx",
-        "run_time": "every 15 minutes",
         "minimum_reward": 100000
       }
     }

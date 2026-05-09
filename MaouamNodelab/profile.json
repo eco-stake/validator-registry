@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "MaouamNodelab",
+  "identity": "7853C27B772D95A0",
+  "website": "https://maouam.xyz",
+  "description": {
+    "overview": "Operated by Maouam Nodelab | Infrastructure provider and IBC relayer, committed to decentralization and ecosystem transparency."
+  }
+}

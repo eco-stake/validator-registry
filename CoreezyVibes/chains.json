@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "CoreezyVibes",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1uxengudkvpu5feqfqs4ant2hvukvf9ahxk63gh",
+            "restake": {
+                "address": "core19cndkaju8fkcz3uskemm3l2scyr4lg833j5hjh",
+                "run_time": "every 12 hours",
+                "minimum_reward": 3000000
+            }
+        }
+    ]
+}

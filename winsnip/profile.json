@@ -1,0 +1,9 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Winsnip",
+  "identity": "E988AB754AB96A47",
+  "website": "https://service.winsnip.xyz",
+  "description": {
+    "overview": "Professional validator operated by Winsnip | a community-driven tech entity providing staking services, public RPC infrastructure, and Web3 education. Committed to decentralization, security, and transparency across the blockchain ecosystem."
+  }
+}

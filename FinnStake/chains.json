@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "FinnStake",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper1zsjppu6aqwcl27f0cuuxl7epy0vt8v9ajenq95",
+            "restake": {
+                "address": "core173kfzdyh9k36u3qkgvrna5s703kcraw2286hg0",
+                "run_time": ["08:00", "20:00"],
+                "minimum_reward": 1000000
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "LuckyStar",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper160u4kq3ygau92fumg883tplcretptvk7pynh4v",
+      "restake": {
+        "address": "atone10nx3z2djd4kecw9dewpjjpva606q3nw6va8v8d",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "beezee",
+      "address": "bzevaloper1alx7nm98jsfpkn6f5r889rpztlpx9g6s7u0g76",
+      "restake": {
+        "address": "bze10nx3z2djd4kecw9dewpjjpva606q3nw6lehqrz",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "seda",
+      "address": "sedavaloper1mwwlxnf04phvw58veagr3jsg0c93lt5snkj6ev",
+      "restake": {
+        "address": "seda10nx3z2djd4kecw9dewpjjpva606q3nw65nhnj5",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}

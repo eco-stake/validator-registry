@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "The Expanse | Infinite Possibilities",
+  "chains": [
+    {
+      "name": "sentinel",
+      "address": "sentvaloper19cg7hegkp7z5gpv8xgm3y0wxkzzmw8knafk85t",
+      "restake": {
+        "address": "sent13pht3xle5swanzqavspd85qwgjp0epcqmjpra8",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1uv6q3kfprh35u47783mxc22xmjkvtfajd2ke7d",
+      "restake": {
+        "address": "akash13pht3xle5swanzqavspd85qwgjp0epcqdj6aqj",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    }	
+  ]
+}

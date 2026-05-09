@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "XCELLERATE WORLDWIDE",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper14dpj8j9yqnw56xxwp398pu2g6cce7fky5pqt67",
+            "restake": {
+                "address": "core15lekmuuqvce0c2pwe5lft753285wlznk85e7lk",
+                "run_time": "every 1 hours",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

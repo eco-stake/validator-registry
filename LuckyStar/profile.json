@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "LuckyStar",
+  "identity": "F2BA212A924EA1F3",
+  "website": "https://explorer.luckystar.asia",
+  "contacts": {
+    "telephone": "",
+    "email": "aluckystarasia@gmail.com",
+    "telegram": "@LuckyStarAsia",
+    "twitter": "LuckyStar_Asia",
+    "others": {
+      "emergency": ""
+    }
+  }
+}
