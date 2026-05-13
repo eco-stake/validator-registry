@@ -37,6 +37,24 @@
         "run_time": ["09:00", "21:00"],
         "minimum_reward": 100000
       }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper13x4pynlp86prhcmtns742kgsgu7pjtzjuy3vwr",
+      "restake": {
+        "address": "atone1w6su2zgdsvufhwl8pdcuephttz2vjw2909h2zy",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 50000
+      }
+    },
+    {
+      "name": "osmosis",
+      "address": "osmovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjz4a3nk",
+      "restake": {
+        "address": "osmo1w6su2zgdsvufhwl8pdcuephttz2vjw29f7cazw",
+        "run_time": ["09:00", "21:00"],
+        "minimum_reward": 200000
+      }
     }
   ]
 }
