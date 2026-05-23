@@ -1,0 +1,12 @@
+{
+    "$schema": "../profile.schema.json",
+    "name": "SOLID",
+    "identity": "26027CD58FF750A4",
+    "website": "https://validator.solidcapa.com",
+    "description": {
+        "overview": "SOLID is an independent Terra 2 validator powering the Solid Protocol DeFi ecosystem. Automated operations, 24/7 monitoring, and active governance participation."
+    },
+    "contacts": {
+        "twitter": "https://x.com/SolidProtocol_"
+    }
+}
