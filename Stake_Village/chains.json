@@ -49,7 +49,7 @@
 		},
 		{
 			"name": "lava",
-			"address": "lava@valoper1utd592msy5cd434gqv8wh6mcmda6wlen7fycrh",
+			"address": "lava@valoper1nsjplg6cefzza8asaygutj4slmntfu8mgz52cq",
 			"restake": {
 				"address": "lava@1ytd099sqjsqsxvhh72hykwjh2vrqse2m96ygdf",
 				"run_time": ["every 1 hour"],
