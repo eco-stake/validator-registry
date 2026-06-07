@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Teshy 103k Bonded RIO",
+  "chains": [
+    {
+      "name": "realio",
+      "address": "realiovaloper18a32el4maw3pqr8xh3yrl9ja4lejs265a5nxtm",
+      "restake": {
+        "address": "realio10eq6w0a7fpety33uag2f55e9tewxazt4v28aem",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}

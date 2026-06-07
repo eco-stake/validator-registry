@@ -38,6 +38,15 @@
         "minimum_reward": 100000
       }
     },
+     {
+      "name": "dungeon",
+      "address": "dungeonvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgp0yjj5p",
+      "restake": {
+        "address": "dungeon1fnfufmfkddv3s0vynp5sdkge7qkdk7wm5p5wvv",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
     {
       "name": "sentinel",
       "address": "sentvaloper1fcwhweq2qtd5aj702v4pj0apfxt8nrgpapme6g",

@@ -1,0 +1,15 @@
+{
+    "$schema": "../chains.schema.json",
+    "name": "COREBIT tx",
+    "chains": [
+        {
+            "name": "coreum",
+            "address": "corevaloper18pemafvqlr7qtja22rt0kypk3wzg6yf26fqmm5",
+            "restake": {
+                "address": "core12qf9djanhvszj2m8y6pv24vjehk0077s4ud9lk",
+                "run_time": "every 24 hours",
+                "minimum_reward": 10000000
+            }
+        }
+    ]
+}

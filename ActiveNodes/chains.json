@@ -48,15 +48,6 @@
       }
     },
     {
-      "name": "osmosis",
-      "address": "osmovaloper10rsjwrcj7maz4f0l8dh3smjd022n9ya8ycuyg7",
-      "restake": {
-        "address": "osmo1w4du0y6705rqregfl6cktm7swds6t4ds4pp3ty",
-        "run_time": "every 1 hour",
-        "minimum_reward": 100000
-      }
-    },
-    {
       "name": "panacea",
       "address": "panaceavaloper18ucrwuvzgzmh9dlurmeq5c4hljdgnkp2fwmkcm",
       "restake": {

@@ -1,21 +1,12 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Paranormal Bros.",
+  "name": "POSITIVA Ultra",
   "chains": [
     {
       "name": "persistence",
       "address": "persistencevaloper12h04lmculrelc2jeqhfd87688jsn8edflk5t5q",
       "restake": {
-        "address": "persistence13zyyj9cmt3uahtrxvsfnpqu066rysexnclktrk",
-        "run_time": "12:00",
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "assetmantle",
-      "address": "mantlevaloper15rx8yquvs2fjkc4mstxvdkput3puzhkvh0vqpw",
-      "restake": {
-        "address": "mantle1l2spl6a344t5dkd646ecqapaxmh78cjwpxutpy",
+        "address": "persistence1ae3m8smqh6xudxwtl8th23lqxnvq7lppg6gxr8",
         "run_time": "12:00",
         "minimum_reward": 100000
       }
@@ -24,7 +15,7 @@
       "name":"haqq",
       "address": "haqqvaloper1zsujldhz9azrfewl0gex5ey8f6kvf9dk6ufk47",
       "restake": {
-        "address": "haqq1w6u6prvcpq9x0cfjp4le5qw32fr3k9yc3hjufw",
+        "address": "haqq1kyyvjqp3pdyk2j5cl66hk327n58n8czc0z7l7t",
         "run_time": "12:00",
         "minimum_reward": 1000000000000000000
         }
@@ -33,7 +24,7 @@
       "name": "cosmoshub",
       "address": "cosmosvaloper1jftg6dzhsu7kvn9vyztsnegqfrrzlcgeklyvgu",
       "restake": {
-        "address": "cosmos1l2spl6a344t5dkd646ecqapaxmh78cjwlz8w7w",
+        "address": "cosmos1ae3m8smqh6xudxwtl8th23lqxnvq7lppxkw4dr",
         "run_time": "12:00",
         "minimum_reward": 1000000
       }

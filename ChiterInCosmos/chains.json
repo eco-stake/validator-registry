@@ -3,15 +3,6 @@
   "name": "Chiter in Cosmos ⚛",
   "chains": [
     {
-      "name": "planq",
-      "address": "plqvaloper193m20w4ekv2f7e5mhet9j9c3mnpvsk3m32wvtm",
-      "restake": {
-        "address": "plq1tu967ks32ueuzveaph9gvc3cgls92rqw48dzma",
-        "run_time": ["12:00", "24:00"],
-        "minimum_reward": 2000000000000000000
-      }
-    },
-    {
       "name": "cosmoshub",
       "address": "cosmosvaloper140kq2fts8ed9m73a6dch7sgdap6hnp2p95f92k",
       "restake": {
@@ -39,12 +30,12 @@
       }
     },
     {
-      "name": "dymension",
-      "address": "dymvaloper1p5zmr9z8wqmzdegudf89auus3n7vnx7thdphg5",
+      "name": "zetachain",
+      "address": "zetavaloper1n0xpnsxsuuqrhp67u2x4ujqrssz646yc20xynq",
       "restake": {
-        "address": "dym1tu967ks32ueuzveaph9gvc3cgls92rqwwz3ccq",
+        "address": "zeta1tu967ks32ueuzveaph9gvc3cgls92rqw2mnt87",
         "run_time": ["12:00", "24:00"],
-        "minimum_reward": 5000000000000000000
+        "minimum_reward": 1000000000000000000
       }
     }
   ]
