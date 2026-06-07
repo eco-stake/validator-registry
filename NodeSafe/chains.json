@@ -7,8 +7,17 @@
       "address": "epixvaloper19ctfr9gcmu36q05zp6jtqwzzvt2cvpm9wx77ck",
       "restake": {
         "address": "epix10dcrntf66hypmd439lswu7v9m8uzhrc92wk2qr",
-        "run_time": "every 1 hours",
+        "run_time": "every 3 hours",
         "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "thejaynetwork",
+      "address": "yjayvaloper1ajlz2jv7zh98sda3tu506jm299trdwer7ryvvf",
+      "restake": {
+        "address": "yjay1ls88l7hr2zept7tmt6pcyj3q0zyphsa0f6r8lf",
+        "run_time": "every 3 hours",
+        "minimum_reward": 1500000
       }
     }
   ]
