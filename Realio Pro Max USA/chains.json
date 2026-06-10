@@ -1,6 +1,6 @@
 {
   "$schema": "../chains.schema.json",
-  "name": "Realio Pro Max USA",
+  "name": "Realio-Pro-Max-USA",
   "chains": [
     {
       "name": "realio",
