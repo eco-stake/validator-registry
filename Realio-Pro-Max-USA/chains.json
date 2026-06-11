@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Realio Pro Max USA 🗽",
+  "chains": [
+    {
+      "name": "realio",
+      "address": "realiovaloper1namfyxy3s4ty7f4vwyc7plmmcqxayam89qkwym",
+      "restake": {
+        "address": "realio1erl5y5u5v5t20ulvcpqkj0lf4nej7gesa0g66w",
+        "run_time": "12:00",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
