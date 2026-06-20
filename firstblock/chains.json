@@ -1,0 +1,10 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "FirstBlock",
+  "chains": [
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper1qt98pflkzr862accqps3llhwqhvg4yzl6v2yse"
+    }
+  ]
+}
