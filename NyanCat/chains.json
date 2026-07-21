@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "NyanCat",
+  "chains": [
+    {
+      "name": "atomone",
+      "address": "atonevaloper1h7xtcxsh356vfcygglrcn67c8jk47mkx40mdda",
+      "restake": {
+        "address": "atone1kcg53mlqvzk8z3828v2ljyqcw79rwpk47hzahe",
+        "run_time": "21:00",
+        "minimum_reward": 1000000
+      }
+    }
+  ]
+}
