@@ -1,3 +1,7 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "The Cosmonauts' Corner",
+  "chains": [
     {
       "name": "cosmoshub",
       "address": "cosmosvaloper1xtn07s5xge4kewzgf5avvlag9474dez72lrhq4",
@@ -7,3 +11,5 @@
         "minimum_reward": 100000
       }
     }
+    ]
+  }
