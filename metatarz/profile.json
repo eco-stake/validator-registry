@@ -1,0 +1,12 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Metatarz",
+  "identity": "61377DB87921E312",
+  "website": "https://metatarz.xyz",
+  "description": {
+    "overview": "Enterprise-grade staking infrastructure and validation for cutting-edge privacy and high-performance networks"
+  },
+  "contacts": {
+    "email": "security@metatarz.xyz"
+  }
+}
