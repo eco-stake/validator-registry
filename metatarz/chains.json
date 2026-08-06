@@ -1,0 +1,33 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Metatarz",
+  "chains": [
+    {
+      "name": "celestia",
+      "address": "celestiavaloper135mvnk2stnhl40a7q3wfzrppnsc3uyjds5j4q9",
+      "restake": {
+        "address": "celestia1n05z59mlucr2uvxwtkugueujj02rhh3mgdwpvr",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "dymension",
+      "address": "dymvaloper17a9vtsg77t30gd008y0hw6gnp8zyn3fe70f8vk",
+      "restake": {
+        "address": "dym1r3xuc0ek3tuxq4uwp4m7zj5jeujez2gnlw9umf",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000000000000000
+      }
+    },
+    {
+      "name": "akash",
+      "address": "akashvaloper1nayju9z9kzd7rqegd7mmmwfex6jjhy9jkuszl6",
+      "restake": {
+        "address": "akash1n05z59mlucr2uvxwtkugueujj02rhh3m5ujk05",
+        "run_time": "08:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
