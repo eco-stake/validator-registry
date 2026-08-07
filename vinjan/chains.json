@@ -3,12 +3,12 @@
   "name": "Vinjan.Inc",
   "chains": [
     {
-      "name": "dungeon",
-      "address": "dungeonvaloper1gez8nzxfvtawgy58pddy5dql6gfj60a9wxs0qe",
+      "name": "atomone",
+      "address": "atonevaloper17x76ltae2x4e93t8hry6fxeynlr29n7h9wzfmf",
       "restake": {
-        "address": "dungeon12fu5nsxut8472g6e74lvygdnzcz3ss0mnp69rr",
-        "run_time": "every 6 hours",
-        "minimum_reward": 10000
+        "address": "atone12fu5nsxut8472g6e74lvygdnzcz3ss0mnjeylq",
+        "run_time": "every 3 hours",
+        "minimum_reward": 100000
      }
     },
     {
