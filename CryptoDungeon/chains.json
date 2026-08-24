@@ -22,7 +22,12 @@
     },
     {
       "name": "atomone",
-      "address": "atonevaloper13x4pynlp86prhcmtns742kgsgu7pjtzjuy3vwr"
+      "address": "atonevaloper13x4pynlp86prhcmtns742kgsgu7pjtzjuy3vwr",
+      "restake": {
+        "address": "atone1yg5wsmyzxfdk9cgk5q3rgqa7maa38e4dx9sjtm",
+        "run_time": "21:00",
+        "minimum_reward": 50000
+      }
     }
   ]
 }
