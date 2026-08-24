@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "The Hive",
+  "chains": [
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper1pkr96cu09pzug2m2w2h97u5snpq3spscvfjwpz",
+      "restake": {
+        "address": "dungeon1yg5wsmyzxfdk9cgk5q3rgqa7maa38e4dxknnhc",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
