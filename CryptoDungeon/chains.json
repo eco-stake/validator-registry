@@ -6,26 +6,8 @@
       "name": "cosmoshub",
       "address": "cosmosvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj4djh7s",
       "restake": {
-        "address": "cosmos1w6su2zgdsvufhwl8pdcuephttz2vjw29p9td5u",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 50000
-      }
-    },
-    {
-      "name": "stargaze",
-      "address": "starsvaloper13x4pynlp86prhcmtns742kgsgu7pjtzj0m9tz2",
-      "restake": {
-        "address": "stars1w6su2zgdsvufhwl8pdcuephttz2vjw294eusld",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 5000000
-      }
-    },
-    {
-      "name": "juno",
-      "address": "junovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjeknkwx",
-      "restake": {
-        "address": "juno1w6su2zgdsvufhwl8pdcuephttz2vjw29hhgknq",
-        "run_time": ["09:00", "21:00"],
+        "address": "cosmos1yg5wsmyzxfdk9cgk5q3rgqa7maa38e4dg9v4ar",
+        "run_time": "21:00",
         "minimum_reward": 50000
       }
     },
@@ -40,21 +22,7 @@
     },
     {
       "name": "atomone",
-      "address": "atonevaloper13x4pynlp86prhcmtns742kgsgu7pjtzjuy3vwr",
-      "restake": {
-        "address": "atone1w6su2zgdsvufhwl8pdcuephttz2vjw2909h2zy",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 50000
-      }
-    },
-    {
-      "name": "osmosis",
-      "address": "osmovaloper13x4pynlp86prhcmtns742kgsgu7pjtzjz4a3nk",
-      "restake": {
-        "address": "osmo1w6su2zgdsvufhwl8pdcuephttz2vjw29f7cazw",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 200000
-      }
+      "address": "atonevaloper13x4pynlp86prhcmtns742kgsgu7pjtzjuy3vwr"
     }
   ]
 }
