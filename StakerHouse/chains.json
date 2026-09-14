@@ -7,7 +7,7 @@
       "address": "atonevaloper18t9fc4fdg6y7fa3ctmyfcun9td6ema3f34j6lr",
       "restake": {
         "address": "atone193w9rkakghyl6mfrvx2hhyvqpa4fcjsxgnttxr",
-        "run_time": ["09:00", "21:00"],
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000
       }
     },
@@ -34,8 +34,8 @@
       "address": "pasgvaloper12q4a5qvuzzn2kspe6dekkhnl77ct52drss2vmr",
       "restake": {
         "address": "pasg193w9rkakghyl6mfrvx2hhyvqpa4fcjsx9twkay",
-        "run_time": ["09:00", "21:00"],
-        "minimum_reward": 1000000
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000000
       }
     },
     {
@@ -43,7 +43,7 @@
       "address": "uptickvaloper15xpgkjt3euv60z2u7p4ggjslgc5zt49uu6p48m",
       "restake": {
         "address": "uptick1enjpvs0cgwu3zm7jqk7a3zw7qggup26n9zvc22",
-        "run_time": ["09:00", "21:00"],
+        "run_time": "every 1 hour",
         "minimum_reward": 1000000000000000000
       }
     }
