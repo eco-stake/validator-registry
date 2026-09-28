@@ -12,15 +12,6 @@
       }
     },
     {
-      "name": "lumnetwork",
-      "address": "lumvaloper1hhuc45gymxlrm25z7xgcehvaqjpat2r0hlyh8k",
-      "restake": {
-        "address": "lum1xpw7qmxsc9v9vfw3v0uxy83y3ynald6mntzgy6",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 1000000
-      }
-    },
-    {
       "name": "decentr",
       "address": "decentrvaloper1zqwvh3amm30xyctzqkqcv2dm22sprd9vga6agl",
       "restake": {
@@ -39,28 +30,10 @@
       }
     },
     {
-      "name": "planq",
-      "address": "plqvaloper1ewvh80umgq5l38ujju49vm22sl534x99meh6e2",
-      "restake": {
-        "address": "plq1x8zysrq0jw6vq87h207ecv2m3yguv9rfqpl59n",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000000000000000
-      }
-    },
-    {
       "name": "firmachain",
       "address": "firmavaloper1g2q8pucmu3px03e2lqdeze7u0cy7tyhrvgx4tj",
       "restake": {
         "address": "firma1dh3mgt9l3vv5jj8t8ccshzqmlcg0n52rxv2ka2",
-        "run_time": ["03:00","15:00"],
-        "minimum_reward": 100000
-      }
-    },
-    {
-      "name": "bluzelle",
-      "address": "bluzellevaloper1qvuygk3deahgffgxnzegc0ycnzculjh83dejgv",
-      "restake": {
-        "address": "bluzelle1rvr2adsun4676s7jqapa209j2ee4d70yy9hqtg",
         "run_time": ["03:00","15:00"],
         "minimum_reward": 100000
       }
