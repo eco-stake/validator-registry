@@ -7,8 +7,8 @@
       "address": "epixvaloper19ctfr9gcmu36q05zp6jtqwzzvt2cvpm9wx77ck",
       "restake": {
         "address": "epix10dcrntf66hypmd439lswu7v9m8uzhrc92wk2qr",
-        "run_time": "every 3 hours",
-        "minimum_reward": 1000000000000000000
+        "run_time": "every 2 hours",
+        "minimum_reward": 10000000000000000000
       }
     },
     {
@@ -18,6 +18,24 @@
         "address": "yjay1ls88l7hr2zept7tmt6pcyj3q0zyphsa0f6r8lf",
         "run_time": "every 3 hours",
         "minimum_reward": 1500000
+      }
+    },
+    {
+      "name": "mucoin",
+      "address": "mucvaloper1raxr4ttf76ule26xw73wmt746xes89j02m7x5q",
+      "restake": {
+        "address": "muc1ls88l7hr2zept7tmt6pcyj3q0zyphsa08dd6w4",
+        "run_time": "every 3 hours",
+        "minimum_reward": 10000000
+      }
+    },
+    {
+      "name": "safrochain",
+      "address": "addr_safrovaloper1ace7ugm23gclh89pry9ck3pz0clvq3q455yez8",
+      "restake": {
+        "address": "addr_safro1ls88l7hr2zept7tmt6pcyj3q0zyphsa0p650yz",
+        "run_time": "every 3 hours",
+        "minimum_reward": 10000000000000
       }
     }
   ]
