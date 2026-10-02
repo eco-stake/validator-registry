@@ -1,0 +1,58 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Encapsulate",
+  "chains": [
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1fy8r6zq3dde6n7ak6eqy5zsrp3s7sz833dmv32"
+    },
+    {
+      "name": "agoric",
+      "address": "agoricvaloper1p8uxq4ska2psv2k8wknljh568k5qfnwtg25ldj"
+    },
+    {
+      "name": "althea",
+      "address": "altheavaloper1d2x0t42a6anth3lt38ld5997m6e5ya5fw72axt"
+    },
+    {
+      "name": "axelar",
+      "address": "axelarvaloper1p8uxq4ska2psv2k8wknljh568k5qfnwtwq9yct"
+    },
+    {
+      "name": "chain4energy",
+      "address": "c4evaloper1s0lankh33kprer2l22nank5rvsuh9ksad20r7x"
+    },
+    {
+      "name": "gitopia",
+      "address": "gitopiavaloper1s0lankh33kprer2l22nank5rvsuh9ksag3grfh"
+    },
+    {
+      "name": "gravitybridge",
+      "address": "gravityvaloper1s0lankh33kprer2l22nank5rvsuh9ksatgqzfn"
+    },
+    {
+      "name": "humans",
+      "address": "humanvaloper1d2x0t42a6anth3lt38ld5997m6e5ya5fsqguy3"
+    },
+    {
+      "name": "impacthub",
+      "address": "ixovaloper1p8uxq4ska2psv2k8wknljh568k5qfnwtlmt2an"
+    },
+    {
+      "name": "lumera",
+      "address": "lumeravaloper18qpd0yrk0gkcvah0zpyq89uqzd2y6q25dlmcux"
+    },
+    {
+      "name": "passage",
+      "address": "pasgvaloper1s0lankh33kprer2l22nank5rvsuh9ksawhck2v"
+    },
+    {
+      "name": "sommelier",
+      "address": "sommvaloper1s0lankh33kprer2l22nank5rvsuh9ksa8324s2"
+    },
+    {
+      "name": "terra2",
+      "address": "terravaloper1yh4u76y405t3ff9lyrzhhe8legjx9k3as5mujs"
+    }
+  ]
+}

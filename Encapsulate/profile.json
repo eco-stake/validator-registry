@@ -1,0 +1,15 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "Encapsulate",
+  "identity": "B68A51B88F28CEF1",
+  "website": "https://encapsulate.xyz",
+  "description": {
+    "overview": "Validator infrastructure for new chains, since 2020. Early to testnet, quick to upgrade, easy to reach. Trusted by Sui, NEAR, Monad, Lido, Starknet and more."
+  },
+  "contacts": {
+    "email": "security@encapsulate.xyz",
+    "telegram": "aditya_encapsulate",
+    "twitter": "encapHQ",
+    "discord": "https://discord.gg/PQJX5JVS8h"
+  }
+}
