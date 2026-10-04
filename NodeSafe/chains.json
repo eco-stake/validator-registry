@@ -35,7 +35,7 @@
       "restake": {
         "address": "addr_safro1ls88l7hr2zept7tmt6pcyj3q0zyphsa0p650yz",
         "run_time": "every 3 hours",
-        "minimum_reward": 10000000000000
+        "minimum_reward": 10000000
       }
     }
   ]
