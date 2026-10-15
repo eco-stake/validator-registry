@@ -10,6 +10,15 @@
         "run_time": "every 1 hours",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1e3vld469ekks28mhtd4aqua3mdaz64qgj2f8cj",
+      "restake": {
+        "address": "atone1q8pcju4sz0aamg4mf7mj2ap70a3fd89th52zxj",
+        "run_time": "09:00",
+        "minimum_reward": 1000000
+      }
     }
   ]
 }
