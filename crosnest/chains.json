@@ -13,7 +13,7 @@
     },
     {
       "name": "cosmoshub",
-      "address": "cosmosvaloper1fsg635n5vgc7jazz9sx5725wnc3xqgr7awxaag",
+      "address": "cosmosvaloper12635uurm2zqmutt32kx86ysyh4lv0q9hujp9wv",
       "restake": {
         "address": "cosmos1v9vae554q55xa4pcfdm0p3kv8nxn50jk6v8jdf",
         "run_time": "every 12 hour",
@@ -22,7 +22,7 @@
     },
     {
       "name": "cryptoorgchain",
-      "address": "crocncl15m2ae4c2ajpkz6hw0d4ucvwfyuwq8ns5z369u8",
+      "address": "crocncl14lv20mvv7k0l87yc6nlqywz4jema2xua2euz8u",
       "restake": {
         "address": "cro1v9vae554q55xa4pcfdm0p3kv8nxn50jkzh0t3c",
         "run_time": "every 1 day",
@@ -312,6 +312,15 @@
       "address": "axonevaloper1u6jr0pztvsjpvx77rfzmtw49xwzu9kaswtyqql",
       "restake": {
         "address": "axone1v9vae554q55xa4pcfdm0p3kv8nxn50jke2t9e5",
+        "run_time": "every 1 day",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "kiichain",
+      "address": "kiivaloper1r6hf7x2uvdkv6ppy9r2xdj5vdhxjkaljrxgpxg",
+      "restake": {
+        "address": "kii1ksh2uvrvq7gftgdc8jd2n67pcwcztdxu6nwqet",
         "run_time": "every 1 day",
         "minimum_reward": 100000
       }

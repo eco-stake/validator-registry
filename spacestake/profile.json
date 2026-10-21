@@ -1,5 +1,12 @@
 {
   "$schema": "../profile.schema.json",
-  "name": "SpaceStake",
-  "identity": "D610C60F7943F66C"
+  "name": "Asterlane",
+  "identity": "F15215A6FB2479DE",
+  "website": "https://asterlane.net",
+  "description": {
+    "overview": "Asterlane operates validators and provides staking and node services for Cosmos SDK networks."
+  },
+  "contacts": {
+    "email": "support@asterlane.net"
+  }
 }

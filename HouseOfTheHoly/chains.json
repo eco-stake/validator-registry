@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "House of the Holy",
+  "chains": [
+    {
+      "name": "dungeon",
+      "address": "dungeonvaloper19qp6fk7lj4y36djnwkvpv4j7pv8x3epcpppugd",
+      "restake": {
+        "address": "dungeon1yg5wsmyzxfdk9cgk5q3rgqa7maa38e4dxknnhc",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
