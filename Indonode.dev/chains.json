@@ -44,7 +44,7 @@
       "restake": {
         "address": "atone140fe54nq7yn9ll3lk02zk9nfwxr6338f9c9dnm",
         "run_time": "every 1 hour",
-        "minimum_reward": 100000
+        "minimum_reward": 1000000
       }     
     },
       {
