@@ -1,0 +1,12 @@
+{
+  "$schema": "../profile.schema.json",
+  "name": "AstroStake",
+  "identity": "A2CFE20941181F35",
+  "website": "https://astrostake.xyz",
+  "description": {
+    "overview": "AstroStake is a community-driven validator and infrastructure provider, built with enterprise-grade reliability. We combine dependable decentralization with high-performance node services and custom-built tools for the ecosystem."
+  },
+  "contacts": {
+    "email": "contact@astrostake.xyz"
+  }
+}
