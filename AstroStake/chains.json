@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "AstroStake",
+  "chains": [
+    {
+      "name": "lumera",
+      "address": "lumeravaloper1a7mak2dx8p2eglg50nx6gezcy2duvklrgzwjrv",
+      "restake": {
+        "address": "lumera1plxmelsq7fat6shj5md6acvh40dtp8943qvj28",
+        "run_time": "every 1 hour",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "epix",
+      "address": "epixvaloper14ddlhmy9rhptwet8vv9vvxefnjhhsuvsns9a0h",
+      "restake": {
+        "address": "epix1eyq0xepc0p8yz9kgvaf0lg359werlw83u6jdlr",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      }
+    }
+  ]
+}
