@@ -2,26 +2,26 @@
   "$schema": "../chains.schema.json",
   "name": "Basement Nodes ⚡",
   "chains": [
-	{
-      "name": "juno",
-      "address": "junovaloper1j9644d7qyln8smd2t42jvymj0yhjw5qkmw9fms",
+    {
+      "name": "terra",
+      "address": "terravaloper1ymc8xyylgassjcpnx07q0ns9emusecxkz9stpl",
       "restake": {
-        "address": "juno1r79rj5q3ff56hg0n58v3jcjpc9qh85j0zfjtnv",
+        "address": "terra1cmh8mmq95vgnrxpjwptf98nsh5wc99ws0dk8n4",
         "run_time": [
           "09:00"
         ],
-        "minimum_reward": 50000
+        "minimum_reward": 1000000
       }
     },
-	{
-      "name": "decentr",
-      "address": "decentrvaloper10guelklwjure8zwyrmhaslxf73jn5ur8ejm5s7",
+    {
+      "name": "genesisl1",
+      "address": "genesisvaloper189fpxmwddv263uteuna9hjrvqf8wj94nwerqht",
       "restake": {
-        "address": "decentr1r79rj5q3ff56hg0n58v3jcjpc9qh85j0l4hy4c",
+        "address": "genesis1huu7eseslhk9nkytdkdlpc3wuvezu66z5mxjuw",
         "run_time": [
           "09:00"
         ],
-        "minimum_reward": 500000
+        "minimum_reward": 100000000000000000
       }
     }
   ]
