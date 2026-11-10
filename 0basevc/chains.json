@@ -52,7 +52,7 @@
       "address": "cosmosvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q46fe2xk",
       "restake": {
         "address": "cosmos1jrjdqzxchlt09gj6qvn4ds8suxh9aqwyhr6rw5",
-        "run_time": "every 1 hour",
+        "run_time": "every 4 hour",
         "minimum_reward": 1000000
       }
     },
