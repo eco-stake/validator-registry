@@ -292,11 +292,11 @@
     },
     {
       "name": "atomone",
-      "address": "atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew",
+      "address": "atonevaloper1tnp4scxqu369wra7exvyapfftsqvnzzhr9ehy0",
       "restake": {
         "address": "atone1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjwm66jd",
         "run_time": ["24:00"],
-        "minimum_reward": 3000000
+        "minimum_reward": 6000000
       }
     },
     {
