@@ -19,6 +19,33 @@
         "run_time": "09:00",
         "minimum_reward": 1000000
       }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1jmn9qrkf9tjwz2t5zvl068e6txhanztzj9yxsl",
+      "restake": {
+        "address": "shido1ddncw2fg5php7fml8ldeq8tzv83h6d3cjmlg4j",
+        "run_time": "every 1 hours",
+        "minimum_reward": 1000000000000000000
+      }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1q8pcju4sz0aamg4mf7mj2ap70a3fd89t28kq74",
+      "restake": {
+        "address": "axone1e3vld469ekks28mhtd4aqua3mdaz64qga3j7s0",
+        "run_time": "every 6 hours",
+        "minimum_reward": 100000
+      }
+    },
+    {
+      "name": "safrochain",
+      "address": "addr_safrovaloper1p77zp9ec7lhy2a7sz26pdfvesc04f4fdf95zse",
+      "restake": {
+        "address": "addr_safro1q8pcju4sz0aamg4mf7mj2ap70a3fd89tpchjm6",
+        "run_time": "every 3 hours",
+        "minimum_reward": 10000000
+      }
     }
   ]
 }
