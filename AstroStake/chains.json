@@ -4,9 +4,9 @@
   "chains": [
     {
       "name": "lumera",
-      "address": "lumeravaloper1a7mak2dx8p2eglg50nx6gezcy2duvklrgzwjrv",
+      "address": "lumeravaloper1gu02z754wm54u6qgzdwq0j95azw5vcj4ve9zj7",
       "restake": {
-        "address": "lumera1plxmelsq7fat6shj5md6acvh40dtp8943qvj28",
+        "address": "lumera1eyq0xepc0p8yz9kgvaf0lg359werlw833wurk2",
         "run_time": "every 1 hour",
         "minimum_reward": 100000
       }
