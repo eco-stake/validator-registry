@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Red Lion",
+  "chains": [
+    {
+      "name": "cosmoshub",
+      "address": "cosmosvaloper1red54x4vu6ncz4hq8jw72z2u6he7fkzlyjsle0",
+      "restake": {
+        "address": "cosmos1redz5j3v3es76y8jc5gvanh7h57y54vkhcp3yf",
+        "run_time": "21:00",
+        "minimum_reward": 100000
+      }
+    }
+  ]
+}
