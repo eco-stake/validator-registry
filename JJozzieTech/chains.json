@@ -9,6 +9,10 @@
        {
          "name": "akash",
          "address": "akashvaloper1a5yj9fnua0tsmpxlage8c4uf2n3kq79jqcylm2"
+       },
+       {
+         "name": "babylon",
+         "address": "bbnvaloper14qkw8k2fsuslw665fxmuxnupczzuu3upt7l6du"
        }
      ]
    }
